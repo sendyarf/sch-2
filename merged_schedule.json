@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T21:51:39.360331",
+  "generated_at": "2026-03-28T22:21:52.409164",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 87,
+  "total_events": 84,
   "events": [
     {
       "date": "2026-03-28",
@@ -41,50 +41,6 @@
       "date": "2026-03-28",
       "time_utc": "19:00",
       "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Wanderers vs CA Cerro",
-      "team_home": "Wanderers",
-      "team_away": "CA Cerro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774724400
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "19:00",
-      "time_utc1": "20:00",
-      "league": "NBA",
-      "title": "Milwaukee Bucks vs San Antonio Spurs",
-      "team_home": "Milwaukee Bucks",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774724400
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "19:00",
-      "time_utc1": "20:00",
       "league": "Volleyball",
       "title": "SC Espinho vs SL Benfica",
       "team_home": "SC Espinho",
@@ -102,28 +58,6 @@
         ]
       },
       "startTimestamp": 1774724400
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "19:07",
-      "time_utc1": "20:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Athletics",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774724820
     },
     {
       "date": "2026-03-28",
