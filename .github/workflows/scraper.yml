@@ -1,0 +1,41 @@
+name: Auto Scrape Sports Schedule
+
+on:
+  schedule:
+    # Berjalan setiap 15 menit
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    # Memungkinkan trigger manual dari tab Actions di GitHub
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Pastikan token memiliki akseshistory yang cukup untuk push kembali
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Scraper Script
+        run: |
+          python scrape.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Hanya tambahkan JSON output ke commit
+          git add merged_schedule.json
+          
+          # Cek apakah ada perubahan (jika tidak ada data baru, skip commit)
+          git diff --staged --quiet || (git commit -m "Auto-update schedule: $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
