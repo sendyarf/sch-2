@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T16:59:07.690756",
+  "generated_at": "2026-03-28T17:34:29.937103",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 112,
+  "total_events": 111,
   "events": [
     {
       "date": "2026-03-28",
@@ -106,49 +106,19 @@
       "date": "2026-03-28",
       "time_utc": "14:00",
       "time_utc1": "15:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "San Marino vs Faroe Islands",
       "team_home": "San Marino",
       "team_away": "Faroe Islands",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774706400
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "14:00",
-      "time_utc1": "15:00",
-      "league": "International Friendly",
-      "title": "South Korea vs Ivory Coast",
-      "team_home": "South Korea",
-      "team_away": "Ivory Coast",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 11",
-            "url": "https://multi.govoet.cc/?envivo=41",
-            "source": "cartelive"
           }
         ]
       },
