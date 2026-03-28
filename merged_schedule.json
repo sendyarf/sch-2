@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T20:54:14.795164",
+  "generated_at": "2026-03-28T21:24:32.153115",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 89,
+  "total_events": 87,
   "events": [
     {
       "date": "2026-03-28",
@@ -36,57 +36,6 @@
         ]
       },
       "startTimestamp": 1774719000
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "18:15",
-      "time_utc1": "19:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Tampa Bay Rays",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774721700
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "18:20",
-      "time_utc1": "19:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Washington Nationals",
-      "team_home": "Chicago Cubs",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774722000
     },
     {
       "date": "2026-03-28",
