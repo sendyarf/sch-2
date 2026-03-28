@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T18:53:30.430819",
+  "generated_at": "2026-03-28T19:25:17.555742",
   "sources": [
     {
       "name": "cartelive",
@@ -13,42 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 97,
+  "total_events": 96,
   "events": [
-    {
-      "date": "2026-03-28",
-      "time_utc": "16:00",
-      "time_utc1": "17:00",
-      "league": "International Friendly",
-      "title": "Senegal vs Peru",
-      "team_home": "Senegal",
-      "team_away": "Peru",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 12",
-            "url": "https://multi.govoet.cc/?envivo=42",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774713600
-    },
     {
       "date": "2026-03-28",
       "time_utc": "17:00",
