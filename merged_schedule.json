@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T16:27:10.264946",
+  "generated_at": "2026-03-28T16:59:07.690756",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 113,
+  "total_events": 112,
   "events": [
     {
       "date": "2026-03-28",
@@ -36,28 +36,6 @@
         ]
       },
       "startTimestamp": 1774701000
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "13:30",
-      "time_utc1": "14:30",
-      "league": "Top 14",
-      "title": "Stade Toulousain vs Montpellier",
-      "team_home": "Stade Toulousain",
-      "team_away": "Montpellier",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774704600
     },
     {
       "date": "2026-03-28",
