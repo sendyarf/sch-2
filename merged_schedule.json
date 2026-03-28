@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T22:21:52.409164",
+  "generated_at": "2026-03-28T22:54:41.826657",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 84,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-03-28",
@@ -63,83 +63,26 @@
       "date": "2026-03-28",
       "time_utc": "19:30",
       "time_utc1": "20:30",
-      "league": "International Friendly",
+      "league": null,
       "title": "USA vs Belgium",
       "team_home": "USA",
       "team_away": "Belgium",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 13",
-            "url": "https://multi.govoet.cc/?envivo=43",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=133",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ],
-        "es": [
+        "fr": [
           {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774726200
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "19:30",
-      "time_utc1": "20:30",
-      "league": "NHL",
-      "title": "Edmonton Oilers vs Anaheim Ducks",
-      "team_home": "Edmonton Oilers",
-      "team_away": "Anaheim Ducks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
