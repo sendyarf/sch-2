@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T05:21:15.114160",
+  "generated_at": "2026-03-28T06:32:47.762789",
   "sources": [
     {
       "name": "cartelive",
@@ -13,96 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 118,
+  "total_events": 115,
   "events": [
-    {
-      "date": "2026-03-28",
-      "time_utc": "02:30",
-      "time_utc1": "03:30",
-      "league": "NBA",
-      "title": "Los Angeles Lakers vs Brooklyn Nets",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Brooklyn Nets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774665000
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "03:00",
-      "time_utc1": "04:00",
-      "league": "Liga de Expansión MX",
-      "title": "Atletico La Paz vs Jaiba Brava",
-      "team_home": "Atletico La Paz",
-      "team_away": "Jaiba Brava",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774666800
-    },
-    {
-      "date": "2026-03-28",
-      "time_utc": "03:15",
-      "time_utc1": "04:15",
-      "league": "Formula 1",
-      "title": "Formula 1: Japanese Grand Prix: Practice 3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774667700
-    },
     {
       "date": "2026-03-28",
       "time_utc": "07:00",
