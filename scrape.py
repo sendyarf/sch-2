@@ -17,6 +17,8 @@ import re
 import sys
 import os
 import io
+import time
+import urllib.error
 from datetime import datetime, timedelta
 from urllib.request import urlopen, Request
 from html.parser import HTMLParser
@@ -44,8 +46,8 @@ OUTPUT_FILE = "merged_schedule.json"
 # FETCHER
 # ═══════════════════════════════════════════════
 
-def fetch_url(url: str) -> str:
-    """Fetch URL content dengan User-Agent browser."""
+def fetch_url(url: str, retries: int = 3, timeout: int = 30) -> str:
+    """Fetch URL content dengan User-Agent browser dan mekanisme retry."""
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -54,8 +56,21 @@ def fetch_url(url: str) -> str:
         )
     }
     req = Request(url, headers=headers)
-    with urlopen(req, timeout=30) as resp:
-        return resp.read().decode("utf-8", errors="replace")
+    
+    last_err = None
+    for attempt in range(1, retries + 1):
+        try:
+            with urlopen(req, timeout=timeout) as resp:
+                return resp.read().decode("utf-8", errors="replace")
+        except (urllib.error.URLError, TimeoutError) as e:
+            last_err = e
+            if attempt < retries:
+                print(f"      [!] Gagal (percobaan {attempt}/{retries}): {e} - Mencoba lagi dalam 3 detik...")
+                time.sleep(3)
+            else:
+                print(f"      [!] Gagal (percobaan {attempt}/{retries}): {e} - Menyerah.")
+    
+    raise last_err
 
 
 # ═══════════════════════════════════════════════
@@ -200,6 +215,26 @@ def make_cartelive_url(ch_num: int) -> str:
 # ═══════════════════════════════════════════════
 # NORMALISASI & FUZZY MATCHING
 # ═══════════════════════════════════════════════
+
+def get_eu_dst_offset(dt: datetime, tz_name: str) -> int:
+    """
+    Menghitung offset waktu berdasar Daylight Saving Time (DST) di Eropa.
+    Situs Eropa & UK mengubah jam mereka pada hari Minggu terakhir bulan Maret.
+    """
+    year = dt.year
+    march_last_sun = max(day for day in range(25, 32) if datetime(year, 3, day).weekday() == 6)
+    dst_start = datetime(year, 3, march_last_sun, 1, 0)
+    
+    oct_last_sun = max(day for day in range(25, 32) if datetime(year, 10, day).weekday() == 6)
+    dst_end = datetime(year, 10, oct_last_sun, 1, 0)
+    
+    is_dst = dst_start <= dt < dst_end
+    
+    if tz_name == "UK":  # Europe/London (GMT/BST)
+        return 1 if is_dst else 0
+    elif tz_name == "CEU": # Europe/Paris (CET/CEST)
+        return 2 if is_dst else 1
+    return 0
 
 # Muat kamus terjemahan eksternal untuk tim, league, title
 DICT_FILE = "dictionary.json"
@@ -442,11 +477,12 @@ def parse_source1(schedule_text: str, channel_map: dict) -> list[dict]:
             team_away = None
             title = teams_raw
 
-        # Hitung waktu UTC+0 (kurangi 1 jam dari UTC+1)
-        dt_utc1 = datetime.strptime(
+        # Hitung waktu UTC+0 dengan dukungan Daylight Saving Time untuk Paris/CET
+        dt_ceu = datetime.strptime(
             f"{date_obj.strftime('%Y-%m-%d')}T{time_utc1}", "%Y-%m-%dT%H:%M"
         )
-        dt_utc0 = dt_utc1 - timedelta(hours=1)
+        offset_hours = get_eu_dst_offset(dt_ceu, "CEU")
+        dt_utc0 = dt_ceu - timedelta(hours=offset_hours)
 
         # Parse channel
         streams = []
@@ -635,6 +671,11 @@ def parse_source2(raw: str) -> list[dict]:
             # Group key untuk deduplikasi (event yang sama, beda stream)
             norm_title = normalize_text(title)
             group_key = (actual_date, time_str, norm_title)
+            
+            # Hitung waktu UTC yang benar (memperhatikan DST UK)
+            dt_uk = datetime.strptime(f"{actual_date}T{time_str}", "%Y-%m-%dT%H:%M")
+            offset_hours = get_eu_dst_offset(dt_uk, "UK")
+            dt_utc0 = dt_uk - timedelta(hours=offset_hours)
 
             stream_entry = {
                 "channel_id": channel_display,
@@ -645,13 +686,11 @@ def parse_source2(raw: str) -> list[dict]:
             }
 
             if group_key not in events_by_key:
+                time_ceu_str = (dt_utc0 + timedelta(hours=get_eu_dst_offset(dt_utc0, "CEU"))).strftime("%H:%M")
                 events_by_key[group_key] = {
-                    "date": actual_date,
-                    "time_utc": time_str,
-                    "time_utc1": (
-                        datetime.strptime(f"{actual_date}T{time_str}", "%Y-%m-%dT%H:%M")
-                        + timedelta(hours=1)
-                    ).strftime("%H:%M"),
+                    "date": dt_utc0.strftime("%Y-%m-%d"),
+                    "time_utc": dt_utc0.strftime("%H:%M"),
+                    "time_utc1": time_ceu_str,
                     "league": detected_league,
                     "title": title,
                     "team_home": team_home,

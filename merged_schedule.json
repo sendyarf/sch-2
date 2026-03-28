@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-28T09:33:45.060254",
+  "generated_at": "2026-03-28T17:03:36.177089",
   "sources": [
     {
       "name": "cartelive",
@@ -13,35 +13,20 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 115,
+  "total_events": 116,
   "events": [
     {
       "date": "2026-03-28",
-      "time_utc": "07:00",
-      "time_utc1": "08:00",
+      "time_utc": "05:00",
+      "time_utc1": "06:00",
       "league": "Formula 1",
-      "title": "Formula 1: Japanese F1 GP: Qualifying",
+      "title": "Japanese F1 GP: Qualifying",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD1",
@@ -57,7 +42,7 @@
           }
         ]
       },
-      "startTimestamp": 1774681200
+      "startTimestamp": 1774674000
     },
     {
       "date": "2026-03-28",
@@ -1600,6 +1585,72 @@
     },
     {
       "date": "2026-03-28",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": "International Friendly",
+      "title": "Haiti vs Tunisia",
+      "team_home": "Haiti",
+      "team_away": "Tunisia",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "C+Live 14",
+            "url": "https://multi.govoet.cc/?envivo=44",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774738800
+    },
+    {
+      "date": "2026-03-28",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": "NBA",
+      "title": "Memphis Grizzlies vs Chicago Bulls",
+      "team_home": "Memphis Grizzlies",
+      "team_away": "Chicago Bulls",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT16",
+            "url": "https://multi.govoet.cc/?envivo=170",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774738800
+    },
+    {
+      "date": "2026-03-28",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": "NHL",
+      "title": "Detroit Red Wings vs Philadelphia Flyers",
+      "team_home": "Detroit Red Wings",
+      "team_away": "Philadelphia Flyers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT17",
+            "url": "https://multi.govoet.cc/?envivo=171",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774738800
+    },
+    {
+      "date": "2026-03-28",
       "time_utc": "23:10",
       "time_utc1": "00:10",
       "league": "Liga BetPlay Dimayor",
@@ -1716,6 +1767,28 @@
     },
     {
       "date": "2026-03-28",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "Copa Argentina",
+      "title": "Racing Club vs San Martin Formosa",
+      "team_home": "Racing Club",
+      "team_away": "San Martin Formosa",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TyC Sports",
+            "url": "https://multi.govoet.cc/?envivo=77",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774739700
+    },
+    {
+      "date": "2026-03-28",
       "time_utc": "23:30",
       "time_utc1": "00:30",
       "league": "NBA",
@@ -1737,78 +1810,26 @@
       "startTimestamp": 1774740600
     },
     {
-      "date": "2026-03-29",
-      "time_utc": "00:00",
-      "time_utc1": "01:00",
-      "league": "International Friendly",
-      "title": "Haiti vs Tunisia",
-      "team_home": "Haiti",
-      "team_away": "Tunisia",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 14",
-            "url": "https://multi.govoet.cc/?envivo=44",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774742400
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "00:00",
-      "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Memphis Grizzlies vs Chicago Bulls",
-      "team_home": "Memphis Grizzlies",
-      "team_away": "Chicago Bulls",
+      "date": "2026-03-28",
+      "time_utc": "23:40",
+      "time_utc1": "01:40",
+      "league": "MLB",
+      "title": "San Diego Padres vs Detroit Tigers",
+      "team_home": "San Diego Padres",
+      "team_away": "Detroit Tigers",
       "sources": [
         "cartelive"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
+            "channel": "EXTRA SPORT18",
+            "url": "https://multi.govoet.cc/?envivo=172",
             "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1774742400
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "00:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "Detroit Red Wings vs Philadelphia Flyers",
-      "team_home": "Detroit Red Wings",
-      "team_away": "Philadelphia Flyers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774742400
+      "startTimestamp": 1774741200
     },
     {
       "date": "2026-03-29",
@@ -1826,6 +1847,28 @@
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774742400
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "00:00",
+      "time_utc1": "01:00",
+      "league": null,
+      "title": "Haiti vs Tunisia",
+      "team_home": "Haiti",
+      "team_away": "Tunisia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
@@ -1870,51 +1913,7 @@
     },
     {
       "date": "2026-03-29",
-      "time_utc": "00:15",
-      "time_utc1": "01:15",
-      "league": "Copa Argentina",
-      "title": "Racing Club vs San Martin Formosa",
-      "team_home": "Racing Club",
-      "team_away": "San Martin Formosa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774743300
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "00:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "San Diego Padres vs Detroit Tigers",
-      "team_home": "San Diego Padres",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774744800
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "02:00",
+      "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "International Friendly",
       "title": "Mexico vs Portugal",
@@ -1994,11 +1993,11 @@
           }
         ]
       },
-      "startTimestamp": 1774749600
+      "startTimestamp": 1774746000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:00",
+      "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "Liga de Expansión MX",
       "title": "Atl. Morelia vs Irapuato",
@@ -2016,11 +2015,11 @@
           }
         ]
       },
-      "startTimestamp": 1774749600
+      "startTimestamp": 1774746000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:00",
+      "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "Liga de Expansión MX",
       "title": "Cancun vs Tepatitlan de Morelos",
@@ -2038,11 +2037,11 @@
           }
         ]
       },
-      "startTimestamp": 1774749600
+      "startTimestamp": 1774746000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:00",
+      "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "Liga de Expansión MX",
       "title": "Dorados de Sinaloa vs Correcaminos",
@@ -2060,11 +2059,11 @@
           }
         ]
       },
-      "startTimestamp": 1774749600
+      "startTimestamp": 1774746000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:00",
+      "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "NHL",
       "title": "Los Angeles Kings vs Utah Mammoth",
@@ -2082,11 +2081,11 @@
           }
         ]
       },
-      "startTimestamp": 1774749600
+      "startTimestamp": 1774746000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:10",
+      "time_utc": "01:10",
       "time_utc1": "03:10",
       "league": "MLB",
       "title": "Los Angeles Dodgers vs Arizona Diamondbacks",
@@ -2104,11 +2103,11 @@
           }
         ]
       },
-      "startTimestamp": 1774750200
+      "startTimestamp": 1774746600
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:20",
+      "time_utc": "01:20",
       "time_utc1": "03:20",
       "league": "Liga BetPlay Dimayor",
       "title": "Dep. Cali vs Pereira",
@@ -2132,11 +2131,11 @@
           }
         ]
       },
-      "startTimestamp": 1774750800
+      "startTimestamp": 1774747200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "02:40",
+      "time_utc": "01:40",
       "time_utc1": "03:40",
       "league": "MLB",
       "title": "Seattle Mariners vs Cleveland Guardians",
@@ -2154,11 +2153,11 @@
           }
         ]
       },
-      "startTimestamp": 1774752000
+      "startTimestamp": 1774748400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "03:00",
+      "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": "NBA",
       "title": "Phoenix Suns vs Utah Jazz",
@@ -2176,11 +2175,11 @@
           }
         ]
       },
-      "startTimestamp": 1774753200
+      "startTimestamp": 1774749600
     },
     {
       "date": "2026-03-29",
-      "time_utc": "03:00",
+      "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": "NHL",
       "title": "Calgary Flames vs Vancouver Canucks",
@@ -2198,11 +2197,11 @@
           }
         ]
       },
-      "startTimestamp": 1774753200
+      "startTimestamp": 1774749600
     },
     {
       "date": "2026-03-29",
-      "time_utc": "03:30",
+      "time_utc": "02:30",
       "time_utc1": "04:30",
       "league": "NHL",
       "title": "Vegas Golden Knights vs Washington Capitals",
@@ -2220,11 +2219,11 @@
           }
         ]
       },
-      "startTimestamp": 1774755000
+      "startTimestamp": 1774751400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "06:00",
+      "time_utc": "05:00",
       "time_utc1": "07:00",
       "league": "Formula 1",
       "title": "Formula 1: Grand Prix du Japon",
@@ -2295,11 +2294,11 @@
           }
         ]
       },
-      "startTimestamp": 1774764000
+      "startTimestamp": 1774760400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "07:30",
+      "time_utc": "06:30",
       "time_utc1": "08:30",
       "league": "Golf",
       "title": "Hero Indian Open - D4",
@@ -2317,11 +2316,11 @@
           }
         ]
       },
-      "startTimestamp": 1774769400
+      "startTimestamp": 1774765800
     },
     {
       "date": "2026-03-29",
-      "time_utc": "11:30",
+      "time_utc": "10:30",
       "time_utc1": "12:30",
       "league": null,
       "title": "Inter B vs Trento",
@@ -2339,11 +2338,11 @@
           }
         ]
       },
-      "startTimestamp": 1774783800
+      "startTimestamp": 1774780200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "11:30",
+      "time_utc": "10:30",
       "time_utc1": "12:30",
       "league": null,
       "title": "Benevento vs Cosenza",
@@ -2361,11 +2360,11 @@
           }
         ]
       },
-      "startTimestamp": 1774783800
+      "startTimestamp": 1774780200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "13:30",
+      "time_utc": "12:30",
       "time_utc1": "14:30",
       "league": null,
       "title": "Pontedera vs Bra",
@@ -2383,11 +2382,11 @@
           }
         ]
       },
-      "startTimestamp": 1774791000
+      "startTimestamp": 1774787400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "13:30",
+      "time_utc": "12:30",
       "time_utc1": "14:30",
       "league": null,
       "title": "Crotone vs Audace Cerignola",
@@ -2405,11 +2404,11 @@
           }
         ]
       },
-      "startTimestamp": 1774791000
+      "startTimestamp": 1774787400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "14:00",
+      "time_utc": "13:00",
       "time_utc1": "15:00",
       "league": null,
       "title": "Lithuania vs Georgia",
@@ -2434,11 +2433,11 @@
           }
         ]
       },
-      "startTimestamp": 1774792800
+      "startTimestamp": 1774789200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "14:00",
+      "time_utc": "13:00",
       "time_utc1": "15:00",
       "league": null,
       "title": "Armenia vs Belarus",
@@ -2456,11 +2455,11 @@
           }
         ]
       },
-      "startTimestamp": 1774792800
+      "startTimestamp": 1774789200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "14:00",
+      "time_utc": "13:00",
       "time_utc1": "15:00",
       "league": "Basketball",
       "title": "FC Porto vs Queluz",
@@ -2478,11 +2477,11 @@
           }
         ]
       },
-      "startTimestamp": 1774792800
+      "startTimestamp": 1774789200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "15:30",
+      "time_utc": "14:30",
       "time_utc1": "16:30",
       "league": null,
       "title": "União de Leiria vs Paços de Ferreira",
@@ -2500,11 +2499,11 @@
           }
         ]
       },
-      "startTimestamp": 1774798200
+      "startTimestamp": 1774794600
     },
     {
       "date": "2026-03-29",
-      "time_utc": "16:00",
+      "time_utc": "15:00",
       "time_utc1": "17:00",
       "league": null,
       "title": "Coquimbo Unido vs Deportes Concepción",
@@ -2522,11 +2521,11 @@
           }
         ]
       },
-      "startTimestamp": 1774800000
+      "startTimestamp": 1774796400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "16:30",
+      "time_utc": "15:30",
       "time_utc1": "17:30",
       "league": null,
       "title": "Vis Pesaro vs Perugia",
@@ -2544,11 +2543,11 @@
           }
         ]
       },
-      "startTimestamp": 1774801800
+      "startTimestamp": 1774798200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "16:30",
+      "time_utc": "15:30",
       "time_utc1": "17:30",
       "league": null,
       "title": "Forlì vs Pianese",
@@ -2566,11 +2565,11 @@
           }
         ]
       },
-      "startTimestamp": 1774801800
+      "startTimestamp": 1774798200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "16:30",
+      "time_utc": "15:30",
       "time_utc1": "17:30",
       "league": null,
       "title": "Virtus Casarano vs Giugliano",
@@ -2588,11 +2587,11 @@
           }
         ]
       },
-      "startTimestamp": 1774801800
+      "startTimestamp": 1774798200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "16:30",
+      "time_utc": "15:30",
       "time_utc1": "17:30",
       "league": null,
       "title": "Cittadella vs Lecco",
@@ -2610,11 +2609,11 @@
           }
         ]
       },
-      "startTimestamp": 1774801800
+      "startTimestamp": 1774798200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "17:00",
+      "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": "Moto3",
       "title": "GP of the Americas - Grand Prix of the Americas - Race",
@@ -2646,11 +2645,11 @@
           }
         ]
       },
-      "startTimestamp": 1774803600
+      "startTimestamp": 1774800000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "19:00",
+      "time_utc": "18:00",
       "time_utc1": "20:00",
       "league": "Moto2",
       "title": "GP of the Americas - Grand Prix of the Americas - Race",
@@ -2682,11 +2681,11 @@
           }
         ]
       },
-      "startTimestamp": 1774810800
+      "startTimestamp": 1774807200
     },
     {
       "date": "2026-03-29",
-      "time_utc": "19:30",
+      "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": null,
       "title": "Gubbio vs Ravenna",
@@ -2704,11 +2703,11 @@
           }
         ]
       },
-      "startTimestamp": 1774812600
+      "startTimestamp": 1774809000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "19:30",
+      "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": null,
       "title": "Picerno vs Monopoli",
@@ -2726,11 +2725,11 @@
           }
         ]
       },
-      "startTimestamp": 1774812600
+      "startTimestamp": 1774809000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "20:00",
+      "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": null,
       "title": "Colombia vs France",
@@ -2776,11 +2775,11 @@
           }
         ]
       },
-      "startTimestamp": 1774814400
+      "startTimestamp": 1774810800
     },
     {
       "date": "2026-03-29",
-      "time_utc": "20:00",
+      "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": "Tennis",
       "title": "Miami - Final",
@@ -2798,11 +2797,11 @@
           }
         ]
       },
-      "startTimestamp": 1774814400
+      "startTimestamp": 1774810800
     },
     {
       "date": "2026-03-29",
-      "time_utc": "20:15",
+      "time_utc": "19:15",
       "time_utc1": "21:15",
       "league": "MotoGP",
       "title": "GP of the Americas - Grand Prix of the Americas - Race",
@@ -2834,11 +2833,11 @@
           }
         ]
       },
-      "startTimestamp": 1774815300
+      "startTimestamp": 1774811700
     },
     {
       "date": "2026-03-29",
-      "time_utc": "21:00",
+      "time_utc": "20:00",
       "time_utc1": "22:00",
       "league": null,
       "title": "Cúcuta Deportivo vs Boyacá Chicó",
@@ -2856,11 +2855,11 @@
           }
         ]
       },
-      "startTimestamp": 1774818000
+      "startTimestamp": 1774814400
     },
     {
       "date": "2026-03-29",
-      "time_utc": "22:00",
+      "time_utc": "21:00",
       "time_utc1": "23:00",
       "league": null,
       "title": "Athletico-PR vs Botafogo",
@@ -2878,11 +2877,11 @@
           }
         ]
       },
-      "startTimestamp": 1774821600
+      "startTimestamp": 1774818000
     },
     {
       "date": "2026-03-29",
-      "time_utc": "23:10",
+      "time_utc": "22:10",
       "time_utc1": "00:10",
       "league": null,
       "title": "Deportes Tolima vs Jaguares de Córdoba",
@@ -2900,11 +2899,11 @@
           }
         ]
       },
-      "startTimestamp": 1774825800
+      "startTimestamp": 1774822200
     },
     {
-      "date": "2026-03-30",
-      "time_utc": "00:15",
+      "date": "2026-03-29",
+      "time_utc": "23:15",
       "time_utc1": "01:15",
       "league": null,
       "title": "Newell's Old Boys vs Acassuso",
@@ -2922,11 +2921,11 @@
           }
         ]
       },
-      "startTimestamp": 1774829700
+      "startTimestamp": 1774826100
     },
     {
       "date": "2026-03-30",
-      "time_utc": "01:00",
+      "time_utc": "00:00",
       "time_utc1": "02:00",
       "league": null,
       "title": "Atlas vs Guadalajara",
@@ -2944,11 +2943,11 @@
           }
         ]
       },
-      "startTimestamp": 1774832400
+      "startTimestamp": 1774828800
     },
     {
       "date": "2026-03-30",
-      "time_utc": "01:30",
+      "time_utc": "00:30",
       "time_utc1": "02:30",
       "league": "NBA",
       "title": "New York Knicks vs Oklahoma City Thunder",
@@ -2973,11 +2972,11 @@
           }
         ]
       },
-      "startTimestamp": 1774834200
+      "startTimestamp": 1774830600
     },
     {
       "date": "2026-03-30",
-      "time_utc": "02:20",
+      "time_utc": "01:20",
       "time_utc1": "03:20",
       "league": null,
       "title": "Deportivo Cali vs Deportivo Pereira",
@@ -2995,11 +2994,11 @@
           }
         ]
       },
-      "startTimestamp": 1774837200
+      "startTimestamp": 1774833600
     },
     {
       "date": "2026-03-30",
-      "time_utc": "03:00",
+      "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": "NBA",
       "title": "Golden State Warriors vs Denver Nuggets",
@@ -3024,7 +3023,7 @@
           }
         ]
       },
-      "startTimestamp": 1774839600
+      "startTimestamp": 1774836000
     }
   ]
 }
