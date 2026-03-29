@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T07:18:28.440765",
+  "generated_at": "2026-03-29T08:01:52.495545",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 34,
+  "total_events": 33,
   "events": [
     {
       "date": "2026-03-28",
@@ -170,49 +170,6 @@
         ]
       },
       "startTimestamp": 1774674000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "05:00",
-      "time_utc1": "07:00",
-      "league": "Formula 1",
-      "title": "Formula 1: Grand Prix du Japon",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK F1",
-            "url": "https://multi.govoet.cc/?envivo=134",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde f1",
-            "url": "https://multi.govoet.cc/?envivo=121",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774760400
     },
     {
       "date": "2026-03-29",
