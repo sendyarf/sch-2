@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:20:10.426450",
+  "generated_at": "2026-03-29T19:52:35.732430",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 62,
+  "total_events": 61,
   "events": [
     {
       "date": "2026-03-29",
@@ -182,40 +182,6 @@
         ]
       },
       "startTimestamp": 1774800000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Zaragoza vs Racing Santander",
-      "team_home": "Zaragoza",
-      "team_away": "Racing Santander",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774801800
     },
     {
       "date": "2026-03-29",
