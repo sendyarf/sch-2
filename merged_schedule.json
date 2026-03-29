@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T13:39:02.976638",
+  "generated_at": "2026-03-29T14:19:30.514871",
   "sources": [
     {
       "name": "cartelive",
@@ -13,30 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 78,
+  "total_events": 74,
   "events": [
-    {
-      "date": "2026-03-29",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Liga Endesa",
-      "title": "Tenerife vs Basket Zaragoza",
-      "team_home": "Tenerife",
-      "team_away": "Basket Zaragoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774782000
-    },
     {
       "date": "2026-03-29",
       "time_utc": "12:00",
@@ -61,50 +39,6 @@
     },
     {
       "date": "2026-03-29",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": null,
-      "title": "Pontedera vs Bra",
-      "team_home": "Pontedera",
-      "team_away": "Bra",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774787400
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": null,
-      "title": "Crotone vs Audace Cerignola",
-      "team_home": "Crotone",
-      "team_away": "Audace Cerignola",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774787400
-    },
-    {
-      "date": "2026-03-29",
       "time_utc": "13:00",
       "time_utc1": "15:00",
       "league": "International Friendly",
@@ -112,8 +46,7 @@
       "team_home": "Lithuania",
       "team_away": "Georgia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
@@ -121,18 +54,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -184,28 +105,6 @@
     },
     {
       "date": "2026-03-29",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Basketball",
-      "title": "FC Porto vs Queluz",
-      "team_home": "FC Porto",
-      "team_away": "Queluz",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774789200
-    },
-    {
-      "date": "2026-03-29",
       "time_utc": "14:00",
       "time_utc1": "16:00",
       "league": "International Friendly",
@@ -213,8 +112,7 @@
       "team_home": "Armenia",
       "team_away": "Belarus",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "de": [
@@ -222,13 +120,6 @@
             "channel": "DE bundliga4",
             "url": "https://multi.govoet.cc/?envivo=114",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ]
       },
