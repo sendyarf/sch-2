@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T20:56:05.476000",
+  "generated_at": "2026-03-29T21:28:15.802281",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 51,
+  "total_events": 47,
   "events": [
     {
       "date": "2026-03-29",
@@ -185,102 +185,16 @@
     },
     {
       "date": "2026-03-29",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Los Angeles Angels",
-      "team_home": "Houston Astros",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774807800
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Chicago White Sox",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774807800
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Tampa Bay Rays",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774808100
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
       "league": "Moto2",
-      "title": "Moto2: GP des Amériques La course des Moto 2",
+      "title": "GP of the Americas - Grand Prix of the Americas - Race",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD1",
@@ -303,29 +217,7 @@
           }
         ]
       },
-      "startTimestamp": 1774808100
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Washington Nationals",
-      "team_home": "Chicago Cubs",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774808400
+      "startTimestamp": 1774807200
     },
     {
       "date": "2026-03-29",
