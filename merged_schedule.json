@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T22:58:07.708084",
+  "generated_at": "2026-03-29T23:35:47.778192",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 42,
+  "total_events": 41,
   "events": [
     {
       "date": "2026-03-29",
@@ -370,40 +370,6 @@
         ]
       },
       "startTimestamp": 1774811700
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "MotoGP",
-      "title": "MotoGP: GP des Amériques La course des Moto GP",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774814400
     },
     {
       "date": "2026-03-29",
