@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T11:50:31.372108",
+  "generated_at": "2026-03-29T12:39:31.020800",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 75,
+  "total_events": 78,
   "events": [
     {
       "date": "2026-03-29",
@@ -133,6 +133,28 @@
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774789200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": "FIFA Series",
+      "title": "Macau vs Tanzania",
+      "team_home": "Macau",
+      "team_away": "Tanzania",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "DE bundliga1",
+            "url": "https://multi.govoet.cc/?envivo=111",
+            "source": "cartelive"
           }
         ]
       },
@@ -421,6 +443,28 @@
         ]
       },
       "startTimestamp": 1774798800
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "FIFA Series",
+      "title": "Aruba vs Liechtenstein",
+      "team_home": "Aruba",
+      "team_away": "Liechtenstein",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774800000
     },
     {
       "date": "2026-03-29",
@@ -1976,6 +2020,28 @@
         ]
       },
       "startTimestamp": 1774836000
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": "FIFA Series",
+      "title": "Cape Verde vs Finland",
+      "team_home": "Cape Verde",
+      "team_away": "Finland",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "DE bundliga3",
+            "url": "https://multi.govoet.cc/?envivo=113",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774839600
     }
   ]
 }
