@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T19:52:35.732430",
+  "generated_at": "2026-03-29T20:24:28.154690",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 61,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-03-29",
@@ -182,91 +182,6 @@
         ]
       },
       "startTimestamp": 1774800000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Barcelona vs Unicaja",
-      "team_home": "Barcelona",
-      "team_away": "Unicaja",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774803600
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Moto3",
-      "title": "Moto3: GP des Amériques La course des Moto 3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774803600
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "NHL",
-      "title": "New York Rangers vs Florida Panthers",
-      "team_home": "New York Rangers",
-      "team_away": "Florida Panthers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774803600
     },
     {
       "date": "2026-03-29",
