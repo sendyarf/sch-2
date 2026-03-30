@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T21:07:26.377808",
+  "generated_at": "2026-03-30T21:56:49.169266",
   "sources": [
     {
       "name": "cartelive",
@@ -179,64 +179,32 @@
       "date": "2026-03-30",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "International Friendly",
+      "league": null,
       "title": "Germany vs Ghana",
       "team_home": "Germany",
       "team_away": "Ghana",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "equipe",
-            "url": "https://multi.govoet.cc/?envivo=19",
-            "source": "cartelive"
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ],
