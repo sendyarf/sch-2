@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T03:37:00.608960",
+  "generated_at": "2026-03-30T05:50:49.944785",
   "sources": [
     {
       "name": "cartelive",
@@ -13,64 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 3,
+  "total_events": 1,
   "events": [
-    {
-      "date": "2026-03-30",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Llaneros vs Once Caldas",
-      "team_home": "Llaneros",
-      "team_away": "Once Caldas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774834200
-    },
-    {
-      "date": "2026-03-30",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NBA",
-      "title": "Denver Nuggets vs Golden State Warriors",
-      "team_home": "Denver Nuggets",
-      "team_away": "Golden State Warriors",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774836000
-    },
     {
       "date": "2026-03-30",
       "time_utc": "03:00",
