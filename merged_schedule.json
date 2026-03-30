@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T14:01:31.721353",
+  "generated_at": "2026-03-30T14:59:24.927689",
   "sources": [
     {
       "name": "cartelive",
@@ -13,8 +13,96 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 41,
   "events": [
+    {
+      "date": "2026-03-30",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": "FIFA Series",
+      "title": "Indonesia vs Bulgaria",
+      "team_home": "Indonesia",
+      "team_away": "Bulgaria",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT6",
+            "url": "https://multi.govoet.cc/?envivo=160",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774875600
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "FIFA Series",
+      "title": "Grenada vs Kenya",
+      "team_home": "Grenada",
+      "team_away": "Kenya",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT7 uefa events only",
+            "url": "https://multi.govoet.cc/?envivo=161",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774879200
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "FIFA Series",
+      "title": "Uzbekistan vs Venezuela",
+      "team_home": "Uzbekistan",
+      "team_away": "Venezuela",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT8",
+            "url": "https://multi.govoet.cc/?envivo=162",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774879200
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "FIFA Series",
+      "title": "Azerbaijan vs Sierra Leone",
+      "team_home": "Azerbaijan",
+      "team_away": "Sierra Leone",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774882800
+    },
     {
       "date": "2026-03-30",
       "time_utc": "16:00",
@@ -43,6 +131,28 @@
         ]
       },
       "startTimestamp": 1774886400
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": "FIFA Series",
+      "title": "Rwanda vs Estonia",
+      "team_home": "Rwanda",
+      "team_away": "Estonia",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT10",
+            "url": "https://multi.govoet.cc/?envivo=164",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1774891800
     },
     {
       "date": "2026-03-30",
