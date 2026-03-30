@@ -527,7 +527,7 @@ def parse_source1(schedule_text: str, channel_map: dict) -> list[dict]:
 def determine_dates_from_today() -> dict[str, str]:
     """
     Tentukan mapping hari → tanggal berdasarkan tanggal hari ini.
-    Cari hari Jumat terdekat (sebelum atau hari ini), lalu map Fri/Sat/Sun.
+    Cari hari Jumat terdekat (sebelum atau hari ini), lalu map semua 7 hari (Fri-Thu).
     """
     today = datetime.now()
     weekday = today.weekday()  # 0=Mon, 4=Fri
@@ -536,10 +536,10 @@ def determine_dates_from_today() -> dict[str, str]:
     days_since_friday = (weekday - 4) % 7
     friday = today - timedelta(days=days_since_friday)
 
+    day_names = ["FRIDAY", "SATURDAY", "SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY"]
     return {
-        "FRIDAY": friday.strftime("%Y-%m-%d"),
-        "SATURDAY": (friday + timedelta(days=1)).strftime("%Y-%m-%d"),
-        "SUNDAY": (friday + timedelta(days=2)).strftime("%Y-%m-%d"),
+        day_names[i]: (friday + timedelta(days=i)).strftime("%Y-%m-%d")
+        for i in range(7)
     }
 
 
@@ -557,6 +557,10 @@ S2_LANG_MAP = {
     "ESTONIAN": "et",
     "UNDEFINED": "unknown",
     "PORTUGUESE": "pt",
+    "BELGIAN": "fr",
+    "POLISH": "pl",
+    "BULGARIAN": "bg",
+    "DANISH": "da",
 }
 
 
