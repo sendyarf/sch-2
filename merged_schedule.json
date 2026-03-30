@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T23:35:47.778192",
+  "generated_at": "2026-03-30T00:02:26.551422",
   "sources": [
     {
       "name": "cartelive",
@@ -13,496 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 41,
+  "total_events": 19,
   "events": [
-    {
-      "date": "2026-03-29",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": null,
-      "title": "União de Leiria vs Paços de Ferreira",
-      "team_home": "União de Leiria",
-      "team_away": "Paços de Ferreira",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774794600
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": null,
-      "title": "Coquimbo Unido vs Deportes Concepción",
-      "team_home": "Coquimbo Unido",
-      "team_away": "Deportes Concepción",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774796400
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": null,
-      "title": "Vis Pesaro vs Perugia",
-      "team_home": "Vis Pesaro",
-      "team_away": "Perugia",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774798200
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": null,
-      "title": "Forlì vs Pianese",
-      "team_home": "Forlì",
-      "team_away": "Pianese",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774798200
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": null,
-      "title": "Virtus Casarano vs Giugliano",
-      "team_home": "Virtus Casarano",
-      "team_away": "Giugliano",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774798200
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": null,
-      "title": "Cittadella vs Lecco",
-      "team_home": "Cittadella",
-      "team_away": "Lecco",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774798200
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Moto3",
-      "title": "GP of the Americas - Grand Prix of the Americas - Race",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774800000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Moto2",
-      "title": "GP of the Americas - Grand Prix of the Americas - Race",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774807200
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "Gubbio vs Ravenna",
-      "team_home": "Gubbio",
-      "team_away": "Ravenna",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774809000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "Picerno vs Monopoli",
-      "team_home": "Picerno",
-      "team_away": "Monopoli",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774809000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Colombia vs France",
-      "team_home": "Colombia",
-      "team_away": "France",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774810800
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Tennis",
-      "title": "Miami - Final",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774810800
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "MotoGP",
-      "title": "GP of the Americas - Grand Prix of the Americas - Race",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774811700
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": null,
-      "title": "Cúcuta Deportivo vs Boyacá Chicó",
-      "team_home": "Cúcuta Deportivo",
-      "team_away": "Boyacá Chicó",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774814400
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Copa Argentina",
-      "title": "Huracan vs Olimpo Bahia Blanca",
-      "team_home": "Huracan",
-      "team_away": "Olimpo Bahia Blanca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774818000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "NBA",
-      "title": "Indiana Pacers vs Miami Heat",
-      "team_home": "Indiana Pacers",
-      "team_away": "Miami Heat",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774818000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "NHL",
-      "title": "Carolina Hurricanes vs Montreal Canadiens",
-      "team_home": "Carolina Hurricanes",
-      "team_away": "Montreal Canadiens",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774818000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "NHL",
-      "title": "Columbus Blue Jackets vs Boston Bruins",
-      "team_home": "Columbus Blue Jackets",
-      "team_away": "Boston Bruins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774818000
-    },
-    {
-      "date": "2026-03-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "NHL",
-      "title": "Tampa Bay Lightning vs Nashville Predators",
-      "team_home": "Tampa Bay Lightning",
-      "team_away": "Nashville Predators",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774818000
-    },
     {
       "date": "2026-03-29",
       "time_utc": "21:10",
@@ -615,28 +127,6 @@
     },
     {
       "date": "2026-03-29",
-      "time_utc": "22:10",
-      "time_utc1": "00:10",
-      "league": null,
-      "title": "Deportes Tolima vs Jaguares de Córdoba",
-      "team_home": "Deportes Tolima",
-      "team_away": "Jaguares de Córdoba",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774822200
-    },
-    {
-      "date": "2026-03-29",
       "time_utc": "22:30",
       "time_utc1": "00:30",
       "league": "Liga AUF Uruguaya",
@@ -666,8 +156,7 @@
       "team_home": "Athletico-PR",
       "team_away": "Botafogo RJ",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "de": [
@@ -675,13 +164,6 @@
             "channel": "DE Sportdigital Fussball",
             "url": "https://multi.govoet.cc/?envivo=125",
             "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -784,8 +266,7 @@
       "team_home": "Newells Old Boys",
       "team_away": "Acassuso",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -793,13 +274,6 @@
             "channel": "TyC Sports",
             "url": "https://multi.govoet.cc/?envivo=77",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -908,8 +382,7 @@
       "team_home": "Atlas",
       "team_away": "Chivas guadalajara",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -925,67 +398,9 @@
             "url": "https://multi.govoet.cc/?envivo=196",
             "source": "cartelive"
           }
-        ],
-        "it": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
         ]
       },
       "startTimestamp": 1774828800
-    },
-    {
-      "date": "2026-03-30",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "New York Knicks vs Oklahoma City Thunder",
-      "team_home": "New York Knicks",
-      "team_away": "Oklahoma City Thunder",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774830600
-    },
-    {
-      "date": "2026-03-30",
-      "time_utc": "01:20",
-      "time_utc1": "03:20",
-      "league": null,
-      "title": "Deportivo Cali vs Deportivo Pereira",
-      "team_home": "Deportivo Cali",
-      "team_away": "Deportivo Pereira",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774833600
     },
     {
       "date": "2026-03-30",
@@ -1023,8 +438,7 @@
       "team_home": "Denver Nuggets",
       "team_away": "Golden State Warriors",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1039,18 +453,6 @@
             "channel": "EXTRA SPORT44",
             "url": "https://multi.govoet.cc/?envivo=197",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ]
       },
