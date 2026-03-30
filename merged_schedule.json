@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T20:26:11.535770",
+  "generated_at": "2026-03-30T21:07:26.377808",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 79,
+  "total_events": 77,
   "events": [
     {
       "date": "2026-03-30",
@@ -130,50 +130,6 @@
         ]
       },
       "startTimestamp": 1774886400
-    },
-    {
-      "date": "2026-03-30",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "FIFA Series",
-      "title": "Rwanda vs Estonia",
-      "team_home": "Rwanda",
-      "team_away": "Estonia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774891800
-    },
-    {
-      "date": "2026-03-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Juventud vs Boston River",
-      "team_home": "Juventud",
-      "team_away": "Boston River",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774893600
     },
     {
       "date": "2026-03-30",
