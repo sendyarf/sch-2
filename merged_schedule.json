@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-30T18:38:09.809111",
+  "generated_at": "2026-03-30T19:40:43.269984",
   "sources": [
     {
       "name": "cartelive",
@@ -63,38 +63,25 @@
       "date": "2026-03-30",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Cyprus vs Moldova",
       "team_home": "Cyprus",
       "team_away": "Moldova",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ],
