@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T20:36:52.175078",
+  "generated_at": "2026-03-31T21:21:40.638475",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 134,
+  "total_events": 130,
   "events": [
     {
       "date": "2026-03-27",
@@ -751,122 +751,6 @@
     },
     {
       "date": "2026-03-31",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Hungary vs Greece",
-      "team_home": "Hungary",
-      "team_away": "Greece",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774976400
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "International Friendly",
-      "title": "Morocco vs Paraguay",
-      "team_home": "Morocco",
-      "team_away": "Paraguay",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774980000
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "International Friendly",
-      "title": "Peru vs Honduras",
-      "team_home": "Peru",
-      "team_away": "Honduras",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774980000
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Laliga 2",
-      "title": "Dep. La Coruna vs Cordoba",
-      "team_home": "Dep. La Coruna",
-      "team_away": "Cordoba",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774980000
-    },
-    {
-      "date": "2026-03-31",
       "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": "International Friendly",
@@ -874,8 +758,7 @@
       "team_home": "Algeria",
       "team_away": "Uruguay",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -890,13 +773,6 @@
             "channel": "EXTRA SPORT7 uefa events only",
             "url": "https://multi.govoet.cc/?envivo=161",
             "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
           }
         ]
       },
@@ -994,8 +870,7 @@
       "team_home": "England",
       "team_away": "Japan",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1010,11 +885,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=129",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -1022,18 +892,6 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1048,8 +906,7 @@
       "team_home": "Ireland",
       "team_away": "North Macedonia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
@@ -1057,11 +914,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1076,8 +928,7 @@
       "team_home": "Netherlands",
       "team_away": "Ecuador",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1092,20 +943,6 @@
             "channel": "Zapping sports",
             "url": "https://multi.govoet.cc/?envivo=86",
             "source": "cartelive"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1208,8 +1045,7 @@
       "team_home": "Bosnia & Herzegovina",
       "team_away": "Italy",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1224,11 +1060,6 @@
             "channel": "IT FEED",
             "url": "https://multi.govoet.cc/?envivo=140",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -1236,27 +1067,6 @@
             "channel": "ESPN1",
             "url": "https://multi.govoet.cc/?envivo=87",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1271,8 +1081,7 @@
       "team_home": "Czech Republic",
       "team_away": "Denmark",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1280,13 +1089,6 @@
             "channel": "C+Live 5",
             "url": "https://multi.govoet.cc/?envivo=35",
             "source": "cartelive"
-          }
-        ],
-        "bg": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1301,8 +1103,7 @@
       "team_home": "Kosovo",
       "team_away": "Turkey",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1310,27 +1111,6 @@
             "channel": "C+Live 6",
             "url": "https://multi.govoet.cc/?envivo=36",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR5",
-            "url": "https://multi.govoet.cc/?ss=br5",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1345,8 +1125,7 @@
       "team_home": "Sweden",
       "team_away": "Poland",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1368,11 +1147,6 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -1380,20 +1154,6 @@
             "channel": "ESPN2",
             "url": "https://multi.govoet.cc/?envivo=88",
             "source": "cartelive"
-          }
-        ],
-        "pl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1408,8 +1168,7 @@
       "team_home": "Spain",
       "team_away": "Egypt",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -1417,11 +1176,6 @@
             "channel": "ES m.laliga2",
             "url": "https://multi.govoet.cc/?envivo=50",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -1429,20 +1183,6 @@
             "channel": "DE bundliga9",
             "url": "https://multi.govoet.cc/?envivo=119",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1950,19 +1690,17 @@
             "channel": "EXTRA SPORT8",
             "url": "https://multi.govoet.cc/?envivo=162",
             "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pl": [
+          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ],
@@ -2352,6 +2090,11 @@
             "channel": "C+Live 4",
             "url": "https://multi.govoet.cc/?envivo=34",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -2383,13 +2126,6 @@
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
@@ -2651,7 +2387,7 @@
             "source": "sportsonline"
           }
         ],
-        "bg": [
+        "ar": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
