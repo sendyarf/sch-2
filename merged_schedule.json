@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T19:51:35.286881",
+  "generated_at": "2026-03-31T20:36:52.175078",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 138,
+  "total_events": 134,
   "events": [
     {
       "date": "2026-03-27",
@@ -753,21 +753,15 @@
       "date": "2026-03-31",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Hungary vs Greece",
       "team_home": "Hungary",
       "team_away": "Greece",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -783,94 +777,6 @@
         ]
       },
       "startTimestamp": 1774976400
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "International Friendly",
-      "title": "Russia vs Mali",
-      "team_home": "Russia",
-      "team_away": "Mali",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774976400
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Mirandes vs Albacete",
-      "team_home": "Mirandes",
-      "team_away": "Albacete",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774976400
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Torneo LPF",
-      "title": "Aldosivi vs Argentinos Jrs",
-      "team_home": "Aldosivi",
-      "team_away": "Argentinos Jrs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774976400
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "International Friendly",
-      "title": "South Africa vs Panama",
-      "team_home": "South Africa",
-      "team_away": "Panama",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774978200
     },
     {
       "date": "2026-03-31",
