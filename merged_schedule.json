@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-31T21:21:40.638475",
+  "generated_at": "2026-03-31T22:01:00.007256",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 130,
+  "total_events": 120,
   "events": [
     {
       "date": "2026-03-27",
@@ -750,443 +750,212 @@
       "startTimestamp": 1774670760
     },
     {
-      "date": "2026-03-31",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "International Friendly",
-      "title": "Algeria vs Uruguay",
-      "team_home": "Algeria",
-      "team_away": "Uruguay",
+      "date": "2026-03-30",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": null,
+      "title": "USA vs Portugal",
+      "team_home": "USA",
+      "team_away": "Portugal",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 2",
-            "url": "https://multi.govoet.cc/?envivo=32",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774981800
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "International Friendly",
-      "title": "Scotland vs Ivory Coast",
-      "team_home": "Scotland",
-      "team_away": "Ivory Coast",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 9",
-            "url": "https://multi.govoet.cc/?envivo=39",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774981800
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "International Friendly: Multiplex Coupe du Monde 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "rmc sport1",
-            "url": "https://multi.govoet.cc/?envivo=17",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Austria vs South Korea",
-      "team_home": "Austria",
-      "team_away": "South Korea",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "England vs Japan",
-      "team_home": "England",
-      "team_away": "Japan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 7",
-            "url": "https://multi.govoet.cc/?envivo=37",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=129",
-            "source": "cartelive"
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
         ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1774982700
+      "startTimestamp": 1774911600
     },
     {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Ireland vs North Macedonia",
-      "team_home": "Ireland",
-      "team_away": "North Macedonia",
+      "date": "2026-03-30",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": null,
+      "title": "Argentina vs Zambia",
+      "team_home": "Argentina",
+      "team_away": "Zambia",
       "sources": [
-        "cartelive"
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774912500
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": null,
+      "title": "Canada vs Tunisia",
+      "team_home": "Canada",
+      "team_away": "Tunisia",
+      "sources": [
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1774982700
+      "startTimestamp": 1774913400
     },
     {
       "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Netherlands vs Ecuador",
-      "team_home": "Netherlands",
-      "team_away": "Ecuador",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "Brazil vs Croatia",
+      "team_home": "Brazil",
+      "team_away": "Croatia",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 8",
-            "url": "https://multi.govoet.cc/?envivo=38",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Slovakia vs Romania",
-      "team_home": "Slovakia",
-      "team_away": "Romania",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Ukraine vs Albania",
-      "team_home": "Ukraine",
-      "team_away": "Albania",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Wales vs Northern Ireland",
-      "team_home": "Wales",
-      "team_away": "Northern Ireland",
-      "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Virtus Bologna vs Paris",
-      "team_home": "Virtus Bologna",
-      "team_away": "Paris",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Qualif. Cm Europe",
-      "title": "Bosnia & Herzegovina vs Italy",
-      "team_home": "Bosnia & Herzegovina",
-      "team_away": "Italy",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Qualif. Cm Europe",
-      "title": "Czech Republic vs Denmark",
-      "team_home": "Czech Republic",
-      "team_away": "Denmark",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 5",
-            "url": "https://multi.govoet.cc/?envivo=35",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Qualif. Cm Europe",
-      "title": "Kosovo vs Turkey",
-      "team_home": "Kosovo",
-      "team_away": "Turkey",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1774982700
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Qualif. Cm Europe",
-      "title": "Sweden vs Poland",
-      "team_home": "Sweden",
-      "team_away": "Poland",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
           }
         ],
-        "es": [
+        "pt-BR": [
           {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1774982700
+      "startTimestamp": 1774915200
     },
     {
       "date": "2026-03-31",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "International Friendly",
-      "title": "Spain vs Egypt",
-      "team_home": "Spain",
-      "team_away": "Egypt",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NBA",
+      "title": "New York Knicks vs Houston Rockets",
+      "team_home": "New York Knicks",
+      "team_away": "Houston Rockets",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "pt": [
           {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1774983600
+      "startTimestamp": 1774915200
+    },
+    {
+      "date": "2026-03-31",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": null,
+      "title": "Mexico vs Belgium",
+      "team_home": "Mexico",
+      "team_away": "Belgium",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774918800
+    },
+    {
+      "date": "2026-03-31",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": null,
+      "title": "Iraq vs Bolivia",
+      "team_home": "Iraq",
+      "team_away": "Bolivia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "ar": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774926000
     },
     {
       "date": "2026-03-31",
@@ -1219,8 +988,7 @@
       "team_home": "Congo",
       "team_away": "Jamaica",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1241,45 +1009,9 @@
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
           }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
         ]
       },
       "startTimestamp": 1774990800
-    },
-    {
-      "date": "2026-03-31",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": null,
-      "title": "Juventude vs Novorizontino",
-      "team_home": "Juventude",
-      "team_away": "Novorizontino",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1774992600
     },
     {
       "date": "2026-03-31",
@@ -1400,8 +1132,7 @@
       "team_home": "USA",
       "team_away": "Portugal",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1416,11 +1147,6 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -1438,13 +1164,6 @@
             "channel": "ESPN2MX",
             "url": "https://multi.govoet.cc/?envivo=98",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1664,8 +1383,7 @@
       "team_home": "Argentina",
       "team_away": "Zambia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1690,25 +1408,6 @@
             "channel": "EXTRA SPORT8",
             "url": "https://multi.govoet.cc/?envivo=162",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1745,8 +1444,7 @@
       "team_home": "Canada",
       "team_away": "Tunisia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
@@ -1754,11 +1452,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=132",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1883,8 +1576,7 @@
       "team_home": "Brazil",
       "team_away": "Croatia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1909,32 +1601,6 @@
             "channel": "ESPN1MX",
             "url": "https://multi.govoet.cc/?envivo=97",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1971,8 +1637,7 @@
       "team_home": "Houston Rockets",
       "team_away": "New York Knicks",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1994,13 +1659,6 @@
             "channel": "dazn baloncesto 1",
             "url": "https://multi.govoet.cc/?envivo=155",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -2081,8 +1739,7 @@
       "team_home": "Mexico",
       "team_away": "Belgium",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -2090,11 +1747,6 @@
             "channel": "C+Live 4",
             "url": "https://multi.govoet.cc/?envivo=34",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -2122,11 +1774,6 @@
             "channel": "FOX Deportes",
             "url": "https://multi.govoet.cc/?envivo=70",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -2357,8 +2004,7 @@
       "team_home": "Iraq",
       "team_away": "Bolivia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -2378,20 +2024,6 @@
             "channel": "WINsport",
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
