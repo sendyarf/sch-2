@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T21:56:47.293785",
+  "generated_at": "2026-04-01T22:35:48.246143",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 91,
+  "total_events": 84,
   "events": [
     {
       "date": "2026-03-27",
@@ -751,155 +751,6 @@
     },
     {
       "date": "2026-04-01",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Tennis - ATP World Tour 250: Marrakech",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775037600
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": null,
-      "title": "Bayern W vs Manchester United W",
-      "team_home": "Bayern W",
-      "team_away": "Manchester United W",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775061900
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions Femmes",
-      "title": "Chelsea W vs Arsenal W",
-      "team_home": "Chelsea W",
-      "team_away": "Arsenal W",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775070000
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Tennis - ATP World Tour 250: Houston",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775070000
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Laliga 2",
-      "title": "Racing Santander vs Gijon",
-      "team_home": "Racing Santander",
-      "team_away": "Gijon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775071800
-    },
-    {
-      "date": "2026-04-01",
       "time_utc": "19:40",
       "time_utc1": "21:40",
       "league": "MLB",
@@ -966,50 +817,6 @@
     },
     {
       "date": "2026-04-01",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": null,
-      "title": "Colo-Colo vs Huachipato",
-      "team_home": "Colo-Colo",
-      "team_away": "Huachipato",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775077200
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": null,
-      "title": "América Mineiro vs Botafogo SP",
-      "team_home": "América Mineiro",
-      "team_away": "Botafogo SP",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775077200
-    },
-    {
-      "date": "2026-04-01",
       "time_utc": "21:10",
       "time_utc1": "23:10",
       "league": "Liga BetPlay Dimayor",
@@ -1017,8 +824,7 @@
       "team_home": "Alianza",
       "team_away": "Dep. Pasto",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -1031,11 +837,6 @@
             "channel": "WINsport",
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
