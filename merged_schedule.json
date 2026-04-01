@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T21:07:30.296941",
+  "generated_at": "2026-04-01T21:56:47.293785",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 94,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-03-27",
@@ -799,72 +799,6 @@
         ]
       },
       "startTimestamp": 1775061900
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Boston Red Sox",
-      "team_home": "Houston Astros",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775067000
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Los Angeles Angels",
-      "team_home": "Chicago Cubs",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775067600
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Baskonia vs Basket Zaragoza",
-      "team_home": "Baskonia",
-      "team_away": "Basket Zaragoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775068200
     },
     {
       "date": "2026-04-01",
