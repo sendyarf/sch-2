@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T05:18:24.456323",
+  "generated_at": "2026-04-01T06:57:50.031370",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 82,
+  "total_events": 79,
   "events": [
     {
       "date": "2026-03-27",
@@ -956,105 +956,6 @@
         ]
       },
       "startTimestamp": 1774926000
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "NBA",
-      "title": "Los Angeles Lakers vs Cleveland Cavaliers",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Cleveland Cavaliers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775010600
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "NBA",
-      "title": "Los Angeles Clippers vs Portland Trail Blazers",
-      "team_home": "Los Angeles Clippers",
-      "team_away": "Portland Trail Blazers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT47",
-            "url": "https://multi.govoet.cc/?envivo=200",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775012400
-    },
-    {
-      "date": "2026-04-01",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Qualif. Cm Barrages",
-      "title": "Iraq vs Bolivia",
-      "team_home": "Iraq",
-      "team_away": "Bolivia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775012400
     },
     {
       "date": "2026-04-01",
