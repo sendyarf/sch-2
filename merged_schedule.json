@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T21:31:01.826910",
+  "generated_at": "2026-04-02T22:06:06.276132",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 162,
+  "total_events": 158,
   "events": [
     {
       "date": "2026-03-27",
@@ -2945,132 +2945,6 @@
     },
     {
       "date": "2026-04-02",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Paris vs Olimpia Milano",
-      "team_home": "Paris",
-      "team_away": "Olimpia Milano",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775155500
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Maccabi Tel Aviv vs Anadolu Efes",
-      "team_home": "Maccabi Tel Aviv",
-      "team_away": "Anadolu Efes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775156400
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Chico vs Pereira",
-      "team_home": "Chico",
-      "team_away": "Pereira",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775156400
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions Femmes",
-      "title": "Lyon W vs Wolfsburg W",
-      "team_home": "Lyon W",
-      "team_away": "Wolfsburg W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775156400
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Grenoble FC vs Valence Romans",
-      "team_home": "Grenoble FC",
-      "team_away": "Valence Romans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775156400
-    },
-    {
-      "date": "2026-04-02",
       "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": null,
@@ -3099,6 +2973,28 @@
           {
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1775156400
+    },
+    {
+      "date": "2026-04-02",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Boyacá Chicó vs Deportivo Pereira",
+      "team_home": "Boyacá Chicó",
+      "team_away": "Deportivo Pereira",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
