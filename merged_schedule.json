@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T20:53:11.011914",
+  "generated_at": "2026-04-02T21:31:01.826910",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 167,
+  "total_events": 162,
   "events": [
     {
       "date": "2026-03-27",
@@ -2881,109 +2881,15 @@
       "date": "2026-04-02",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Crvena Zvezda Meridianbet vs Partizan Mozzart Bet",
-      "team_home": "Crvena Zvezda Meridianbet",
-      "team_away": "Partizan Mozzart Bet",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775152800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Dubai vs Monaco",
-      "team_home": "Dubai",
-      "team_away": "Monaco",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes3",
-            "url": "https://multi.govoet.cc/?envivo=64",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775152800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Laliga 2",
-      "title": "Castellon vs Almeria",
-      "team_home": "Castellon",
-      "team_away": "Almeria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775152800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Laliga 2",
-      "title": "Real Sociedad B vs Eibar",
-      "team_home": "Real Sociedad B",
-      "team_away": "Eibar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775152800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Torneo LPF",
-      "title": "Barracas Central vs Sarmiento Junin",
+      "league": null,
+      "title": "Barracas Central vs Sarmiento",
       "team_home": "Barracas Central",
-      "team_away": "Sarmiento Junin",
+      "team_away": "Sarmiento",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -3036,28 +2942,6 @@
         ]
       },
       "startTimestamp": 1775152800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Minnesota Twins",
-      "team_home": "Kansas City Royals",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775153400
     },
     {
       "date": "2026-04-02",
