@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T15:55:04.960356",
+  "generated_at": "2026-04-02T16:51:24.993889",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 147,
+  "total_events": 170,
   "events": [
     {
       "date": "2026-03-27",
@@ -2314,26 +2314,532 @@
       "startTimestamp": 1774753200
     },
     {
-      "date": "2026-04-02",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
+      "date": "2026-03-29",
+      "time_utc": "11:30",
+      "time_utc1": "13:30",
       "league": null,
-      "title": "Cricket: IPL '26 - M6: Kolkata Knight Riders vs Sunrisers Hyderabad",
-      "team_home": "Cricket: IPL '26 - M6: Kolkata Knight Riders",
-      "team_away": "Sunrisers Hyderabad",
+      "title": "Schalke 04 vs Karlsruher SC",
+      "team_home": "Schalke 04",
+      "team_away": "Karlsruher SC",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1775138400
+      "startTimestamp": 1774783800
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "12:00",
+      "time_utc1": "14:00",
+      "league": null,
+      "title": "Getafe vs Ath Bilbao",
+      "team_home": "Getafe",
+      "team_away": "Ath Bilbao",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774785600
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "12:30",
+      "time_utc1": "14:30",
+      "league": null,
+      "title": "Volendam vs Feyenoord",
+      "team_home": "Volendam",
+      "team_away": "Feyenoord",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774787400
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Cremonese vs Bologna",
+      "team_home": "Cremonese",
+      "team_away": "Bologna",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774789200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Livingston vs Hearts",
+      "team_home": "Livingston",
+      "team_away": "Hearts",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774789200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Angers SCO vs Olympique Lyonnais",
+      "team_home": "Angers SCO",
+      "team_away": "Olympique Lyonnais",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774789200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "13:30",
+      "time_utc1": "15:30",
+      "league": null,
+      "title": "Union Berlin vs St. Pauli",
+      "team_home": "Union Berlin",
+      "team_away": "St. Pauli",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774791000
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "14:15",
+      "time_utc1": "16:15",
+      "league": null,
+      "title": "Valencia vs Celta de Vigo",
+      "team_home": "Valencia",
+      "team_away": "Celta de Vigo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774793700
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "15:15",
+      "time_utc1": "17:15",
+      "league": null,
+      "title": "Lorient vs Paris",
+      "team_home": "Lorient",
+      "team_away": "Paris",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774797300
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": null,
+      "title": "Eintracht Frankfurt vs Köln",
+      "team_home": "Eintracht Frankfurt",
+      "team_away": "Köln",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774798200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": null,
+      "title": "West Ham United vs Leeds United",
+      "team_home": "West Ham United",
+      "team_away": "Leeds United",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774798200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": null,
+      "title": "Dundee vs Celtic",
+      "team_home": "Dundee",
+      "team_away": "Celtic",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774798200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "16:30",
+      "time_utc1": "18:30",
+      "league": null,
+      "title": "Real Oviedo vs Sevilla",
+      "team_home": "Real Oviedo",
+      "team_away": "Sevilla",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774801800
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Fenerbahçe vs Beşiktaş",
+      "team_home": "Fenerbahçe",
+      "team_away": "Beşiktaş",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774803600
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "União de Leiria vs Lusitania FC Lourosa",
+      "team_home": "União de Leiria",
+      "team_away": "Lusitania FC Lourosa",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774803600
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Al Ittifaq vs Al Quadisiya",
+      "team_home": "Al Ittifaq",
+      "team_away": "Al Quadisiya",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774807200
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Internazionale vs Roma",
+      "team_home": "Internazionale",
+      "team_away": "Roma",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774809900
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Monaco vs Olympique Marseille",
+      "team_home": "Monaco",
+      "team_away": "Olympique Marseille",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774809900
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Deportivo Alavés vs Osasuna",
+      "team_home": "Deportivo Alavés",
+      "team_away": "Osasuna",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774810800
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "19:30",
+      "time_utc1": "21:30",
+      "league": "NBA",
+      "title": "Toronto Raptors vs Boston Celtics",
+      "team_home": "Toronto Raptors",
+      "team_away": "Boston Celtics",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774812600
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "21:00",
+      "time_utc1": "23:00",
+      "league": null,
+      "title": "River Plate vs Belgrano",
+      "team_home": "River Plate",
+      "team_away": "Belgrano",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774818000
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "21:00",
+      "time_utc1": "23:00",
+      "league": null,
+      "title": "Surf - WSL: Rip Curl Pro Bells Beach",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774818000
+    },
+    {
+      "date": "2026-03-29",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "NBA",
+      "title": "Los Angeles Lakers vs Dallas Maveirkcs",
+      "team_home": "Los Angeles Lakers",
+      "team_away": "Dallas Maveirkcs",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774827000
+    },
+    {
+      "date": "2026-03-30",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": "NBA",
+      "title": "Houston Rockets vs Golden State Warriors",
+      "team_home": "Houston Rockets",
+      "team_away": "Golden State Warriors",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1774836000
     },
     {
       "date": "2026-04-02",
