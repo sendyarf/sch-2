@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T22:06:06.276132",
+  "generated_at": "2026-04-02T22:50:40.172182",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 158,
+  "total_events": 157,
   "events": [
     {
       "date": "2026-03-27",
@@ -3044,28 +3044,6 @@
         ]
       },
       "startTimestamp": 1775156400
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Laliga 2",
-      "title": "Leganes vs Zaragoza",
-      "team_home": "Leganes",
-      "team_away": "Zaragoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775158200
     },
     {
       "date": "2026-04-02",
