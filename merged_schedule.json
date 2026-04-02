@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T19:35:34.820122",
+  "generated_at": "2026-04-02T20:07:23.494508",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 170,
+  "total_events": 167,
   "events": [
     {
       "date": "2026-03-27",
@@ -2845,36 +2845,25 @@
       "date": "2026-04-02",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Ligue Des Champions Femmes",
+      "league": null,
       "title": "Barcelona W vs Real Madrid W",
       "team_home": "Barcelona W",
       "team_away": "Real Madrid W",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -2887,86 +2876,6 @@
         ]
       },
       "startTimestamp": 1775148300
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Hapoel Tel-Aviv vs Panathinaikos",
-      "team_home": "Hapoel Tel-Aviv",
-      "team_away": "Panathinaikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775149200
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Zalgiris Kaunas vs Barcelona",
-      "team_home": "Zalgiris Kaunas",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775149200
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Las Palmas vs Granada CF",
-      "team_home": "Las Palmas",
-      "team_away": "Granada CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775149200
     },
     {
       "date": "2026-04-02",
