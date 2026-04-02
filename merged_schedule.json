@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T05:55:07.524411",
+  "generated_at": "2026-04-02T07:04:19.561144",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 119,
+  "total_events": 118,
   "events": [
     {
       "date": "2026-03-27",
@@ -2466,33 +2466,6 @@
         ]
       },
       "startTimestamp": 1775008800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga MX Femenil",
-      "title": "Monterrey W vs UNAM Pumas W",
-      "team_home": "Monterrey W",
-      "team_away": "UNAM Pumas W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775098800
     },
     {
       "date": "2026-04-02",
