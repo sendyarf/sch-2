@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T04:24:55.288913",
+  "generated_at": "2026-04-02T05:55:07.524411",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 121,
+  "total_events": 119,
   "events": [
     {
       "date": "2026-03-27",
@@ -2466,69 +2466,6 @@
         ]
       },
       "startTimestamp": 1775008800
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Atl. Nacional vs Cucuta",
-      "team_home": "Atl. Nacional",
-      "team_away": "Cucuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775093400
-    },
-    {
-      "date": "2026-04-02",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NBA",
-      "title": "Golden State Warriors vs San Antonio Spurs",
-      "team_home": "Golden State Warriors",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775095200
     },
     {
       "date": "2026-04-02",
