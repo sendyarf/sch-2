@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T19:52:24.987029",
+  "generated_at": "2026-04-03T20:28:52.557489",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 162,
+  "total_events": 159,
   "events": [
     {
       "date": "2026-04-03",
@@ -158,21 +158,15 @@
       "date": "2026-04-03",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Vitoria Guimaraes vs Tondela",
-      "team_home": "Vitoria Guimaraes",
+      "league": null,
+      "title": "Vitória Guimarães vs Tondela",
+      "team_home": "Vitória Guimarães",
       "team_away": "Tondela",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -181,72 +175,6 @@
         ]
       },
       "startTimestamp": 1775235600
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Agen vs Vannes",
-      "team_home": "Agen",
-      "team_away": "Vannes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775235600
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "17:05",
-      "time_utc1": "19:05",
-      "league": "MLB",
-      "title": "Washington Nationals vs Los Angeles Dodgers",
-      "team_home": "Washington Nationals",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775235900
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs St.Louis Cardinals",
-      "team_home": "Detroit Tigers",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775236200
     },
     {
       "date": "2026-04-03",
