@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T21:03:17.591188",
+  "generated_at": "2026-04-03T21:49:03.146224",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 147,
+  "total_events": 142,
   "events": [
     {
       "date": "2026-04-03",
@@ -258,140 +258,27 @@
     },
     {
       "date": "2026-04-03",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs San Diego Padres",
-      "team_home": "Boston Red Sox",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775239800
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Toronto Blue Jays",
-      "team_home": "Chicago White Sox",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775239800
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Baskonia vs Real Madrid",
-      "team_home": "Baskonia",
-      "team_away": "Real Madrid",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775241000
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Virtus Bologna vs Valencia",
-      "team_home": "Virtus Bologna",
-      "team_away": "Valencia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775241000
-    },
-    {
-      "date": "2026-04-03",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Paris Saint-Germain vs Toulouse",
       "team_home": "Paris Saint-Germain",
       "team_away": "Toulouse",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ],
@@ -407,28 +294,6 @@
             "channel": "BR5",
             "url": "https://multi.govoet.cc/?ss=br5",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775241900
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Antwerp vs Genk",
-      "team_home": "Antwerp",
-      "team_away": "Genk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
