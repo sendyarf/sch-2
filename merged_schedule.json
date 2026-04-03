@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T18:06:36.677252",
+  "generated_at": "2026-04-03T19:04:35.724893",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 163,
+  "total_events": 162,
   "events": [
     {
       "date": "2026-04-03",
@@ -153,28 +153,6 @@
         ]
       },
       "startTimestamp": 1775226600
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sporting Cristal vs Moquegua",
-      "team_home": "Sporting Cristal",
-      "team_away": "Moquegua",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775232000
     },
     {
       "date": "2026-04-03",
@@ -781,8 +759,8 @@
             "source": "cartelive"
           },
           {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
+            "channel": "ESPN1",
+            "url": "https://multi.govoet.cc/?envivo=87",
             "source": "cartelive"
           }
         ],
