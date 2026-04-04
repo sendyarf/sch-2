@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T22:22:09.722834",
+  "generated_at": "2026-04-04T22:55:27.511875",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 252,
+  "total_events": 251,
   "events": [
     {
       "date": "2026-04-04",
@@ -275,35 +275,6 @@
         ]
       },
       "startTimestamp": 1775329500
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "FC Porto vs Famalicao",
-      "team_home": "FC Porto",
-      "team_away": "Famalicao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775331000
     },
     {
       "date": "2026-04-04",
