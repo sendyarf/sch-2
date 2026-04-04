@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T20:55:25.233162",
+  "generated_at": "2026-04-04T21:26:28.501646",
   "sources": [
     {
       "name": "cartelive",
@@ -13,72 +13,20 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 266,
+  "total_events": 262,
   "events": [
     {
       "date": "2026-04-04",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Gran Canaria vs San Pablo Burgos",
-      "team_home": "Gran Canaria",
-      "team_away": "San Pablo Burgos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775325600
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue 2",
-      "title": "Nancy vs St Etienne",
-      "team_home": "Nancy",
-      "team_away": "St Etienne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775325600
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Hilal vs Al Taawon",
       "team_home": "Al Hilal",
       "team_away": "Al Taawon",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD8",
@@ -102,50 +50,6 @@
         ]
       },
       "startTimestamp": 1775325600
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Toronto Blue Jays",
-      "team_home": "Chicago White Sox",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775326200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Deportivo Garcilaso vs Sport Boys",
-      "team_home": "Deportivo Garcilaso",
-      "team_away": "Sport Boys",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775326500
     },
     {
       "date": "2026-04-04",
