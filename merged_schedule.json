@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T21:26:28.501646",
+  "generated_at": "2026-04-04T21:53:57.604009",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 262,
+  "total_events": 260,
   "events": [
     {
       "date": "2026-04-04",
@@ -55,55 +55,20 @@
       "date": "2026-04-04",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "SG Dynamo Dresden vs Hertha Berlin",
-      "team_home": "SG Dynamo Dresden",
-      "team_away": "Hertha Berlin",
+      "league": null,
+      "title": "Dynamo Dresden vs Hertha BSC",
+      "team_home": "Dynamo Dresden",
+      "team_away": "Hertha BSC",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775327400
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs Montevideo City",
-      "team_home": "Danubio",
-      "team_away": "Montevideo City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1775327400
@@ -112,71 +77,19 @@
       "date": "2026-04-04",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Royale Union SG vs St. Truiden",
-      "team_home": "Royale Union SG",
-      "team_away": "St. Truiden",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775328300
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
+      "league": null,
       "title": "Lazio vs Parma",
       "team_home": "Lazio",
       "team_away": "Parma",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ]
       },
