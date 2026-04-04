@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T13:39:19.564846",
+  "generated_at": "2026-04-04T14:19:53.454824",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 330,
+  "total_events": 329,
   "events": [
     {
       "date": "2026-04-04",
@@ -41,53 +41,18 @@
       "date": "2026-04-04",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Magdeburg vs Bochum",
+      "team_home": "Magdeburg",
+      "team_away": "Bochum",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775300400
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Arminia Bielefeld vs Darmstadt",
-      "team_home": "Arminia Bielefeld",
-      "team_away": "Darmstadt",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
@@ -98,28 +63,15 @@
       "date": "2026-04-04",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Kaiserslautern vs Dusseldorf",
+      "league": null,
+      "title": "Kaiserslautern vs Fortuna Düsseldorf",
       "team_home": "Kaiserslautern",
-      "team_away": "Dusseldorf",
+      "team_away": "Fortuna Düsseldorf",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -133,24 +85,25 @@
       "date": "2026-04-04",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Magdeburg vs Bochum",
-      "team_home": "Magdeburg",
-      "team_away": "Bochum",
+      "league": null,
+      "title": "Arminia Bielefeld vs Darmstadt 98",
+      "team_home": "Arminia Bielefeld",
+      "team_away": "Darmstadt 98",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
           }
         ]
