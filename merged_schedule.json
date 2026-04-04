@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T05:34:43.917236",
+  "generated_at": "2026-04-04T06:39:49.377126",
   "sources": [
     {
       "name": "cartelive",
@@ -209,22 +209,14 @@
       "date": "2026-04-04",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Necaxa vs Mazatlan FC",
+      "league": null,
+      "title": "Necaxa vs Mazatlán",
       "team_home": "Necaxa",
-      "team_away": "Mazatlan FC",
+      "team_away": "Mazatlán",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -239,21 +231,15 @@
       "date": "2026-04-04",
       "time_utc": "03:06",
       "time_utc1": "05:06",
-      "league": "Liga Mx",
-      "title": "Club Tijuana vs Tigres UANL",
-      "team_home": "Club Tijuana",
+      "league": null,
+      "title": "Tijuana vs Tigres UANL",
+      "team_home": "Tijuana",
       "team_away": "Tigres UANL",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
