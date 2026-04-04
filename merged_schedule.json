@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T14:19:53.454824",
+  "generated_at": "2026-04-04T14:58:34.729685",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 329,
+  "total_events": 326,
   "events": [
     {
       "date": "2026-04-04",
@@ -112,108 +112,17 @@
     },
     {
       "date": "2026-04-04",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Challenge Cup",
-      "title": "Exeter Chiefs vs Munster",
-      "team_home": "Exeter Chiefs",
-      "team_away": "Munster",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775302200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Challenge Cup",
-      "title": "Montpellier vs USA Perpignan",
-      "team_home": "Montpellier",
-      "team_away": "USA Perpignan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          },
-          {
-            "channel": "france3",
-            "url": "https://multi.govoet.cc/?envivo=29",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775302200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Super Lig",
-      "title": "Genclerbirligi vs Goztepe",
-      "team_home": "Genclerbirligi",
-      "team_away": "Goztepe",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775302200
-    },
-    {
-      "date": "2026-04-04",
       "time_utc": "11:45",
       "time_utc1": "13:45",
-      "league": "Fa Cup",
+      "league": null,
       "title": "Manchester City vs Liverpool",
       "team_home": "Manchester City",
       "team_away": "Liverpool",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -225,36 +134,7 @@
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
