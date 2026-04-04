@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T01:42:20.083308",
+  "generated_at": "2026-04-04T04:02:09.860717",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 116,
+  "total_events": 102,
   "events": [
     {
       "date": "2026-04-03",
@@ -48,21 +48,15 @@
       "date": "2026-04-03",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "O'Higgins vs A. Italiano",
+      "league": null,
+      "title": "O'Higgins vs Audax Italiano",
       "team_home": "O'Higgins",
-      "team_away": "A. Italiano",
+      "team_away": "Audax Italiano",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -74,145 +68,17 @@
     },
     {
       "date": "2026-04-03",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tlaxcala vs Dorados de Sinaloa",
-      "team_home": "Tlaxcala",
-      "team_away": "Dorados de Sinaloa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775257200
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Charlotte Hornets vs Indiana Pacers",
-      "team_home": "Charlotte Hornets",
-      "team_away": "Indiana Pacers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775257200
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Philadelphia 76ers vs Minnesota Timberwolves",
-      "team_home": "Philadelphia 76ers",
-      "team_away": "Minnesota Timberwolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775257200
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "New York Islanders vs Philadelphia Flyers",
-      "team_home": "New York Islanders",
-      "team_away": "Philadelphia Flyers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775257200
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "23:15",
-      "time_utc1": "01:15",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cienciano vs AD Tarma",
-      "team_home": "Cienciano",
-      "team_away": "AD Tarma",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775258100
-    },
-    {
-      "date": "2026-04-03",
       "time_utc": "23:20",
       "time_utc1": "01:20",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Fortaleza vs Inter Bogotá",
-      "team_home": "Fortaleza",
+      "league": null,
+      "title": "Fortaleza CEIF vs Inter Bogotá",
+      "team_home": "Fortaleza CEIF",
       "team_away": "Inter Bogotá",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -226,65 +92,15 @@
       "date": "2026-04-03",
       "time_utc": "23:30",
       "time_utc1": "01:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Nacional vs Central Esp.",
-      "team_home": "Nacional",
-      "team_away": "Central Esp.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775259000
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
       "league": "NBA",
-      "title": "Brooklyn Nets vs Atlanta Hawks",
-      "team_home": "Brooklyn Nets",
-      "team_away": "Atlanta Hawks",
+      "title": "Chicago Bulls vs New York Knicks",
+      "team_home": "Chicago Bulls",
+      "team_away": "New York Knicks",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775259000
-    },
-    {
-      "date": "2026-04-03",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "NBA",
-      "title": "New York Knicks vs Chicago Bulls",
-      "team_home": "New York Knicks",
-      "team_away": "Chicago Bulls",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -295,113 +111,17 @@
       "startTimestamp": 1775259000
     },
     {
-      "date": "2026-04-03",
-      "time_utc": "23:45",
-      "time_utc1": "01:45",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Milwaukee Brewers",
-      "team_home": "Kansas City Royals",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775259900
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "LDU Quito vs Barcelona SC",
-      "team_home": "LDU Quito",
-      "team_away": "Barcelona SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775260800
-    },
-    {
       "date": "2026-04-04",
       "time_utc": "00:00",
       "time_utc1": "02:00",
       "league": "NBA",
-      "title": "Houston Rockets vs Utah Jazz",
-      "team_home": "Houston Rockets",
-      "team_away": "Utah Jazz",
+      "title": "Boston Celtics vs Milwaukee Bucks",
+      "team_home": "Boston Celtics",
+      "team_away": "Milwaukee Bucks",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775260800
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "Memphis Grizzlies vs Toronto Raptors",
-      "team_home": "Memphis Grizzlies",
-      "team_away": "Toronto Raptors",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775260800
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "Milwaukee Bucks vs Boston Celtics",
-      "team_home": "Milwaukee Bucks",
-      "team_away": "Boston Celtics",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV1",
@@ -414,94 +134,17 @@
     },
     {
       "date": "2026-04-04",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Dallas Mavericks vs Orlando Magic",
-      "team_home": "Dallas Mavericks",
-      "team_away": "Orlando Magic",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775262600
-    },
-    {
-      "date": "2026-04-04",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Correcaminos vs Cancun",
-      "team_home": "Correcaminos",
-      "team_away": "Cancun",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775264400
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Irapuato vs Atletico La Paz",
-      "team_home": "Irapuato",
-      "team_away": "Atletico La Paz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775264400
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Puebla vs Juarez",
+      "league": null,
+      "title": "Puebla vs Juárez",
       "team_home": "Puebla",
-      "team_away": "Juarez",
+      "team_away": "Juárez",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
