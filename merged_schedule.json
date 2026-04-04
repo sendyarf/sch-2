@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T21:53:57.604009",
+  "generated_at": "2026-04-04T22:22:09.722834",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 260,
+  "total_events": 252,
   "events": [
     {
       "date": "2026-04-04",
@@ -99,196 +99,22 @@
       "date": "2026-04-04",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Challenge Cup",
-      "title": "Newcastle Red Bulls vs Stade Rochelais",
-      "team_home": "Newcastle Red Bulls",
-      "team_away": "Stade Rochelais",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Champions Cup",
-      "title": "Harlequins vs Sale Sharks",
-      "team_home": "Harlequins",
-      "team_away": "Sale Sharks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Ind. del Valle vs Orense",
-      "team_home": "Ind. del Valle",
-      "team_away": "Orense",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Eredivisie",
-      "title": "Ajax vs Twente",
-      "team_home": "Ajax",
-      "team_away": "Twente",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Eredivisie",
-      "title": "Excelsior vs Nijmegen",
-      "team_home": "Excelsior",
-      "team_away": "Nijmegen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Fa Cup",
+      "league": null,
       "title": "Southampton vs Arsenal",
       "team_home": "Southampton",
       "team_away": "Arsenal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -309,55 +135,25 @@
       "date": "2026-04-04",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Atl. Madrid vs Barcelona",
-      "team_home": "Atl. Madrid",
+      "league": null,
+      "title": "Atlético Madrid vs Barcelona",
+      "team_home": "Atlético Madrid",
       "team_away": "Barcelona",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -382,85 +178,26 @@
       "date": "2026-04-04",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Liga Endesa",
-      "title": "Joventut Badalona vs Murcia",
-      "team_home": "Joventut Badalona",
-      "team_away": "Murcia",
+      "league": null,
+      "title": "Ajax vs Twente",
+      "team_home": "Ajax",
+      "team_away": "Twente",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "nl": [
           {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "NBA",
-      "title": "Denver Nuggets vs San Antonio Spurs",
-      "team_home": "Denver Nuggets",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
+        ],
+        "pt": [
           {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "NBA",
-      "title": "Miami Heat vs Washington Wizards",
-      "team_home": "Miami Heat",
-      "team_away": "Washington Wizards",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775329200
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "NHL",
-      "title": "Dallas Stars vs Colorado Avalanche",
-      "team_home": "Dallas Stars",
-      "team_away": "Colorado Avalanche",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -514,38 +251,25 @@
       "date": "2026-04-04",
       "time_utc": "19:05",
       "time_utc1": "21:05",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Lille vs Lens",
       "team_home": "Lille",
       "team_away": "Lens",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
