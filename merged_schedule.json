@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T14:58:34.729685",
+  "generated_at": "2026-04-04T15:36:13.259996",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 326,
+  "total_events": 323,
   "events": [
     {
       "date": "2026-04-04",
@@ -155,43 +155,25 @@
       "date": "2026-04-04",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Real Sociedad vs Levante",
       "team_home": "Real Sociedad",
       "team_away": "Levante",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -207,72 +189,6 @@
             "channel": "BR3",
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775304000
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Laliga 2",
-      "title": "Cadiz CF vs Cordoba",
-      "team_home": "Cadiz CF",
-      "team_away": "Cordoba",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775304000
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Ligue 2",
-      "title": "Montpellier vs Troyes",
-      "team_home": "Montpellier",
-      "team_away": "Troyes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775304000
-    },
-    {
-      "date": "2026-04-04",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Ligue 2",
-      "title": "Reims vs Boulogne",
-      "team_home": "Reims",
-      "team_away": "Boulogne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
           }
         ]
       },
