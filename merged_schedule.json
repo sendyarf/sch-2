@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T12:00:34.428281",
+  "generated_at": "2026-04-05T13:20:51.498260",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 174,
+  "total_events": 173,
   "events": [
     {
       "date": "2026-04-05",
@@ -36,50 +36,6 @@
         ]
       },
       "startTimestamp": 1775365200
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Liga Endesa",
-      "title": "Manresa vs Baskonia",
-      "team_home": "Manresa",
-      "team_away": "Baskonia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775383200
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "10:15",
-      "time_utc1": "12:15",
-      "league": "Eredivisie",
-      "title": "G.A. Eagles vs Zwolle",
-      "team_home": "G.A. Eagles",
-      "team_away": "Zwolle",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775384100
     },
     {
       "date": "2026-04-05",
@@ -751,6 +707,28 @@
         ]
       },
       "startTimestamp": 1775395800
+    },
+    {
+      "date": "2026-04-05",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Betfred Super League",
+      "title": "Levadiakos vs Aris",
+      "team_home": "Levadiakos",
+      "team_away": "Aris",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "GR SPORT 3",
+            "url": "https://multi.govoet.cc/?envivo=150",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1775397600
     },
     {
       "date": "2026-04-05",
