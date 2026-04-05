@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T15:25:41.302769",
+  "generated_at": "2026-04-05T15:54:04.715469",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 164,
+  "total_events": 163,
   "events": [
     {
       "date": "2026-04-05",
@@ -135,39 +135,19 @@
       "date": "2026-04-05",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "FC Volendam vs Feyenoord",
-      "team_home": "FC Volendam",
+      "league": null,
+      "title": "Volendam vs Feyenoord",
+      "team_home": "Volendam",
       "team_away": "Feyenoord",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
           {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -175,28 +155,6 @@
             "channel": "ELEVEN3",
             "url": "https://multi.govoet.cc/?ss=eleven3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775392200
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Heerenveen vs Heracles",
-      "team_home": "Heerenveen",
-      "team_away": "Heracles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
           }
         ]
       },
