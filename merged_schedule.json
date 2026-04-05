@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T18:34:28.254717",
+  "generated_at": "2026-04-05T19:22:08.528958",
   "sources": [
     {
       "name": "cartelive",
@@ -13,93 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 134,
+  "total_events": 131,
   "events": [
-    {
-      "date": "2026-04-05",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "PAOK vs Panathinaikos",
-      "team_home": "PAOK",
-      "team_away": "Panathinaikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775404800
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Breogan",
-      "team_home": "Valencia",
-      "team_away": "Breogan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775404800
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Serie A",
-      "title": "Pisa vs Torino",
-      "team_home": "Pisa",
-      "team_away": "Torino",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775404800
-    },
     {
       "date": "2026-04-05",
       "time_utc": "16:30",
