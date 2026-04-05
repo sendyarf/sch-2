@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T15:54:04.715469",
+  "generated_at": "2026-04-05T16:29:14.828712",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 163,
+  "total_events": 161,
   "events": [
     {
       "date": "2026-04-05",
@@ -164,55 +164,26 @@
       "date": "2026-04-05",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Albion vs Cerro Largo",
-      "team_home": "Albion",
-      "team_away": "Cerro Largo",
+      "league": null,
+      "title": "Cremonese vs Bologna",
+      "team_home": "Cremonese",
+      "team_away": "Bologna",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775394000
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Ligue 1",
-      "title": "Angers vs Lyon",
-      "team_home": "Angers",
-      "team_away": "Lyon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -222,22 +193,14 @@
       "date": "2026-04-05",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Livingston vs Hearts",
       "team_home": "Livingston",
       "team_away": "Hearts",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV4",
@@ -250,65 +213,6 @@
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775394000
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Serie A",
-      "title": "Cremonese vs Bologna",
-      "team_home": "Cremonese",
-      "team_away": "Bologna",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ]
       },
