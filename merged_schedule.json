@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T06:04:15.525326",
+  "generated_at": "2026-04-05T07:21:58.552393",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 189,
+  "total_events": 188,
   "events": [
     {
       "date": "2026-04-03",
@@ -329,43 +329,6 @@
         ]
       },
       "startTimestamp": 1775271600
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Santos Laguna vs Club America",
-      "team_home": "Santos Laguna",
-      "team_away": "Club America",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775358600
     },
     {
       "date": "2026-04-05",
