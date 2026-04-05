@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T19:54:15.009173",
+  "generated_at": "2026-04-05T20:25:32.090840",
   "sources": [
     {
       "name": "cartelive",
@@ -13,110 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 125,
+  "total_events": 122,
   "events": [
-    {
-      "date": "2026-04-05",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Basket Zaragoza vs Barcelona",
-      "team_home": "Basket Zaragoza",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775408400
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "NHL",
-      "title": "Detroit Red Wings vs Minnesota Wild",
-      "team_home": "Detroit Red Wings",
-      "team_away": "Minnesota Wild",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775408400
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Fenerbahce vs Besiktas",
-      "team_home": "Fenerbahce",
-      "team_away": "Besiktas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775408400
-    },
     {
       "date": "2026-04-05",
       "time_utc": "17:35",
