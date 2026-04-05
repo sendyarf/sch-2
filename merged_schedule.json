@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T14:53:07.010435",
+  "generated_at": "2026-04-05T15:25:41.302769",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 165,
+  "total_events": 164,
   "events": [
     {
       "date": "2026-04-05",
@@ -70,60 +70,25 @@
       "date": "2026-04-05",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Getafe vs Ath Bilbao",
       "team_home": "Getafe",
       "team_away": "Ath Bilbao",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -139,28 +104,6 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775390400
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Laliga 2",
-      "title": "Eibar vs Ceuta",
-      "team_home": "Eibar",
-      "team_away": "Ceuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
           }
         ]
       },
@@ -789,8 +732,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
+            "channel": "LIGUE 1 FR 5",
+            "url": "https://multi.govoet.cc/?envivo=22",
             "source": "cartelive"
           }
         ],
@@ -833,8 +776,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
+            "channel": "LIGUE 1 FR 4",
+            "url": "https://multi.govoet.cc/?envivo=21",
             "source": "cartelive"
           },
           {
