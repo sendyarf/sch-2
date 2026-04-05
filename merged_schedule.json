@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T17:03:32.142684",
+  "generated_at": "2026-04-05T17:48:18.837797",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 157,
+  "total_events": 155,
   "events": [
     {
       "date": "2026-04-05",
@@ -287,48 +287,25 @@
       "date": "2026-04-05",
       "time_utc": "14:15",
       "time_utc1": "16:15",
-      "league": "Laliga",
-      "title": "Valencia vs Celta Vigo",
+      "league": null,
+      "title": "Valencia vs Celta de Vigo",
       "team_home": "Valencia",
-      "team_away": "Celta Vigo",
+      "team_away": "Celta de Vigo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -348,50 +325,6 @@
         ]
       },
       "startTimestamp": 1775398500
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Andorra vs Racing Santander",
-      "team_home": "Andorra",
-      "team_away": "Racing Santander",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775398500
-    },
-    {
-      "date": "2026-04-05",
-      "time_utc": "14:45",
-      "time_utc1": "16:45",
-      "league": "Eredivisie",
-      "title": "NAC Breda vs Sparta Rotterdam",
-      "team_home": "NAC Breda",
-      "team_away": "Sparta Rotterdam",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775400300
     },
     {
       "date": "2026-04-05",
