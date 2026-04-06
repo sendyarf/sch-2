@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T20:54:48.159272",
+  "generated_at": "2026-04-06T21:32:25.325563",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 96,
+  "total_events": 95,
   "events": [
     {
       "date": "2026-04-06",
@@ -371,28 +371,6 @@
         ]
       },
       "startTimestamp": 1775499300
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Laliga 2",
-      "title": "Gijon vs Real Sociedad B",
-      "team_home": "Gijon",
-      "team_away": "Real Sociedad B",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775500200
     },
     {
       "date": "2026-04-06",
