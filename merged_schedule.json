@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T13:14:12.634526",
+  "generated_at": "2026-04-06T14:15:34.164362",
   "sources": [
     {
       "name": "cartelive",
@@ -19,21 +19,15 @@
       "date": "2026-04-06",
       "time_utc": "10:30",
       "time_utc1": "12:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Udinese vs Como",
       "team_home": "Udinese",
       "team_away": "Como",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -42,21 +36,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
           }
         ]
       },
