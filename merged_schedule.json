@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T16:00:35.001924",
+  "generated_at": "2026-04-06T17:05:21.858182",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 105,
+  "total_events": 99,
   "events": [
     {
       "date": "2026-04-06",
@@ -157,180 +157,15 @@
       "date": "2026-04-06",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Blackburn vs West Brom",
-      "team_home": "Blackburn",
-      "team_away": "West Brom",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775484000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Bristol City vs Sheffield Utd",
-      "team_home": "Bristol City",
-      "team_away": "Sheffield Utd",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775484000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Derby vs Stoke",
-      "team_home": "Derby",
-      "team_away": "Stoke",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775484000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Ipswich vs Birmingham",
-      "team_home": "Ipswich",
-      "team_away": "Birmingham",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775484000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Preston vs QPR",
-      "team_home": "Preston",
-      "team_away": "QPR",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775484000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Sheffield Wed vs Leicester",
-      "team_home": "Sheffield Wed",
-      "team_away": "Leicester",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775484000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Watford vs Charlton",
+      "league": null,
+      "title": "Watford vs Charlton Athletic",
       "team_home": "Watford",
-      "team_away": "Charlton",
+      "team_away": "Charlton Athletic",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -344,19 +179,19 @@
       "date": "2026-04-06",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "RAAL La Louviere vs Dender",
-      "team_home": "RAAL La Louviere",
-      "team_away": "Dender",
+      "league": null,
+      "title": "Ipswich Town vs Birmingham City",
+      "team_home": "Ipswich Town",
+      "team_away": "Birmingham City",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
