@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T14:15:34.164362",
+  "generated_at": "2026-04-06T15:10:59.369618",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 107,
+  "total_events": 105,
   "events": [
     {
       "date": "2026-04-06",
@@ -48,21 +48,15 @@
       "date": "2026-04-06",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Championship",
-      "title": "Portsmouth vs Oxford Utd",
+      "league": null,
+      "title": "Portsmouth vs Oxford United",
       "team_home": "Portsmouth",
-      "team_away": "Oxford Utd",
+      "team_away": "Oxford United",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -71,69 +65,13 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1775475000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Club Brugge KV vs Anderlecht",
-      "team_home": "Club Brugge KV",
-      "team_away": "Anderlecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775475000
-    },
-    {
-      "date": "2026-04-06",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Championship",
-      "title": "Millwall vs Norwich",
-      "team_home": "Millwall",
-      "team_away": "Norwich",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775476800
     },
     {
       "date": "2026-04-06",
