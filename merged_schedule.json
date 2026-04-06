@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T18:03:29.786429",
+  "generated_at": "2026-04-06T19:18:43.019660",
   "sources": [
     {
       "name": "cartelive",
@@ -223,65 +223,26 @@
       "date": "2026-04-06",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Serie A",
+      "league": null,
       "title": "Juventus vs Genoa",
       "team_home": "Juventus",
       "team_away": "Genoa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 18",
-            "url": "https://multi.govoet.cc/?envivo=48",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
