@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T11:36:58.892663",
+  "generated_at": "2026-04-07T12:41:51.828816",
   "sources": [
     {
       "name": "cartelive",
@@ -470,6 +470,11 @@
         ],
         "de": [
           {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -570,17 +575,29 @@
             "source": "sportsonline"
           }
         ],
-        "unknown": [
+        "de": [
           {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
+            "channel": "DE bundliga3",
+            "url": "https://multi.govoet.cc/?envivo=113",
+            "source": "cartelive"
           }
         ],
         "pt": [
           {
+            "channel": "PT BTV",
+            "url": "https://multi.govoet.cc/?envivo=147",
+            "source": "cartelive"
+          },
+          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ],
