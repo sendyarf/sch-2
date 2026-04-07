@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T21:29:09.439014",
+  "generated_at": "2026-04-07T22:05:37.379705",
   "sources": [
     {
       "name": "cartelive",
@@ -13,135 +13,60 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 80,
+  "total_events": 74,
   "events": [
-    {
-      "date": "2026-04-07",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Barcelona vs Panathinaikos",
-      "team_home": "Barcelona",
-      "team_away": "Panathinaikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775586600
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Valencia vs Olimpia Milano",
-      "team_home": "Valencia",
-      "team_away": "Olimpia Milano",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775586600
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Virtus Bologna vs Bayern",
-      "team_home": "Virtus Bologna",
-      "team_away": "Bayern",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775586600
-    },
     {
       "date": "2026-04-07",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Wrexham vs Southampton",
-      "team_home": "Wrexham",
-      "team_away": "Southampton",
+      "league": null,
+      "title": "Sporting CP vs Arsenal",
+      "team_home": "Sporting CP",
+      "team_away": "Arsenal",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1775588400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Copa Argentina",
-      "title": "Estudiantes Rio Cuarto vs San Martin T.",
-      "team_home": "Estudiantes Rio Cuarto",
-      "team_away": "San Martin T.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
         "es": [
           {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1775588400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Baskonia vs Maccabi Tel Aviv",
-      "team_home": "Baskonia",
-      "team_away": "Maccabi Tel Aviv",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
+        ],
+        "ar": [
           {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -151,21 +76,29 @@
       "date": "2026-04-07",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
+      "league": null,
       "title": "Real Madrid vs Bayern Munich",
       "team_home": "Real Madrid",
       "team_away": "Bayern Munich",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          },
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -174,59 +107,15 @@
         ],
         "es": [
           {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
-        "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -253,108 +142,6 @@
           {
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775588400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Sporting CP vs Arsenal",
-      "team_home": "Sporting CP",
-      "team_away": "Arsenal",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
         ]
