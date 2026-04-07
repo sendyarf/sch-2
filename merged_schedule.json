@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T17:53:25.045073",
+  "generated_at": "2026-04-07T18:54:59.475019",
   "sources": [
     {
       "name": "cartelive",
@@ -13,118 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 91,
+  "total_events": 84,
   "events": [
-    {
-      "date": "2026-04-07",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": null,
-      "title": "Melbourne City vs Central Coast Mariners",
-      "team_home": "Melbourne City",
-      "team_away": "Central Coast Mariners",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775552400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Tennis",
-      "title": "Monte Carlo",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775552400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": null,
-      "title": "Bandırmaspor vs Sarıyer",
-      "team_home": "Bandırmaspor",
-      "team_away": "Sarıyer",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775561400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "12:50",
-      "time_utc1": "14:50",
-      "league": null,
-      "title": "Thailand vs China",
-      "team_home": "Thailand",
-      "team_away": "China",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775566200
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": null,
-      "title": "Manisa BBSK vs Pendikspor",
-      "team_home": "Manisa BBSK",
-      "team_away": "Pendikspor",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775570400
-    },
     {
       "date": "2026-04-07",
       "time_utc": "16:00",
@@ -164,50 +54,6 @@
             "channel": "ES M+ Deportes5",
             "url": "https://multi.govoet.cc/?envivo=66",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775581200
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Vizela vs Benfica B",
-      "team_home": "Vizela",
-      "team_away": "Benfica B",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775581200
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Çorum Belediyespor vs Bodrumspor",
-      "team_home": "Çorum Belediyespor",
-      "team_away": "Bodrumspor",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
@@ -266,8 +112,7 @@
       "team_home": "Barcelona",
       "team_away": "Panathinaikos",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -275,13 +120,6 @@
             "channel": "ES m.laliga2",
             "url": "https://multi.govoet.cc/?envivo=50",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -594,7 +432,7 @@
             "source": "sportsonline"
           }
         ],
-        "unknown": [
+        "ar": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -1341,7 +1179,9 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          },
+          }
+        ],
+        "ar": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -1847,7 +1687,9 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          },
+          }
+        ],
+        "ar": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
