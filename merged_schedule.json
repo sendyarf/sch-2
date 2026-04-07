@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T03:29:28.678422",
+  "generated_at": "2026-04-07T05:26:34.250308",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 106,
+  "total_events": 101,
   "events": [
     {
       "date": "2026-04-06",
@@ -200,67 +200,17 @@
     },
     {
       "date": "2026-04-07",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Houston Astros",
-      "team_home": "Colorado Rockies",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775522400
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NBA",
-      "title": "Denver Nuggets vs Portland Trail Blazers",
-      "team_home": "Denver Nuggets",
-      "team_away": "Portland Trail Blazers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775523600
-    },
-    {
-      "date": "2026-04-07",
       "time_utc": "01:10",
       "time_utc1": "03:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Atl. Nacional vs Jaguares de Cordoba",
-      "team_home": "Atl. Nacional",
-      "team_away": "Jaguares de Cordoba",
+      "league": null,
+      "title": "Atlético Nacional vs Jaguares de Córdoba",
+      "team_home": "Atlético Nacional",
+      "team_away": "Jaguares de Córdoba",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -269,72 +219,6 @@
         ]
       },
       "startTimestamp": 1775524200
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Atlanta Braves",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775525880
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Philadelphia Phillies",
-      "team_home": "San Francisco Giants",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775526300
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "San Jose Sharks vs Chicago Blackhawks",
-      "team_home": "San Jose Sharks",
-      "team_away": "Chicago Blackhawks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775527200
     },
     {
       "date": "2026-04-07",
