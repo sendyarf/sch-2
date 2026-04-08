@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T04:07:52.660788",
+  "generated_at": "2026-04-08T05:56:24.081216",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 44,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-04-07",
@@ -483,237 +483,6 @@
     },
     {
       "date": "2026-04-08",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NHL",
-      "title": "Utah Mammoth vs Edmonton Oilers",
-      "team_home": "Utah Mammoth",
-      "team_away": "Edmonton Oilers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775611800
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Atlanta Braves",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775612280
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Philadelphia Phillies",
-      "team_home": "San Francisco Giants",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775612700
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Concacaf Champions Cup",
-      "title": "Los Angeles FC vs Cruz Azul",
-      "team_home": "Los Angeles FC",
-      "team_away": "Cruz Azul",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775613600
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "Deportes Tolima (Col) vs U. de Deportes (Per)",
-      "team_home": "Deportes Tolima (Col)",
-      "team_away": "U. de Deportes (Per)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775613600
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Copa Sudamericana",
-      "title": "Alianza Atl. (Per) vs Tigre (Arg)",
-      "team_home": "Alianza Atl. (Per)",
-      "team_away": "Tigre (Arg)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775613600
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NBA",
-      "title": "Golden State Warriors vs Sacramento Kings",
-      "team_home": "Golden State Warriors",
-      "team_away": "Sacramento Kings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775613600
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Anaheim Ducks vs Nashville Predators",
-      "team_home": "Anaheim Ducks",
-      "team_away": "Nashville Predators",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775613600
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Vancouver Canucks vs Vegas Golden Knights",
-      "team_home": "Vancouver Canucks",
-      "team_away": "Vegas Golden Knights",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775613600
-    },
-    {
-      "date": "2026-04-08",
       "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": null,
@@ -743,58 +512,72 @@
     },
     {
       "date": "2026-04-08",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "NBA",
-      "title": "Los Angeles Clippers vs Dallas Mavericks",
-      "team_home": "Los Angeles Clippers",
-      "team_away": "Dallas Mavericks",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": null,
+      "title": "Los Angeles FC vs Cruz Azul",
+      "team_home": "Los Angeles FC",
+      "team_away": "Cruz Azul",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
-        "pt": [
+        "ar": [
           {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1775615400
+      "startTimestamp": 1775613600
+    },
+    {
+      "date": "2026-04-08",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": null,
+      "title": "Alianza Atlético vs Tigre",
+      "team_home": "Alianza Atlético",
+      "team_away": "Tigre",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1775613600
     },
     {
       "date": "2026-04-08",
       "time_utc": "02:30",
       "time_utc1": "04:30",
       "league": "NBA",
-      "title": "Los Angeles Lakers vs Oklahoma City Thunder",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Oklahoma City Thunder",
+      "title": "Dallas Mavericks vs LA Clippers",
+      "team_home": "Dallas Mavericks",
+      "team_away": "LA Clippers",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt": [
           {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
