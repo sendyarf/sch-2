@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T23:37:08.368757",
+  "generated_at": "2026-04-08T01:02:47.212197",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 73,
+  "total_events": 72,
   "events": [
     {
       "date": "2026-04-07",
@@ -152,26 +152,15 @@
       "date": "2026-04-07",
       "time_utc": "21:00",
       "time_utc1": "23:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Aguilas vs Bucaramanga",
-      "team_home": "Aguilas",
-      "team_away": "Bucaramanga",
+      "league": null,
+      "title": "Rionegro Águilas vs Atlético Bucaramanga",
+      "team_home": "Rionegro Águilas",
+      "team_away": "Atlético Bucaramanga",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -183,126 +172,16 @@
     },
     {
       "date": "2026-04-07",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Copa Argentina",
-      "title": "Velez Sarsfield vs Deportivo Armenio",
-      "team_home": "Velez Sarsfield",
-      "team_away": "Deportivo Armenio",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775597400
-    },
-    {
-      "date": "2026-04-07",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "Ind. Rivadavia (Arg) vs Bolivar (Bol)",
-      "team_home": "Ind. Rivadavia (Arg)",
-      "team_away": "Bolivar (Bol)",
+      "league": null,
+      "title": "Barracas Central vs Vasco da Gama",
+      "team_home": "Barracas Central",
+      "team_away": "Vasco da Gama",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775599200
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "La Guaira (Ven) vs Fluminense (Bra)",
-      "team_home": "La Guaira (Ven)",
-      "team_away": "Fluminense (Bra)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775599200
-    },
-    {
-      "date": "2026-04-07",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Barracas Central (Arg) vs Vasco (Bra)",
-      "team_home": "Barracas Central (Arg)",
-      "team_away": "Vasco (Bra)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV1",
@@ -324,27 +203,14 @@
       "date": "2026-04-07",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Independiente (Bol) vs Racing Club (Arg)",
-      "team_home": "Independiente (Bol)",
-      "team_away": "Racing Club (Arg)",
+      "league": null,
+      "title": "Independiente Petrolero vs Racing Club",
+      "team_home": "Independiente Petrolero",
+      "team_away": "Racing Club",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD10",
@@ -363,6 +229,50 @@
           {
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1775599200
+    },
+    {
+      "date": "2026-04-07",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Independiente Rivadavia vs Bolívar",
+      "team_home": "Independiente Rivadavia",
+      "team_away": "Bolívar",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1775599200
+    },
+    {
+      "date": "2026-04-07",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Deportivo La Guaira vs Fluminense",
+      "team_home": "Deportivo La Guaira",
+      "team_away": "Fluminense",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
         ]
