@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T18:02:58.968078",
+  "generated_at": "2026-04-08T19:39:07.456002",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 70,
+  "total_events": 69,
   "events": [
     {
       "date": "2026-04-08",
@@ -36,35 +36,6 @@
         ]
       },
       "startTimestamp": 1775642400
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "16:35",
-      "time_utc1": "18:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs San Diego Padres",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775666100
     },
     {
       "date": "2026-04-08",
