@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T20:22:42.965446",
+  "generated_at": "2026-04-08T21:07:34.007761",
   "sources": [
     {
       "name": "cartelive",
@@ -13,195 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 67,
+  "total_events": 60,
   "events": [
-    {
-      "date": "2026-04-08",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Gamba Osaka vs Bangkok United",
-      "team_home": "Gamba Osaka",
-      "team_away": "Bangkok United",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775642400
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": null,
-      "title": "Sporting Braga vs Real Betis",
-      "team_home": "Sporting Braga",
-      "team_away": "Real Betis",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775666700
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Göztepe vs Galatasaray",
-      "team_home": "Göztepe",
-      "team_away": "Galatasaray",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775667600
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Anadolu Efes vs Partizan Mozzart Bet",
-      "team_home": "Anadolu Efes",
-      "team_away": "Partizan Mozzart Bet",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775669400
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Monaco vs Lyon-Villeurbanne",
-      "team_home": "Monaco",
-      "team_away": "Lyon-Villeurbanne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775669400
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Milwaukee Brewers",
-      "team_home": "Boston Red Sox",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775669700
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Hilal vs Al Kholood",
-      "team_home": "Al Hilal",
-      "team_away": "Al Kholood",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775671200
-    },
     {
       "date": "2026-04-08",
       "time_utc": "18:10",
@@ -255,8 +68,7 @@
       "team_home": "Barcelona",
       "team_away": "Atl. Madrid",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -286,11 +98,6 @@
             "channel": "ESPN1",
             "url": "https://multi.govoet.cc/?envivo=87",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "en": [
@@ -298,16 +105,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ],
         "it": [
@@ -315,11 +112,6 @@
             "channel": "IT SKY CALCIO",
             "url": "https://multi.govoet.cc/?envivo=138",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -327,32 +119,6 @@
             "channel": "DE bundliga2",
             "url": "https://multi.govoet.cc/?envivo=112",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -367,8 +133,7 @@
       "team_home": "Paris Saint-Germain",
       "team_away": "Liverpool",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -376,11 +141,6 @@
             "channel": "canal+",
             "url": "https://multi.govoet.cc/?envivo=11",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -393,11 +153,6 @@
             "channel": "ESPN2",
             "url": "https://multi.govoet.cc/?envivo=88",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
           }
         ],
         "en": [
@@ -405,16 +160,6 @@
             "channel": "UK TNT SPORT",
             "url": "https://multi.govoet.cc/?envivo=126",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
           }
         ],
         "it": [
@@ -422,11 +167,6 @@
             "channel": "IT FEED",
             "url": "https://multi.govoet.cc/?envivo=140",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -434,20 +174,6 @@
             "channel": "DE bundliga1",
             "url": "https://multi.govoet.cc/?envivo=111",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
           }
         ]
       },
@@ -675,19 +401,17 @@
             "channel": "beIN En español",
             "url": "https://multi.govoet.cc/?envivo=69",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ],
         "en": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ],
@@ -1170,19 +894,17 @@
             "channel": "beIN En español",
             "url": "https://multi.govoet.cc/?envivo=69",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ],
         "en": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ]
@@ -1342,19 +1064,17 @@
             "channel": "beIN En español",
             "url": "https://multi.govoet.cc/?envivo=69",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ],
         "en": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ]
