@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T05:56:24.081216",
+  "generated_at": "2026-04-08T07:14:13.244247",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 35,
   "events": [
     {
       "date": "2026-04-07",
@@ -582,28 +582,6 @@
         ]
       },
       "startTimestamp": 1775615400
-    },
-    {
-      "date": "2026-04-08",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "NBA",
-      "title": "Phoenix Suns vs Houston Rockets",
-      "team_home": "Phoenix Suns",
-      "team_away": "Houston Rockets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775617200
     },
     {
       "date": "2026-04-08",
