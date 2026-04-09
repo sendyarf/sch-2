@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T18:38:07.625198",
+  "generated_at": "2026-04-09T19:49:14.170003",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 77,
+  "total_events": 73,
   "events": [
     {
       "date": "2026-04-03",
@@ -636,165 +636,28 @@
     },
     {
       "date": "2026-04-09",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Saudi Pro League",
-      "title": "Damac vs Al Qadsiah",
-      "team_home": "Damac",
-      "team_away": "Al Qadsiah",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775750400
-    },
-    {
-      "date": "2026-04-09",
-      "time_utc": "16:10",
-      "time_utc1": "18:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs Cincinnati Reds",
-      "team_home": "Miami Marlins",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775751000
-    },
-    {
-      "date": "2026-04-09",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Hapoel Tel-Aviv vs Olympiacos",
-      "team_home": "Hapoel Tel-Aviv",
-      "team_away": "Olympiacos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775752200
-    },
-    {
-      "date": "2026-04-09",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Conference League",
-      "title": "Conference League: Multiplex Ligue Europa/Ligue Conference",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775753100
-    },
-    {
-      "date": "2026-04-09",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Conference League",
+      "league": null,
       "title": "Rayo Vallecano vs AEK Athens",
       "team_home": "Rayo Vallecano",
       "team_away": "AEK Athens",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ],
-        "it": [
+        "es": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "nl": [
