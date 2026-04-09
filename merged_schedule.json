@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T19:49:14.170003",
+  "generated_at": "2026-04-09T20:42:27.187194",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 73,
+  "total_events": 70,
   "events": [
     {
       "date": "2026-04-03",
@@ -681,28 +681,6 @@
       "date": "2026-04-09",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Rizespor vs Samsunspor",
-      "team_home": "Rizespor",
-      "team_away": "Samsunspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775754000
-    },
-    {
-      "date": "2026-04-09",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
       "league": null,
       "title": "Golf: Masters 2026 - D1",
       "team_home": null,
@@ -720,50 +698,6 @@
         ]
       },
       "startTimestamp": 1775754000
-    },
-    {
-      "date": "2026-04-09",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "New York Yankees vs Athletics",
-      "team_home": "New York Yankees",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775756100
-    },
-    {
-      "date": "2026-04-09",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Detroit Tigers",
-      "team_home": "Minnesota Twins",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775756400
     },
     {
       "date": "2026-04-09",
