@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T08:05:40.785216",
+  "generated_at": "2026-04-10T09:37:44.173276",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 98,
+  "total_events": 94,
   "events": [
     {
       "date": "2026-04-10",
@@ -2432,108 +2432,6 @@
         ]
       },
       "startTimestamp": 1775963100
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Platense vs Corinthians",
-      "team_home": "Platense",
-      "team_away": "Corinthians",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776297600
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Macará vs América de Cali",
-      "team_home": "Macará",
-      "team_away": "América de Cali",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776299400
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Carabobo vs RB Bragantino",
-      "team_home": "Carabobo",
-      "team_away": "RB Bragantino",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776299400
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": null,
-      "title": "Santa Fe vs Peñarol",
-      "team_home": "Santa Fe",
-      "team_away": "Peñarol",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776304800
     }
   ]
 }
