@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T21:04:00.902914",
+  "generated_at": "2026-04-10T21:53:10.123297",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 141,
+  "total_events": 135,
   "events": [
     {
       "date": "2026-04-10",
@@ -214,56 +214,21 @@
     },
     {
       "date": "2026-04-10",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Pittsburgh Pirates",
-      "team_home": "Chicago Cubs",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775845200
-    },
-    {
-      "date": "2026-04-10",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga",
+      "league": null,
       "title": "Augsburg vs Hoffenheim",
       "team_home": "Augsburg",
       "team_away": "Hoffenheim",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -278,79 +243,6 @@
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775845800
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Partizan Mozzart Bet vs Zalgiris Kaunas",
-      "team_home": "Partizan Mozzart Bet",
-      "team_away": "Zalgiris Kaunas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775845800
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Virtus Bologna vs Baskonia",
-      "team_home": "Virtus Bologna",
-      "team_away": "Baskonia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775845800
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Laliga 2",
-      "title": "Ceuta vs Real Sociedad B",
-      "team_home": "Ceuta",
-      "team_away": "Real Sociedad B",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
           }
         ]
       },
@@ -382,107 +274,26 @@
       "date": "2026-04-10",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Lyon-Villeurbanne vs Crvena Zvezda Meridianbet",
-      "team_home": "Lyon-Villeurbanne",
-      "team_away": "Crvena Zvezda Meridianbet",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775846700
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Charleroi vs Antwerp",
-      "team_home": "Charleroi",
-      "team_away": "Antwerp",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775846700
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "AS Roma vs Pisa",
-      "team_home": "AS Roma",
+      "league": null,
+      "title": "Roma vs Pisa",
+      "team_home": "Roma",
       "team_away": "Pisa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
           }
         ]
       },
