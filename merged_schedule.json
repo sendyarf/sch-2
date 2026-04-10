@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T19:52:52.299844",
+  "generated_at": "2026-04-10T20:28:51.029439",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 157,
+  "total_events": 155,
   "events": [
     {
       "date": "2026-04-10",
@@ -121,44 +121,19 @@
       "date": "2026-04-10",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Ligue 1",
-      "title": "Paris FC vs Monaco",
-      "team_home": "Paris FC",
+      "league": null,
+      "title": "Paris vs Monaco",
+      "team_home": "Paris",
       "team_away": "Monaco",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
           {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -166,57 +141,6 @@
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775840400
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Aurillac vs Agen",
-      "team_home": "Aurillac",
-      "team_away": "Agen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775840400
-    },
-    {
-      "date": "2026-04-10",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Besiktas vs Antalyaspor",
-      "team_home": "Besiktas",
-      "team_away": "Antalyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
           }
         ]
       },
