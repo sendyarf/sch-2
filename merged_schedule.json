@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T22:00:53.705684",
+  "generated_at": "2026-04-11T22:51:06.256507",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 240,
+  "total_events": 239,
   "events": [
     {
       "date": "2026-04-11",
@@ -274,21 +274,15 @@
       "date": "2026-04-11",
       "time_utc": "19:05",
       "time_utc1": "21:05",
-      "league": "Ligue 1",
-      "title": "Rennes vs Angers",
+      "league": null,
+      "title": "Rennes vs Angers SCO",
       "team_home": "Rennes",
-      "team_away": "Angers",
+      "team_away": "Angers SCO",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -307,70 +301,21 @@
     },
     {
       "date": "2026-04-11",
-      "time_utc": "19:07",
-      "time_utc1": "21:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Minnesota Twins",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775934420
-    },
-    {
-      "date": "2026-04-11",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Estrela vs Sporting CP",
       "team_home": "Estrela",
       "team_away": "Sporting CP",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
