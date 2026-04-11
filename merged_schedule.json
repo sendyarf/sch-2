@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T19:23:36.563832",
+  "generated_at": "2026-04-11T19:54:59.686816",
   "sources": [
     {
       "name": "cartelive",
@@ -13,37 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 263,
+  "total_events": 262,
   "events": [
-    {
-      "date": "2026-04-11",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "NHL",
-      "title": "Boston Bruins vs Tampa Bay Lightning",
-      "team_home": "Boston Bruins",
-      "team_away": "Tampa Bay Lightning",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775925000
-    },
     {
       "date": "2026-04-11",
       "time_utc": "17:00",
