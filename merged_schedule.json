@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T21:36:34.070570",
+  "generated_at": "2026-04-11T22:00:53.705684",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 246,
+  "total_events": 240,
   "events": [
     {
       "date": "2026-04-11",
@@ -136,85 +136,26 @@
       "date": "2026-04-11",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "St. Truiden vs Club Brugge KV",
-      "team_home": "St. Truiden",
-      "team_away": "Club Brugge KV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775933100
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
+      "league": null,
       "title": "Atalanta vs Juventus",
       "team_home": "Atalanta",
       "team_away": "Juventus",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -231,183 +172,15 @@
       "date": "2026-04-11",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Caf Ligue Des Champions",
-      "title": "FAR Rabat vs Berkane",
-      "team_home": "FAR Rabat",
-      "team_away": "Berkane",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775934000
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "La Serena vs Everton",
-      "team_home": "La Serena",
-      "team_away": "Everton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775934000
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Challenge Cup",
-      "title": "Zebre vs Dragons",
-      "team_home": "Zebre",
-      "team_away": "Dragons",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775934000
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Mushuc Runa vs Manta",
-      "team_home": "Mushuc Runa",
-      "team_away": "Manta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775934000
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Eredivisie",
-      "title": "Heracles vs Ajax",
-      "team_home": "Heracles",
-      "team_away": "Ajax",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775934000
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Sevilla vs Atl. Madrid",
+      "league": null,
+      "title": "Sevilla vs Atlético Madrid",
       "team_home": "Sevilla",
-      "team_away": "Atl. Madrid",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -428,19 +201,26 @@
       "date": "2026-04-11",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Cordoba vs Zaragoza",
-      "team_home": "Cordoba",
-      "team_away": "Zaragoza",
+      "league": null,
+      "title": "Heracles vs Ajax",
+      "team_home": "Heracles",
+      "team_away": "Ajax",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "nl": [
           {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -450,19 +230,19 @@
       "date": "2026-04-11",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "NHL",
-      "title": "Pittsburgh Penguins vs Washington Capitals",
-      "team_home": "Pittsburgh Penguins",
-      "team_away": "Washington Capitals",
+      "league": null,
+      "title": "FAR Rabat vs RSB Berkane",
+      "team_home": "FAR Rabat",
+      "team_away": "RSB Berkane",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
