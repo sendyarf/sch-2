@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T05:46:57.885451",
+  "generated_at": "2026-04-11T06:53:54.503694",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 333,
+  "total_events": 332,
   "events": [
     {
       "date": "2026-04-10",
@@ -614,56 +614,16 @@
     },
     {
       "date": "2026-04-11",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga de Expansión MX",
-      "title": "Atletico La Paz vs Tepatitlan de Morelos",
-      "team_home": "Atletico La Paz",
-      "team_away": "Tepatitlan de Morelos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775876400
-    },
-    {
-      "date": "2026-04-11",
       "time_utc": "03:06",
       "time_utc1": "05:06",
-      "league": "Liga Mx",
-      "title": "Juarez vs Club Tijuana",
-      "team_home": "Juarez",
-      "team_away": "Club Tijuana",
+      "league": null,
+      "title": "Juárez vs Tijuana",
+      "team_home": "Juárez",
+      "team_away": "Tijuana",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD11",
