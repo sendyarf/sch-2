@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T20:58:22.918546",
+  "generated_at": "2026-04-11T21:36:34.070570",
   "sources": [
     {
       "name": "cartelive",
@@ -13,118 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 254,
+  "total_events": 246,
   "events": [
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Eredivisie",
-      "title": "Groningen vs G.A. Eagles",
-      "team_home": "Groningen",
-      "team_away": "G.A. Eagles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775930400
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Tenerife vs Basquet Girona",
-      "team_home": "Tenerife",
-      "team_away": "Basquet Girona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775930400
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue 2",
-      "title": "St Etienne vs Dunkerque",
-      "team_home": "St Etienne",
-      "team_away": "Dunkerque",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775930400
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Okhdood vs Al Nassr",
-      "team_home": "Al Okhdood",
-      "team_away": "Al Nassr",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775930400
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Torneo LPF",
-      "title": "Dep. Riestra vs Instituto",
-      "team_home": "Dep. Riestra",
-      "team_away": "Instituto",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775930400
-    },
     {
       "date": "2026-04-11",
       "time_utc": "18:00",
@@ -178,52 +68,17 @@
     },
     {
       "date": "2026-04-11",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Pittsburgh Pirates",
-      "team_home": "Chicago Cubs",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775931600
-    },
-    {
-      "date": "2026-04-11",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Darmstadt vs Hannover",
-      "team_home": "Darmstadt",
-      "team_away": "Hannover",
+      "league": null,
+      "title": "Darmstadt 98 vs Hannover 96",
+      "team_home": "Darmstadt 98",
+      "team_away": "Hannover 96",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -237,55 +92,20 @@
       "date": "2026-04-11",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Defensor Sp. vs Boston River",
-      "team_home": "Defensor Sp.",
-      "team_away": "Boston River",
+      "league": null,
+      "title": "Austin vs LA Galaxy",
+      "team_home": "Austin",
+      "team_away": "LA Galaxy",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775932200
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "MLS",
-      "title": "Austin FC vs Los Angeles Galaxy",
-      "team_home": "Austin FC",
-      "team_away": "Los Angeles Galaxy",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1775932200
@@ -294,47 +114,19 @@
       "date": "2026-04-11",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "MLS",
-      "title": "CF Montreal vs Philadelphia Union",
-      "team_home": "CF Montreal",
+      "league": null,
+      "title": "CF Montréal vs Philadelphia Union",
+      "team_home": "CF Montréal",
       "team_away": "Philadelphia Union",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775932200
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Torneo LPF",
-      "title": "Ind. Rivadavia vs Argentinos Jrs",
-      "team_home": "Ind. Rivadavia",
-      "team_away": "Argentinos Jrs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
           }
         ]
       },
