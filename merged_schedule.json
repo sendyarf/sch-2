@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T17:05:10.968217",
+  "generated_at": "2026-04-11T17:48:55.236714",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 288,
+  "total_events": 284,
   "events": [
     {
       "date": "2026-04-11",
@@ -230,49 +230,19 @@
       "date": "2026-04-11",
       "time_utc": "14:15",
       "time_utc1": "16:15",
-      "league": "Laliga",
+      "league": null,
       "title": "Elche vs Valencia",
       "team_home": "Elche",
       "team_away": "Valencia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -287,50 +257,6 @@
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775916900
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Burgos CF vs Gijon",
-      "team_home": "Burgos CF",
-      "team_away": "Gijon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775916900
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Leganes vs Albacete",
-      "team_home": "Leganes",
-      "team_away": "Albacete",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
           }
         ]
       },
@@ -357,50 +283,6 @@
         ]
       },
       "startTimestamp": 1775916900
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Eredivisie",
-      "title": "Utrecht vs Telstar",
-      "team_home": "Utrecht",
-      "team_away": "Telstar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775917800
-    },
-    {
-      "date": "2026-04-11",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "AFS vs Vitoria Guimaraes",
-      "team_home": "AFS",
-      "team_away": "Vitoria Guimaraes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775917800
     },
     {
       "date": "2026-04-11",
