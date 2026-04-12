@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T19:38:16.016549",
+  "generated_at": "2026-04-12T20:03:45.184520",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 150,
+  "total_events": 148,
   "events": [
     {
       "date": "2026-04-12",
@@ -715,91 +715,20 @@
       "date": "2026-04-12",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Ecuador Ligapro",
-      "title": "Tecnico U. vs U. Catolica",
-      "team_home": "Tecnico U.",
-      "team_away": "U. Catolica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776013200
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "San Pablo Burgos vs Real Madrid",
-      "team_home": "San Pablo Burgos",
-      "team_away": "Real Madrid",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776013200
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Benfica vs Nacional",
       "team_home": "Benfica",
       "team_away": "Nacional",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          },
           {
             "channel": "BTV",
             "url": "https://multi.govoet.cc/?ss=btv",
             "source": "sportsonline"
           }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1776013200
@@ -808,28 +737,15 @@
       "date": "2026-04-12",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Braga vs Arouca",
-      "team_home": "Braga",
+      "league": null,
+      "title": "Sporting Braga vs Arouca",
+      "team_home": "Sporting Braga",
       "team_away": "Arouca",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -843,36 +759,14 @@
       "date": "2026-04-12",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Super Lig",
+      "league": null,
       "title": "Galatasaray vs Kocaelispor",
       "team_home": "Galatasaray",
       "team_away": "Kocaelispor",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
