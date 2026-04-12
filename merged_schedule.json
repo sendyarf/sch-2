@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T20:52:30.534114",
+  "generated_at": "2026-04-12T21:28:04.622454",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 140,
+  "total_events": 133,
   "events": [
     {
       "date": "2026-04-12",
@@ -810,98 +810,19 @@
       "date": "2026-04-12",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Ecuador Ligapro",
-      "title": "Dep. Cuenca vs Ind. del Valle",
-      "team_home": "Dep. Cuenca",
-      "team_away": "Ind. del Valle",
+      "league": null,
+      "title": "Pumas UNAM vs Mazatlán",
+      "team_home": "Pumas UNAM",
+      "team_away": "Mazatlán",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776016800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Mx",
-      "title": "UNAM Pumas vs Mazatlan FC",
-      "team_home": "UNAM Pumas",
-      "team_away": "Mazatlan FC",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776016800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Torneo LPF",
-      "title": "Newells Old Boys vs San Lorenzo",
-      "team_home": "Newells Old Boys",
-      "team_away": "San Lorenzo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776016800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Torneo LPF",
-      "title": "Platense vs Gimnasia Mendoza",
-      "team_home": "Platense",
-      "team_away": "Gimnasia Mendoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
           }
         ]
       },
@@ -928,94 +849,6 @@
         ]
       },
       "startTimestamp": 1776016800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Chicago White Sox",
-      "team_home": "Kansas City Royals",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776017400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Washington Nationals",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776017400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Boston Red Sox",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776017700
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Pittsburgh Pirates",
-      "team_home": "Chicago Cubs",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776018000
     },
     {
       "date": "2026-04-12",
