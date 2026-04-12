@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T17:19:12.886009",
+  "generated_at": "2026-04-12T17:58:59.054153",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 156,
+  "total_events": 153,
   "events": [
     {
       "date": "2026-04-12",
@@ -512,108 +512,29 @@
     },
     {
       "date": "2026-04-12",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Liga Endesa",
-      "title": "Barcelona vs Bilbao",
-      "team_home": "Barcelona",
-      "team_away": "Bilbao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776006000
-    },
-    {
-      "date": "2026-04-12",
       "time_utc": "15:15",
       "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Ligue 1: Multiplex Ligue 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776006900
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Nice vs Le Havre",
-      "team_home": "Nice",
-      "team_away": "Le Havre",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776006900
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Toulouse vs Lille",
       "team_home": "Toulouse",
       "team_away": "Lille",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1776006900
@@ -622,84 +543,15 @@
       "date": "2026-04-12",
       "time_utc": "15:30",
       "time_utc1": "17:30",
-      "league": "Bundesliga",
-      "title": "Stuttgart vs Hamburger SV",
-      "team_home": "Stuttgart",
-      "team_away": "Hamburger SV",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776007800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Premier League",
+      "league": null,
       "title": "Chelsea vs Manchester City",
       "team_home": "Chelsea",
       "team_away": "Manchester City",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -709,40 +561,6 @@
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
           }
         ],
         "ar": [
@@ -763,6 +581,35 @@
           {
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776007800
+    },
+    {
+      "date": "2026-04-12",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": null,
+      "title": "Stuttgart vs Hamburger SV",
+      "team_home": "Stuttgart",
+      "team_away": "Hamburger SV",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
             "source": "sportsonline"
           }
         ]
