@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T15:57:29.558230",
+  "generated_at": "2026-04-12T16:39:28.453965",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 163,
+  "total_events": 161,
   "events": [
     {
       "date": "2026-04-12",
@@ -223,191 +223,19 @@
       "date": "2026-04-12",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Danubio",
-      "team_home": "Central Esp.",
-      "team_away": "Danubio",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775998800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Premier League: Multiplex Premier League",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775998800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Crystal Palace vs Newcastle",
-      "team_home": "Crystal Palace",
-      "team_away": "Newcastle",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775998800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Nottingham vs Aston Villa",
-      "team_home": "Nottingham",
-      "team_away": "Aston Villa",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=129",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775998800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Sunderland vs Tottenham",
+      "league": null,
+      "title": "Sunderland vs Tottenham Hotspur",
       "team_home": "Sunderland",
-      "team_away": "Tottenham",
+      "team_away": "Tottenham Hotspur",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
           }
         ],
         "ar": [
@@ -431,44 +259,70 @@
       "date": "2026-04-12",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Serie A",
+      "league": null,
+      "title": "Nottingham Forest vs Aston Villa",
+      "team_home": "Nottingham Forest",
+      "team_away": "Aston Villa",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1775998800
+    },
+    {
+      "date": "2026-04-12",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Crystal Palace vs Newcastle United",
+      "team_home": "Crystal Palace",
+      "team_away": "Newcastle United",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1775998800
+    },
+    {
+      "date": "2026-04-12",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
       "title": "Parma vs Napoli",
       "team_home": "Parma",
       "team_away": "Napoli",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -514,39 +368,19 @@
       "date": "2026-04-12",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "FC Koln vs Werder Bremen",
-      "team_home": "FC Koln",
+      "league": null,
+      "title": "Köln vs Werder Bremen",
+      "team_home": "Köln",
       "team_away": "Werder Bremen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
           }
         ],
         "pt": [
