@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T15:21:56.054999",
+  "generated_at": "2026-04-12T15:57:29.558230",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 165,
+  "total_events": 163,
   "events": [
     {
       "date": "2026-04-12",
@@ -196,64 +196,6 @@
         ]
       },
       "startTimestamp": 1775995200
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Nijmegen vs Feyenoord",
-      "team_home": "Nijmegen",
-      "team_away": "Feyenoord",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775997000
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Zwolle vs Excelsior",
-      "team_home": "Zwolle",
-      "team_away": "Excelsior",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775997000
     },
     {
       "date": "2026-04-12",
