@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T13:56:29.067292",
+  "generated_at": "2026-04-12T14:37:37.059760",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 171,
+  "total_events": 166,
   "events": [
     {
       "date": "2026-04-12",
@@ -92,46 +92,19 @@
       "date": "2026-04-12",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Championship",
-      "title": "Birmingham vs Wrexham",
-      "team_home": "Birmingham",
+      "league": null,
+      "title": "Birmingham City vs Wrexham",
+      "team_home": "Birmingham City",
       "team_away": "Wrexham",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -148,22 +121,14 @@
       "date": "2026-04-12",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Falkirk vs Rangers",
       "team_home": "Falkirk",
       "team_away": "Rangers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV3",
@@ -178,86 +143,15 @@
       "date": "2026-04-12",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775993400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bochum vs Braunschweig",
-      "team_home": "Bochum",
-      "team_away": "Braunschweig",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775993400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Elversberg vs Schalke",
+      "league": null,
+      "title": "Elversberg vs Schalke 04",
       "team_home": "Elversberg",
-      "team_away": "Schalke",
+      "team_away": "Schalke 04",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -269,79 +163,6 @@
             "channel": "ELEVEN3",
             "url": "https://multi.govoet.cc/?ss=eleven3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1775993400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Paderborn vs Magdeburg",
-      "team_home": "Paderborn",
-      "team_away": "Magdeburg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775993400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "KV Mechelen vs Royale Union SG",
-      "team_home": "KV Mechelen",
-      "team_away": "Royale Union SG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775993400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Super Lig",
-      "title": "Konyaspor vs Karagumruk",
-      "team_home": "Konyaspor",
-      "team_away": "Karagumruk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
           }
         ]
       },
