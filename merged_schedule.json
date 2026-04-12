@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T18:56:53.010750",
+  "generated_at": "2026-04-12T19:38:16.016549",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 150,
   "events": [
     {
       "date": "2026-04-12",
@@ -620,66 +620,19 @@
       "date": "2026-04-12",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Liga Endesa",
-      "title": "Baskonia vs Gran Canaria",
-      "team_home": "Baskonia",
-      "team_away": "Gran Canaria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776009600
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Serie A",
+      "league": null,
       "title": "Bologna vs Lecce",
       "team_home": "Bologna",
       "team_away": "Lecce",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
           }
         ]
       },
@@ -711,38 +664,15 @@
       "date": "2026-04-12",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga",
-      "title": "Celta Vigo vs Oviedo",
-      "team_home": "Celta Vigo",
-      "team_away": "Oviedo",
+      "league": null,
+      "title": "Celta de Vigo vs Real Oviedo",
+      "team_home": "Celta de Vigo",
+      "team_away": "Real Oviedo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -763,66 +693,14 @@
       "date": "2026-04-12",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Cadiz CF vs Andorra",
-      "team_home": "Cadiz CF",
-      "team_away": "Andorra",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776011400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Mirandes vs Castellon",
-      "team_home": "Mirandes",
-      "team_away": "Castellon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776011400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
+      "league": null,
       "title": "Anderlecht vs Gent",
       "team_home": "Anderlecht",
       "team_away": "Gent",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD10",
