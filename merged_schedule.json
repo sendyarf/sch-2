@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T12:45:37.190550",
+  "generated_at": "2026-04-12T13:56:29.067292",
   "sources": [
     {
       "name": "cartelive",
@@ -13,30 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 173,
+  "total_events": 171,
   "events": [
-    {
-      "date": "2026-04-12",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Liga Endesa",
-      "title": "Manresa vs Joventut Badalona",
-      "team_home": "Manresa",
-      "team_away": "Joventut Badalona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775988000
-    },
     {
       "date": "2026-04-12",
       "time_utc": "10:00",
@@ -63,21 +41,15 @@
       "date": "2026-04-12",
       "time_utc": "10:15",
       "time_utc1": "12:15",
-      "league": "Eredivisie",
-      "title": "Sittard vs NAC Breda",
-      "team_home": "Sittard",
+      "league": null,
+      "title": "Fortuna Sittard vs NAC Breda",
+      "team_home": "Fortuna Sittard",
       "team_away": "NAC Breda",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -91,90 +63,26 @@
       "date": "2026-04-12",
       "time_utc": "10:30",
       "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "Unicaja vs Valencia",
-      "team_home": "Unicaja",
-      "team_away": "Valencia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775989800
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Genoa vs Sassuolo",
       "team_home": "Genoa",
       "team_away": "Sassuolo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
           }
         ]
       },
