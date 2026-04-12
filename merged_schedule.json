@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T16:39:28.453965",
+  "generated_at": "2026-04-12T17:19:12.886009",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 161,
+  "total_events": 156,
   "events": [
     {
       "date": "2026-04-12",
@@ -397,77 +397,6 @@
       "date": "2026-04-12",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Champions Cup",
-      "title": "Bordeaux Begles vs Stade Toulousain",
-      "team_home": "Bordeaux Begles",
-      "team_away": "Stade Toulousain",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "france2",
-            "url": "https://multi.govoet.cc/?envivo=28",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776002400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Genk vs Leuven",
-      "team_home": "Genk",
-      "team_away": "Leuven",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776002400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Super Lig",
-      "title": "Goztepe vs Kasimpasa",
-      "team_home": "Goztepe",
-      "team_away": "Kasimpasa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776002400
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
       "league": null,
       "title": "Athletico-PR vs Chapecoense",
       "team_home": "Athletico-PR",
@@ -490,38 +419,15 @@
       "date": "2026-04-12",
       "time_utc": "14:15",
       "time_utc1": "16:15",
-      "league": "Laliga",
+      "league": null,
       "title": "Mallorca vs Rayo Vallecano",
       "team_home": "Mallorca",
       "team_away": "Rayo Vallecano",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -537,63 +443,6 @@
         ]
       },
       "startTimestamp": 1776003300
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Huesca vs Dep. La Coruna",
-      "team_home": "Huesca",
-      "team_away": "Dep. La Coruna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776003300
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "Alverca vs Casa Pia",
-      "team_home": "Alverca",
-      "team_away": "Casa Pia",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776004200
     },
     {
       "date": "2026-04-12",
@@ -619,39 +468,25 @@
     },
     {
       "date": "2026-04-12",
-      "time_utc": "14:45",
-      "time_utc1": "16:45",
-      "league": "Eredivisie",
-      "title": "AZ Alkmaar vs Heerenveen",
-      "team_home": "AZ Alkmaar",
-      "team_away": "Heerenveen",
+      "time_utc": "14:30",
+      "time_utc1": "16:30",
+      "league": null,
+      "title": "Alverca vs Casa Pia",
+      "team_home": "Alverca",
+      "team_away": "Casa Pia",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "nl": [
+        "pt": [
           {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1776005100
+      "startTimestamp": 1776004200
     },
     {
       "date": "2026-04-12",
@@ -1567,8 +1402,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
             "source": "cartelive"
           }
         ]
