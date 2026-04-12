@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T05:12:53.026092",
+  "generated_at": "2026-04-12T06:48:53.503430",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 178,
+  "total_events": 176,
   "events": [
     {
       "date": "2026-04-10",
@@ -263,60 +263,6 @@
         ]
       },
       "startTimestamp": 1775876700
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "San Diego FC vs Minnesota United",
-      "team_home": "San Diego FC",
-      "team_away": "Minnesota United",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775961000
-    },
-    {
-      "date": "2026-04-12",
-      "time_utc": "03:05",
-      "time_utc1": "05:05",
-      "league": "Liga Mx",
-      "title": "Club America vs Cruz Azul",
-      "team_home": "Club America",
-      "team_away": "Cruz Azul",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1775963100
     },
     {
       "date": "2026-04-12",
