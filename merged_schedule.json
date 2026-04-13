@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T02:02:46.338259",
+  "generated_at": "2026-04-13T05:22:45.340423",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 66,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-04-12",
@@ -141,45 +141,17 @@
     },
     {
       "date": "2026-04-12",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "Ecuador Ligapro",
-      "title": "Aucas vs Emelec",
-      "team_home": "Aucas",
-      "team_away": "Emelec",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776035400
-    },
-    {
-      "date": "2026-04-12",
       "time_utc": "23:20",
       "time_utc1": "01:20",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Bucaramanga vs Chico",
-      "team_home": "Bucaramanga",
-      "team_away": "Chico",
+      "league": null,
+      "title": "Atlético Bucaramanga vs Boyacá Chicó",
+      "team_home": "Atlético Bucaramanga",
+      "team_away": "Boyacá Chicó",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -190,53 +162,18 @@
       "startTimestamp": 1776036000
     },
     {
-      "date": "2026-04-12",
-      "time_utc": "23:20",
-      "time_utc1": "01:20",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Cleveland Guardians",
-      "team_home": "Atlanta Braves",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776036000
-    },
-    {
       "date": "2026-04-13",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. De Concepcion vs Cobresal",
-      "team_home": "U. De Concepcion",
+      "league": null,
+      "title": "Univ. Concepción vs Cobresal",
+      "team_home": "Univ. Concepción",
       "team_away": "Cobresal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -248,279 +185,21 @@
     },
     {
       "date": "2026-04-13",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Anaheim Ducks vs Vancouver Canucks",
-      "team_home": "Anaheim Ducks",
-      "team_away": "Vancouver Canucks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776038400
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Dallas Mavericks vs Chicago Bulls",
-      "team_home": "Dallas Mavericks",
-      "team_away": "Chicago Bulls",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Houston Rockets vs Memphis Grizzlies",
-      "team_home": "Houston Rockets",
-      "team_away": "Memphis Grizzlies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Los Angeles Clippers vs Golden State Warriors",
-      "team_home": "Los Angeles Clippers",
-      "team_away": "Golden State Warriors",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Los Angeles Lakers vs Utah Jazz",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Utah Jazz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Minnesota Timberwolves vs New Orleans Pelicans",
-      "team_home": "Minnesota Timberwolves",
-      "team_away": "New Orleans Pelicans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Oklahoma City Thunder vs Phoenix Suns",
-      "team_home": "Oklahoma City Thunder",
-      "team_away": "Phoenix Suns",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "Portland Trail Blazers vs Sacramento Kings",
-      "team_home": "Portland Trail Blazers",
-      "team_away": "Sacramento Kings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "San Antonio Spurs vs Denver Nuggets",
-      "team_home": "San Antonio Spurs",
-      "team_away": "Denver Nuggets",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT47",
-            "url": "https://multi.govoet.cc/?envivo=200",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776040200
-    },
-    {
-      "date": "2026-04-13",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Toluca vs Atl. San Luis",
+      "league": null,
+      "title": "Toluca vs Atlético San Luis",
       "team_home": "Toluca",
-      "team_away": "Atl. San Luis",
+      "team_away": "Atlético San Luis",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776042000
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NHL",
-      "title": "Calgary Flames vs Utah Mammoth",
-      "team_home": "Calgary Flames",
-      "team_away": "Utah Mammoth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
           }
         ]
       },
@@ -552,24 +231,47 @@
       "date": "2026-04-13",
       "time_utc": "01:30",
       "time_utc1": "03:30",
-      "league": "Liga BetPlay Dimayor",
+      "league": null,
       "title": "Inter Bogotá vs Alianza",
       "team_home": "Inter Bogotá",
       "team_away": "Alianza",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776043800
+    },
+    {
+      "date": "2026-04-13",
+      "time_utc": "01:30",
+      "time_utc1": "03:30",
+      "league": "NBA",
+      "title": "Denver Nuggets vs San Antonio Spurs",
+      "team_home": "Denver Nuggets",
+      "team_away": "San Antonio Spurs",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
           }
         ]
