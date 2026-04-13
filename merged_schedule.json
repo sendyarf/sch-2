@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T19:06:19.296497",
+  "generated_at": "2026-04-13T20:12:33.160977",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 62,
   "events": [
     {
       "date": "2026-04-13",
@@ -85,49 +85,19 @@
       "date": "2026-04-13",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Eyupspor vs Samsunspor",
-      "team_home": "Eyupspor",
+      "league": null,
+      "title": "Eyüpspor vs Samsunspor",
+      "team_home": "Eyüpspor",
       "team_away": "Samsunspor",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776099600
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Rizespor vs Gaziantep",
-      "team_home": "Rizespor",
-      "team_away": "Gaziantep",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
           }
         ]
       },
