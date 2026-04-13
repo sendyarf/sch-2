@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T20:12:33.160977",
+  "generated_at": "2026-04-13T21:08:26.876843",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 62,
+  "total_events": 61,
   "events": [
     {
       "date": "2026-04-13",
@@ -124,35 +124,6 @@
         ]
       },
       "startTimestamp": 1776099600
-    },
-    {
-      "date": "2026-04-13",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Afc Ligue Des Champions",
-      "title": "Al Hilal (Sau) vs Al-Sadd (Qat)",
-      "team_home": "Al Hilal (Sau)",
-      "team_away": "Al-Sadd (Qat)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776103200
     },
     {
       "date": "2026-04-13",
