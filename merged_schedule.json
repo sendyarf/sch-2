@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T21:27:40.478915",
+  "generated_at": "2026-04-16T22:06:57.952251",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 32,
+  "total_events": 27,
   "events": [
     {
       "date": "2026-04-16",
@@ -89,222 +89,28 @@
     },
     {
       "date": "2026-04-16",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "EuroLeague (Basketball)",
-      "title": "Partizan Mozzart Bet vs Baskonia",
-      "team_home": "Partizan Mozzart Bet",
-      "team_away": "Baskonia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776364200
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Real Madrid vs Crvena Zvezda Meridianbet",
-      "team_home": "Real Madrid",
-      "team_away": "Crvena Zvezda Meridianbet",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776365100
-    },
-    {
-      "date": "2026-04-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "AEK Athens vs Rayo Vallecano",
-      "team_home": "AEK Athens",
-      "team_away": "Rayo Vallecano",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 8",
-            "url": "https://multi.govoet.cc/?envivo=38",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776366000
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Fiorentina vs Crystal Palace",
-      "team_home": "Fiorentina",
-      "team_away": "Crystal Palace",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 7",
-            "url": "https://multi.govoet.cc/?envivo=37",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776366000
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Strasbourg vs Mainz",
+      "league": null,
+      "title": "Strasbourg vs Mainz 05",
       "team_home": "Strasbourg",
-      "team_away": "Mainz",
+      "team_away": "Mainz 05",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776366000
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Europa",
-      "title": "Ligue Europa: Multiplex Ligue Europa/Ligue Conference",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
         "fr": [
           {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -314,55 +120,25 @@
       "date": "2026-04-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Europa",
+      "league": null,
       "title": "Aston Villa vs Bologna",
       "team_home": "Aston Villa",
       "team_away": "Bologna",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "it": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=129",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ],
@@ -380,43 +156,15 @@
       "date": "2026-04-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Europa",
-      "title": "Betis vs Braga",
-      "team_home": "Betis",
-      "team_away": "Braga",
+      "league": null,
+      "title": "Real Betis vs Sporting Braga",
+      "team_home": "Real Betis",
+      "team_away": "Sporting Braga",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -437,28 +185,15 @@
       "date": "2026-04-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Europa",
-      "title": "Nottingham vs FC Porto",
-      "team_home": "Nottingham",
-      "team_away": "FC Porto",
+      "league": null,
+      "title": "Nottingham Forest vs Porto",
+      "team_home": "Nottingham Forest",
+      "team_away": "Porto",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -467,38 +202,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
           }
         ]
       },
@@ -508,19 +214,33 @@
       "date": "2026-04-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Agen vs Biarritz Olympique",
-      "team_home": "Agen",
-      "team_away": "Biarritz Olympique",
+      "league": null,
+      "title": "Fiorentina vs Crystal Palace",
+      "team_home": "Fiorentina",
+      "team_away": "Crystal Palace",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -528,25 +248,25 @@
     },
     {
       "date": "2026-04-16",
-      "time_utc": "19:05",
-      "time_utc1": "21:05",
-      "league": "MLB",
-      "title": "Athletics vs Texas Rangers",
-      "team_home": "Athletics",
-      "team_away": "Texas Rangers",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "AEK Athens vs Rayo Vallecano",
+      "team_home": "AEK Athens",
+      "team_away": "Rayo Vallecano",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "es": [
           {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1776366300
+      "startTimestamp": 1776366000
     },
     {
       "date": "2026-04-16",
