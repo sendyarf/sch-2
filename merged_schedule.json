@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T19:42:42.048209",
+  "generated_at": "2026-04-16T20:32:13.030763",
   "sources": [
     {
       "name": "cartelive",
@@ -13,75 +13,28 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 40,
+  "total_events": 38,
   "events": [
     {
       "date": "2026-04-16",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Conference League",
-      "title": "AZ Alkmaar vs Shakhtar Donetsk",
-      "team_home": "AZ Alkmaar",
-      "team_away": "Shakhtar Donetsk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776357900
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Ligue Europa",
-      "title": "Celta Vigo vs Freiburg",
-      "team_home": "Celta Vigo",
+      "league": null,
+      "title": "Celta de Vigo vs Freiburg",
+      "team_home": "Celta de Vigo",
       "team_away": "Freiburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -90,27 +43,8 @@
         ],
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ],
@@ -152,28 +86,6 @@
         ]
       },
       "startTimestamp": 1776357900
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Kansas City Royals",
-      "team_home": "Detroit Tigers",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776359400
     },
     {
       "date": "2026-04-16",
