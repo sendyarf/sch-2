@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T20:32:13.030763",
+  "generated_at": "2026-04-16T21:27:40.478915",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-04-16",
@@ -86,145 +86,6 @@
         ]
       },
       "startTimestamp": 1776357900
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "New York Yankees vs Los Angeles Angels",
-      "team_home": "New York Yankees",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776360900
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Toronto Blue Jays",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776361200
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Lyon-Villeurbanne vs Fenerbahce",
-      "team_home": "Lyon-Villeurbanne",
-      "team_away": "Fenerbahce",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776362400
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "18:05",
-      "time_utc1": "20:05",
-      "league": "EuroLeague (Basketball)",
-      "title": "Maccabi Tel Aviv vs Virtus Bologna",
-      "team_home": "Maccabi Tel Aviv",
-      "team_away": "Virtus Bologna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776362700
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Tampa Bay Rays",
-      "team_home": "Chicago White Sox",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776363000
-    },
-    {
-      "date": "2026-04-16",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "EuroLeague (Basketball)",
-      "title": "Olympiacos vs Olimpia Milano",
-      "team_home": "Olympiacos",
-      "team_away": "Olimpia Milano",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776363300
     },
     {
       "date": "2026-04-16",
@@ -824,8 +685,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
             "source": "cartelive"
           }
         ]
