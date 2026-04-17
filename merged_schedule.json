@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T18:51:01.597384",
+  "generated_at": "2026-04-17T19:54:50.106730",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 128,
+  "total_events": 126,
   "events": [
     {
       "date": "2026-04-17",
@@ -165,22 +165,14 @@
       "date": "2026-04-17",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Caf Coupes Des Confederations",
+      "league": null,
       "title": "Zamalek vs CR Belouizdad",
       "team_home": "Zamalek",
       "team_away": "CR Belouizdad",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -217,102 +209,15 @@
       "date": "2026-04-17",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776443400
-    },
-    {
-      "date": "2026-04-17",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Elversberg vs Karlsruher SC",
-      "team_home": "Elversberg",
-      "team_away": "Karlsruher SC",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776443400
-    },
-    {
-      "date": "2026-04-17",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Holstein Kiel vs Kaiserslautern",
-      "team_home": "Holstein Kiel",
-      "team_away": "Kaiserslautern",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776443400
-    },
-    {
-      "date": "2026-04-17",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Sassuolo vs Como",
       "team_home": "Sassuolo",
       "team_away": "Como",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -331,40 +236,49 @@
     },
     {
       "date": "2026-04-17",
+      "time_utc": "16:30",
+      "time_utc1": "18:30",
+      "league": null,
+      "title": "Elversberg vs Karlsruher",
+      "team_home": "Elversberg",
+      "team_away": "Karlsruher",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776443400
+    },
+    {
+      "date": "2026-04-17",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Youth League",
+      "league": null,
       "title": "Real Madrid U19 vs PSG U19",
       "team_home": "Real Madrid U19",
       "team_away": "PSG U19",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
