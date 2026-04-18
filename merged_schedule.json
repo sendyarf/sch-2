@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T13:35:02.631534",
+  "generated_at": "2026-04-18T14:23:58.582697",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 277,
+  "total_events": 275,
   "events": [
     {
       "date": "2026-04-18",
@@ -41,65 +41,15 @@
       "date": "2026-04-18",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776510000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Arminia Bielefeld vs Nurnberg",
-      "team_home": "Arminia Bielefeld",
-      "team_away": "Nurnberg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776510000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Magdeburg vs Dusseldorf",
+      "league": null,
+      "title": "Magdeburg vs Fortuna Düsseldorf",
       "team_home": "Magdeburg",
-      "team_away": "Dusseldorf",
+      "team_away": "Fortuna Düsseldorf",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -113,21 +63,15 @@
       "date": "2026-04-18",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "SG Dynamo Dresden vs Bochum",
-      "team_home": "SG Dynamo Dresden",
+      "league": null,
+      "title": "Dynamo Dresden vs Bochum",
+      "team_home": "Dynamo Dresden",
       "team_away": "Bochum",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
