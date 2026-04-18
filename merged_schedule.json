@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T10:59:03.106282",
+  "generated_at": "2026-04-18T12:02:57.682579",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 269,
+  "total_events": 277,
   "events": [
     {
       "date": "2026-04-18",
@@ -136,6 +136,50 @@
         ]
       },
       "startTimestamp": 1776510000
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "11:30",
+      "time_utc1": "13:30",
+      "league": "Championship",
+      "title": "Derby vs Oxford Utd",
+      "team_home": "Derby",
+      "team_away": "Oxford Utd",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT37",
+            "url": "https://multi.govoet.cc/?envivo=190",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776511800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "11:30",
+      "time_utc1": "13:30",
+      "league": "Championship",
+      "title": "Millwall vs QPR",
+      "team_home": "Millwall",
+      "team_away": "QPR",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT38",
+            "url": "https://multi.govoet.cc/?envivo=191",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776511800
     },
     {
       "date": "2026-04-18",
@@ -727,6 +771,28 @@
       "time_utc": "14:00",
       "time_utc1": "16:00",
       "league": "Championship",
+      "title": "Bristol City vs Norwich",
+      "team_home": "Bristol City",
+      "team_away": "Norwich",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776520800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Championship",
       "title": "Hull vs Birmingham",
       "team_home": "Hull",
       "team_away": "Birmingham",
@@ -752,6 +818,116 @@
           {
             "channel": "FOXsport1 arg",
             "url": "https://multi.govoet.cc/?envivo=78",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776520800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Championship",
+      "title": "Preston vs West Brom",
+      "team_home": "Preston",
+      "team_away": "West Brom",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776520800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Championship",
+      "title": "Sheffield Wed vs Charlton",
+      "team_home": "Sheffield Wed",
+      "team_away": "Charlton",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT42",
+            "url": "https://multi.govoet.cc/?envivo=195",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776520800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Championship",
+      "title": "Swansea vs Southampton",
+      "team_home": "Swansea",
+      "team_away": "Southampton",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT43",
+            "url": "https://multi.govoet.cc/?envivo=196",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776520800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Championship",
+      "title": "Watford vs Sheffield Utd",
+      "team_home": "Watford",
+      "team_away": "Sheffield Utd",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT44",
+            "url": "https://multi.govoet.cc/?envivo=197",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776520800
+    },
+    {
+      "date": "2026-04-18",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Championship",
+      "title": "Wrexham vs Stoke",
+      "team_home": "Wrexham",
+      "team_away": "Stoke",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT45",
+            "url": "https://multi.govoet.cc/?envivo=198",
             "source": "cartelive"
           }
         ]
