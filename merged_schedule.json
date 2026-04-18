@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T14:23:58.582697",
+  "generated_at": "2026-04-18T17:20:46.853328",
   "sources": [
     {
       "name": "cartelive",
@@ -13,1121 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 275,
+  "total_events": 259,
   "events": [
-    {
-      "date": "2026-04-18",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Paços de Ferreira vs Chaves",
-      "team_home": "Paços de Ferreira",
-      "team_away": "Chaves",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776506400
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": null,
-      "title": "Magdeburg vs Fortuna Düsseldorf",
-      "team_home": "Magdeburg",
-      "team_away": "Fortuna Düsseldorf",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776510000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": null,
-      "title": "Dynamo Dresden vs Bochum",
-      "team_home": "Dynamo Dresden",
-      "team_away": "Bochum",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776510000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Championship",
-      "title": "Derby vs Oxford Utd",
-      "team_home": "Derby",
-      "team_away": "Oxford Utd",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Championship",
-      "title": "Millwall vs QPR",
-      "team_home": "Millwall",
-      "team_away": "QPR",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Championship",
-      "title": "Portsmouth vs Leicester",
-      "team_home": "Portsmouth",
-      "team_away": "Leicester",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Open de Barcelone",
-      "title": "A. Rublev vs H. Medjedovic",
-      "team_home": "A. Rublev",
-      "team_away": "H. Medjedovic",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "eurosport2",
-            "url": "https://multi.govoet.cc/?envivo=16",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes3",
-            "url": "https://multi.govoet.cc/?envivo=64",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Premier League",
-      "title": "Brentford vs Fulham",
-      "team_home": "Brentford",
-      "team_away": "Fulham",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Super Lig",
-      "title": "Karagumruk vs Eyupspor",
-      "team_home": "Karagumruk",
-      "team_away": "Eyupspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "TournoiMunich",
-      "title": "A. Zverev vs F. Cobolli",
-      "team_home": "A. Zverev",
-      "team_away": "F. Cobolli",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": null,
-      "title": "Dunfermline Athletic vs Falkirk",
-      "team_home": "Dunfermline Athletic",
-      "team_away": "Falkirk",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776511800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Ligue 2",
-      "title": "Reims vs Red Star",
-      "team_home": "Reims",
-      "team_away": "Red Star",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776513600
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Ligue 2",
-      "title": "Troyes vs Boulogne",
-      "team_home": "Troyes",
-      "team_away": "Boulogne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776513600
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Top 14",
-      "title": "Stade Rochelais vs Bordeaux Begles",
-      "team_home": "Stade Rochelais",
-      "team_away": "Bordeaux Begles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776515400
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Betfred Super League",
-      "title": "Kifisia vs Asteras Tripolis",
-      "team_home": "Kifisia",
-      "team_away": "Asteras Tripolis",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776517200
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Caf Ligue Des Champions",
-      "title": "Mamelodi Sundowns vs Esperance Tunis",
-      "team_home": "Mamelodi Sundowns",
-      "team_away": "Esperance Tunis",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776517200
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Serie A",
-      "title": "Udinese vs Parma",
-      "team_home": "Udinese",
-      "team_away": "Parma",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776517200
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "TournoiMunich",
-      "title": "A. Molcan vs B. Shelton",
-      "team_home": "A. Molcan",
-      "team_away": "B. Shelton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776517200
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Bundesliga: bundesliga konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776519000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Bayer Leverkusen vs Augsburg",
-      "team_home": "Bayer Leverkusen",
-      "team_away": "Augsburg",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776519000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Hoffenheim vs Dortmund",
-      "team_home": "Hoffenheim",
-      "team_away": "Dortmund",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776519000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Union Berlin vs Wolfsburg",
-      "team_home": "Union Berlin",
-      "team_away": "Wolfsburg",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776519000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Werder Bremen vs Hamburger SV",
-      "team_home": "Werder Bremen",
-      "team_away": "Hamburger SV",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776519000
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Betfred Super League",
-      "title": "Atromitos vs AEL Larissa",
-      "team_home": "Atromitos",
-      "team_away": "AEL Larissa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Bristol City vs Norwich",
-      "team_home": "Bristol City",
-      "team_away": "Norwich",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Hull vs Birmingham",
-      "team_home": "Hull",
-      "team_away": "Birmingham",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Preston vs West Brom",
-      "team_home": "Preston",
-      "team_away": "West Brom",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Sheffield Wed vs Charlton",
-      "team_home": "Sheffield Wed",
-      "team_away": "Charlton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Swansea vs Southampton",
-      "team_home": "Swansea",
-      "team_away": "Southampton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Watford vs Sheffield Utd",
-      "team_home": "Watford",
-      "team_away": "Sheffield Utd",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Wrexham vs Stoke",
-      "team_home": "Wrexham",
-      "team_away": "Stoke",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Open de Barcelone",
-      "title": "R. Jodar vs A. Fils",
-      "team_home": "R. Jodar",
-      "team_away": "A. Fils",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "eurosport2",
-            "url": "https://multi.govoet.cc/?envivo=16",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes3",
-            "url": "https://multi.govoet.cc/?envivo=64",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Leeds vs Wolves",
-      "team_home": "Leeds",
-      "team_away": "Wolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Newcastle vs Bournemouth",
-      "team_home": "Newcastle",
-      "team_away": "Bournemouth",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Antwerp vs Leuven",
-      "team_home": "Antwerp",
-      "team_away": "Leuven",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Super Lig",
-      "title": "Kocaelispor vs Goztepe",
-      "team_home": "Kocaelispor",
-      "team_away": "Goztepe",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": null,
-      "title": "Leeds United vs Wolverhampton Wanderers",
-      "team_home": "Leeds United",
-      "team_away": "Wolverhampton Wanderers",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": null,
-      "title": "Spain W vs Ukraine W",
-      "team_home": "Spain W",
-      "team_away": "Ukraine W",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776520800
-    },
-    {
-      "date": "2026-04-18",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Zaragoza vs Ceuta",
-      "team_home": "Zaragoza",
-      "team_away": "Ceuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776521700
-    },
     {
       "date": "2026-04-18",
       "time_utc": "14:30",
@@ -1137,8 +24,7 @@
       "team_home": "Nacional",
       "team_away": "Alverca",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "pt": [
@@ -1146,11 +32,6 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1319,8 +200,7 @@
       "team_home": "Lorient",
       "team_away": "Marseille",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1340,20 +220,6 @@
             "channel": "ESPN4",
             "url": "https://multi.govoet.cc/?envivo=90",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1554,17 +420,17 @@
             "channel": "ESPN2",
             "url": "https://multi.govoet.cc/?envivo=88",
             "source": "cartelive"
+          },
+          {
+            "channel": "DE bundliga7",
+            "url": "https://multi.govoet.cc/?envivo=117",
+            "source": "cartelive"
           }
         ],
         "de": [
           {
             "channel": "DE bundliga1",
             "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
             "source": "cartelive"
           },
           {
@@ -4081,6 +2947,28 @@
     },
     {
       "date": "2026-04-19",
+      "time_utc": "09:00",
+      "time_utc1": "11:00",
+      "league": null,
+      "title": "Superbike: Netherlands GP",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776589200
+    },
+    {
+      "date": "2026-04-19",
       "time_utc": "10:00",
       "time_utc1": "12:00",
       "league": "Liga Endesa",
@@ -4096,6 +2984,28 @@
             "channel": "dazn baloncesto 1",
             "url": "https://multi.govoet.cc/?envivo=155",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776592800
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
+      "league": null,
+      "title": "Portimonense vs Lusitania FC Lourosa",
+      "team_home": "Portimonense",
+      "team_away": "Lusitania FC Lourosa",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4132,7 +3042,8 @@
       "team_home": "Cremonese",
       "team_away": "Torino",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "it": [
@@ -4140,6 +3051,11 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4164,6 +3080,11 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ],
         "el": [
@@ -4185,7 +3106,8 @@
       "team_home": "Ipswich",
       "team_away": "Middlesbrough",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4200,6 +3122,18 @@
             "channel": "UK SKY MAIN",
             "url": "https://multi.govoet.cc/?envivo=127",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4280,7 +3214,8 @@
       "team_home": "Schalke",
       "team_away": "Preussen Munster",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4302,6 +3237,11 @@
             "channel": "DE bundliga2",
             "url": "https://multi.govoet.cc/?envivo=112",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4346,6 +3286,28 @@
             "channel": "TR BeIN sport 1",
             "url": "https://multi.govoet.cc/?envivo=151",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776598200
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "11:30",
+      "time_utc1": "13:30",
+      "league": null,
+      "title": "Tennis - ATP World Tour 500: Munchen",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4404,7 +3366,8 @@
       "team_home": "Monaco",
       "team_away": "Auxerre",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4412,6 +3375,11 @@
             "channel": "LIGUE 1 FR 1",
             "url": "https://multi.govoet.cc/?envivo=20",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4424,6 +3392,13 @@
             "channel": "DE bundliga8",
             "url": "https://multi.govoet.cc/?envivo=118",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4438,7 +3413,8 @@
       "team_home": "Aston Villa",
       "team_away": "Sunderland",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4453,6 +3429,11 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=129",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4460,6 +3441,13 @@
             "channel": "ES DAZN 3",
             "url": "https://multi.govoet.cc/?envivo=58",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4474,7 +3462,8 @@
       "team_home": "Everton",
       "team_away": "Liverpool",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4489,6 +3478,11 @@
             "channel": "UK SKY MAIN",
             "url": "https://multi.govoet.cc/?envivo=127",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4514,6 +3508,20 @@
             "url": "https://multi.govoet.cc/?envivo=120",
             "source": "cartelive"
           }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1776603600
@@ -4527,7 +3535,8 @@
       "team_home": "Nottingham",
       "team_away": "Burnley",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4542,6 +3551,11 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4549,6 +3563,13 @@
             "channel": "ES DAZN 4",
             "url": "https://multi.govoet.cc/?envivo=59",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4563,7 +3584,8 @@
       "team_home": "Verona",
       "team_away": "AC Milan",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "it": [
@@ -4571,6 +3593,11 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4589,6 +3616,35 @@
             "url": "https://multi.govoet.cc/?envivo=97",
             "source": "cartelive"
           }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776603600
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Celtic vs St. Mirren",
+      "team_home": "Celtic",
+      "team_away": "St. Mirren",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1776603600
@@ -4602,7 +3658,8 @@
       "team_home": "Freiburg",
       "team_away": "Heidenheim",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4619,15 +3676,20 @@
             "source": "cartelive"
           },
           {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
           }
         ],
         "es": [
           {
             "channel": "ESPN5",
             "url": "https://multi.govoet.cc/?envivo=91",
+            "source": "cartelive"
+          },
+          {
+            "channel": "DE bundliga7",
+            "url": "https://multi.govoet.cc/?envivo=117",
             "source": "cartelive"
           }
         ]
@@ -4694,6 +3756,72 @@
     },
     {
       "date": "2026-04-19",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Samsunspor vs Beşiktaş",
+      "team_home": "Samsunspor",
+      "team_away": "Beşiktaş",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776607200
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Tennis - ATP World Tour 500: Barcelona",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776607200
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Internacional vs Mirassol",
+      "team_home": "Internacional",
+      "team_away": "Mirassol",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776607200
+    },
+    {
+      "date": "2026-04-19",
       "time_utc": "14:15",
       "time_utc1": "16:15",
       "league": "Laliga 2",
@@ -4723,7 +3851,8 @@
       "team_home": "Arouca",
       "team_away": "Estrela",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
@@ -4731,6 +3860,11 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4745,7 +3879,8 @@
       "team_home": "AEK Athens",
       "team_away": "PAOK",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "el": [
@@ -4753,6 +3888,13 @@
             "channel": "GR SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=149",
             "source": "cartelive"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4811,7 +3953,8 @@
       "team_home": "Metz",
       "team_away": "Paris FC",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4819,6 +3962,11 @@
             "channel": "LIGUE 1 FR 6",
             "url": "https://multi.govoet.cc/?envivo=18",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4889,7 +4037,8 @@
       "team_home": "Bayern Munich",
       "team_away": "Stuttgart",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4904,6 +4053,11 @@
             "channel": "ESPN Deportes",
             "url": "https://multi.govoet.cc/?envivo=71",
             "source": "cartelive"
+          },
+          {
+            "channel": "DE bundliga7",
+            "url": "https://multi.govoet.cc/?envivo=117",
+            "source": "cartelive"
           }
         ],
         "de": [
@@ -4913,9 +4067,23 @@
             "source": "cartelive"
           },
           {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4930,7 +4098,8 @@
       "team_home": "Manchester City",
       "team_away": "Arsenal",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4945,6 +4114,21 @@
             "channel": "UK SKY MAIN",
             "url": "https://multi.govoet.cc/?envivo=127",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4974,6 +4158,20 @@
             "channel": "DE skyde PL",
             "url": "https://multi.govoet.cc/?envivo=120",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5054,7 +4252,8 @@
       "team_home": "Pisa",
       "team_away": "Genoa",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "it": [
@@ -5062,6 +4261,11 @@
             "channel": "IT SKY CALCIO",
             "url": "https://multi.govoet.cc/?envivo=138",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -5074,6 +4278,42 @@
             "channel": "ESPN3MX",
             "url": "https://multi.govoet.cc/?envivo=99",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776614400
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "AZ vs NEC",
+      "team_home": "AZ",
+      "team_away": "NEC",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5220,7 +4460,8 @@
       "team_home": "Sporting CP",
       "team_away": "Benfica",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5242,6 +4483,18 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5256,7 +4509,8 @@
       "team_home": "Boston Celtics",
       "team_away": "Philadelphia 76ers",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
@@ -5271,6 +4525,13 @@
             "channel": "ESPN3",
             "url": "https://multi.govoet.cc/?envivo=89",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5300,6 +4561,28 @@
             "channel": "TR BeIN sport 1",
             "url": "https://multi.govoet.cc/?envivo=151",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776618000
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Trabzonspor vs İstanbul Başakşehir",
+      "team_home": "Trabzonspor",
+      "team_away": "İstanbul Başakşehir",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5351,11 +4634,42 @@
             "channel": "DE dazn 1",
             "url": "https://multi.govoet.cc/?envivo=123",
             "source": "cartelive"
-          },
+          }
+        ],
+        "es": [
           {
             "channel": "DE bundliga7",
             "url": "https://multi.govoet.cc/?envivo=117",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776619800
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": null,
+      "title": "Borussia M'gladbach vs Mainz 05",
+      "team_home": "Borussia M'gladbach",
+      "team_away": "Mainz 05",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5502,7 +4816,8 @@
       "team_home": "Panathinaikos",
       "team_away": "Olympiacos Piraeus",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "el": [
@@ -5510,6 +4825,13 @@
             "channel": "GR SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=148",
             "source": "cartelive"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5668,7 +4990,8 @@
       "team_home": "Juventus",
       "team_away": "Bologna",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "it": [
@@ -5676,6 +4999,11 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -5701,6 +5029,56 @@
             "url": "https://multi.govoet.cc/?envivo=149",
             "source": "cartelive"
           }
+        ],
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776624300
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Paris Saint-Germain vs Olympique Lyonnais",
+      "team_home": "Paris Saint-Germain",
+      "team_away": "Olympique Lyonnais",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1776624300
@@ -5714,7 +5092,8 @@
       "team_home": "Olympique de Safi",
       "team_away": "USM Alger",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5722,6 +5101,13 @@
             "channel": "beIN SPORT max 7",
             "url": "https://multi.govoet.cc/?envivo=7",
             "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5787,7 +5173,8 @@
       "team_home": "Santa Fe",
       "team_away": "Cucuta",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -5795,6 +5182,13 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5824,6 +5218,28 @@
             "channel": "EXTRA SPORT26",
             "url": "https://multi.govoet.cc/?envivo=180",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776625200
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Coritiba vs Atlético Mineiro",
+      "team_home": "Coritiba",
+      "team_away": "Atlético Mineiro",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5933,7 +5349,8 @@
       "team_home": "FC Porto",
       "team_away": "Tondela",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5953,6 +5370,62 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776627000
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "19:30",
+      "time_utc1": "21:30",
+      "league": null,
+      "title": "Sporting Braga vs Famalicão",
+      "team_home": "Sporting Braga",
+      "team_away": "Famalicão",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776627000
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "19:30",
+      "time_utc1": "21:30",
+      "league": "NBA",
+      "title": "Phoenix Suns vs Oklahoma City Thunder",
+      "team_home": "Phoenix Suns",
+      "team_away": "Oklahoma City Thunder",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5989,7 +5462,8 @@
       "team_home": "River Plate",
       "team_away": "Boca Juniors",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6012,6 +5486,11 @@
             "channel": "ESPN3MX",
             "url": "https://multi.govoet.cc/?envivo=99",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "de": [
@@ -6019,6 +5498,20 @@
             "channel": "DE Sportdigital Fussball",
             "url": "https://multi.govoet.cc/?envivo=125",
             "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6136,6 +5629,28 @@
     },
     {
       "date": "2026-04-19",
+      "time_utc": "21:00",
+      "time_utc1": "23:00",
+      "league": null,
+      "title": "Goiás vs Cuiabá",
+      "team_home": "Goiás",
+      "team_away": "Cuiabá",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776632400
+    },
+    {
+      "date": "2026-04-19",
       "time_utc": "21:10",
       "time_utc1": "23:10",
       "league": "Liga BetPlay Dimayor",
@@ -6143,7 +5658,8 @@
       "team_home": "Alianza",
       "team_away": "Ind. Medellin",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6152,9 +5668,82 @@
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
           }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1776633000
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": null,
+      "title": "Avica Indy Car: Long Beach - Race",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776634200
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": null,
+      "title": "RB Bragantino vs Remo",
+      "team_home": "RB Bragantino",
+      "team_away": "Remo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776634200
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": null,
+      "title": "Palmeiras vs Athletico-PR",
+      "team_home": "Palmeiras",
+      "team_away": "Athletico-PR",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776634200
     },
     {
       "date": "2026-04-19",
@@ -6253,6 +5842,72 @@
     },
     {
       "date": "2026-04-19",
+      "time_utc": "22:30",
+      "time_utc1": "00:30",
+      "league": null,
+      "title": "Flamengo vs Bahia",
+      "team_home": "Flamengo",
+      "team_away": "Bahia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776637800
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "22:30",
+      "time_utc1": "00:30",
+      "league": null,
+      "title": "Colo-Colo vs Palestino",
+      "team_home": "Colo-Colo",
+      "team_away": "Palestino",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776637800
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "22:30",
+      "time_utc1": "00:30",
+      "league": "NBA",
+      "title": "Orlando Magic vs Detroit Pistons",
+      "team_home": "Orlando Magic",
+      "team_away": "Detroit Pistons",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776637800
+    },
+    {
+      "date": "2026-04-19",
       "time_utc": "23:00",
       "time_utc1": "01:00",
       "league": "Liga de Expansión MX",
@@ -6282,7 +5937,8 @@
       "team_home": "Santos Laguna",
       "team_away": "Atlas",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6295,6 +5951,13 @@
             "channel": "ESPN1MX",
             "url": "https://multi.govoet.cc/?envivo=97",
             "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6317,6 +5980,28 @@
             "channel": "EXTRA SPORT34",
             "url": "https://multi.govoet.cc/?envivo=187",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776639600
+    },
+    {
+      "date": "2026-04-19",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": null,
+      "title": "Novorizontino vs Athletic",
+      "team_home": "Novorizontino",
+      "team_away": "Athletic",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6353,7 +6038,8 @@
       "team_home": "Junior",
       "team_away": "Llaneros",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6361,6 +6047,13 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6433,7 +6126,8 @@
       "team_home": "Rosario Central",
       "team_away": "Sarmiento Junin",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6441,6 +6135,11 @@
             "channel": "ESPN Premium",
             "url": "https://multi.govoet.cc/?envivo=76",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -6448,6 +6147,11 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6506,7 +6210,8 @@
       "team_home": "Huachipato",
       "team_away": "A. Italiano",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6514,6 +6219,13 @@
             "channel": "TNTCHILE Premium",
             "url": "https://multi.govoet.cc/?envivo=83",
             "source": "cartelive"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6528,7 +6240,8 @@
       "team_home": "San Antonio Spurs",
       "team_away": "Portland Trail Blazers",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -6543,6 +6256,11 @@
             "channel": "EXTRA SPORT37",
             "url": "https://multi.govoet.cc/?envivo=190",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6557,7 +6275,8 @@
       "team_home": "America De Cali",
       "team_away": "Millonarios",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6565,6 +6284,13 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6809,6 +6535,28 @@
             "channel": "DE skyde PL",
             "url": "https://multi.govoet.cc/?envivo=120",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1776711600
+    },
+    {
+      "date": "2026-04-20",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Santos vs Fluminense",
+      "team_home": "Santos",
+      "team_away": "Fluminense",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
           }
         ]
       },
