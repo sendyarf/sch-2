@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T13:17:04.642146",
+  "generated_at": "2026-04-19T14:57:26.273107",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 156,
+  "total_events": 150,
   "events": [
     {
       "date": "2026-04-19",
@@ -63,83 +63,26 @@
       "date": "2026-04-19",
       "time_utc": "10:30",
       "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "Granada vs Unicaja",
-      "team_home": "Granada",
-      "team_away": "Unicaja",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776594600
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Cremonese vs Torino",
       "team_home": "Cremonese",
       "team_away": "Torino",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ]
       },
@@ -149,28 +92,15 @@
       "date": "2026-04-19",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Championship",
-      "title": "Ipswich vs Middlesbrough",
-      "team_home": "Ipswich",
+      "league": null,
+      "title": "Ipswich Town vs Middlesbrough",
+      "team_home": "Ipswich Town",
       "team_away": "Middlesbrough",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -191,149 +121,19 @@
       "date": "2026-04-19",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Schalke 04 vs Preußen Münster",
+      "team_home": "Schalke 04",
+      "team_away": "Preußen Münster",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776598200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Braunschweig vs Hertha Berlin",
-      "team_home": "Braunschweig",
-      "team_away": "Hertha Berlin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776598200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Greuther Furth vs Darmstadt",
-      "team_home": "Greuther Furth",
-      "team_away": "Darmstadt",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776598200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Schalke vs Preussen Munster",
-      "team_home": "Schalke",
-      "team_away": "Preussen Munster",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776598200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Gent vs St. Truiden",
-      "team_home": "Gent",
-      "team_away": "St. Truiden",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776598200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Super Lig",
-      "title": "Kasimpasa vs Alanyaspor",
-      "team_home": "Kasimpasa",
-      "team_away": "Alanyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
           }
         ]
       },
