@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T05:39:00.759114",
+  "generated_at": "2026-04-19T07:01:09.671018",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 161,
+  "total_events": 159,
   "events": [
     {
       "date": "2026-04-18",
@@ -175,60 +175,6 @@
         ]
       },
       "startTimestamp": 1776481800
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "03:06",
-      "time_utc1": "05:06",
-      "league": "Liga Mx",
-      "title": "Club Leon vs Juarez",
-      "team_home": "Club Leon",
-      "team_away": "Juarez",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776567960
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Club America vs Toluca",
-      "team_home": "Club America",
-      "team_away": "Toluca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776568200
     },
     {
       "date": "2026-04-19",
