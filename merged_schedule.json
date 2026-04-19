@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T16:57:21.351846",
+  "generated_at": "2026-04-19T18:23:52.987621",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 148,
+  "total_events": 141,
   "events": [
     {
       "date": "2026-04-19",
@@ -361,64 +361,6 @@
       "date": "2026-04-19",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Dender vs Cercle Brugge KSV",
-      "team_home": "Dender",
-      "team_away": "Cercle Brugge KSV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776607200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Super Lig",
-      "title": "Samsunspor vs Besiktas",
-      "team_home": "Samsunspor",
-      "team_away": "Besiktas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776607200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
       "league": null,
       "title": "Samsunspor vs Beşiktaş",
       "team_home": "Samsunspor",
@@ -483,45 +425,17 @@
     },
     {
       "date": "2026-04-19",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Gijon vs Cadiz CF",
-      "team_home": "Gijon",
-      "team_away": "Cadiz CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776608100
-    },
-    {
-      "date": "2026-04-19",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Arouca vs Estrela",
       "team_home": "Arouca",
       "team_away": "Estrela",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -535,21 +449,15 @@
       "date": "2026-04-19",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Betfred Super League",
+      "league": null,
       "title": "AEK Athens vs PAOK",
       "team_home": "AEK Athens",
       "team_away": "PAOK",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -561,127 +469,21 @@
     },
     {
       "date": "2026-04-19",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Liga Endesa",
-      "title": "San Pablo Burgos vs Breogan",
-      "team_home": "San Pablo Burgos",
-      "team_away": "Breogan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776610800
-    },
-    {
-      "date": "2026-04-19",
       "time_utc": "15:15",
       "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Ligue 1: Multiplex Ligue 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776611700
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Metz vs Paris FC",
+      "league": null,
+      "title": "Metz vs Paris",
       "team_home": "Metz",
-      "team_away": "Paris FC",
+      "team_away": "Paris",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
           {
-            "channel": "LIGUE 1 FR 6",
-            "url": "https://multi.govoet.cc/?envivo=18",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776611700
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Nantes vs Brest",
-      "team_home": "Nantes",
-      "team_away": "Brest",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776611700
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Strasbourg vs Rennes",
-      "team_home": "Strasbourg",
-      "team_away": "Rennes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
           }
         ]
       },
