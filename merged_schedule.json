@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T19:53:58.524129",
+  "generated_at": "2026-04-19T20:30:07.673096",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 133,
+  "total_events": 130,
   "events": [
     {
       "date": "2026-04-19",
@@ -635,19 +635,19 @@
       "date": "2026-04-19",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Real Madrid vs Tenerife",
-      "team_home": "Real Madrid",
-      "team_away": "Tenerife",
+      "league": null,
+      "title": "Trabzonspor vs İstanbul Başakşehir",
+      "team_home": "Trabzonspor",
+      "team_away": "İstanbul Başakşehir",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "unknown": [
           {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -657,35 +657,15 @@
       "date": "2026-04-19",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Sporting CP vs Benfica",
       "team_home": "Sporting CP",
       "team_away": "Benfica",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -707,28 +687,13 @@
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": "NBA",
-      "title": "Boston Celtics vs Philadelphia 76ers",
-      "team_home": "Boston Celtics",
-      "team_away": "Philadelphia 76ers",
+      "title": "Philadelphia 76ers vs Boston Celtics",
+      "team_home": "Philadelphia 76ers",
+      "team_away": "Boston Celtics",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV5",
@@ -738,79 +703,6 @@
         ]
       },
       "startTimestamp": 1776618000
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Trabzonspor vs Basaksehir",
-      "team_home": "Trabzonspor",
-      "team_away": "Basaksehir",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776618000
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Trabzonspor vs İstanbul Başakşehir",
-      "team_home": "Trabzonspor",
-      "team_away": "İstanbul Başakşehir",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776618000
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "17:15",
-      "time_utc1": "19:15",
-      "league": "Pro League",
-      "title": "RAAL La Louviere vs Waregem",
-      "team_home": "RAAL La Louviere",
-      "team_away": "Waregem",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776618900
     },
     {
       "date": "2026-04-19",
