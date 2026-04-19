@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T21:56:36.373915",
+  "generated_at": "2026-04-19T22:32:51.300812",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 117,
+  "total_events": 110,
   "events": [
     {
       "date": "2026-04-19",
@@ -831,22 +831,14 @@
       "date": "2026-04-19",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Caf Coupes Des Confederations",
-      "title": "Olympique de Safi vs USM Alger",
-      "team_home": "Olympique de Safi",
+      "league": null,
+      "title": "Olympic Safi vs USM Alger",
+      "team_home": "Olympic Safi",
       "team_away": "USM Alger",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD11",
@@ -861,105 +853,19 @@
       "date": "2026-04-19",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Almeria vs Malaga",
-      "team_home": "Almeria",
-      "team_away": "Malaga",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776625200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs Maldonado",
-      "team_home": "Danubio",
-      "team_away": "Maldonado",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776625200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Santa Fe vs Cucuta",
+      "league": null,
+      "title": "Santa Fe vs Cúcuta Deportivo",
       "team_home": "Santa Fe",
-      "team_away": "Cucuta",
+      "team_away": "Cúcuta Deportivo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776625200
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "NHL",
-      "title": "Colorado Avalanche vs Los Angeles Kings",
-      "team_home": "Colorado Avalanche",
-      "team_away": "Los Angeles Kings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
           }
         ]
       },
@@ -989,125 +895,17 @@
     },
     {
       "date": "2026-04-19",
-      "time_utc": "19:05",
-      "time_utc1": "21:05",
-      "league": "Top 14",
-      "title": "Racing 92 vs Stade Francais Paris",
-      "team_home": "Racing 92",
-      "team_away": "Stade Francais Paris",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776625500
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
-      "team_home": "Colorado Rockies",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776625800
-    },
-    {
-      "date": "2026-04-19",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Cobresal vs O'Higgins",
-      "team_home": "Cobresal",
-      "team_away": "O'Higgins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776627000
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Braga vs Famalicao",
-      "team_home": "Braga",
-      "team_away": "Famalicao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776627000
-    },
-    {
-      "date": "2026-04-19",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "FC Porto vs Tondela",
-      "team_home": "FC Porto",
+      "league": null,
+      "title": "Porto vs Tondela",
+      "team_home": "Porto",
       "team_away": "Tondela",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
