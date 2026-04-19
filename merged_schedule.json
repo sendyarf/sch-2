@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T16:07:17.068471",
+  "generated_at": "2026-04-19T16:57:21.351846",
   "sources": [
     {
       "name": "cartelive",
@@ -100,7 +100,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "ar": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -129,7 +129,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
+        "el": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -202,7 +202,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "ar": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -339,44 +339,19 @@
       "date": "2026-04-19",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
+      "league": null,
       "title": "Freiburg vs Heidenheim",
       "team_home": "Freiburg",
       "team_away": "Heidenheim",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
           }
         ]
       },
@@ -574,9 +549,7 @@
             "channel": "GR SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=149",
             "source": "cartelive"
-          }
-        ],
-        "de": [
+          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -810,11 +783,6 @@
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -844,6 +812,13 @@
             "channel": "DE skyde PL",
             "url": "https://multi.govoet.cc/?envivo=120",
             "source": "cartelive"
+          }
+        ],
+        "ar": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -947,11 +922,6 @@
             "channel": "IT SKY CALCIO",
             "url": "https://multi.govoet.cc/?envivo=138",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -964,6 +934,11 @@
             "channel": "ESPN3MX",
             "url": "https://multi.govoet.cc/?envivo=99",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -1511,9 +1486,7 @@
             "channel": "GR SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=148",
             "source": "cartelive"
-          }
-        ],
-        "de": [
+          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -1745,7 +1718,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "ar": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -1868,9 +1841,7 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          }
-        ],
-        "it": [
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -2353,9 +2324,7 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          }
-        ],
-        "it": [
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -2560,7 +2529,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
+        "el": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -2733,9 +2702,7 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          }
-        ],
-        "it": [
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -2907,7 +2874,7 @@
             "source": "cartelive"
           }
         ],
-        "de": [
+        "el": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -2970,9 +2937,7 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          }
-        ],
-        "it": [
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
