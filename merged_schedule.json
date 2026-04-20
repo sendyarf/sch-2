@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T18:09:05.684384",
+  "generated_at": "2026-04-20T19:31:55.369537",
   "sources": [
     {
       "name": "cartelive",
@@ -13,37 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 61,
+  "total_events": 60,
   "events": [
-    {
-      "date": "2026-04-20",
-      "time_utc": "15:10",
-      "time_utc1": "17:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Detroit Tigers",
-      "team_home": "Boston Red Sox",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776697800
-    },
     {
       "date": "2026-04-20",
       "time_utc": "16:15",
