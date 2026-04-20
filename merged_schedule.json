@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T19:31:55.369537",
+  "generated_at": "2026-04-20T21:07:21.866548",
   "sources": [
     {
       "name": "cartelive",
@@ -48,21 +48,22 @@
       "date": "2026-04-20",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Youth League",
-      "title": "Club Brugge vs Real Madrid",
-      "team_home": "Club Brugge",
-      "team_away": "Real Madrid",
+      "league": null,
+      "title": "Club Brugge U19 vs Real Madrid U19",
+      "team_home": "Club Brugge U19",
+      "team_away": "Real Madrid U19",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "de": [
           {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          },
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -71,20 +72,8 @@
         ],
         "es": [
           {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -109,22 +98,14 @@
       "date": "2026-04-20",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Gaziantep vs Kayserispor",
-      "team_home": "Gaziantep",
+      "league": null,
+      "title": "Gaziantep FK vs Kayserispor",
+      "team_home": "Gaziantep FK",
       "team_away": "Kayserispor",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD11",
@@ -139,21 +120,15 @@
       "date": "2026-04-20",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "Barracas Central vs Belgrano",
       "team_home": "Barracas Central",
       "team_away": "Belgrano",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
