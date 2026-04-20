@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T03:35:22.088338",
+  "generated_at": "2026-04-20T11:43:10.951527",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 48,
+  "total_events": 47,
   "events": [
     {
       "date": "2026-04-18",
@@ -136,21 +136,15 @@
       "date": "2026-04-20",
       "time_utc": "00:45",
       "time_utc1": "02:45",
-      "league": "Campeonato Itaú Chile",
-      "title": "Huachipato vs A. Italiano",
+      "league": null,
+      "title": "Huachipato vs Audax Italiano",
       "team_home": "Huachipato",
-      "team_away": "A. Italiano",
+      "team_away": "Audax Italiano",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -165,27 +159,14 @@
       "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "NBA",
-      "title": "San Antonio Spurs vs Portland Trail Blazers",
-      "team_home": "San Antonio Spurs",
-      "team_away": "Portland Trail Blazers",
+      "title": "Portland Trail Blazers vs San Antonio Spurs",
+      "team_home": "Portland Trail Blazers",
+      "team_away": "San Antonio Spurs",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -199,21 +180,15 @@
       "date": "2026-04-20",
       "time_utc": "01:30",
       "time_utc1": "03:30",
-      "league": "Liga BetPlay Dimayor",
-      "title": "America De Cali vs Millonarios",
-      "team_home": "America De Cali",
+      "league": null,
+      "title": "América de Cali vs Millonarios",
+      "team_home": "América de Cali",
       "team_away": "Millonarios",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -222,35 +197,6 @@
         ]
       },
       "startTimestamp": 1776648600
-    },
-    {
-      "date": "2026-04-20",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Vegas Golden Knights vs Utah Mammoth",
-      "team_home": "Vegas Golden Knights",
-      "team_away": "Utah Mammoth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776650400
     },
     {
       "date": "2026-04-20",
