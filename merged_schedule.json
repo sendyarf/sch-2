@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T20:31:02.689889",
+  "generated_at": "2026-04-21T21:29:21.918174",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 89,
+  "total_events": 88,
   "events": [
     {
       "date": "2026-04-21",
@@ -159,35 +159,6 @@
         ]
       },
       "startTimestamp": 1776792600
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Panathinaikos vs Monaco",
-      "team_home": "Panathinaikos",
-      "team_away": "Monaco",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776794400
     },
     {
       "date": "2026-04-21",
