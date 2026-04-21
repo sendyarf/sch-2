@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:09:36.578212",
+  "generated_at": "2026-04-21T22:57:37.745758",
   "sources": [
     {
       "name": "cartelive",
@@ -13,129 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 85,
+  "total_events": 82,
   "events": [
-    {
-      "date": "2026-04-21",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "Coupe De France",
-      "title": "Lens vs Toulouse",
-      "team_home": "Lens",
-      "team_away": "Toulouse",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "france2",
-            "url": "https://multi.govoet.cc/?envivo=28",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776798600
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Laliga",
-      "title": "Girona vs Betis",
-      "team_home": "Girona",
-      "team_away": "Betis",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776799800
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Laliga",
-      "title": "Real Madrid vs Alaves",
-      "team_home": "Real Madrid",
-      "team_away": "Alaves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776799800
-    },
     {
       "date": "2026-04-21",
       "time_utc": "22:00",
