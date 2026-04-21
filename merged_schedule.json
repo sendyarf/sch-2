@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T17:05:51.523710",
+  "generated_at": "2026-04-21T20:31:02.689889",
   "sources": [
     {
       "name": "cartelive",
@@ -41,22 +41,14 @@
       "date": "2026-04-21",
       "time_utc": "16:15",
       "time_utc1": "18:15",
-      "league": "Afc Ligue Des Champions",
-      "title": "Machida (Jpn) vs Shabab Al-Ahli Dubai (Uae)",
-      "team_home": "Machida (Jpn)",
-      "team_away": "Shabab Al-Ahli Dubai (Uae)",
+      "league": null,
+      "title": "Machida Zelvia vs Shabab Al Ahli",
+      "team_home": "Machida Zelvia",
+      "team_away": "Shabab Al Ahli",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD10",
@@ -78,55 +70,54 @@
       "date": "2026-04-21",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
+      "league": null,
+      "title": "Mallorca vs Valencia",
+      "team_home": "Mallorca",
+      "team_away": "Valencia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776790800
+    },
+    {
+      "date": "2026-04-21",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
       "title": "Ath Bilbao vs Osasuna",
       "team_home": "Ath Bilbao",
       "team_away": "Osasuna",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -142,78 +133,16 @@
     },
     {
       "date": "2026-04-21",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga",
-      "title": "Mallorca vs Valencia",
-      "team_home": "Mallorca",
-      "team_away": "Valencia",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776790800
-    },
-    {
-      "date": "2026-04-21",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Coupe De Turquie",
-      "title": "Konyaspor vs Fenerbahce",
+      "league": null,
+      "title": "Konyaspor vs Fenerbahçe",
       "team_home": "Konyaspor",
-      "team_away": "Fenerbahce",
+      "team_away": "Fenerbahçe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD5",
