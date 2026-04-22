@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:26:53.149904",
+  "generated_at": "2026-04-22T22:09:51.957971",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 95,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-04-21",
@@ -389,123 +389,16 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "Club Brugge KV vs KV Mechelen",
-      "team_home": "Club Brugge KV",
-      "team_away": "KV Mechelen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776882600
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "Royale Union SG vs Gent",
-      "team_home": "Royale Union SG",
-      "team_away": "Gent",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776882600
-    },
-    {
-      "date": "2026-04-22",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Charlton vs Ipswich",
-      "team_home": "Charlton",
-      "team_away": "Ipswich",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776883500
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "DFB Pokal",
+      "league": null,
       "title": "Bayer Leverkusen vs Bayern Munich",
       "team_home": "Bayer Leverkusen",
       "team_away": "Bayern Munich",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -541,150 +434,20 @@
       "date": "2026-04-22",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Coppa Italia",
-      "title": "Atalanta vs Lazio",
-      "team_home": "Atalanta",
-      "team_away": "Lazio",
+      "league": null,
+      "title": "AFC Bournemouth vs Leeds United",
+      "team_home": "AFC Bournemouth",
+      "team_away": "Leeds United",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776884400
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Coupe De France",
-      "title": "Strasbourg vs Nice",
-      "team_home": "Strasbourg",
-      "team_away": "Nice",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776884400
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Premier League",
-      "title": "Bournemouth vs Leeds",
-      "team_home": "Bournemouth",
-      "team_away": "Leeds",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1776884400
@@ -693,56 +456,19 @@
       "date": "2026-04-22",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Premier League",
+      "league": null,
       "title": "Burnley vs Manchester City",
       "team_home": "Burnley",
       "team_away": "Manchester City",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -764,25 +490,61 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "19:07",
-      "time_utc1": "21:07",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Toronto Blue Jays",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Toronto Blue Jays",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Strasbourg vs Nice",
+      "team_home": "Strasbourg",
+      "team_away": "Nice",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "fr": [
           {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1776884820
+      "startTimestamp": 1776884400
+    },
+    {
+      "date": "2026-04-22",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Atalanta vs Lazio",
+      "team_home": "Atalanta",
+      "team_away": "Lazio",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1776884400
     },
     {
       "date": "2026-04-22",
