@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T00:06:38.234657",
+  "generated_at": "2026-04-22T03:41:04.024212",
   "sources": [
     {
       "name": "cartelive",
@@ -13,72 +13,20 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 82,
+  "total_events": 67,
   "events": [
-    {
-      "date": "2026-04-21",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Ecuador Ligapro",
-      "title": "Libertad vs Guayaquil City",
-      "team_home": "Libertad",
-      "team_away": "Guayaquil City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776808800
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "22:10",
-      "time_utc1": "00:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Houston Astros",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776809400
-    },
     {
       "date": "2026-04-21",
       "time_utc": "22:15",
       "time_utc1": "00:15",
-      "league": "Coupe Du Bresil",
+      "league": null,
       "title": "São Paulo vs Juventude",
       "team_home": "São Paulo",
       "team_away": "Juventude",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -112,308 +60,18 @@
       "startTimestamp": 1776810600
     },
     {
-      "date": "2026-04-21",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Milwaukee Brewers",
-      "team_home": "Detroit Tigers",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776811200
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Miami Marlins vs St.Louis Cardinals",
-      "team_home": "Miami Marlins",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776811200
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Cincinnati Reds",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776811200
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Boston Red Sox vs New York Yankees",
-      "team_home": "Boston Red Sox",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776811500
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Washington Nationals vs Atlanta Braves",
-      "team_home": "Washington Nationals",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776811500
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Boston Celtics vs Philadelphia 76ers",
-      "team_home": "Boston Celtics",
-      "team_away": "Philadelphia 76ers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776812400
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "Tampa Bay Lightning vs Montreal Canadiens",
-      "team_home": "Tampa Bay Lightning",
-      "team_away": "Montreal Canadiens",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776812400
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "MLB",
-      "title": "New York Mets vs Minnesota Twins",
-      "team_home": "New York Mets",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776813000
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "NHL",
-      "title": "Buffalo Sabres vs Boston Bruins",
-      "team_home": "Buffalo Sabres",
-      "team_away": "Boston Bruins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776814200
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Philadelphia Phillies",
-      "team_home": "Chicago Cubs",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776814800
-    },
-    {
-      "date": "2026-04-21",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Baltimore Orioles",
-      "team_home": "Kansas City Royals",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776814800
-    },
-    {
       "date": "2026-04-22",
       "time_utc": "00:00",
       "time_utc1": "02:00",
       "league": "NBA",
-      "title": "San Antonio Spurs vs Portland Trail Blazers",
-      "team_home": "San Antonio Spurs",
-      "team_away": "Portland Trail Blazers",
+      "title": "Portland Trail Blazers vs San Antonio Spurs",
+      "team_home": "Portland Trail Blazers",
+      "team_away": "San Antonio Spurs",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -429,50 +87,6 @@
         ]
       },
       "startTimestamp": 1776816000
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "00:05",
-      "time_utc1": "02:05",
-      "league": "MLB",
-      "title": "Texas Rangers vs Pittsburgh Pirates",
-      "team_home": "Texas Rangers",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776816300
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Ecuador Ligapro",
-      "title": "Tecnico U. vs Emelec",
-      "team_home": "Tecnico U.",
-      "team_away": "Emelec",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776817800
     },
     {
       "date": "2026-04-22",
