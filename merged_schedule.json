@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:09:51.957971",
+  "generated_at": "2026-04-22T23:05:34.360279",
   "sources": [
     {
       "name": "cartelive",
@@ -550,48 +550,25 @@
       "date": "2026-04-22",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Laliga",
-      "title": "Barcelona vs Celta Vigo",
+      "league": null,
+      "title": "Barcelona vs Celta de Vigo",
       "team_home": "Barcelona",
-      "team_away": "Celta Vigo",
+      "team_away": "Celta de Vigo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -623,48 +600,25 @@
       "date": "2026-04-22",
       "time_utc": "19:45",
       "time_utc1": "21:45",
-      "league": "Coupe Du Portugal",
-      "title": "FC Porto vs Sporting CP",
-      "team_home": "FC Porto",
+      "league": null,
+      "title": "Porto vs Sporting CP",
+      "team_home": "Porto",
       "team_away": "Sporting CP",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
