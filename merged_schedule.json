@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T05:51:23.967296",
+  "generated_at": "2026-04-22T07:23:35.466274",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 59,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-04-21",
@@ -178,23 +178,17 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "03:05",
-      "time_utc1": "05:05",
-      "league": "Liga Mx",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": null,
       "title": "Monterrey vs Puebla",
       "team_home": "Monterrey",
       "team_away": "Puebla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -202,29 +196,7 @@
           }
         ]
       },
-      "startTimestamp": 1776827100
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "03:06",
-      "time_utc1": "05:06",
-      "league": "Liga Mx",
-      "title": "Club Leon vs Club America",
-      "team_home": "Club Leon",
-      "team_away": "Club America",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776827160
+      "startTimestamp": 1776826800
     },
     {
       "date": "2026-04-22",
