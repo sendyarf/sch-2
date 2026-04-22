@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T19:18:17.577990",
+  "generated_at": "2026-04-22T21:26:53.149904",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 104,
+  "total_events": 95,
   "events": [
     {
       "date": "2026-04-21",
@@ -251,101 +251,27 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "D1 Féminin",
-      "title": "Marseille W vs Nantes W",
-      "team_home": "Marseille W",
-      "team_away": "Nantes W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776876300
-    },
-    {
-      "date": "2026-04-22",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Betfred Super League",
-      "title": "Asteras Tripolis vs Panetolikos",
-      "team_home": "Asteras Tripolis",
-      "team_away": "Panetolikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776877200
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga",
-      "title": "Elche vs Atl. Madrid",
+      "league": null,
+      "title": "Elche vs Atlético Madrid",
       "team_home": "Elche",
-      "team_away": "Atl. Madrid",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -363,50 +289,25 @@
       "date": "2026-04-22",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Paris Saint-Germain vs Nantes",
       "team_home": "Paris Saint-Germain",
       "team_away": "Nantes",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ],
@@ -466,145 +367,17 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Houston Astros",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776877800
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Cincinnati Reds",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776877800
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Coupe De Turquie",
-      "title": "Galatasaray vs Genclerbirligi",
-      "team_home": "Galatasaray",
-      "team_away": "Genclerbirligi",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776879000
-    },
-    {
-      "date": "2026-04-22",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Ecuador Ligapro",
-      "title": "Delfin vs Ind. del Valle",
-      "team_home": "Delfin",
-      "team_away": "Ind. del Valle",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776880800
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Eredivisie",
-      "title": "Telstar vs Sparta Rotterdam",
-      "team_home": "Telstar",
-      "team_away": "Sparta Rotterdam",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776880800
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Real Sociedad vs Getafe",
       "team_home": "Real Sociedad",
       "team_away": "Getafe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -613,50 +386,6 @@
         ]
       },
       "startTimestamp": 1776880800
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Comerciantes Unidos vs Alianza Atl.",
-      "team_home": "Comerciantes Unidos",
-      "team_away": "Alianza Atl.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776880800
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Baltimore Orioles",
-      "team_home": "Kansas City Royals",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776881400
     },
     {
       "date": "2026-04-22",
