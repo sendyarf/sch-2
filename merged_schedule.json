@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T17:58:29.867634",
+  "generated_at": "2026-04-22T19:18:17.577990",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 106,
+  "total_events": 104,
   "events": [
     {
       "date": "2026-04-21",
@@ -224,28 +224,6 @@
       "date": "2026-04-22",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Ecuador Ligapro",
-      "title": "Leones del Norte vs Manta",
-      "team_home": "Leones del Norte",
-      "team_away": "Manta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776873600
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
       "league": null,
       "title": "Al Nassr vs Al Ahli",
       "team_home": "Al Nassr",
@@ -270,35 +248,6 @@
         ]
       },
       "startTimestamp": 1776873600
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "16:10",
-      "time_utc1": "18:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs St.Louis Cardinals",
-      "team_home": "Miami Marlins",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776874200
     },
     {
       "date": "2026-04-22",
