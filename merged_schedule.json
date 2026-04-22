@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T03:41:04.024212",
+  "generated_at": "2026-04-22T05:51:23.967296",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 67,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-04-21",
@@ -134,45 +134,17 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs San Diego Padres",
-      "team_home": "Colorado Rockies",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776818400
-    },
-    {
-      "date": "2026-04-22",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Queretaro vs Cruz Azul",
-      "team_home": "Queretaro",
+      "league": null,
+      "title": "Querétaro vs Cruz Azul",
+      "team_home": "Querétaro",
       "team_away": "Cruz Azul",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -184,209 +156,21 @@
     },
     {
       "date": "2026-04-22",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "UNAM Pumas vs Juarez",
-      "team_home": "UNAM Pumas",
-      "team_away": "Juarez",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776819600
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NHL",
-      "title": "Vegas Golden Knights vs Utah Mammoth",
-      "team_home": "Vegas Golden Knights",
-      "team_away": "Utah Mammoth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776821400
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Toronto Blue Jays",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776821880
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Chicago White Sox",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776822000
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Athletics",
-      "team_home": "Seattle Mariners",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776822000
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
-      "team_home": "San Francisco Giants",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776822300
-    },
-    {
-      "date": "2026-04-22",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Colorado Avalanche vs Los Angeles Kings",
-      "team_home": "Colorado Avalanche",
-      "team_away": "Los Angeles Kings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776823200
-    },
-    {
-      "date": "2026-04-22",
       "time_utc": "02:30",
       "time_utc1": "04:30",
       "league": "NBA",
-      "title": "Los Angeles Lakers vs Houston Rockets",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Houston Rockets",
+      "title": "Houston Rockets vs Los Angeles Lakers",
+      "team_home": "Houston Rockets",
+      "team_away": "Los Angeles Lakers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
           }
         ]
       },
