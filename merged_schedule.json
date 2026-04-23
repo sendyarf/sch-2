@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T20:37:06.528430",
+  "generated_at": "2026-04-23T21:28:50.104134",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 68,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-04-17",
@@ -686,284 +686,6 @@
     },
     {
       "date": "2026-04-23",
-      "time_utc": "15:45",
-      "time_utc1": "17:45",
-      "league": null,
-      "title": "Samsunspor vs Trabzonspor",
-      "team_home": "Samsunspor",
-      "team_away": "Trabzonspor",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776959100
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": null,
-      "title": "Go Ahead Eagles vs AZ",
-      "team_home": "Go Ahead Eagles",
-      "team_away": "AZ",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776962700
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Levante vs Sevilla",
-      "team_home": "Levante",
-      "team_away": "Sevilla",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776963600
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "Coupe De Turquie",
-      "title": "Besiktas vs Alanyaspor",
-      "team_home": "Besiktas",
-      "team_away": "Alanyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776966300
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": null,
-      "title": "Beşiktaş vs Alanyaspor",
-      "team_home": "Beşiktaş",
-      "team_away": "Alanyaspor",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776966300
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Laliga",
-      "title": "Rayo Vallecano vs Espanyol",
-      "team_home": "Rayo Vallecano",
-      "team_away": "Espanyol",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv+",
-            "url": "https://multi.govoet.cc/?envivo=96",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776967200
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Portugal",
-      "title": "Casa Pia vs Braga",
-      "team_home": "Casa Pia",
-      "team_away": "Braga",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776967200
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Al Hilal vs Al Kholood",
-      "team_home": "Al Hilal",
-      "team_away": "Al Kholood",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1776967200
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Philadelphia Phillies",
-      "team_home": "Chicago Cubs",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776968400
-    },
-    {
-      "date": "2026-04-23",
       "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": "Pro League",
@@ -1037,8 +759,7 @@
       "team_home": "Stuttgart",
       "team_away": "Freiburg",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1071,27 +792,6 @@
             "url": "https://multi.govoet.cc/?envivo=138",
             "source": "cartelive"
           }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
         ]
       },
       "startTimestamp": 1776969900
@@ -1105,8 +805,7 @@
       "team_home": "PSV",
       "team_away": "Zwolle",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "nl": [
@@ -1114,11 +813,6 @@
             "channel": "NL ESPN 1",
             "url": "https://multi.govoet.cc/?envivo=141",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -1184,8 +878,7 @@
       "team_home": "Oviedo",
       "team_away": "Villarreal",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1205,32 +898,6 @@
             "channel": "ESPN2",
             "url": "https://multi.govoet.cc/?envivo=88",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1267,8 +934,7 @@
       "team_home": "Torreense",
       "team_away": "AD Fafe",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -1293,11 +959,6 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1443,9 +1104,7 @@
             "channel": "WINsport",
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
-          }
-        ],
-        "unknown": [
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -1801,9 +1460,7 @@
             "channel": "WINsport",
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
-          }
-        ],
-        "unknown": [
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
