@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T05:41:50.267168",
+  "generated_at": "2026-04-23T07:15:52.599356",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 60,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-04-21",
@@ -959,59 +959,14 @@
       "date": "2026-04-23",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Liga de Expansión MX",
-      "title": "Jaiba Brava vs Atletico La Paz",
-      "team_home": "Jaiba Brava",
-      "team_away": "Atletico La Paz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776913200
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "03:05",
-      "time_utc1": "05:05",
-      "league": "Liga Mx",
-      "title": "Necaxa vs Guadalajara Chivas",
+      "league": null,
+      "title": "Necaxa vs Guadalajara",
       "team_home": "Necaxa",
-      "team_away": "Guadalajara Chivas",
+      "team_away": "Guadalajara",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD11",
@@ -1020,29 +975,7 @@
           }
         ]
       },
-      "startTimestamp": 1776913500
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "03:06",
-      "time_utc1": "05:06",
-      "league": "Liga Mx",
-      "title": "Club Tijuana vs Pachuca",
-      "team_home": "Club Tijuana",
-      "team_away": "Pachuca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776913560
+      "startTimestamp": 1776913200
     },
     {
       "date": "2026-04-23",
