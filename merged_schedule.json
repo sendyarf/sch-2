@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T03:27:15.188276",
+  "generated_at": "2026-04-23T05:41:50.267168",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 73,
+  "total_events": 60,
   "events": [
     {
       "date": "2026-04-21",
@@ -805,50 +805,6 @@
       "date": "2026-04-23",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "MLS",
-      "title": "FC Dallas vs Minnesota United",
-      "team_home": "FC Dallas",
-      "team_away": "Minnesota United",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776904200
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "MLS",
-      "title": "Houston Dynamo vs San Diego FC",
-      "team_home": "Houston Dynamo",
-      "team_away": "San Diego FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776904200
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
       "league": null,
       "title": "RB Bragantino vs Mirassol",
       "team_home": "RB Bragantino",
@@ -891,112 +847,16 @@
     },
     {
       "date": "2026-04-23",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs San Diego Padres",
-      "team_home": "Colorado Rockies",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776904800
-    },
-    {
-      "date": "2026-04-23",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Ecuador Ligapro",
-      "title": "LDU Quito vs Aucas",
-      "team_home": "LDU Quito",
-      "team_away": "Aucas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776906000
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Zacatecas Mineros vs Atl. Morelia",
-      "team_home": "Zacatecas Mineros",
-      "team_away": "Atl. Morelia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776906000
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Atl. San Luis vs Santos Laguna",
-      "team_home": "Atl. San Luis",
-      "team_away": "Santos Laguna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776906000
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
+      "league": null,
       "title": "Atlas vs Tigres UANL",
       "team_home": "Atlas",
       "team_away": "Tigres UANL",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD11",
@@ -1011,22 +871,14 @@
       "date": "2026-04-23",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Mazatlan FC vs Toluca",
-      "team_home": "Mazatlan FC",
+      "league": null,
+      "title": "Mazatlán vs Toluca",
+      "team_home": "Mazatlán",
       "team_away": "Toluca",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD10",
@@ -1041,44 +893,14 @@
       "date": "2026-04-23",
       "time_utc": "01:30",
       "time_utc1": "03:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "U. de Deportes vs Deportivo Garcilaso",
-      "team_home": "U. de Deportes",
-      "team_away": "Deportivo Garcilaso",
+      "league": null,
+      "title": "Fortaleza CEIF vs América de Cali",
+      "team_home": "Fortaleza CEIF",
+      "team_away": "América de Cali",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776907800
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Fortaleza vs America De Cali",
-      "team_home": "Fortaleza",
-      "team_away": "America De Cali",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD8",
@@ -1093,28 +915,15 @@
       "date": "2026-04-23",
       "time_utc": "01:30",
       "time_utc1": "03:30",
-      "league": "MLS",
+      "league": null,
       "title": "Real Salt Lake vs Inter Miami",
       "team_home": "Real Salt Lake",
       "team_away": "Inter Miami",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1129,27 +938,14 @@
       "time_utc": "01:30",
       "time_utc1": "03:30",
       "league": "NBA",
-      "title": "Oklahoma City Thunder vs Phoenix Suns",
-      "team_home": "Oklahoma City Thunder",
-      "team_away": "Phoenix Suns",
+      "title": "Phoenix Suns vs Oklahoma City Thunder",
+      "team_home": "Phoenix Suns",
+      "team_away": "Oklahoma City Thunder",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -1158,152 +954,6 @@
         ]
       },
       "startTimestamp": 1776907800
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NHL",
-      "title": "Minnesota Wild vs Dallas Stars",
-      "team_home": "Minnesota Wild",
-      "team_away": "Dallas Stars",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776907800
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Chicago White Sox",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776908400
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Los Angeles Dodgers",
-      "team_home": "San Francisco Giants",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776908700
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Edmonton Oilers vs Anaheim Ducks",
-      "team_home": "Edmonton Oilers",
-      "team_away": "Anaheim Ducks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776909600
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Los Angeles FC vs Colorado Rapids",
-      "team_home": "Los Angeles FC",
-      "team_away": "Colorado Rapids",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776911400
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "San Jose Earthquakes vs Austin FC",
-      "team_home": "San Jose Earthquakes",
-      "team_away": "Austin FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776911400
     },
     {
       "date": "2026-04-23",
