@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T19:39:51.230774",
+  "generated_at": "2026-04-23T20:37:06.528430",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 71,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-04-17",
@@ -717,35 +717,6 @@
       "date": "2026-04-23",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Eredivisie",
-      "title": "G.A. Eagles vs AZ Alkmaar",
-      "team_home": "G.A. Eagles",
-      "team_away": "AZ Alkmaar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776962700
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
       "league": null,
       "title": "Go Ahead Eagles vs AZ",
       "team_home": "Go Ahead Eagles",
@@ -768,48 +739,25 @@
       "date": "2026-04-23",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Levante vs Sevilla",
       "team_home": "Levante",
       "team_away": "Sevilla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -829,64 +777,6 @@
         ]
       },
       "startTimestamp": 1776963600
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "17:05",
-      "time_utc1": "19:05",
-      "league": "MLB",
-      "title": "Washington Nationals vs Atlanta Braves",
-      "team_home": "Washington Nationals",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776963900
-    },
-    {
-      "date": "2026-04-23",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Milwaukee Brewers",
-      "team_home": "Detroit Tigers",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1776964200
     },
     {
       "date": "2026-04-23",
