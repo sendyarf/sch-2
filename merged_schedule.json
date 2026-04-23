@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T18:05:38.659251",
+  "generated_at": "2026-04-23T19:39:51.230774",
   "sources": [
     {
       "name": "cartelive",
@@ -688,38 +688,25 @@
       "date": "2026-04-23",
       "time_utc": "15:45",
       "time_utc1": "17:45",
-      "league": "Coupe De Turquie",
+      "league": null,
       "title": "Samsunspor vs Trabzonspor",
       "team_home": "Samsunspor",
       "team_away": "Trabzonspor",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
