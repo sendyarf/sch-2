@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T18:28:32.303697",
+  "generated_at": "2026-04-24T19:30:15.701674",
   "sources": [
     {
       "name": "cartelive",
@@ -13,86 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 124,
+  "total_events": 118,
   "events": [
-    {
-      "date": "2026-04-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777048200
-    },
-    {
-      "date": "2026-04-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Dusseldorf vs SG Dynamo Dresden",
-      "team_home": "Dusseldorf",
-      "team_away": "SG Dynamo Dresden",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777048200
-    },
-    {
-      "date": "2026-04-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Kaiserslautern vs Braunschweig",
-      "team_home": "Kaiserslautern",
-      "team_away": "Braunschweig",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777048200
-    },
     {
       "date": "2026-04-24",
       "time_utc": "17:00",
@@ -139,28 +61,6 @@
             "channel": "ESPN7",
             "url": "https://multi.govoet.cc/?envivo=93",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777050000
-    },
-    {
-      "date": "2026-04-24",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "İstanbul Başakşehir vs Kasımpaşa",
-      "team_home": "İstanbul Başakşehir",
-      "team_away": "Kasımpaşa",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
@@ -388,57 +288,6 @@
             "channel": "beIN SPORT max 5",
             "url": "https://multi.govoet.cc/?envivo=5",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777053600
-    },
-    {
-      "date": "2026-04-24",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Al Nassr vs Al Ittifaq",
-      "team_home": "Al Nassr",
-      "team_away": "Al Ittifaq",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777053600
-    },
-    {
-      "date": "2026-04-24",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Tennis",
-      "title": "Madrid",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
           }
         ]
       },
