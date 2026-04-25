@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T14:51:55.527708",
+  "generated_at": "2026-04-25T15:34:42.684532",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 199,
+  "total_events": 196,
   "events": [
     {
       "date": "2026-04-25",
@@ -157,31 +157,15 @@
       "date": "2026-04-25",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Laliga",
-      "title": "Alaves vs Mallorca",
-      "team_home": "Alaves",
+      "league": null,
+      "title": "Deportivo Alavés vs Mallorca",
+      "team_home": "Deportivo Alavés",
       "team_away": "Mallorca",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -197,72 +181,6 @@
         ]
       },
       "startTimestamp": 1777118400
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Ligue 2",
-      "title": "Grenoble vs Le Mans",
-      "team_home": "Grenoble",
-      "team_away": "Le Mans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777118400
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Ligue 2",
-      "title": "Reims vs Nancy",
-      "team_home": "Reims",
-      "team_away": "Nancy",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777118400
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Top 14",
-      "title": "Stade Francais Paris vs Section Paloise",
-      "team_home": "Stade Francais Paris",
-      "team_away": "Section Paloise",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777120200
     },
     {
       "date": "2026-04-25",
