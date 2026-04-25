@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T21:52:15.015365",
+  "generated_at": "2026-04-25T22:30:05.018398",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 124,
+  "total_events": 114,
   "events": [
     {
       "date": "2026-04-25",
@@ -55,172 +55,19 @@
       "date": "2026-04-25",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Nublense vs O'Higgins",
-      "team_home": "Nublense",
-      "team_away": "O'Higgins",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "D1 Féminin",
-      "title": "D1 Féminin: Multiplex D1 fem",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "D1 Féminin",
-      "title": "Dijon W vs Paris FC W",
-      "team_home": "Dijon W",
-      "team_away": "Paris FC W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "D1 Féminin",
-      "title": "Fleury 91 W vs PSG W",
-      "team_home": "Fleury 91 W",
-      "team_away": "PSG W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Eredivisie",
-      "title": "Twente vs Nijmegen",
-      "team_home": "Twente",
-      "team_away": "Nijmegen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Atl. Madrid vs Ath Bilbao",
-      "team_home": "Atl. Madrid",
+      "league": null,
+      "title": "Atlético Madrid vs Ath Bilbao",
+      "team_home": "Atlético Madrid",
       "team_away": "Ath Bilbao",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -237,29 +84,14 @@
       "date": "2026-04-25",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Malaga vs Castellon",
-      "team_home": "Malaga",
-      "team_away": "Castellon",
+      "league": null,
+      "title": "Málaga vs CD Castellon",
+      "team_home": "Málaga",
+      "team_away": "CD Castellon",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN2",
@@ -274,92 +106,19 @@
       "date": "2026-04-25",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Bucaramanga vs Jaguares de Cordoba",
-      "team_home": "Bucaramanga",
-      "team_away": "Jaguares de Cordoba",
+      "league": null,
+      "title": "Ñublense vs O'Higgins",
+      "team_home": "Ñublense",
+      "team_away": "O'Higgins",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Real Madrid",
-      "team_home": "Valencia",
-      "team_away": "Real Madrid",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "NHL",
-      "title": "Ottawa Senators vs Carolina Hurricanes",
-      "team_home": "Ottawa Senators",
-      "team_away": "Carolina Hurricanes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777143600
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Top 14",
-      "title": "Bordeaux Begles vs Montpellier",
-      "team_home": "Bordeaux Begles",
-      "team_away": "Montpellier",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 1",
-            "url": "https://multi.govoet.cc/?envivo=31",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -369,37 +128,19 @@
       "date": "2026-04-25",
       "time_utc": "19:05",
       "time_utc1": "21:05",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Toulouse vs Monaco",
       "team_home": "Toulouse",
       "team_away": "Monaco",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
           {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -414,67 +155,17 @@
     },
     {
       "date": "2026-04-25",
-      "time_utc": "19:07",
-      "time_utc1": "21:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Cleveland Guardians",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777144020
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "Ecuador Ligapro",
-      "title": "Ind. del Valle vs Leones del Norte",
-      "team_home": "Ind. del Valle",
-      "team_away": "Leones del Norte",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777144200
-    },
-    {
-      "date": "2026-04-25",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Vitoria Guimaraes vs Rio Ave",
-      "team_home": "Vitoria Guimaraes",
+      "league": null,
+      "title": "Vitória Guimarães vs Rio Ave",
+      "team_home": "Vitória Guimarães",
       "team_away": "Rio Ave",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -489,20 +180,14 @@
       "time_utc": "19:30",
       "time_utc1": "21:30",
       "league": "NBA",
-      "title": "Phoenix Suns vs Oklahoma City Thunder",
-      "team_home": "Phoenix Suns",
-      "team_away": "Oklahoma City Thunder",
+      "title": "Oklahoma City Thunder vs Phoenix Suns",
+      "team_home": "Oklahoma City Thunder",
+      "team_away": "Phoenix Suns",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
