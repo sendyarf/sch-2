@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:39:22.360830",
+  "generated_at": "2026-04-25T01:05:01.059361",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 104,
+  "total_events": 103,
   "events": [
     {
       "date": "2026-04-24",
@@ -294,26 +294,15 @@
       "date": "2026-04-24",
       "time_utc": "21:00",
       "time_utc1": "23:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Cucuta vs Junior",
-      "team_home": "Cucuta",
+      "league": null,
+      "title": "Cúcuta Deportivo vs Junior",
+      "team_home": "Cúcuta Deportivo",
       "team_away": "Junior",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -322,28 +311,6 @@
         ]
       },
       "startTimestamp": 1777064400
-    },
-    {
-      "date": "2026-04-24",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Union La Calera vs Coquimbo",
-      "team_home": "Union La Calera",
-      "team_away": "Coquimbo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777068000
     },
     {
       "date": "2026-04-24",
