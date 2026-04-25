@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T22:30:05.018398",
+  "generated_at": "2026-04-25T23:07:12.824222",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 114,
+  "total_events": 113,
   "events": [
     {
       "date": "2026-04-25",
@@ -208,68 +208,23 @@
       "date": "2026-04-25",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Torneo LPF",
-      "title": "Estudiantes L.P. vs Talleres Cordoba",
-      "team_home": "Estudiantes L.P.",
-      "team_away": "Talleres Cordoba",
+      "league": null,
+      "title": "Estudiantes vs Talleres Córdoba",
+      "team_home": "Estudiantes",
+      "team_away": "Talleres Córdoba",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1777147200
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Miami Marlins",
-      "team_home": "San Francisco Giants",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777147500
     },
     {
       "date": "2026-04-25",
