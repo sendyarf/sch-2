@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T05:57:34.869948",
+  "generated_at": "2026-04-25T07:17:39.003097",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 79,
+  "total_events": 78,
   "events": [
     {
       "date": "2026-04-24",
@@ -433,26 +433,15 @@
       "date": "2026-04-25",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Puebla vs Queretaro",
+      "league": null,
+      "title": "Puebla vs Querétaro",
       "team_home": "Puebla",
-      "team_away": "Queretaro",
+      "team_away": "Querétaro",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -461,28 +450,6 @@
         ]
       },
       "startTimestamp": 1777086000
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "03:06",
-      "time_utc1": "05:06",
-      "league": "Liga MX Femenil",
-      "title": "Monterrey W vs Tigres UANL W",
-      "team_home": "Monterrey W",
-      "team_away": "Tigres UANL W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777086360
     },
     {
       "date": "2026-04-25",
