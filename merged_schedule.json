@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T20:20:43.960737",
+  "generated_at": "2026-04-25T21:52:15.015365",
   "sources": [
     {
       "name": "cartelive",
@@ -13,254 +13,21 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 134,
+  "total_events": 124,
   "events": [
     {
       "date": "2026-04-25",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Coupe De Grèce",
-      "title": "PAOK vs OFI Crete",
-      "team_home": "PAOK",
-      "team_away": "OFI Crete",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777138200
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Eredivisie",
-      "title": "NAC Breda vs Ajax",
-      "team_home": "NAC Breda",
-      "team_away": "Ajax",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777140000
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Moquegua vs FC Cajamarca",
-      "team_home": "Moquegua",
-      "team_away": "FC Cajamarca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777140000
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Gran Canaria vs Basquet Girona",
-      "team_home": "Gran Canaria",
-      "team_away": "Basquet Girona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777140000
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue 2",
-      "title": "St Etienne vs Troyes",
-      "team_home": "St Etienne",
-      "team_away": "Troyes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777140000
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Seattle Mariners",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777140900
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Darmstadt vs Elversberg",
-      "team_home": "Darmstadt",
-      "team_away": "Elversberg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777141800
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Maldonado vs Albion",
-      "team_home": "Maldonado",
-      "team_away": "Albion",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777141800
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "MLS",
-      "title": "CF Montreal vs New York City",
-      "team_home": "CF Montreal",
-      "team_away": "New York City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777141800
-    },
-    {
-      "date": "2026-04-25",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Westerlo vs Antwerp",
-      "team_home": "Westerlo",
-      "team_away": "Antwerp",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777142700
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
+      "league": null,
       "title": "Verona vs Lecce",
       "team_home": "Verona",
       "team_away": "Lecce",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -269,28 +36,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
