@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T23:07:12.824222",
+  "generated_at": "2026-04-25T23:53:40.246689",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 113,
+  "total_events": 108,
   "events": [
     {
       "date": "2026-04-25",
@@ -27,7 +27,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "unknown": [
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -63,7 +63,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "unknown": [
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -114,7 +114,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "unknown": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -136,7 +136,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "unknown": [
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -187,7 +187,7 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -225,123 +225,6 @@
         ]
       },
       "startTimestamp": 1777147200
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Washington Nationals",
-      "team_home": "Chicago White Sox",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777147800
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "New York Mets vs Colorado Rockies",
-      "team_home": "New York Mets",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777147800
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Minnesota Twins",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777147800
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Comerciantes Unidos vs Sporting Cristal",
-      "team_home": "Comerciantes Unidos",
-      "team_away": "Sporting Cristal",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777149000
-    },
-    {
-      "date": "2026-04-25",
-      "time_utc": "20:45",
-      "time_utc1": "22:45",
-      "league": "MLS",
-      "title": "Minnesota United vs Los Angeles FC",
-      "team_home": "Minnesota United",
-      "team_away": "Los Angeles FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777149900
     },
     {
       "date": "2026-04-25",
@@ -514,7 +397,9 @@
             "channel": "TNTCHILE Premium",
             "url": "https://multi.govoet.cc/?envivo=83",
             "source": "cartelive"
-          },
+          }
+        ],
+        "unknown": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -593,7 +478,9 @@
             "channel": "EXTRA SPORT25",
             "url": "https://multi.govoet.cc/?envivo=179",
             "source": "cartelive"
-          },
+          }
+        ],
+        "unknown": [
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
