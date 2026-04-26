@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T22:49:33.389164",
+  "generated_at": "2026-04-26T23:33:17.812284",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 70,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-04-26",
@@ -1033,190 +1033,21 @@
     },
     {
       "date": "2026-04-26",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs San Diego Padres",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777233900
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Miami Marlins",
-      "team_home": "San Francisco Giants",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777233900
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Chicago Cubs",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777234200
-    },
-    {
-      "date": "2026-04-26",
       "time_utc": "20:30",
       "time_utc1": "22:30",
-      "league": "Ecuador Ligapro",
-      "title": "Guayaquil City vs Tecnico U.",
-      "team_home": "Guayaquil City",
-      "team_away": "Tecnico U.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777235400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Grau vs Alianza Lima",
-      "team_home": "Grau",
-      "team_away": "Alianza Lima",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777235400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "NHL",
-      "title": "Los Angeles Kings vs Colorado Avalanche",
-      "team_home": "Los Angeles Kings",
-      "team_away": "Colorado Avalanche",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777235400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Torneo LPF",
-      "title": "Belgrano vs Gimnasia L.P.",
+      "league": null,
+      "title": "Belgrano vs Gimnasia La Plata",
       "team_home": "Belgrano",
-      "team_away": "Gimnasia L.P.",
+      "team_away": "Gimnasia La Plata",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ],
         "el": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777235400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Torneo LPF",
-      "title": "Newells Old Boys vs Instituto",
-      "team_home": "Newells Old Boys",
-      "team_away": "Instituto",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
           }
         ]
       },
