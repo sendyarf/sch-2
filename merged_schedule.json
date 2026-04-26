@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T15:56:19.805312",
+  "generated_at": "2026-04-26T16:38:51.649976",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 111,
+  "total_events": 108,
   "events": [
     {
       "date": "2026-04-26",
@@ -309,174 +309,55 @@
       "date": "2026-04-26",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Betfred Super League",
-      "title": "Kifisia vs Panetolikos",
-      "team_home": "Kifisia",
-      "team_away": "Panetolikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777208400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs CA Cerro",
-      "team_home": "Central Esp.",
-      "team_away": "CA Cerro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777208400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Ligue 1",
-      "title": "Lorient vs Strasbourg",
-      "team_home": "Lorient",
-      "team_away": "Strasbourg",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777208400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premiership",
-      "title": "Dundee Utd vs Dundee FC",
-      "team_home": "Dundee Utd",
-      "team_away": "Dundee FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777208400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Serie A",
+      "league": null,
       "title": "Genoa vs Como",
       "team_home": "Genoa",
       "team_away": "Como",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV3",
             "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
-        ],
-        "el": [
+        ]
+      },
+      "startTimestamp": 1777208400
+    },
+    {
+      "date": "2026-04-26",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Lorient vs Strasbourg",
+      "team_home": "Lorient",
+      "team_away": "Strasbourg",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
           {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -508,40 +389,15 @@
       "date": "2026-04-26",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
+      "league": null,
       "title": "Stuttgart vs Werder Bremen",
       "team_home": "Stuttgart",
       "team_away": "Werder Bremen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
