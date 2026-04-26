@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T16:38:51.649976",
+  "generated_at": "2026-04-26T17:23:44.637922",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 108,
+  "total_events": 105,
   "events": [
     {
       "date": "2026-04-26",
@@ -418,28 +418,15 @@
       "date": "2026-04-26",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Fa Cup",
-      "title": "Chelsea vs Leeds",
+      "league": null,
+      "title": "Chelsea vs Leeds United",
       "team_home": "Chelsea",
-      "team_away": "Leeds",
+      "team_away": "Leeds United",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -448,26 +435,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -482,58 +452,16 @@
     },
     {
       "date": "2026-04-26",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "KV Mechelen vs St. Truiden",
-      "team_home": "KV Mechelen",
-      "team_away": "St. Truiden",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777212000
-    },
-    {
-      "date": "2026-04-26",
       "time_utc": "14:15",
       "time_utc1": "16:15",
-      "league": "Laliga",
-      "title": "Oviedo vs Elche",
-      "team_home": "Oviedo",
+      "league": null,
+      "title": "Real Oviedo vs Elche",
+      "team_home": "Real Oviedo",
       "team_away": "Elche",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -546,50 +474,6 @@
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777212900
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Granada CF vs Almeria",
-      "team_home": "Granada CF",
-      "team_away": "Almeria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777212900
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Mirandes vs Cultural Leonesa",
-      "team_home": "Mirandes",
-      "team_away": "Cultural Leonesa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
           }
         ]
       },
