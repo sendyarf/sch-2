@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T19:12:37.261833",
+  "generated_at": "2026-04-26T19:54:53.032486",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 95,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-04-26",
@@ -679,70 +679,25 @@
       "date": "2026-04-26",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "La Serena vs Huachipato",
-      "team_home": "La Serena",
-      "team_away": "Huachipato",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777221000
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga",
+      "league": null,
       "title": "Osasuna vs Sevilla",
       "team_home": "Osasuna",
       "team_away": "Sevilla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -751,77 +706,6 @@
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777221000
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Huesca vs Zaragoza",
-      "team_home": "Huesca",
-      "team_away": "Zaragoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777221000
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Leganes vs Andorra",
-      "team_home": "Leganes",
-      "team_away": "Andorra",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777221000
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Anderlecht vs Royale Union SG",
-      "team_home": "Anderlecht",
-      "team_away": "Royale Union SG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
