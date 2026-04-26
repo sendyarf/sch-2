@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T17:23:44.637922",
+  "generated_at": "2026-04-26T18:02:52.771278",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 105,
+  "total_events": 101,
   "events": [
     {
       "date": "2026-04-26",
@@ -483,69 +483,6 @@
       "date": "2026-04-26",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "Estoril vs Famalicao",
-      "team_home": "Estoril",
-      "team_away": "Famalicao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777213800
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Ligue Des Champions Femmes",
-      "title": "Arsenal W vs Lyon W",
-      "team_home": "Arsenal W",
-      "team_away": "Lyon W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "equipe",
-            "url": "https://multi.govoet.cc/?envivo=19",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777213800
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
       "league": null,
       "title": "Arsenal W vs OL Lyonnes W",
       "team_home": "Arsenal W",
@@ -643,50 +580,6 @@
         ]
       },
       "startTimestamp": 1777214700
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Betfred Super League",
-      "title": "Atromitos vs Asteras Tripolis",
-      "team_home": "Atromitos",
-      "team_away": "Asteras Tripolis",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777215600
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Liga Endesa",
-      "title": "Manresa vs San Pablo Burgos",
-      "team_home": "Manresa",
-      "team_away": "San Pablo Burgos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777215600
     },
     {
       "date": "2026-04-26",
