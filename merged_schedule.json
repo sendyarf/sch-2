@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T19:54:53.032486",
+  "generated_at": "2026-04-26T20:31:58.987463",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 91,
+  "total_events": 89,
   "events": [
     {
       "date": "2026-04-26",
@@ -715,63 +715,15 @@
       "date": "2026-04-26",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Betfred Super League",
-      "title": "AEL Larissa vs Panserraikos",
-      "team_home": "AEL Larissa",
-      "team_away": "Panserraikos",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777222800
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Estrela vs FC Porto",
+      "league": null,
+      "title": "Estrela vs Porto",
       "team_home": "Estrela",
-      "team_away": "FC Porto",
+      "team_away": "Porto",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -785,28 +737,44 @@
       "date": "2026-04-26",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Santa Clara vs Braga",
-      "team_home": "Santa Clara",
-      "team_away": "Braga",
+      "league": null,
+      "title": "Galatasaray vs Fenerbahçe",
+      "team_home": "Galatasaray",
+      "team_away": "Fenerbahçe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "pt": [
           {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          },
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777222800
+    },
+    {
+      "date": "2026-04-26",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Santa Clara vs Sporting Braga",
+      "team_home": "Santa Clara",
+      "team_away": "Sporting Braga",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
           {
             "channel": "SPORTTV4",
             "url": "https://multi.govoet.cc/?ss=sporttv4",
@@ -820,114 +788,23 @@
       "date": "2026-04-26",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "NBA",
-      "title": "Toronto Raptors vs Cleveland Cavaliers",
-      "team_home": "Toronto Raptors",
-      "team_away": "Cleveland Cavaliers",
+      "league": null,
+      "title": "Larissa vs Panserraikos",
+      "team_home": "Larissa",
+      "team_away": "Panserraikos",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "el": [
           {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777222800
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Galatasaray vs Fenerbahce",
-      "team_home": "Galatasaray",
-      "team_away": "Fenerbahce",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
       },
       "startTimestamp": 1777222800
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "17:15",
-      "time_utc1": "19:15",
-      "league": "Pro League",
-      "title": "Waregem vs RAAL La Louviere",
-      "team_home": "Waregem",
-      "team_away": "RAAL La Louviere",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777223700
     },
     {
       "date": "2026-04-26",
