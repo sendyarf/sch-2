@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T18:02:52.771278",
+  "generated_at": "2026-04-26T19:12:37.261833",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 101,
+  "total_events": 95,
   "events": [
     {
       "date": "2026-04-26",
@@ -585,117 +585,26 @@
       "date": "2026-04-26",
       "time_utc": "15:15",
       "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Ligue 1: Multiplex Ligue 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777216500
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Le Havre vs Metz",
-      "team_home": "Le Havre",
-      "team_away": "Metz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 6",
-            "url": "https://multi.govoet.cc/?envivo=18",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777216500
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Paris FC vs Lille",
-      "team_home": "Paris FC",
+      "league": null,
+      "title": "Paris vs Lille",
+      "team_home": "Paris",
       "team_away": "Lille",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1777216500
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Rennes vs Nantes",
-      "team_home": "Rennes",
-      "team_away": "Nantes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
+        ],
         "fr": [
           {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -705,39 +614,19 @@
       "date": "2026-04-26",
       "time_utc": "15:30",
       "time_utc1": "17:30",
-      "league": "Bundesliga",
-      "title": "Dortmund vs Freiburg",
-      "team_home": "Dortmund",
+      "league": null,
+      "title": "Borussia Dortmund vs Freiburg",
+      "team_home": "Borussia Dortmund",
       "team_away": "Freiburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -749,100 +638,6 @@
         ]
       },
       "startTimestamp": 1777217400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Premiership",
-      "title": "Hibernian vs Hearts",
-      "team_home": "Hibernian",
-      "team_away": "Hearts",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777217400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cajamarca vs Cienciano",
-      "team_home": "Cajamarca",
-      "team_away": "Cienciano",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777219200
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Serie A",
-      "title": "Torino vs Inter",
-      "team_home": "Torino",
-      "team_away": "Inter",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777219200
     },
     {
       "date": "2026-04-26",
