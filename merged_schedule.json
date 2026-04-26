@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T05:20:15.708339",
+  "generated_at": "2026-04-26T07:08:58.712772",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 84,
+  "total_events": 80,
   "events": [
     {
       "date": "2026-04-25",
@@ -645,102 +645,21 @@
     },
     {
       "date": "2026-04-26",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Seattle Sounders vs FC Dallas",
-      "team_home": "Seattle Sounders",
-      "team_away": "FC Dallas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777170600
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Vancouver Whitecaps vs Colorado Rapids",
-      "team_home": "Vancouver Whitecaps",
-      "team_away": "Colorado Rapids",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT47",
-            "url": "https://multi.govoet.cc/?envivo=200",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777170600
-    },
-    {
-      "date": "2026-04-26",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Liga de Expansión MX",
-      "title": "Atletico La Paz vs Jaiba Brava",
-      "team_home": "Atletico La Paz",
-      "team_away": "Jaiba Brava",
+      "league": null,
+      "title": "América vs Atlas",
+      "team_home": "América",
+      "team_away": "Atlas",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          },
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777172400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Juarez vs Atl. San Luis",
-      "team_home": "Juarez",
-      "team_away": "Atl. San Luis",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
@@ -767,44 +686,6 @@
         ]
       },
       "startTimestamp": 1777172400
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Club America vs Atlas",
-      "team_home": "Club America",
-      "team_away": "Atlas",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777173000
     },
     {
       "date": "2026-04-26",
