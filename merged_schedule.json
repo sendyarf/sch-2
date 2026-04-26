@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T22:00:05.724748",
+  "generated_at": "2026-04-26T22:49:33.389164",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 72,
+  "total_events": 70,
   "events": [
     {
       "date": "2026-04-26",
@@ -989,99 +989,6 @@
     },
     {
       "date": "2026-04-26",
-      "time_utc": "19:05",
-      "time_utc1": "21:05",
-      "league": "Top 14",
-      "title": "Stade Toulousain vs Clermont",
-      "team_home": "Stade Toulousain",
-      "team_away": "Clermont",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777230300
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "AFS vs Sporting CP",
-      "team_home": "AFS",
-      "team_away": "Sporting CP",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777231800
-    },
-    {
-      "date": "2026-04-26",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "NBA",
-      "title": "Portland Trail Blazers vs San Antonio Spurs",
-      "team_home": "Portland Trail Blazers",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777231800
-    },
-    {
-      "date": "2026-04-26",
       "time_utc": "19:30",
       "time_utc1": "21:30",
       "league": null,
@@ -1096,6 +1003,28 @@
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777231800
+    },
+    {
+      "date": "2026-04-26",
+      "time_utc": "19:30",
+      "time_utc1": "21:30",
+      "league": "NBA",
+      "title": "San Antonio Spurs vs Portland Trail Blazers",
+      "team_home": "San Antonio Spurs",
+      "team_away": "Portland Trail Blazers",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
