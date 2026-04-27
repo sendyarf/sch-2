@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T20:55:21.586830",
+  "generated_at": "2026-04-27T21:50:48.609263",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 59,
+  "total_events": 57,
   "events": [
     {
       "date": "2026-04-27",
@@ -201,21 +201,15 @@
       "date": "2026-04-27",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Laliga 2",
-      "title": "Cadiz CF vs Las Palmas",
-      "team_home": "Cadiz CF",
+      "league": null,
+      "title": "Cádiz vs Las Palmas",
+      "team_home": "Cádiz",
       "team_away": "Las Palmas",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -227,70 +221,27 @@
     },
     {
       "date": "2026-04-27",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "Beerschot VA vs Patro Eisden",
-      "team_home": "Beerschot VA",
-      "team_away": "Patro Eisden",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777314600
-    },
-    {
-      "date": "2026-04-27",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "RFC Liege vs Lommel SK",
-      "team_home": "RFC Liege",
-      "team_away": "Lommel SK",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777314600
-    },
-    {
-      "date": "2026-04-27",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Boulogne vs Dunkerque",
-      "team_home": "Boulogne",
-      "team_away": "Dunkerque",
+      "league": null,
+      "title": "Lazio vs Udinese",
+      "team_home": "Lazio",
+      "team_away": "Udinese",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "it": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ]
@@ -301,58 +252,19 @@
       "date": "2026-04-27",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "Lazio vs Udinese",
-      "team_home": "Lazio",
-      "team_away": "Udinese",
+      "league": null,
+      "title": "Boulogne vs Dunkerque",
+      "team_home": "Boulogne",
+      "team_away": "Dunkerque",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "fr": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
           }
         ]
       },
