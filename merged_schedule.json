@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T19:53:02.892548",
+  "generated_at": "2026-04-27T20:55:21.586830",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 60,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-04-27",
@@ -99,91 +99,6 @@
       "date": "2026-04-27",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Besiktas vs Karagumruk",
-      "team_home": "Besiktas",
-      "team_away": "Karagumruk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777309200
-    },
-    {
-      "date": "2026-04-27",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Konyaspor vs Trabzonspor",
-      "team_home": "Konyaspor",
-      "team_away": "Trabzonspor",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777309200
-    },
-    {
-      "date": "2026-04-27",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
       "league": null,
       "title": "Beşiktaş vs Fatih Karagümrük",
       "team_home": "Beşiktaş",
@@ -210,6 +125,28 @@
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777309200
+    },
+    {
+      "date": "2026-04-27",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Konyaspor vs Trabzonspor",
+      "team_home": "Konyaspor",
+      "team_away": "Trabzonspor",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
