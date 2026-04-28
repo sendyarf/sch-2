@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T15:37:01.287386",
+  "generated_at": "2026-04-28T17:19:27.688640",
   "sources": [
     {
       "name": "cartelive",
@@ -13,52 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 48,
+  "total_events": 46,
   "events": [
-    {
-      "date": "2026-04-28",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Tennis",
-      "title": "Madrid",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777366800
-    },
-    {
-      "date": "2026-04-28",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": null,
-      "title": "Petrojet vs Ismaily",
-      "team_home": "Petrojet",
-      "team_away": "Ismaily",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777384800
-    },
     {
       "date": "2026-04-28",
       "time_utc": "16:45",
