@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T20:53:35.428218",
+  "generated_at": "2026-04-30T21:51:50.892415",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-04-24",
@@ -663,57 +663,6 @@
         ]
       },
       "startTimestamp": 1777075200
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Olympiacos vs Monaco",
-      "team_home": "Olympiacos",
-      "team_away": "Monaco",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes3",
-            "url": "https://multi.govoet.cc/?envivo=64",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777572000
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Valencia vs Panathinaikos",
-      "team_home": "Valencia",
-      "team_away": "Panathinaikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777574700
     },
     {
       "date": "2026-04-30",
