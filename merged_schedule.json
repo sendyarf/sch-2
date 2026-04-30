@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T02:25:05.553678",
+  "generated_at": "2026-04-30T05:43:10.747962",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 56,
   "events": [
     {
       "date": "2026-04-24",
@@ -764,39 +764,14 @@
       "time_utc": "23:30",
       "time_utc1": "01:30",
       "league": "NBA",
-      "title": "Cleveland Cavaliers vs Toronto Raptors",
-      "team_home": "Cleveland Cavaliers",
-      "team_away": "Toronto Raptors",
+      "title": "Toronto Raptors vs Cleveland Cavaliers",
+      "team_home": "Toronto Raptors",
+      "team_away": "Cleveland Cavaliers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -814,124 +789,28 @@
       "startTimestamp": 1777505400
     },
     {
-      "date": "2026-04-29",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "NHL",
-      "title": "Philadelphia Flyers vs Pittsburgh Penguins",
-      "team_home": "Philadelphia Flyers",
-      "team_away": "Pittsburgh Penguins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777505400
-    },
-    {
-      "date": "2026-04-29",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Arizona Diamondbacks",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777506000
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Copa Libertadores",
-      "title": "Barcelona SC (Ecu) vs U. Catolica (Chi)",
-      "team_home": "Barcelona SC (Ecu)",
-      "team_away": "U. Catolica (Chi)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777507200
-    },
-    {
       "date": "2026-04-30",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Cerro Porteno (Par) vs Palmeiras (Bra)",
-      "team_home": "Cerro Porteno (Par)",
-      "team_away": "Palmeiras (Bra)",
+      "league": null,
+      "title": "Palestino vs Grêmio",
+      "team_home": "Palestino",
+      "team_away": "Grêmio",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ],
         "pt-BR": [
           {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
             "source": "sportsonline"
           }
         ]
@@ -942,36 +821,25 @@
       "date": "2026-04-30",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Estudiantes L.P. (Arg) vs Flamengo RJ (Bra)",
-      "team_home": "Estudiantes L.P. (Arg)",
-      "team_away": "Flamengo RJ (Bra)",
+      "league": null,
+      "title": "Estudiantes vs Flamengo",
+      "team_home": "Estudiantes",
+      "team_away": "Flamengo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
         "nl": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ],
@@ -996,55 +864,25 @@
       "date": "2026-04-30",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Cienciano (Per) vs Atletico-MG (Bra)",
-      "team_home": "Cienciano (Per)",
-      "team_away": "Atletico-MG (Bra)",
+      "league": null,
+      "title": "Cerro Porteño vs Palmeiras",
+      "team_home": "Cerro Porteño",
+      "team_away": "Palmeiras",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777509000
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Palestino (Chi) vs Gremio (Bra)",
-      "team_home": "Palestino (Chi)",
-      "team_away": "Gremio (Bra)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv+",
-            "url": "https://multi.govoet.cc/?envivo=96",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ],
         "pt-BR": [
           {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
           }
         ]
@@ -1075,131 +913,21 @@
     },
     {
       "date": "2026-04-30",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Kansas City Royals",
-      "team_home": "Athletics",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777513200
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "U. de Deportes (Per) vs Nacional (Uru)",
-      "team_home": "U. de Deportes (Per)",
-      "team_away": "Nacional (Uru)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777514400
-    },
-    {
-      "date": "2026-04-30",
       "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": "NBA",
-      "title": "Los Angeles Lakers vs Houston Rockets",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Houston Rockets",
+      "title": "Houston Rockets vs Los Angeles Lakers",
+      "team_home": "Houston Rockets",
+      "team_away": "Los Angeles Lakers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777514400
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Vegas Golden Knights vs Utah Mammoth",
-      "team_home": "Vegas Golden Knights",
-      "team_away": "Utah Mammoth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT47",
-            "url": "https://multi.govoet.cc/?envivo=200",
-            "source": "cartelive"
           }
         ]
       },
@@ -1238,22 +966,14 @@
       "date": "2026-04-30",
       "time_utc": "02:30",
       "time_utc1": "04:30",
-      "league": "Concacaf Champions Cup",
+      "league": null,
       "title": "Los Angeles FC vs Toluca",
       "team_home": "Los Angeles FC",
       "team_away": "Toluca",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
