@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T19:48:24.737028",
+  "generated_at": "2026-04-30T20:53:35.428218",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 58,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-04-24",
@@ -663,72 +663,6 @@
         ]
       },
       "startTimestamp": 1777075200
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "New York Mets vs Washington Nationals",
-      "team_home": "New York Mets",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777569000
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Arizona Diamondbacks",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777570800
-    },
-    {
-      "date": "2026-04-30",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Fenerbahce vs Zalgiris Kaunas",
-      "team_home": "Fenerbahce",
-      "team_away": "Zalgiris Kaunas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777571100
     },
     {
       "date": "2026-04-30",
