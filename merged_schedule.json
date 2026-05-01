@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T20:01:09.728479",
+  "generated_at": "2026-05-01T21:06:35.153900",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 108,
+  "total_events": 107,
   "events": [
     {
       "date": "2026-05-01",
@@ -321,28 +321,6 @@
         ]
       },
       "startTimestamp": 1777654800
-    },
-    {
-      "date": "2026-05-01",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Eredivisie",
-      "title": "Waalwijk vs Roda",
-      "team_home": "Waalwijk",
-      "team_away": "Roda",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777658400
     },
     {
       "date": "2026-05-01",
