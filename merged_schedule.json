@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T16:38:09.128053",
+  "generated_at": "2026-05-01T17:40:01.068859",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 111,
+  "total_events": 109,
   "events": [
     {
       "date": "2026-05-01",
@@ -107,28 +107,6 @@
       "date": "2026-05-01",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Super Lig",
-      "title": "Rizespor vs Konyaspor",
-      "team_home": "Rizespor",
-      "team_away": "Konyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777644000
-    },
-    {
-      "date": "2026-05-01",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
       "league": null,
       "title": "LASK Linz vs Rheindorf Altach",
       "team_home": "LASK Linz",
@@ -190,28 +168,6 @@
         ]
       },
       "startTimestamp": 1777644000
-    },
-    {
-      "date": "2026-05-01",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Andorra vs Albacete",
-      "team_home": "Andorra",
-      "team_away": "Albacete",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777644900
     },
     {
       "date": "2026-05-01",
