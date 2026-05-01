@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T18:45:49.892999",
+  "generated_at": "2026-05-01T20:01:09.728479",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 109,
+  "total_events": 108,
   "events": [
     {
       "date": "2026-05-01",
@@ -193,36 +193,16 @@
     },
     {
       "date": "2026-05-01",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
       "league": "Formula 1",
-      "title": "Formula 1: GP de Miami Essais libres 1",
+      "title": "Miami Grand Prix: Practice 1",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -245,27 +225,21 @@
           }
         ]
       },
-      "startTimestamp": 1777652100
+      "startTimestamp": 1777649400
     },
     {
       "date": "2026-05-01",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Dep. La Coruna vs Leganes",
-      "team_home": "Dep. La Coruna",
-      "team_away": "Leganes",
+      "league": null,
+      "title": "Deportivo La Coruña vs Leganés",
+      "team_home": "Deportivo La Coruña",
+      "team_away": "Leganés",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -274,47 +248,6 @@
         ]
       },
       "startTimestamp": 1777653000
-    },
-    {
-      "date": "2026-05-01",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Gaziantep vs Besiktas",
-      "team_home": "Gaziantep",
-      "team_away": "Besiktas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777654800
     },
     {
       "date": "2026-05-01",
