@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T21:06:15.264235",
+  "generated_at": "2026-05-02T21:57:34.170993",
   "sources": [
     {
       "name": "cartelive",
@@ -13,82 +13,25 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 115,
+  "total_events": 110,
   "events": [
-    {
-      "date": "2026-05-02",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Toronto Blue Jays",
-      "team_home": "Minnesota Twins",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777745400
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Arizona Diamondbacks",
-      "team_home": "Chicago Cubs",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777746000
-    },
     {
       "date": "2026-05-02",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Schalke vs Dusseldorf",
-      "team_home": "Schalke",
-      "team_away": "Dusseldorf",
+      "league": null,
+      "title": "Schalke 04 vs Fortuna Düsseldorf",
+      "team_home": "Schalke 04",
+      "team_away": "Fortuna Düsseldorf",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -103,107 +46,21 @@
     },
     {
       "date": "2026-05-02",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "CA Cerro vs Maldonado",
-      "team_home": "CA Cerro",
-      "team_away": "Maldonado",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777746600
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "MLS",
-      "title": "Sporting Kansas City vs Seattle Sounders",
-      "team_home": "Sporting Kansas City",
-      "team_away": "Seattle Sounders",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777746600
-    },
-    {
-      "date": "2026-05-02",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "St. Truiden vs Royale Union SG",
-      "team_home": "St. Truiden",
-      "team_away": "Royale Union SG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777747500
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
+      "league": null,
       "title": "Atalanta vs Genoa",
       "team_home": "Atalanta",
       "team_away": "Genoa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
           }
         ],
         "pt": [
