@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T13:12:43.794708",
+  "generated_at": "2026-05-02T14:14:30.036994",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 151,
   "events": [
     {
       "date": "2026-05-02",
@@ -129,105 +129,40 @@
       "date": "2026-05-02",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777719600
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Arminia Bielefeld vs Bochum",
-      "team_home": "Arminia Bielefeld",
-      "team_away": "Bochum",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777719600
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Holstein Kiel vs Braunschweig",
-      "team_home": "Holstein Kiel",
-      "team_away": "Braunschweig",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777719600
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "SG Dynamo Dresden vs Kaiserslautern",
-      "team_home": "SG Dynamo Dresden",
+      "league": null,
+      "title": "Dynamo Dresden vs Kaiserslautern",
+      "team_home": "Dynamo Dresden",
       "team_away": "Kaiserslautern",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777719600
+    },
+    {
+      "date": "2026-05-02",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": null,
+      "title": "Arminia Bielefeld vs Bochum",
+      "team_home": "Arminia Bielefeld",
+      "team_away": "Bochum",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
