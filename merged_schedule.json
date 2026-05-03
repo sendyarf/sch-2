@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T13:47:39.448170",
+  "generated_at": "2026-05-03T14:43:03.507942",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 124,
+  "total_events": 117,
   "events": [
     {
       "date": "2026-05-03",
@@ -77,26 +77,15 @@
       "date": "2026-05-03",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Hibernian vs Celtic",
       "team_home": "Hibernian",
       "team_away": "Celtic",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -132,214 +121,19 @@
       "date": "2026-05-03",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
+      "league": null,
       "title": "Elversberg vs Paderborn",
       "team_home": "Elversberg",
       "team_away": "Paderborn",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN2",
             "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Greuther Furth vs Nurnberg",
-      "team_home": "Greuther Furth",
-      "team_away": "Nurnberg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Hannover vs Preussen Munster",
-      "team_home": "Hannover",
-      "team_away": "Preussen Munster",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Karlsruher SC vs Darmstadt",
-      "team_home": "Karlsruher SC",
-      "team_away": "Darmstadt",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Magdeburg vs Hertha Berlin",
-      "team_home": "Magdeburg",
-      "team_away": "Hertha Berlin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Challenge Cup",
-      "title": "Montpellier vs Dragons",
-      "team_home": "Montpellier",
-      "team_away": "Dragons",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          },
-          {
-            "channel": "france3",
-            "url": "https://multi.govoet.cc/?envivo=29",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777807800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "KV Mechelen vs Gent",
-      "team_home": "KV Mechelen",
-      "team_away": "Gent",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
