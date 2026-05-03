@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T20:04:34.560015",
+  "generated_at": "2026-05-03T21:00:59.572010",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 92,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-05-03",
@@ -671,63 +671,21 @@
     },
     {
       "date": "2026-05-03",
-      "time_utc": "17:15",
-      "time_utc1": "19:15",
-      "league": "Pro League",
-      "title": "Dender vs RAAL La Louviere",
-      "team_home": "Dender",
-      "team_away": "RAAL La Louviere",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777828500
-    },
-    {
-      "date": "2026-05-03",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Bundesliga",
+      "league": null,
       "title": "Freiburg vs Wolfsburg",
       "team_home": "Freiburg",
       "team_away": "Wolfsburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -742,244 +700,21 @@
     },
     {
       "date": "2026-05-03",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Houston Astros",
-      "team_home": "Boston Red Sox",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777829700
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "New York Yankees vs Baltimore Orioles",
-      "team_home": "New York Yankees",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777829700
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Cincinnati Reds",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777829700
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Washington Nationals vs Milwaukee Brewers",
-      "team_home": "Washington Nationals",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777829700
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Miami Marlins vs Philadelphia Phillies",
-      "team_home": "Miami Marlins",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777830000
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs San Francisco Giants",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777830000
-    },
-    {
-      "date": "2026-05-03",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Betfred Super League",
-      "title": "Panathinaikos vs AEK Athens",
-      "team_home": "Panathinaikos",
-      "team_away": "AEK Athens",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777831200
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ecuador Ligapro",
-      "title": "Macara vs Orense",
-      "team_home": "Macara",
-      "team_away": "Orense",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777831200
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Premier League",
-      "title": "Aston Villa vs Tottenham",
+      "league": null,
+      "title": "Aston Villa vs Tottenham Hotspur",
       "team_home": "Aston Villa",
-      "team_away": "Tottenham",
+      "team_away": "Tottenham Hotspur",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -987,35 +722,6 @@
             "channel": "ELEVEN2",
             "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777831200
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Qadsiah vs Al Nassr",
-      "team_home": "Al Qadsiah",
-      "team_away": "Al Nassr",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
           }
         ]
       },
@@ -1044,6 +750,28 @@
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777831200
+    },
+    {
+      "date": "2026-05-03",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Panathinaikos vs AEK Athens",
+      "team_home": "Panathinaikos",
+      "team_away": "AEK Athens",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
