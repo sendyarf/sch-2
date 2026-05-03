@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T04:09:37.806130",
+  "generated_at": "2026-05-03T06:38:32.409191",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 143,
+  "total_events": 138,
   "events": [
     {
       "date": "2026-05-01",
@@ -168,126 +168,6 @@
         ]
       },
       "startTimestamp": 1777691700
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "MLS",
-      "title": "San Diego FC vs Los Angeles FC",
-      "team_home": "San Diego FC",
-      "team_away": "Los Angeles FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777771800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs New York Mets",
-      "team_home": "Los Angeles Angels",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777772280
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Kansas City Royals",
-      "team_home": "Seattle Mariners",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777772400
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Los Angeles Galaxy vs Vancouver Whitecaps",
-      "team_home": "Los Angeles Galaxy",
-      "team_away": "Vancouver Whitecaps",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777775400
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "03:15",
-      "time_utc1": "05:15",
-      "league": "Liga Mx",
-      "title": "Atlas vs Cruz Azul",
-      "team_home": "Atlas",
-      "team_away": "Cruz Azul",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777778100
     },
     {
       "date": "2026-05-03",
