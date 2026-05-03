@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T14:43:03.507942",
+  "generated_at": "2026-05-03T15:31:38.868474",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 117,
+  "total_events": 113,
   "events": [
     {
       "date": "2026-05-03",
@@ -165,43 +165,15 @@
       "date": "2026-05-03",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Laliga",
-      "title": "Celta Vigo vs Elche",
-      "team_home": "Celta Vigo",
+      "league": null,
+      "title": "Celta de Vigo vs Elche",
+      "team_home": "Celta de Vigo",
       "team_away": "Elche",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -217,108 +189,6 @@
         ]
       },
       "startTimestamp": 1777809600
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Laliga 2",
-      "title": "Racing Santander vs Huesca",
-      "team_home": "Racing Santander",
-      "team_away": "Huesca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777809600
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Sittard vs Feyenoord",
-      "team_home": "Sittard",
-      "team_away": "Feyenoord",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777811400
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Zwolle vs Heracles",
-      "team_home": "Zwolle",
-      "team_away": "Heracles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777811400
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Progreso vs Cerro Largo",
-      "team_home": "Progreso",
-      "team_away": "Cerro Largo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777811400
     },
     {
       "date": "2026-05-03",
