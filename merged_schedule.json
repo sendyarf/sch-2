@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T23:26:51.734041",
+  "generated_at": "2026-05-03T00:06:53.645246",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 172,
+  "total_events": 170,
   "events": [
     {
       "date": "2026-05-01",
@@ -168,57 +168,6 @@
         ]
       },
       "startTimestamp": 1777691700
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "20:45",
-      "time_utc1": "22:45",
-      "league": "MLS",
-      "title": "Real Salt Lake vs Portland Timbers",
-      "team_home": "Real Salt Lake",
-      "team_away": "Portland Timbers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777754700
-    },
-    {
-      "date": "2026-05-02",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Jaguares de Cordoba vs Cucuta",
-      "team_home": "Jaguares de Cordoba",
-      "team_away": "Cucuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777755600
     },
     {
       "date": "2026-05-02",
