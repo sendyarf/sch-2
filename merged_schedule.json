@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T18:08:32.570774",
+  "generated_at": "2026-05-03T19:16:49.173707",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 105,
+  "total_events": 96,
   "events": [
     {
       "date": "2026-05-03",
@@ -470,98 +470,19 @@
       "date": "2026-05-03",
       "time_utc": "15:15",
       "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Ligue 1: Multiplex Ligue 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777821300
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Auxerre vs Angers",
-      "team_home": "Auxerre",
-      "team_away": "Angers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777821300
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
-      "title": "Paris FC vs Brest",
-      "team_home": "Paris FC",
-      "team_away": "Brest",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 6",
-            "url": "https://multi.govoet.cc/?envivo=18",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777821300
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "15:15",
-      "time_utc1": "17:15",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Strasbourg vs Toulouse",
       "team_home": "Strasbourg",
       "team_away": "Toulouse",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
           {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -573,42 +494,6 @@
         ]
       },
       "startTimestamp": 1777821300
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Bundesliga",
-      "title": "B. Monchengladbach vs Dortmund",
-      "team_home": "B. Monchengladbach",
-      "team_away": "Dortmund",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777822200
     },
     {
       "date": "2026-05-03",
@@ -643,119 +528,22 @@
       "date": "2026-05-03",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "PAOK vs Olympiacos Piraeus",
-      "team_home": "PAOK",
-      "team_away": "Olympiacos Piraeus",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777824000
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sporting Cristal vs Cusco",
-      "team_home": "Sporting Cristal",
-      "team_away": "Cusco",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777824000
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga Endesa",
-      "title": "Baskonia vs Breogan",
-      "team_home": "Baskonia",
-      "team_away": "Breogan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777824000
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Serie A",
+      "league": null,
       "title": "Juventus vs Verona",
       "team_home": "Juventus",
       "team_away": "Verona",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -774,40 +562,39 @@
     },
     {
       "date": "2026-05-03",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga",
-      "title": "Betis vs Oviedo",
-      "team_home": "Betis",
-      "team_away": "Oviedo",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "PAOK vs Olympiakos Piraeus",
+      "team_home": "PAOK",
+      "team_away": "Olympiakos Piraeus",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "el": [
           {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
-        ],
+        ]
+      },
+      "startTimestamp": 1777824000
+    },
+    {
+      "date": "2026-05-03",
+      "time_utc": "16:30",
+      "time_utc1": "18:30",
+      "league": null,
+      "title": "Real Betis vs Real Oviedo",
+      "team_home": "Real Betis",
+      "team_away": "Real Oviedo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -826,72 +613,6 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777825800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Real Sociedad B vs Burgos CF",
-      "team_home": "Real Sociedad B",
-      "team_away": "Burgos CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777825800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Anderlecht vs Club Brugge KV",
-      "team_home": "Anderlecht",
-      "team_away": "Club Brugge KV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777825800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Torneo LPF",
-      "title": "Aldosivi vs Ind. Rivadavia",
-      "team_home": "Aldosivi",
-      "team_away": "Ind. Rivadavia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
           }
         ]
       },
