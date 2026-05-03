@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T16:28:48.553613",
+  "generated_at": "2026-05-03T17:25:28.992416",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 113,
+  "total_events": 108,
   "events": [
     {
       "date": "2026-05-03",
@@ -303,40 +303,15 @@
       "date": "2026-05-03",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "St. Pauli vs Mainz",
+      "league": null,
+      "title": "St. Pauli vs Mainz 05",
       "team_home": "St. Pauli",
-      "team_away": "Mainz",
+      "team_away": "Mainz 05",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -355,128 +330,17 @@
     },
     {
       "date": "2026-05-03",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Betfred Super League",
-      "title": "Levadiakos vs Volos",
-      "team_home": "Levadiakos",
-      "team_away": "Volos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777816800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Betfred Super League",
-      "title": "OFI Crete vs Aris",
-      "team_home": "OFI Crete",
-      "team_away": "Aris",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777816800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Champions Cup",
-      "title": "Bordeaux Begles vs Bath",
-      "team_home": "Bordeaux Begles",
-      "team_away": "Bath",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "france2",
-            "url": "https://multi.govoet.cc/?envivo=28",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777816800
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Antwerp vs St. Liege",
-      "team_home": "Antwerp",
-      "team_away": "St. Liege",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777816800
-    },
-    {
-      "date": "2026-05-03",
       "time_utc": "14:15",
       "time_utc1": "16:15",
-      "league": "Laliga",
+      "league": null,
       "title": "Getafe vs Rayo Vallecano",
       "team_home": "Getafe",
       "team_away": "Rayo Vallecano",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -488,28 +352,6 @@
             "channel": "ELEVEN2",
             "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777817700
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Gijon vs Ceuta",
-      "team_home": "Gijon",
-      "team_away": "Ceuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
           }
         ]
       },
