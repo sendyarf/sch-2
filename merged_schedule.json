@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T15:31:38.868474",
+  "generated_at": "2026-05-03T16:28:48.553613",
   "sources": [
     {
       "name": "cartelive",
@@ -194,81 +194,19 @@
       "date": "2026-05-03",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Ligue 1",
-      "title": "Lille vs Le Havre",
-      "team_home": "Lille",
-      "team_away": "Le Havre",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777813200
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Bournemouth vs Crystal Palace",
-      "team_home": "Bournemouth",
+      "league": null,
+      "title": "AFC Bournemouth vs Crystal Palace",
+      "team_home": "AFC Bournemouth",
       "team_away": "Crystal Palace",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -285,52 +223,22 @@
       "date": "2026-05-03",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Serie A",
-      "title": "Sassuolo vs AC Milan",
+      "league": null,
+      "title": "Sassuolo vs Milan",
       "team_home": "Sassuolo",
-      "team_away": "AC Milan",
+      "team_away": "Milan",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -341,6 +249,28 @@
           {
             "channel": "BR3",
             "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777813200
+    },
+    {
+      "date": "2026-05-03",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Lille vs Le Havre",
+      "team_home": "Lille",
+      "team_away": "Le Havre",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
