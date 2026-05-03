@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T19:16:49.173707",
+  "generated_at": "2026-05-03T20:04:34.560015",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 96,
+  "total_events": 92,
   "events": [
     {
       "date": "2026-05-03",
@@ -649,122 +649,21 @@
     },
     {
       "date": "2026-05-03",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Toronto Blue Jays",
-      "team_home": "Minnesota Twins",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777826700
-    },
-    {
-      "date": "2026-05-03",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Barcelona vs Gran Canaria",
-      "team_home": "Barcelona",
-      "team_away": "Gran Canaria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777827600
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Braga vs Estoril",
-      "team_home": "Braga",
+      "league": null,
+      "title": "Sporting Braga vs Estoril",
+      "team_home": "Sporting Braga",
       "team_away": "Estoril",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777827600
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Antalyaspor vs Alanyaspor",
-      "team_home": "Antalyaspor",
-      "team_away": "Alanyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777827600
-    },
-    {
-      "date": "2026-05-03",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Kayserispor vs Eyupspor",
-      "team_home": "Kayserispor",
-      "team_away": "Eyupspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
           }
         ]
       },
