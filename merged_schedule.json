@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T16:18:37.166571",
+  "generated_at": "2026-05-04T17:58:09.013772",
   "sources": [
     {
       "name": "cartelive",
@@ -19,59 +19,22 @@
       "date": "2026-05-04",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Chelsea vs Nottingham",
+      "league": null,
+      "title": "Chelsea vs Nottingham Forest",
       "team_home": "Chelsea",
-      "team_away": "Nottingham",
+      "team_away": "Nottingham Forest",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
