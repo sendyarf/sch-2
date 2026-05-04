@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T17:58:09.013772",
+  "generated_at": "2026-05-04T19:42:14.614784",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 50,
+  "total_events": 49,
   "events": [
     {
       "date": "2026-05-04",
@@ -60,56 +60,21 @@
     },
     {
       "date": "2026-05-04",
-      "time_utc": "16:10",
-      "time_utc1": "18:10",
-      "league": "Saudi Pro League",
-      "title": "Al Fayha vs Al Riyadh",
-      "team_home": "Al Fayha",
-      "team_away": "Al Riyadh",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777911000
-    },
-    {
-      "date": "2026-05-04",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Premiership",
+      "league": null,
       "title": "Hearts vs Rangers",
       "team_home": "Hearts",
       "team_away": "Rangers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -126,44 +91,19 @@
       "date": "2026-05-04",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Cremonese vs Lazio",
       "team_home": "Cremonese",
       "team_away": "Lazio",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
           }
         ],
         "pt": [
