@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T20:50:44.390722",
+  "generated_at": "2026-05-04T21:54:54.948397",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 49,
+  "total_events": 48,
   "events": [
     {
       "date": "2026-05-04",
@@ -193,74 +193,14 @@
       "date": "2026-05-04",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Los Chankas vs Deportivo Garcilaso",
-      "team_home": "Los Chankas",
-      "team_away": "Deportivo Garcilaso",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777917600
-    },
-    {
-      "date": "2026-05-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Ettifaq vs Al Najma",
-      "team_home": "Al Ettifaq",
-      "team_away": "Al Najma",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR5",
-            "url": "https://multi.govoet.cc/?ss=br5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1777917600
-    },
-    {
-      "date": "2026-05-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Ittihad vs Al Kholood",
       "team_home": "Al Ittihad",
       "team_away": "Al Kholood",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -273,23 +213,39 @@
     },
     {
       "date": "2026-05-04",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Al Ettifaq vs Al Najma",
+      "team_home": "Al Ettifaq",
+      "team_away": "Al Najma",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1777917600
+    },
+    {
+      "date": "2026-05-04",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Laliga 2",
-      "title": "Almeria vs Mirandes",
-      "team_home": "Almeria",
-      "team_away": "Mirandes",
+      "league": null,
+      "title": "Almería vs Mirandés",
+      "team_home": "Almería",
+      "team_away": "Mirandés",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -303,49 +259,19 @@
       "date": "2026-05-04",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "AS Roma vs Fiorentina",
-      "team_home": "AS Roma",
+      "league": null,
+      "title": "Roma vs Fiorentina",
+      "team_home": "Roma",
       "team_away": "Fiorentina",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
           }
         ],
         "pt": [
