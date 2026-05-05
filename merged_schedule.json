@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T02:09:48.910712",
+  "generated_at": "2026-05-05T05:22:58.777803",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 40,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-05-04",
@@ -437,108 +437,22 @@
       "startTimestamp": 1777937400
     },
     {
-      "date": "2026-05-04",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Cincinnati Reds",
-      "team_home": "Chicago Cubs",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777938000
-    },
-    {
-      "date": "2026-05-04",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Cleveland Guardians",
-      "team_home": "Kansas City Royals",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777938000
-    },
-    {
-      "date": "2026-05-04",
-      "time_utc": "23:45",
-      "time_utc1": "01:45",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Milwaukee Brewers",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777938300
-    },
-    {
       "date": "2026-05-05",
       "time_utc": "00:00",
       "time_utc1": "02:00",
       "league": "NBA",
-      "title": "New York Knicks vs Philadelphia 76ers",
-      "team_home": "New York Knicks",
-      "team_away": "Philadelphia 76ers",
+      "title": "Philadelphia 76ers vs New York Knicks",
+      "team_home": "Philadelphia 76ers",
+      "team_away": "New York Knicks",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -553,45 +467,17 @@
     },
     {
       "date": "2026-05-05",
-      "time_utc": "00:10",
-      "time_utc1": "02:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Los Angeles Dodgers",
-      "team_home": "Houston Astros",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777939800
-    },
-    {
-      "date": "2026-05-05",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
-      "title": "Estudiantes Rio Cuarto vs Instituto",
-      "team_home": "Estudiantes Rio Cuarto",
+      "league": null,
+      "title": "Estudiantes Río Cuarto vs Instituto",
+      "team_home": "Estudiantes Río Cuarto",
       "team_away": "Instituto",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -606,34 +492,14 @@
       "time_utc": "01:30",
       "time_utc1": "03:30",
       "league": "NBA",
-      "title": "San Antonio Spurs vs Minnesota Timberwolves",
-      "team_home": "San Antonio Spurs",
-      "team_away": "Minnesota Timberwolves",
+      "title": "Minnesota Timberwolves vs San Antonio Spurs",
+      "team_home": "Minnesota Timberwolves",
+      "team_away": "San Antonio Spurs",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -642,113 +508,6 @@
         ]
       },
       "startTimestamp": 1777944600
-    },
-    {
-      "date": "2026-05-05",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NHL",
-      "title": "Vegas Golden Knights vs Anaheim Ducks",
-      "team_home": "Vegas Golden Knights",
-      "team_away": "Anaheim Ducks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777944600
-    },
-    {
-      "date": "2026-05-05",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Chicago White Sox",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777945080
-    },
-    {
-      "date": "2026-05-05",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Atlanta Braves",
-      "team_home": "Seattle Mariners",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777945200
-    },
-    {
-      "date": "2026-05-05",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs San Diego Padres",
-      "team_home": "San Francisco Giants",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1777945500
     },
     {
       "date": "2026-05-05",
