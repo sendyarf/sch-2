@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T21:33:00.801331",
+  "generated_at": "2026-05-05T22:36:28.613174",
   "sources": [
     {
       "name": "cartelive",
@@ -70,60 +70,15 @@
       "date": "2026-05-05",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Arsenal vs Atl. Madrid",
+      "league": null,
+      "title": "Arsenal vs Atlético Madrid",
       "team_home": "Arsenal",
-      "team_away": "Atl. Madrid",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -137,22 +92,26 @@
         ],
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "it": [
+        "fr": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
