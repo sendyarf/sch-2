@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T20:16:43.202240",
+  "generated_at": "2026-05-05T21:33:00.801331",
   "sources": [
     {
       "name": "cartelive",
@@ -13,57 +13,20 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 78,
+  "total_events": 77,
   "events": [
-    {
-      "date": "2026-05-05",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Coupe De Turquie",
-      "title": "Besiktas vs Konyaspor",
-      "team_home": "Besiktas",
-      "team_away": "Konyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778002200
-    },
     {
       "date": "2026-05-05",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "EuroLeague (Basketball)",
-      "title": "Monaco vs Olympiacos",
-      "team_home": "Monaco",
+      "league": null,
+      "title": "Basketball - Euro League: AS Monaco vs Olympiacos",
+      "team_home": "Basketball - Euro League: AS Monaco",
       "team_away": "Olympiacos",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV2",
@@ -78,27 +41,14 @@
       "date": "2026-05-05",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Khaleej vs Al Hilal",
       "team_home": "Al Khaleej",
       "team_away": "Al Hilal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
