@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T17:57:53.901506",
+  "generated_at": "2026-05-06T19:46:11.968281",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 62,
   "events": [
     {
       "date": "2026-05-06",
@@ -58,50 +58,6 @@
         ]
       },
       "startTimestamp": 1778074200
-    },
-    {
-      "date": "2026-05-06",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "D1 Féminin",
-      "title": "PSG W vs Strasbourg W",
-      "team_home": "PSG W",
-      "team_away": "Strasbourg W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778079600
-    },
-    {
-      "date": "2026-05-06",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "D1 Féminin",
-      "title": "Paris FC W vs Lens W",
-      "team_home": "Paris FC W",
-      "team_away": "Lens W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778079600
     },
     {
       "date": "2026-05-06",
