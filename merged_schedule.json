@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T17:24:06.780133",
+  "generated_at": "2026-05-07T19:11:58.957383",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 67,
+  "total_events": 65,
   "events": [
     {
       "date": "2026-05-01",
@@ -674,50 +674,6 @@
     },
     {
       "date": "2026-05-07",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Tournoi de Rome",
-      "title": "D. Shapovalov vs M. Navone",
-      "team_home": "D. Shapovalov",
-      "team_away": "M. Navone",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778166000
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Tournoi de Rome",
-      "title": "Tournoi de Rome: Tennis Masters 1000 de Rome 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "eurosport2",
-            "url": "https://multi.govoet.cc/?envivo=16",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778166000
-    },
-    {
-      "date": "2026-05-07",
       "time_utc": "15:05",
       "time_utc1": "17:05",
       "league": null,
@@ -1301,8 +1257,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
+            "channel": "C+Live 6",
+            "url": "https://multi.govoet.cc/?envivo=36",
             "source": "cartelive"
           }
         ]
