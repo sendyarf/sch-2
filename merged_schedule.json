@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T20:38:08.539211",
+  "generated_at": "2026-05-07T21:36:54.213360",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 56,
+  "total_events": 52,
   "events": [
     {
       "date": "2026-05-01",
@@ -627,99 +627,6 @@
         ]
       },
       "startTimestamp": 1777687200
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Hapoel Tel Aviv vs Real Madrid",
-      "team_home": "Hapoel Tel Aviv",
-      "team_away": "Real Madrid",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778176800
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Shabab vs Al Nassr",
-      "team_home": "Al Shabab",
-      "team_away": "Al Nassr",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778176800
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Cleveland Guardians",
-      "team_home": "Kansas City Royals",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778177400
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Cincinnati Reds",
-      "team_home": "Chicago Cubs",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778178000
     },
     {
       "date": "2026-05-07",
