@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T04:02:39.600833",
+  "generated_at": "2026-05-07T06:51:44.308153",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 72,
+  "total_events": 69,
   "events": [
     {
       "date": "2026-05-06",
@@ -308,46 +308,16 @@
     },
     {
       "date": "2026-05-07",
-      "time_utc": "01:20",
-      "time_utc1": "03:20",
-      "league": "MLB",
-      "title": "Colorado Rockies vs New York Mets",
-      "team_home": "Colorado Rockies",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778116800
-    },
-    {
-      "date": "2026-05-07",
       "time_utc": "01:30",
       "time_utc1": "03:30",
-      "league": "Concacaf Champions Cup",
+      "league": null,
       "title": "Toluca vs Los Angeles FC",
       "team_home": "Toluca",
       "team_away": "Los Angeles FC",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -370,44 +340,14 @@
       "time_utc": "01:30",
       "time_utc1": "03:30",
       "league": "NBA",
-      "title": "San Antonio Spurs vs Minnesota Timberwolves",
-      "team_home": "San Antonio Spurs",
-      "team_away": "Minnesota Timberwolves",
+      "title": "Minnesota Timberwolves vs San Antonio Spurs",
+      "team_home": "Minnesota Timberwolves",
+      "team_away": "San Antonio Spurs",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -426,75 +366,45 @@
     },
     {
       "date": "2026-05-07",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NHL",
-      "title": "Vegas Golden Knights vs Anaheim Ducks",
-      "team_home": "Vegas Golden Knights",
-      "team_away": "Anaheim Ducks",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": null,
+      "title": "Alianza Atlético vs América de Cali",
+      "team_home": "Alianza Atlético",
+      "team_away": "América de Cali",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ],
-        "en": [
+        "es": [
           {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1778117400
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Pittsburgh Pirates",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778118000
+      "startTimestamp": 1778119200
     },
     {
       "date": "2026-05-07",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "Deportes Tolima (Col) vs Nacional (Uru)",
-      "team_home": "Deportes Tolima (Col)",
-      "team_away": "Nacional (Uru)",
+      "league": null,
+      "title": "Deportes Tolima vs Nacional",
+      "team_home": "Deportes Tolima",
+      "team_away": "Nacional",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR3",
@@ -509,66 +419,18 @@
       "date": "2026-05-07",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "U. Catolica (Chi) vs Cruzeiro (Bra)",
-      "team_home": "U. Catolica (Chi)",
-      "team_away": "Cruzeiro (Bra)",
+      "league": null,
+      "title": "Universidad Católica vs Cruzeiro",
+      "team_home": "Universidad Católica",
+      "team_away": "Cruzeiro",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778119200
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Copa Sudamericana",
-      "title": "Alianza Atl. (Per) vs America De Cali (Col)",
-      "team_home": "Alianza Atl. (Per)",
-      "team_away": "America De Cali (Col)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
