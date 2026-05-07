@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T15:37:56.903550",
+  "generated_at": "2026-05-07T17:24:06.780133",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 69,
+  "total_events": 67,
   "events": [
     {
       "date": "2026-05-01",
@@ -627,50 +627,6 @@
         ]
       },
       "startTimestamp": 1777687200
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Tournoi de Rome",
-      "title": "S. Ofner vs A. Michelsen",
-      "team_home": "S. Ofner",
-      "team_away": "A. Michelsen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778160600
-    },
-    {
-      "date": "2026-05-07",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Tournoi de Rome",
-      "title": "TA. Tirante vs G. Cadenasso",
-      "team_home": "TA. Tirante",
-      "team_away": "G. Cadenasso",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778160600
     },
     {
       "date": "2026-05-07",
