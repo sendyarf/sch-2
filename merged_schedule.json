@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T22:09:59.985280",
+  "generated_at": "2026-05-08T23:09:06.999335",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 115,
+  "total_events": 113,
   "events": [
     {
       "date": "2026-05-08",
@@ -495,50 +495,6 @@
         ]
       },
       "startTimestamp": 1778266800
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Copa Colombia",
-      "title": "Boca Juniors vs Alianza",
-      "team_home": "Boca Juniors",
-      "team_away": "Alianza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778270400
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cajamarca vs FC Cajamarca",
-      "team_home": "Cajamarca",
-      "team_away": "FC Cajamarca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778270400
     },
     {
       "date": "2026-05-08",
