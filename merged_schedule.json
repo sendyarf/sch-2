@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T15:56:52.685276",
+  "generated_at": "2026-05-08T17:14:12.737771",
   "sources": [
     {
       "name": "cartelive",
@@ -68,6 +68,35 @@
     },
     {
       "date": "2026-05-08",
+      "time_utc": "11:15",
+      "time_utc1": "13:15",
+      "league": "MotoGP",
+      "title": "France Practice",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778238900
+    },
+    {
+      "date": "2026-05-08",
       "time_utc": "11:30",
       "time_utc1": "13:30",
       "league": null,
@@ -87,50 +116,6 @@
         ]
       },
       "startTimestamp": 1778239800
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de France Moto Essais",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778245200
     },
     {
       "date": "2026-05-08",
