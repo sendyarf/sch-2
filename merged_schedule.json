@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T21:06:42.263837",
+  "generated_at": "2026-05-08T22:09:59.985280",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 118,
+  "total_events": 115,
   "events": [
     {
       "date": "2026-05-08",
@@ -282,22 +282,14 @@
       "date": "2026-05-08",
       "time_utc": "18:15",
       "time_utc1": "20:15",
-      "league": "EuroLeague (Basketball)",
-      "title": "Panathinaikos vs Valencia",
-      "team_home": "Panathinaikos",
+      "league": null,
+      "title": "Basketball - Euro League: Panathinaikos vs Valencia",
+      "team_home": "Basketball - Euro League: Panathinaikos",
       "team_away": "Valencia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV4",
@@ -312,39 +304,19 @@
       "date": "2026-05-08",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga",
-      "title": "Dortmund vs Eintracht Frankfurt",
-      "team_home": "Dortmund",
+      "league": null,
+      "title": "Borussia Dortmund vs Eintracht Frankfurt",
+      "team_home": "Borussia Dortmund",
       "team_away": "Eintracht Frankfurt",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -359,63 +331,6 @@
             "channel": "BR3",
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778265000
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Laliga 2",
-      "title": "Cadiz CF vs Dep. La Coruna",
-      "team_home": "Cadiz CF",
-      "team_away": "Dep. La Coruna",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778265000
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Premiership",
-      "title": "Arbroath vs Dunfermline",
-      "team_home": "Arbroath",
-      "team_away": "Dunfermline",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
           }
         ]
       },
@@ -445,38 +360,67 @@
     },
     {
       "date": "2026-05-08",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Cádiz vs Deportivo La Coruña",
+      "team_home": "Cádiz",
+      "team_away": "Deportivo La Coruña",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778265000
+    },
+    {
+      "date": "2026-05-08",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue 1",
+      "league": null,
+      "title": "Torino vs Sassuolo",
+      "team_home": "Torino",
+      "team_away": "Sassuolo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778265900
+    },
+    {
+      "date": "2026-05-08",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
       "title": "Lens vs Nantes",
       "team_home": "Lens",
       "team_away": "Nantes",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD9",
@@ -496,182 +440,17 @@
     },
     {
       "date": "2026-05-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "St. Liege vs Leuven",
-      "team_home": "St. Liege",
-      "team_away": "Leuven",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778265900
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "Torino vs Sassuolo",
-      "team_home": "Torino",
-      "team_away": "Sassuolo",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778265900
-    },
-    {
-      "date": "2026-05-08",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Hull vs Millwall",
-      "team_home": "Hull",
-      "team_away": "Millwall",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778266800
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Levante vs Osasuna",
       "team_home": "Levante",
       "team_away": "Osasuna",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -692,19 +471,26 @@
       "date": "2026-05-08",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Beziers vs Biarritz Olympique",
-      "team_home": "Beziers",
-      "team_away": "Biarritz Olympique",
+      "league": null,
+      "title": "Hull City vs Millwall",
+      "team_home": "Hull City",
+      "team_away": "Millwall",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
