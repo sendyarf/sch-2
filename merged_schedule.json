@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T18:45:11.230959",
+  "generated_at": "2026-05-08T19:59:11.677923",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 126,
+  "total_events": 125,
   "events": [
     {
       "date": "2026-05-08",
@@ -187,46 +187,18 @@
       "date": "2026-05-08",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Paderborn vs Karlsruher SC",
+      "team_home": "Paderborn",
+      "team_away": "Karlsruher SC",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778257800
-    },
-    {
-      "date": "2026-05-08",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Kaiserslautern vs Arminia Bielefeld",
-      "team_home": "Kaiserslautern",
-      "team_away": "Arminia Bielefeld",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
@@ -237,31 +209,18 @@
       "date": "2026-05-08",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Paderborn vs Karlsruher SC",
-      "team_home": "Paderborn",
-      "team_away": "Karlsruher SC",
+      "league": null,
+      "title": "Kaiserslautern vs Arminia Bielefeld",
+      "team_home": "Kaiserslautern",
+      "team_away": "Arminia Bielefeld",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
