@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T08:05:11.063875",
+  "generated_at": "2026-05-08T09:50:48.092754",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 98,
+  "total_events": 92,
   "events": [
     {
       "date": "2026-05-08",
@@ -2332,173 +2332,6 @@
         ]
       },
       "startTimestamp": 1778382900
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Philadelphia Flyers vs Carolina Hurricanes",
-      "team_home": "Philadelphia Flyers",
-      "team_away": "Carolina Hurricanes",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778716800
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Carabobo vs River Plate",
-      "team_home": "Carabobo",
-      "team_away": "River Plate",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778718600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Medellín vs Flamengo",
-      "team_home": "Medellín",
-      "team_away": "Flamengo",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778718600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Blooming vs RB Bragantino",
-      "team_home": "Blooming",
-      "team_away": "RB Bragantino",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778718600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NBA",
-      "title": "Los Angeles Lakers vs Oklahoma City Thunder",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Oklahoma City Thunder",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778722200
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": null,
-      "title": "Junior vs Cerro Porteño",
-      "team_home": "Junior",
-      "team_away": "Cerro Porteño",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778724000
     }
   ]
 }
