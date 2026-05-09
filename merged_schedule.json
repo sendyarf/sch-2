@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T21:01:53.833278",
+  "generated_at": "2026-05-09T21:59:50.671487",
   "sources": [
     {
       "name": "cartelive",
@@ -13,161 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 146,
   "events": [
-    {
-      "date": "2026-05-09",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Nurnberg vs Schalke",
-      "team_home": "Nurnberg",
-      "team_away": "Schalke",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778351400
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Ecuador Ligapro",
-      "title": "Tecnico U. vs Delfin",
-      "team_home": "Tecnico U.",
-      "team_away": "Delfin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778351400
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs Albion",
-      "team_home": "Danubio",
-      "team_away": "Albion",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778351400
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "MLS",
-      "title": "Chicago Fire vs New York Red Bulls",
-      "team_home": "Chicago Fire",
-      "team_away": "New York Red Bulls",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778351400
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Club Brugge KV vs St. Truiden",
-      "team_home": "Club Brugge KV",
-      "team_away": "St. Truiden",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778352300
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "Lecce vs Juventus",
-      "team_home": "Lecce",
-      "team_away": "Juventus",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778352300
-    },
     {
       "date": "2026-05-09",
       "time_utc": "19:00",
@@ -567,8 +414,7 @@
       "team_home": "Inter Bogotá",
       "team_away": "Atl. Nacional",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -576,11 +422,6 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
           }
         ]
       },
@@ -595,8 +436,7 @@
       "team_home": "Fluminense",
       "team_away": "Vitoria",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -604,35 +444,6 @@
             "channel": "ES m.laliga2",
             "url": "https://multi.govoet.cc/?envivo=50",
             "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778360400
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": null,
-      "title": "Padel: Premier Padel: Asuncion P2 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
