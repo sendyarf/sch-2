@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T10:36:59.950764",
+  "generated_at": "2026-05-09T11:31:58.009056",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 148,
+  "total_events": 147,
   "events": [
     {
       "date": "2026-05-09",
@@ -87,50 +87,6 @@
         ]
       },
       "startTimestamp": 1778310000
-    },
-    {
-      "date": "2026-05-09",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de France Essais Libres 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778313600
     },
     {
       "date": "2026-05-09",
