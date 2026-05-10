@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T12:40:24.969954",
+  "generated_at": "2026-05-10T14:06:59.139467",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 151,
   "events": [
     {
       "date": "2026-05-10",
@@ -157,51 +157,14 @@
       "date": "2026-05-10",
       "time_utc": "10:00",
       "time_utc1": "12:00",
-      "league": "Liga Endesa",
-      "title": "Forca Lleida vs Bilbao",
-      "team_home": "Forca Lleida",
-      "team_away": "Bilbao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778407200
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "10:15",
-      "time_utc1": "12:15",
       "league": "Moto2",
-      "title": "Moto2: Grand Prix de France La course des Moto 2",
+      "title": "Grand Prix of France - Moto 2 - Race",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -224,72 +187,25 @@
           }
         ]
       },
-      "startTimestamp": 1778408100
+      "startTimestamp": 1778407200
     },
     {
       "date": "2026-05-10",
       "time_utc": "10:30",
       "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "MoraBanc Andorra vs Manresa",
-      "team_home": "MoraBanc Andorra",
-      "team_away": "Manresa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778409000
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Verona vs Como",
       "team_home": "Verona",
       "team_away": "Como",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -306,31 +222,15 @@
       "date": "2026-05-10",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Celtic vs Rangers",
       "team_home": "Celtic",
       "team_away": "Rangers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SPFL Rangers",
-            "url": "https://multi.govoet.cc/?envivo=136",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
