@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T17:11:46.659873",
+  "generated_at": "2026-05-10T19:31:26.666220",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 138,
+  "total_events": 130,
   "events": [
     {
       "date": "2026-05-10",
@@ -637,21 +637,15 @@
       "date": "2026-05-10",
       "time_utc": "14:45",
       "time_utc1": "16:45",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Ajax vs Utrecht",
       "team_home": "Ajax",
       "team_away": "Utrecht",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -665,57 +659,15 @@
       "date": "2026-05-10",
       "time_utc": "14:45",
       "time_utc1": "16:45",
-      "league": "Eredivisie",
-      "title": "Feyenoord vs AZ Alkmaar",
-      "team_home": "Feyenoord",
-      "team_away": "AZ Alkmaar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778424300
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "14:45",
-      "time_utc1": "16:45",
-      "league": "Eredivisie",
-      "title": "G.A. Eagles vs PSV",
-      "team_home": "G.A. Eagles",
+      "league": null,
+      "title": "Go Ahead Eagles vs PSV",
+      "team_home": "Go Ahead Eagles",
       "team_away": "PSV",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -727,132 +679,21 @@
     },
     {
       "date": "2026-05-10",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Liga Endesa",
-      "title": "Real Madrid vs Breogan",
-      "team_home": "Real Madrid",
-      "team_away": "Breogan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778425200
-    },
-    {
-      "date": "2026-05-10",
       "time_utc": "15:30",
       "time_utc1": "17:30",
-      "league": "Bundesliga",
-      "title": "FC Koln vs Heidenheim",
-      "team_home": "FC Koln",
-      "team_away": "Heidenheim",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778427000
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Premier League",
-      "title": "West Ham vs Arsenal",
-      "team_home": "West Ham",
+      "league": null,
+      "title": "West Ham United vs Arsenal",
+      "team_home": "West Ham United",
       "team_away": "Arsenal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -874,39 +715,43 @@
     },
     {
       "date": "2026-05-10",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": null,
+      "title": "Köln vs Heidenheim",
+      "team_home": "Köln",
+      "team_away": "Heidenheim",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778427000
+    },
+    {
+      "date": "2026-05-10",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Serie A",
-      "title": "Parma vs AS Roma",
+      "league": null,
+      "title": "Parma vs Roma",
       "team_home": "Parma",
-      "team_away": "AS Roma",
+      "team_away": "Roma",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -943,132 +788,27 @@
     },
     {
       "date": "2026-05-10",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Miami Marlins vs Washington Nationals",
-      "team_home": "Miami Marlins",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778429700
-    },
-    {
-      "date": "2026-05-10",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Betfred Super League",
-      "title": "AEK Athens vs Panathinaikos",
-      "team_home": "AEK Athens",
-      "team_away": "Panathinaikos",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778430600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Betfred Super League",
-      "title": "Olympiacos Piraeus vs PAOK",
-      "team_home": "Olympiacos Piraeus",
-      "team_away": "PAOK",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778430600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga",
-      "title": "Oviedo vs Getafe",
-      "team_home": "Oviedo",
+      "league": null,
+      "title": "Real Oviedo vs Getafe",
+      "team_home": "Real Oviedo",
       "team_away": "Getafe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -1086,19 +826,19 @@
       "date": "2026-05-10",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Cordoba vs Granada CF",
-      "team_home": "Cordoba",
-      "team_away": "Granada CF",
+      "league": null,
+      "title": "Olympiakos Piraeus vs PAOK",
+      "team_home": "Olympiakos Piraeus",
+      "team_away": "PAOK",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "nl": [
           {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -1108,103 +848,23 @@
       "date": "2026-05-10",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Mirandes vs Eibar",
-      "team_home": "Mirandes",
-      "team_away": "Eibar",
+      "league": null,
+      "title": "AEK Athens vs Panathinaikos",
+      "team_home": "AEK Athens",
+      "team_away": "Panathinaikos",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
       "startTimestamp": 1778430600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Royale Union SG vs KV Mechelen",
-      "team_home": "Royale Union SG",
-      "team_away": "KV Mechelen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778430600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Baskonia",
-      "team_home": "Valencia",
-      "team_away": "Baskonia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778432400
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "AFS vs FC Porto",
-      "team_home": "AFS",
-      "team_away": "FC Porto",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778432400
     },
     {
       "date": "2026-05-10",
