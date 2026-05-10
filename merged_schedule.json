@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T14:06:59.139467",
+  "generated_at": "2026-05-10T15:12:37.861154",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 151,
+  "total_events": 145,
   "events": [
     {
       "date": "2026-05-10",
@@ -293,224 +293,16 @@
     },
     {
       "date": "2026-05-10",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778412600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Dusseldorf vs Elversberg",
-      "team_home": "Dusseldorf",
-      "team_away": "Elversberg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778412600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Hertha Berlin vs Greuther Furth",
-      "team_home": "Hertha Berlin",
-      "team_away": "Greuther Furth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778412600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Preussen Munster vs Darmstadt",
-      "team_home": "Preussen Munster",
-      "team_away": "Darmstadt",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778412600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Gent vs Anderlecht",
-      "team_home": "Gent",
-      "team_away": "Anderlecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778412600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Laliga",
-      "title": "Mallorca vs Villarreal",
-      "team_home": "Mallorca",
-      "team_away": "Villarreal",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778414400
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Laliga 2",
-      "title": "Andorra vs Las Palmas",
-      "team_home": "Andorra",
-      "team_away": "Las Palmas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778414400
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
+      "time_utc": "11:15",
+      "time_utc1": "13:15",
       "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de France des Moto GP",
+      "title": "Grand Prix of France - Moto GP - Race",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -529,6 +321,35 @@
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778411700
+    },
+    {
+      "date": "2026-05-10",
+      "time_utc": "12:00",
+      "time_utc1": "14:00",
+      "league": null,
+      "title": "Mallorca vs Villarreal",
+      "team_home": "Mallorca",
+      "team_away": "Villarreal",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
           }
         ]
