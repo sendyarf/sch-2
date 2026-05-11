@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T22:47:44.975039",
+  "generated_at": "2026-05-11T23:52:01.354098",
   "sources": [
     {
       "name": "cartelive",
@@ -13,431 +13,16 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 84,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-05-11",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
       "league": null,
-      "title": "ATP World Tour 1000: Rome",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778490000
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Akron vs Rostov",
-      "team_home": "Akron",
-      "team_away": "Rostov",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778493600
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "12:15",
-      "time_utc1": "14:15",
-      "league": null,
-      "title": "Olimpiyets vs CSKA Moskva",
-      "team_home": "Olimpiyets",
-      "team_away": "CSKA Moskva",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778501700
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": null,
-      "title": "Spartak Moskva vs Rubin Kazan'",
-      "team_home": "Spartak Moskva",
-      "team_away": "Rubin Kazan'",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778509800
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Dinamo Moskva vs Krasnodar",
-      "team_home": "Dinamo Moskva",
-      "team_away": "Krasnodar",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778518800
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Al Taawon vs Al-Ahli",
-      "team_home": "Al Taawon",
-      "team_away": "Al-Ahli",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778522400
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "Huesca vs Real Sociedad B",
-      "team_home": "Huesca",
-      "team_away": "Real Sociedad B",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778524200
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": null,
-      "title": "Napoli vs Bologna",
-      "team_home": "Napoli",
-      "team_away": "Bologna",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778525100
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Tottenham Hotspur vs Leeds United",
-      "team_home": "Tottenham Hotspur",
-      "team_away": "Leeds United",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526000
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Rayo Vallecano vs Girona",
-      "team_home": "Rayo Vallecano",
-      "team_away": "Girona",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526000
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Millwall vs Hull City",
-      "team_home": "Millwall",
-      "team_away": "Hull City",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526000
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Benfica vs Sporting Braga",
-      "team_home": "Benfica",
-      "team_away": "Sporting Braga",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "BTV",
-            "url": "https://multi.govoet.cc/?ss=btv",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526900
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Rio Ave vs Sporting CP",
-      "team_home": "Rio Ave",
-      "team_away": "Sporting CP",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526900
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Estrela vs Famalicão",
-      "team_home": "Estrela",
-      "team_away": "Famalicão",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526900
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Vitória Guimarães vs Casa Pia",
-      "team_home": "Vitória Guimarães",
-      "team_away": "Casa Pia",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526900
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Tondela vs Moreirense",
-      "team_home": "Tondela",
-      "team_away": "Moreirense",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778526900
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": null,
-      "title": "Flamengo W vs Ferroviária W",
-      "team_home": "Flamengo W",
-      "team_away": "Ferroviária W",
+      "title": "Corinthians W vs São Paulo W",
+      "team_home": "Corinthians W",
+      "team_away": "São Paulo W",
       "sources": [
         "sportsonline"
       ],
@@ -450,7 +35,36 @@
           }
         ]
       },
-      "startTimestamp": 1778536800
+      "startTimestamp": 1778457600
+    },
+    {
+      "date": "2026-05-11",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NBA",
+      "title": "Detroit Pistons vs Cleveland Cavaliers",
+      "team_home": "Detroit Pistons",
+      "team_away": "Cleveland Cavaliers",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778457600
     },
     {
       "date": "2026-05-11",
@@ -593,8 +207,7 @@
       "team_home": "Cleveland Cavaliers",
       "team_away": "Detroit Pistons",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -621,18 +234,6 @@
             "channel": "EXTRA SPORT37",
             "url": "https://multi.govoet.cc/?envivo=190",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -655,28 +256,6 @@
             "channel": "EXTRA SPORT39",
             "url": "https://multi.govoet.cc/?envivo=192",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778544000
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Corinthians W vs São Paulo W",
-      "team_home": "Corinthians W",
-      "team_away": "São Paulo W",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ]
       },
