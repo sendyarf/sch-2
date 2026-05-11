@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T00:07:27.954130",
+  "generated_at": "2026-05-11T04:34:34.307107",
   "sources": [
     {
       "name": "cartelive",
@@ -13,28 +13,20 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 46,
   "events": [
     {
       "date": "2026-05-10",
       "time_utc": "21:30",
       "time_utc1": "23:30",
-      "league": "Serie A Bresil",
-      "title": "Corinthians vs Sao Paulo",
+      "league": null,
+      "title": "Corinthians vs São Paulo",
       "team_home": "Corinthians",
-      "team_away": "Sao Paulo",
+      "team_away": "São Paulo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -56,22 +48,14 @@
       "date": "2026-05-10",
       "time_utc": "21:30",
       "time_utc1": "23:30",
-      "league": "Serie A Bresil",
-      "title": "Santos vs Bragantino",
+      "league": null,
+      "title": "Santos vs RB Bragantino",
       "team_home": "Santos",
-      "team_away": "Bragantino",
+      "team_away": "RB Bragantino",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR4",
@@ -108,47 +92,19 @@
       "date": "2026-05-10",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "River Plate vs San Lorenzo",
       "team_home": "River Plate",
       "team_away": "San Lorenzo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -209,66 +165,14 @@
       "date": "2026-05-10",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cusco vs Los Chankas",
-      "team_home": "Cusco",
-      "team_away": "Los Chankas",
+      "league": null,
+      "title": "Grêmio vs Flamengo",
+      "team_home": "Grêmio",
+      "team_away": "Flamengo",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778452200
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "22:30",
-      "time_utc1": "00:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Nacional vs CA Cerro",
-      "team_home": "Nacional",
-      "team_away": "CA Cerro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778452200
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "22:30",
-      "time_utc1": "00:30",
-      "league": "Serie A Bresil",
-      "title": "Gremio vs Flamengo RJ",
-      "team_home": "Gremio",
-      "team_away": "Flamengo RJ",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -283,21 +187,15 @@
       "date": "2026-05-10",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "Liga Mx",
+      "league": null,
       "title": "Pachuca vs Toluca",
       "team_home": "Pachuca",
       "team_away": "Toluca",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -311,58 +209,14 @@
       "date": "2026-05-10",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "MLS",
-      "title": "Minnesota United vs Austin FC",
-      "team_home": "Minnesota United",
-      "team_away": "Austin FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778454000
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
       "league": "NHL",
-      "title": "Montreal Canadiens vs Buffalo Sabres",
-      "team_home": "Montreal Canadiens",
-      "team_away": "Buffalo Sabres",
+      "title": "Buffalo Sabres vs Montreal Canadiens",
+      "team_home": "Buffalo Sabres",
+      "team_away": "Montreal Canadiens",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV3",
@@ -375,117 +229,17 @@
     },
     {
       "date": "2026-05-10",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "Ecuador Ligapro",
-      "title": "Manta vs Macara",
-      "team_home": "Manta",
-      "team_away": "Macara",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778454600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Once Caldas vs Junior",
-      "team_home": "Once Caldas",
-      "team_away": "Junior",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778454600
-    },
-    {
-      "date": "2026-05-10",
-      "time_utc": "23:20",
-      "time_utc1": "01:20",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Detroit Tigers",
-      "team_home": "Kansas City Royals",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778455200
-    },
-    {
-      "date": "2026-05-10",
       "time_utc": "23:30",
       "time_utc1": "01:30",
       "league": "NBA",
-      "title": "Minnesota Timberwolves vs San Antonio Spurs",
-      "team_home": "Minnesota Timberwolves",
-      "team_away": "San Antonio Spurs",
+      "title": "San Antonio Spurs vs Minnesota Timberwolves",
+      "team_home": "San Antonio Spurs",
+      "team_away": "Minnesota Timberwolves",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -528,26 +282,15 @@
       "date": "2026-05-11",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
-      "title": "Velez Sarsfield vs Gimnasia L.P.",
-      "team_home": "Velez Sarsfield",
-      "team_away": "Gimnasia L.P.",
+      "league": null,
+      "title": "Vélez Sarsfield vs Gimnasia La Plata",
+      "team_home": "Vélez Sarsfield",
+      "team_away": "Gimnasia La Plata",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -556,28 +299,6 @@
         ]
       },
       "startTimestamp": 1778459400
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "MLS",
-      "title": "Los Angeles FC vs Houston Dynamo",
-      "team_home": "Los Angeles FC",
-      "team_away": "Houston Dynamo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778461200
     },
     {
       "date": "2026-05-11",
@@ -605,36 +326,15 @@
       "date": "2026-05-11",
       "time_utc": "01:15",
       "time_utc1": "03:15",
-      "league": "Liga Mx",
-      "title": "UNAM Pumas vs Club America",
-      "team_home": "UNAM Pumas",
-      "team_away": "Club America",
+      "league": null,
+      "title": "Pumas UNAM vs América",
+      "team_home": "Pumas UNAM",
+      "team_away": "América",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -643,35 +343,6 @@
         ]
       },
       "startTimestamp": 1778462100
-    },
-    {
-      "date": "2026-05-11",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NHL",
-      "title": "Anaheim Ducks vs Vegas Golden Knights",
-      "team_home": "Anaheim Ducks",
-      "team_away": "Vegas Golden Knights",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778463000
     },
     {
       "date": "2026-05-11",
