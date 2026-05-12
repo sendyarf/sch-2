@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T17:59:44.993019",
+  "generated_at": "2026-05-12T20:01:21.134982",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 77,
+  "total_events": 74,
   "events": [
     {
       "date": "2026-05-11",
@@ -90,93 +90,21 @@
     },
     {
       "date": "2026-05-12",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Masters Roma",
-      "title": "H. Medjedovic vs M. Landaluce",
-      "team_home": "H. Medjedovic",
-      "team_away": "M. Landaluce",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778598000
-    },
-    {
-      "date": "2026-05-12",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "Asteras Tripolis vs Panserraikos",
-      "team_home": "Asteras Tripolis",
-      "team_away": "Panserraikos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778601600
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Betfred Super League",
+      "league": null,
       "title": "Kifisia vs Atromitos",
       "team_home": "Kifisia",
       "team_away": "Atromitos",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
           {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778601600
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "Panetolikos vs AEL Larissa",
-      "team_home": "Panetolikos",
-      "team_away": "AEL Larissa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
           }
         ]
       },
@@ -208,48 +136,25 @@
       "date": "2026-05-12",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
-      "title": "Celta Vigo vs Levante",
-      "team_home": "Celta Vigo",
+      "league": null,
+      "title": "Celta de Vigo vs Levante",
+      "team_home": "Celta de Vigo",
       "team_away": "Levante",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
