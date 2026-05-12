@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T20:01:21.134982",
+  "generated_at": "2026-05-12T21:37:53.172180",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 74,
+  "total_events": 71,
   "events": [
     {
       "date": "2026-05-11",
@@ -172,33 +172,15 @@
       "date": "2026-05-12",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Laliga",
-      "title": "Betis vs Elche",
-      "team_home": "Betis",
+      "league": null,
+      "title": "Real Betis vs Elche",
+      "team_home": "Real Betis",
       "team_away": "Elche",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -226,53 +208,15 @@
       "date": "2026-05-12",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Basquet Girona vs Manresa",
-      "team_home": "Basquet Girona",
-      "team_away": "Manresa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778608800
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Nassr vs Al Hilal",
       "team_home": "Al Nassr",
       "team_away": "Al Hilal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -280,11 +224,6 @@
           }
         ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -300,50 +239,6 @@
         ]
       },
       "startTimestamp": 1778608800
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Ligue 1",
-      "title": "Red Star vs Rodez",
-      "team_home": "Red Star",
-      "team_away": "Rodez",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778610600
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Masters Roma",
-      "title": "TA. Tirante vs D. Medvedev",
-      "team_home": "TA. Tirante",
-      "team_away": "D. Medvedev",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778610600
     },
     {
       "date": "2026-05-12",
