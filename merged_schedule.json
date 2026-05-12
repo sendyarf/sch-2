@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T15:58:04.869387",
+  "generated_at": "2026-05-12T17:59:44.993019",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 79,
+  "total_events": 77,
   "events": [
     {
       "date": "2026-05-11",
@@ -87,50 +87,6 @@
         ]
       },
       "startTimestamp": 1778576400
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Masters Roma",
-      "title": "J. Sinner vs A. Pellegrino",
-      "team_home": "J. Sinner",
-      "team_away": "A. Pellegrino",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes3",
-            "url": "https://multi.govoet.cc/?envivo=64",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778590800
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Masters Roma",
-      "title": "A. Rublev vs N. Basilashvili",
-      "team_home": "A. Rublev",
-      "team_away": "N. Basilashvili",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes2",
-            "url": "https://multi.govoet.cc/?envivo=63",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778592600
     },
     {
       "date": "2026-05-12",
