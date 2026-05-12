@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T21:37:53.172180",
+  "generated_at": "2026-05-12T22:43:51.133206",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 71,
+  "total_events": 66,
   "events": [
     {
       "date": "2026-05-11",
@@ -242,141 +242,21 @@
     },
     {
       "date": "2026-05-12",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Premiership",
-      "title": "Aberdeen vs St. Mirren",
-      "team_home": "Aberdeen",
-      "team_away": "St. Mirren",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778611500
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Premiership",
-      "title": "Dundee Utd vs Livingston",
-      "team_home": "Dundee Utd",
-      "team_away": "Livingston",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778611500
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Premiership",
-      "title": "Dunfermline vs Partick Thistle",
-      "team_home": "Dunfermline",
-      "team_away": "Partick Thistle",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=132",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778611500
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Premiership",
-      "title": "Kilmarnock vs Dundee FC",
-      "team_home": "Kilmarnock",
-      "team_away": "Dundee FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=133",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778611500
-    },
-    {
-      "date": "2026-05-12",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
+      "league": null,
       "title": "Southampton vs Middlesbrough",
       "team_home": "Southampton",
       "team_away": "Middlesbrough",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -400,48 +280,25 @@
       "date": "2026-05-12",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Laliga",
-      "title": "Osasuna vs Atl. Madrid",
+      "league": null,
+      "title": "Osasuna vs Atlético Madrid",
       "team_home": "Osasuna",
-      "team_away": "Atl. Madrid",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -454,33 +311,6 @@
         ]
       },
       "startTimestamp": 1778614200
-    },
-    {
-      "date": "2026-05-12",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Copa Ecuador",
-      "title": "Insutec vs Barcelona SC",
-      "team_home": "Insutec",
-      "team_away": "Barcelona SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778616000
     },
     {
       "date": "2026-05-12",
@@ -880,6 +710,13 @@
           {
             "channel": "EXTRA SPORT39",
             "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "dazn baloncesto 1",
+            "url": "https://multi.govoet.cc/?envivo=155",
             "source": "cartelive"
           }
         ]
