@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T19:45:16.200118",
+  "generated_at": "2026-05-13T21:20:26.541295",
   "sources": [
     {
       "name": "cartelive",
@@ -13,34 +13,21 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 86,
+  "total_events": 82,
   "events": [
     {
       "date": "2026-05-13",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Espanyol vs Ath Bilbao",
       "team_home": "Espanyol",
       "team_away": "Ath Bilbao",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -61,38 +48,15 @@
       "date": "2026-05-13",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Villarreal vs Sevilla",
       "team_home": "Villarreal",
       "team_away": "Sevilla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -120,143 +84,30 @@
       "date": "2026-05-13",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Breogan vs Forca Lleida",
-      "team_home": "Breogan",
-      "team_away": "Forca Lleida",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778691600
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Brest vs Strasbourg",
       "team_home": "Brest",
       "team_away": "Strasbourg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1778691600
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Los Angeles Angels",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778692200
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Coupe De Turquie",
-      "title": "Genclerbirligi vs Trabzonspor",
-      "team_home": "Genclerbirligi",
-      "team_away": "Trabzonspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778693400
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Liga Endesa",
-      "title": "Granada vs Barcelona",
-      "team_home": "Granada",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778693400
     },
     {
       "date": "2026-05-13",
