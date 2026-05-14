@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T15:03:42.157185",
+  "generated_at": "2026-05-14T17:08:45.590233",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 62,
   "events": [
     {
       "date": "2026-05-08",
@@ -591,28 +591,6 @@
         ]
       },
       "startTimestamp": 1778288880
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Coupe De Belgique",
-      "title": "Royale Union SG vs Anderlecht",
-      "team_home": "Royale Union SG",
-      "team_away": "Anderlecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778763600
     },
     {
       "date": "2026-05-14",
