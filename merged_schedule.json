@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T23:42:10.507827",
+  "generated_at": "2026-05-14T01:32:23.412735",
   "sources": [
     {
       "name": "cartelive",
@@ -13,145 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 66,
+  "total_events": 65,
   "events": [
-    {
-      "date": "2026-05-13",
-      "time_utc": "21:45",
-      "time_utc1": "23:45",
-      "league": "Torneo LPF",
-      "title": "Rosario Central vs Racing Club",
-      "team_home": "Rosario Central",
-      "team_away": "Racing Club",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778708700
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Coupe Du Bresil",
-      "title": "Juventude vs Sao Paulo",
-      "team_home": "Juventude",
-      "team_away": "Sao Paulo",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778709600
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Coupe Du Bresil",
-      "title": "Vasco vs Paysandu PA",
-      "team_home": "Vasco",
-      "team_away": "Paysandu PA",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778709600
-    },
-    {
-      "date": "2026-05-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Supercopa Ecuador",
-      "title": "Ind. del Valle vs U. Catolica",
-      "team_home": "Ind. del Valle",
-      "team_away": "U. Catolica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778709600
-    },
     {
       "date": "2026-05-13",
       "time_utc": "22:00",
@@ -176,24 +39,89 @@
     },
     {
       "date": "2026-05-13",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Rosario Central vs Racing Club",
+      "team_home": "Rosario Central",
+      "team_away": "Racing Club",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778709600
+    },
+    {
+      "date": "2026-05-13",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Juventude vs São Paulo",
+      "team_home": "Juventude",
+      "team_away": "São Paulo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778709600
+    },
+    {
+      "date": "2026-05-13",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Vasco da Gama vs Paysandu",
+      "team_home": "Vasco da Gama",
+      "team_away": "Paysandu",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778709600
+    },
+    {
+      "date": "2026-05-13",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": "Coupe Du Bresil",
+      "league": null,
       "title": "Coritiba vs Santos",
       "team_home": "Coritiba",
       "team_away": "Santos",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR3",
