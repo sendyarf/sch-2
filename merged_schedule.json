@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T20:43:51.328306",
+  "generated_at": "2026-05-14T21:51:04.429827",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 50,
   "events": [
     {
       "date": "2026-05-08",
@@ -749,33 +749,15 @@
       "date": "2026-05-14",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Girona vs Real Sociedad",
       "team_home": "Girona",
       "team_away": "Real Sociedad",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -787,72 +769,6 @@
             "channel": "ELEVEN2",
             "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778781600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Joventut Badalona vs MoraBanc Andorra",
-      "team_home": "Joventut Badalona",
-      "team_away": "MoraBanc Andorra",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778781600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Ettifaq vs Al Ittihad",
-      "team_home": "Al Ettifaq",
-      "team_away": "Al Ittihad",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778781600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Qadsiah vs Al Hazem",
-      "team_home": "Al Qadsiah",
-      "team_away": "Al Hazem",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
           }
         ]
       },
@@ -879,35 +795,6 @@
         ]
       },
       "startTimestamp": 1778781600
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Seattle Mariners",
-      "team_home": "Houston Astros",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778782200
     },
     {
       "date": "2026-05-14",
