@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T17:08:45.590233",
+  "generated_at": "2026-05-14T20:43:51.328306",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 62,
+  "total_events": 54,
   "events": [
     {
       "date": "2026-05-08",
@@ -638,123 +638,27 @@
     },
     {
       "date": "2026-05-14",
-      "time_utc": "15:55",
-      "time_utc1": "17:55",
-      "league": "Saudi Pro League",
-      "title": "Al Fateh vs Al Najma",
-      "team_home": "Al Fateh",
-      "team_away": "Al Najma",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778774100
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "16:35",
-      "time_utc1": "18:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Colorado Rockies",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778776500
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "16:40",
-      "time_utc1": "18:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs Washington Nationals",
-      "team_home": "Cincinnati Reds",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778776800
-    },
-    {
-      "date": "2026-05-14",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Valencia vs Rayo Vallecano",
       "team_home": "Valencia",
       "team_away": "Rayo Vallecano",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -770,55 +674,6 @@
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778778000
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Bilbao vs Real Madrid",
-      "team_home": "Bilbao",
-      "team_away": "Real Madrid",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778778000
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "San Pablo Burgos vs Unicaja",
-      "team_home": "San Pablo Burgos",
-      "team_away": "Unicaja",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
           }
         ]
       },
@@ -870,28 +725,6 @@
     },
     {
       "date": "2026-05-14",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "New York Mets vs Detroit Tigers",
-      "team_home": "New York Mets",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778778600
-    },
-    {
-      "date": "2026-05-14",
       "time_utc": "17:15",
       "time_utc1": "19:15",
       "league": null,
@@ -911,50 +744,6 @@
         ]
       },
       "startTimestamp": 1778778900
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs San Diego Padres",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778780400
-    },
-    {
-      "date": "2026-05-14",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Miami Marlins",
-      "team_home": "Minnesota Twins",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778780400
     },
     {
       "date": "2026-05-14",
