@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T18:56:01.192796",
+  "generated_at": "2026-05-15T20:13:15.594397",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 111,
+  "total_events": 109,
   "events": [
     {
       "date": "2026-05-15",
@@ -80,64 +80,6 @@
         ]
       },
       "startTimestamp": 1778860800
-    },
-    {
-      "date": "2026-05-15",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Saudi Pro League",
-      "title": "Damac vs Al Fayha",
-      "team_home": "Damac",
-      "team_away": "Al Fayha",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778861700
-    },
-    {
-      "date": "2026-05-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Rizespor vs Besiktas",
-      "team_home": "Rizespor",
-      "team_away": "Besiktas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778864400
     },
     {
       "date": "2026-05-15",
