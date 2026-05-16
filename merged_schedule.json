@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T14:09:28.177619",
+  "generated_at": "2026-05-16T15:14:52.031683",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 170,
+  "total_events": 168,
   "events": [
     {
       "date": "2026-05-16",
@@ -279,113 +279,36 @@
       "date": "2026-05-16",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Premiership",
+      "league": null,
       "title": "Celtic vs Hearts",
       "team_home": "Celtic",
       "team_away": "Hearts",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1778931000
     },
     {
       "date": "2026-05-16",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Premiership",
-      "title": "Falkirk vs Rangers",
-      "team_home": "Falkirk",
-      "team_away": "Rangers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SPFL Rangers",
-            "url": "https://multi.govoet.cc/?envivo=136",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778931000
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Premiership",
-      "title": "Hibernian vs Motherwell",
-      "team_home": "Hibernian",
-      "team_away": "Motherwell",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778931000
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "11:40",
-      "time_utc1": "13:40",
+      "time_utc": "11:45",
+      "time_utc1": "13:45",
       "league": "Moto2",
-      "title": "Moto2: Grand Prix de Catalogne Essais qualificatifs 1 et 2 des Moto 2",
+      "title": "Grand Prix of Catalunya - Qualifying",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -408,27 +331,21 @@
           }
         ]
       },
-      "startTimestamp": 1778931600
+      "startTimestamp": 1778931900
     },
     {
       "date": "2026-05-16",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Laliga 2",
-      "title": "Real Sociedad B vs Mirandes",
+      "league": null,
+      "title": "Real Sociedad B vs Mirandés",
       "team_home": "Real Sociedad B",
-      "team_away": "Mirandes",
+      "team_away": "Mirandés",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
