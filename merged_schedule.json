@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T20:26:36.817554",
+  "generated_at": "2026-05-16T21:10:28.856792",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 143,
+  "total_events": 140,
   "events": [
     {
       "date": "2026-05-16",
@@ -866,105 +866,19 @@
       "date": "2026-05-16",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Caf Coupes Des Confederations",
+      "league": null,
       "title": "Zamalek vs USM Alger",
       "team_home": "Zamalek",
       "team_away": "USM Alger",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778954400
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "FBC Melgar vs Sport Huancayo",
-      "team_home": "FBC Melgar",
-      "team_away": "Sport Huancayo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778954400
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Juventud vs Progreso",
-      "team_home": "Juventud",
-      "team_away": "Progreso",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778954400
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Ahli SC vs Al Kholood",
-      "team_home": "Al Ahli SC",
-      "team_away": "Al Kholood",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
           }
         ]
       },
