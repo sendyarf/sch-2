@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T16:11:18.596898",
+  "generated_at": "2026-05-16T17:13:38.799388",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 167,
+  "total_events": 159,
   "events": [
     {
       "date": "2026-05-16",
@@ -395,137 +395,19 @@
       "date": "2026-05-16",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Bundesliga: bundesliga konferenz",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778938200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "B. Monchengladbach vs Hoffenheim",
-      "team_home": "B. Monchengladbach",
-      "team_away": "Hoffenheim",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778938200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Bayer Leverkusen vs Hamburger SV",
-      "team_home": "Bayer Leverkusen",
-      "team_away": "Hamburger SV",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778938200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Bayern Munich vs FC Koln",
+      "league": null,
+      "title": "Bayern Munich vs Köln",
       "team_home": "Bayern Munich",
-      "team_away": "FC Koln",
+      "team_away": "Köln",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -542,28 +424,44 @@
       "date": "2026-05-16",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
+      "league": null,
+      "title": "Werder Bremen vs Borussia Dortmund",
+      "team_home": "Werder Bremen",
+      "team_away": "Borussia Dortmund",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1778938200
+    },
+    {
+      "date": "2026-05-16",
+      "time_utc": "13:30",
+      "time_utc1": "15:30",
+      "league": null,
       "title": "Eintracht Frankfurt vs Stuttgart",
       "team_home": "Eintracht Frankfurt",
       "team_away": "Stuttgart",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -584,38 +482,18 @@
       "date": "2026-05-16",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Freiburg vs RB Leipzig",
-      "team_home": "Freiburg",
-      "team_away": "RB Leipzig",
+      "league": null,
+      "title": "Bayer Leverkusen vs Hamburger SV",
+      "team_home": "Bayer Leverkusen",
+      "team_away": "Hamburger SV",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
@@ -626,68 +504,19 @@
       "date": "2026-05-16",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Heidenheim vs Mainz",
-      "team_home": "Heidenheim",
-      "team_away": "Mainz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778938200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
+      "league": null,
       "title": "St. Pauli vs Wolfsburg",
       "team_home": "St. Pauli",
       "team_away": "Wolfsburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -704,67 +533,25 @@
       "date": "2026-05-16",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Union Berlin vs Augsburg",
-      "team_home": "Union Berlin",
-      "team_away": "Augsburg",
+      "league": null,
+      "title": "Freiburg vs RB Leipzig",
+      "team_home": "Freiburg",
+      "team_away": "RB Leipzig",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778938200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga",
-      "title": "Werder Bremen vs Dortmund",
-      "team_home": "Werder Bremen",
-      "team_away": "Dortmund",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ],
-        "es": [
+        "pt": [
           {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
           }
         ]
@@ -797,28 +584,15 @@
       "date": "2026-05-16",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Fa Cup",
+      "league": null,
       "title": "Chelsea vs Manchester City",
       "team_home": "Chelsea",
       "team_away": "Manchester City",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -828,23 +602,6 @@
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -866,67 +623,17 @@
     },
     {
       "date": "2026-05-16",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Charleroi vs Westerlo",
-      "team_home": "Charleroi",
-      "team_away": "Westerlo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778940000
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Super Lig",
-      "title": "Karagumruk vs Alanyaspor",
-      "team_home": "Karagumruk",
-      "team_away": "Alanyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778940000
-    },
-    {
-      "date": "2026-05-16",
       "time_utc": "14:15",
       "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Ceuta vs Malaga",
+      "league": null,
+      "title": "Ceuta vs Málaga",
       "team_home": "Ceuta",
-      "team_away": "Malaga",
+      "team_away": "Málaga",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -938,52 +645,17 @@
     },
     {
       "date": "2026-05-16",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Cultural Leonesa vs Eibar",
-      "team_home": "Cultural Leonesa",
-      "team_away": "Eibar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778940900
-    },
-    {
-      "date": "2026-05-16",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "FC Porto vs Santa Clara",
-      "team_home": "FC Porto",
+      "league": null,
+      "title": "Porto vs Santa Clara",
+      "team_home": "Porto",
       "team_away": "Santa Clara",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -995,28 +667,6 @@
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778941800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "Moreirense vs AFS",
-      "team_home": "Moreirense",
-      "team_away": "AFS",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
           }
         ]
       },
