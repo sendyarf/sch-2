@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T19:31:24.037135",
+  "generated_at": "2026-05-16T20:26:36.817554",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 148,
+  "total_events": 143,
   "events": [
     {
       "date": "2026-05-16",
@@ -793,50 +793,15 @@
       "date": "2026-05-16",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Arouca vs Tondela",
-      "team_home": "Arouca",
-      "team_away": "Tondela",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778950800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Braga vs Estrela",
-      "team_home": "Braga",
+      "league": null,
+      "title": "Sporting Braga vs Estrela",
+      "team_home": "Sporting Braga",
       "team_away": "Estrela",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV4",
             "url": "https://multi.govoet.cc/?ss=sporttv4",
@@ -850,43 +815,15 @@
       "date": "2026-05-16",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Casa Pia vs Rio Ave",
-      "team_home": "Casa Pia",
-      "team_away": "Rio Ave",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778950800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Nacional vs Vitoria Guimaraes",
+      "league": null,
+      "title": "Nacional vs Vitória Guimarães",
       "team_home": "Nacional",
-      "team_away": "Vitoria Guimaraes",
+      "team_away": "Vitória Guimarães",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
@@ -895,72 +832,6 @@
         ]
       },
       "startTimestamp": 1778950800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Gaziantep vs Basaksehir",
-      "team_home": "Gaziantep",
-      "team_away": "Basaksehir",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778950800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Super Lig",
-      "title": "Samsunspor vs Goztepe",
-      "team_home": "Samsunspor",
-      "team_away": "Goztepe",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778950800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Toronto Blue Jays",
-      "team_home": "Detroit Tigers",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778951400
     },
     {
       "date": "2026-05-16",
