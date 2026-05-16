@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T15:14:52.031683",
+  "generated_at": "2026-05-16T16:11:18.596898",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 168,
+  "total_events": 167,
   "events": [
     {
       "date": "2026-05-16",
@@ -359,56 +359,14 @@
       "date": "2026-05-16",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Top 14",
-      "title": "Section Paloise vs Clermont",
-      "team_home": "Section Paloise",
-      "team_away": "Clermont",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          },
-          {
-            "channel": "C+Live 2",
-            "url": "https://multi.govoet.cc/?envivo=32",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778934600
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
       "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de Catalogne La course Sprint des Moto GP",
+      "title": "Grand Prix of Catalunya - Sprint",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -431,7 +389,7 @@
           }
         ]
       },
-      "startTimestamp": 1778936400
+      "startTimestamp": 1778934600
     },
     {
       "date": "2026-05-16",
