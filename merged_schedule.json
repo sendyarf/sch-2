@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T22:04:00.642277",
+  "generated_at": "2026-05-16T23:06:49.609577",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 134,
+  "total_events": 132,
   "events": [
     {
       "date": "2026-05-16",
@@ -952,55 +952,20 @@
     },
     {
       "date": "2026-05-16",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Arizona Diamondbacks",
-      "team_home": "Colorado Rockies",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778958600
-    },
-    {
-      "date": "2026-05-16",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Estoril vs Benfica",
-      "team_home": "Estoril",
-      "team_away": "Benfica",
+      "league": null,
+      "title": "Sporting CP vs Gil Vicente",
+      "team_home": "Sporting CP",
+      "team_away": "Gil Vicente",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ]
@@ -1011,53 +976,18 @@
       "date": "2026-05-16",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Famalicao vs Alverca",
-      "team_home": "Famalicao",
-      "team_away": "Alverca",
+      "league": null,
+      "title": "Estoril vs Benfica",
+      "team_home": "Estoril",
+      "team_away": "Benfica",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778959800
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Sporting CP vs Gil Vicente",
-      "team_home": "Sporting CP",
-      "team_away": "Gil Vicente",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
