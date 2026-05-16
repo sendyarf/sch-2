@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T18:07:05.910879",
+  "generated_at": "2026-05-16T19:31:24.037135",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 148,
   "events": [
     {
       "date": "2026-05-16",
@@ -676,52 +676,14 @@
       "date": "2026-05-16",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "AEL Larissa vs Atromitos",
-      "team_home": "AEL Larissa",
-      "team_away": "Atromitos",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1778947200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Betfred Super League",
+      "league": null,
       "title": "Asteras Tripolis vs Kifisia",
       "team_home": "Asteras Tripolis",
       "team_away": "Kifisia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD9",
@@ -736,63 +698,19 @@
       "date": "2026-05-16",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "Panserraikos vs Panetolikos",
-      "team_home": "Panserraikos",
-      "team_away": "Panetolikos",
+      "league": null,
+      "title": "Larissa vs Atromitos",
+      "team_home": "Larissa",
+      "team_away": "Atromitos",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "el": [
+        "de": [
           {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778947200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "D1 Féminin",
-      "title": "Lyon W vs Nantes W",
-      "team_home": "Lyon W",
-      "team_away": "Nantes W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778947200
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga Endesa",
-      "title": "Breogan vs Basquet Girona",
-      "team_home": "Breogan",
-      "team_away": "Basquet Girona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
@@ -802,27 +720,14 @@
       "date": "2026-05-16",
       "time_utc": "16:05",
       "time_utc1": "18:05",
-      "league": "Saudi Pro League",
-      "title": "Al Hilal vs Neom SC",
+      "league": null,
+      "title": "Al Hilal vs NEOM",
       "team_home": "Al Hilal",
-      "team_away": "Neom SC",
+      "team_away": "NEOM",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV3",
@@ -842,57 +747,20 @@
     },
     {
       "date": "2026-05-16",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Pro League",
-      "title": "St. Liege vs Genk",
-      "team_home": "St. Liege",
-      "team_away": "Genk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778948100
-    },
-    {
-      "date": "2026-05-16",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Almeria vs Las Palmas",
-      "team_home": "Almeria",
-      "team_away": "Las Palmas",
+      "league": null,
+      "title": "Racing Santander vs Real Valladolid",
+      "team_home": "Racing Santander",
+      "team_away": "Real Valladolid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
         "es": [
           {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
@@ -903,53 +771,18 @@
       "date": "2026-05-16",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Granada CF vs Burgos CF",
-      "team_home": "Granada CF",
-      "team_away": "Burgos CF",
+      "league": null,
+      "title": "Almeria vs Las Palmas",
+      "team_home": "Almeria",
+      "team_away": "Las Palmas",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1778949000
-    },
-    {
-      "date": "2026-05-16",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Racing Santander vs Valladolid",
-      "team_home": "Racing Santander",
-      "team_away": "Valladolid",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
           }
         ]
