@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T16:38:34.700192",
+  "generated_at": "2026-05-17T17:40:30.181533",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 108,
+  "total_events": 102,
   "events": [
     {
       "date": "2026-05-17",
@@ -410,259 +410,19 @@
       "date": "2026-05-17",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Betfred Super League",
-      "title": "Aris vs Levadiakos",
-      "team_home": "Aris",
-      "team_away": "Levadiakos",
+      "league": null,
+      "title": "Leeds United vs Brighton & Hove Albion",
+      "team_home": "Leeds United",
+      "team_away": "Brighton & Hove Albion",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Betfred Super League",
-      "title": "OFI Crete vs Volos",
-      "team_home": "OFI Crete",
-      "team_away": "Volos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Caf Ligue Des Champions",
-      "title": "Mamelodi Sundowns vs FAR Rabat",
-      "team_home": "Mamelodi Sundowns",
-      "team_away": "FAR Rabat",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Premier League: Multiplex Premier League",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Brentford vs Crystal Palace",
-      "team_home": "Brentford",
-      "team_away": "Crystal Palace",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Everton vs Sunderland",
-      "team_home": "Everton",
-      "team_away": "Sunderland",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Leeds vs Brighton",
-      "team_home": "Leeds",
-      "team_away": "Brighton",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -677,86 +437,6 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Wolves vs Fulham",
-      "team_home": "Wolves",
-      "team_away": "Fulham",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 5",
-            "url": "https://multi.govoet.cc/?envivo=35",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Lommel SK vs Dender",
-      "team_home": "Lommel SK",
-      "team_away": "Dender",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779026400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Super Lig",
-      "title": "Kayserispor vs Konyaspor",
-      "team_home": "Kayserispor",
-      "team_away": "Konyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
           }
         ]
       },
@@ -785,6 +465,93 @@
           {
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779026400
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Brentford vs Crystal Palace",
+      "team_home": "Brentford",
+      "team_away": "Crystal Palace",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779026400
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Everton vs Sunderland",
+      "team_home": "Everton",
+      "team_away": "Sunderland",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779026400
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Mamelodi Sundowns vs FAR Rabat",
+      "team_home": "Mamelodi Sundowns",
+      "team_away": "FAR Rabat",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
