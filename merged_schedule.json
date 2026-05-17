@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T15:43:27.300062",
+  "generated_at": "2026-05-17T16:38:34.700192",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 119,
+  "total_events": 108,
   "events": [
     {
       "date": "2026-05-17",
@@ -330,67 +330,6 @@
       "date": "2026-05-17",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Defensor Sp.",
-      "team_home": "Central Esp.",
-      "team_away": "Defensor Sp.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779022800
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Serie A",
-      "title": "Inter vs Verona",
-      "team_home": "Inter",
-      "team_away": "Verona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779022800
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
       "league": null,
       "title": "Internazionale vs Verona",
       "team_home": "Internazionale",
@@ -449,261 +388,15 @@
       "date": "2026-05-17",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: bundesliga 2 konferenz",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Schalke 04 vs Eintracht Braunschweig",
+      "team_home": "Schalke 04",
+      "team_away": "Eintracht Braunschweig",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Arminia Bielefeld vs Hertha Berlin",
-      "team_home": "Arminia Bielefeld",
-      "team_away": "Hertha Berlin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Darmstadt vs Paderborn",
-      "team_home": "Darmstadt",
-      "team_away": "Paderborn",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Elversberg vs Preussen Munster",
-      "team_home": "Elversberg",
-      "team_away": "Preussen Munster",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Greuther Furth vs Dusseldorf",
-      "team_home": "Greuther Furth",
-      "team_away": "Dusseldorf",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Hannover vs Nurnberg",
-      "team_home": "Hannover",
-      "team_away": "Nurnberg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Karlsruher SC vs Bochum",
-      "team_home": "Karlsruher SC",
-      "team_away": "Bochum",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga10",
-            "url": "https://multi.govoet.cc/?envivo=110",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Magdeburg vs Kaiserslautern",
-      "team_home": "Magdeburg",
-      "team_away": "Kaiserslautern",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "SG Dynamo Dresden vs Holstein Kiel",
-      "team_home": "SG Dynamo Dresden",
-      "team_away": "Holstein Kiel",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779024600
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Bundesliga 2",
-      "title": "Schalke vs Braunschweig",
-      "team_home": "Schalke",
-      "team_away": "Braunschweig",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
