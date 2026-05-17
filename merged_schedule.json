@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:49:52.784148",
+  "generated_at": "2026-05-17T20:41:15.266138",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 86,
+  "total_events": 82,
   "events": [
     {
       "date": "2026-05-17",
@@ -737,28 +737,6 @@
       "date": "2026-05-17",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
-      "title": "Laliga: Laliga simulcast",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779037200
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
       "league": null,
       "title": "Atlético Madrid vs Girona",
       "team_home": "Atlético Madrid",
@@ -899,72 +877,6 @@
         ]
       },
       "startTimestamp": 1779037200
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Boston Red Sox",
-      "team_home": "Atlanta Braves",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779039300
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Philadelphia Phillies",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779039300
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Washington Nationals vs Baltimore Orioles",
-      "team_home": "Washington Nationals",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779039300
     },
     {
       "date": "2026-05-17",
