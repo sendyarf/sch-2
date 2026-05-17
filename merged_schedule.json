@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T13:15:11.366745",
+  "generated_at": "2026-05-17T14:41:42.725955",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 128,
+  "total_events": 125,
   "events": [
     {
       "date": "2026-05-17",
@@ -108,50 +108,6 @@
         ]
       },
       "startTimestamp": 1779012000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "Murcia vs Unicaja",
-      "team_home": "Murcia",
-      "team_away": "Unicaja",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779013800
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "Real Madrid vs Joventut Badalona",
-      "team_home": "Real Madrid",
-      "team_away": "Joventut Badalona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779013800
     },
     {
       "date": "2026-05-17",
@@ -338,56 +294,19 @@
       "date": "2026-05-17",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Premier League",
-      "title": "Manchester Utd vs Nottingham",
-      "team_home": "Manchester Utd",
-      "team_away": "Nottingham",
+      "league": null,
+      "title": "Manchester United vs Nottingham Forest",
+      "team_home": "Manchester United",
+      "team_away": "Nottingham Forest",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -402,28 +321,6 @@
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779017400
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Anderlecht vs KV Mechelen",
-      "team_home": "Anderlecht",
-      "team_away": "KV Mechelen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
