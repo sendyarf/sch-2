@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T11:56:34.883624",
+  "generated_at": "2026-05-17T13:15:11.366745",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 129,
+  "total_events": 128,
   "events": [
     {
       "date": "2026-05-17",
@@ -50,234 +50,6 @@
         ]
       },
       "startTimestamp": 1779004800
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Liga Endesa",
-      "title": "Forca Lleida vs Gran Canaria",
-      "team_home": "Forca Lleida",
-      "team_away": "Gran Canaria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779012000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Serie A",
-      "title": "AS Roma vs Lazio",
-      "team_home": "AS Roma",
-      "team_away": "Lazio",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779012000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Serie A",
-      "title": "Como vs Parma",
-      "team_home": "Como",
-      "team_away": "Parma",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779012000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Serie A",
-      "title": "Genoa vs AC Milan",
-      "team_home": "Genoa",
-      "team_away": "AC Milan",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779012000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Serie A",
-      "title": "Juventus vs Fiorentina",
-      "team_home": "Juventus",
-      "team_away": "Fiorentina",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779012000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Serie A",
-      "title": "Pisa vs Napoli",
-      "team_home": "Pisa",
-      "team_away": "Napoli",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR5",
-            "url": "https://multi.govoet.cc/?ss=br5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779012000
     },
     {
       "date": "2026-05-17",
@@ -376,6 +148,151 @@
             "channel": "dazn baloncesto 2",
             "url": "https://multi.govoet.cc/?envivo=156",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1779013800
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "10:30",
+      "time_utc1": "12:30",
+      "league": null,
+      "title": "Roma vs Lazio",
+      "team_home": "Roma",
+      "team_away": "Lazio",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779013800
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "10:30",
+      "time_utc1": "12:30",
+      "league": null,
+      "title": "Genoa vs Milan",
+      "team_home": "Genoa",
+      "team_away": "Milan",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779013800
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "10:30",
+      "time_utc1": "12:30",
+      "league": null,
+      "title": "Juventus vs Fiorentina",
+      "team_home": "Juventus",
+      "team_away": "Fiorentina",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779013800
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "10:30",
+      "time_utc1": "12:30",
+      "league": null,
+      "title": "Pisa vs Napoli",
+      "team_home": "Pisa",
+      "team_away": "Napoli",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779013800
+    },
+    {
+      "date": "2026-05-17",
+      "time_utc": "10:30",
+      "time_utc1": "12:30",
+      "league": null,
+      "title": "Como vs Parma",
+      "team_home": "Como",
+      "team_away": "Parma",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
           }
         ]
       },
