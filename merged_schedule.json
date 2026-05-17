@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T17:40:30.181533",
+  "generated_at": "2026-05-17T18:42:36.583832",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 102,
+  "total_events": 100,
   "events": [
     {
       "date": "2026-05-17",
@@ -601,50 +601,6 @@
         ]
       },
       "startTimestamp": 1779028200
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Bilbao",
-      "team_home": "Valencia",
-      "team_away": "Bilbao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779030000
-    },
-    {
-      "date": "2026-05-17",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Masters Roma",
-      "title": "J. Sinner vs C. Ruud",
-      "team_home": "J. Sinner",
-      "team_away": "C. Ruud",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779030000
     },
     {
       "date": "2026-05-17",
