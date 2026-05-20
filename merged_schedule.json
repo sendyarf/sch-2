@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T03:34:16.980891",
+  "generated_at": "2026-05-20T07:01:45.587772",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-05-19",
@@ -220,187 +220,29 @@
     },
     {
       "date": "2026-05-20",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Texas Rangers",
-      "team_home": "Colorado Rockies",
-      "team_away": "Texas Rangers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779237600
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Athletics",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779241080
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs San Francisco Giants",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779241200
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
-      "team_home": "San Diego Padres",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779241200
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Chicago White Sox",
-      "team_home": "Seattle Mariners",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779241200
-    },
-    {
-      "date": "2026-05-20",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "Ind. del Valle (Ecu) vs Libertad Asuncion (Par)",
-      "team_home": "Ind. del Valle (Ecu)",
-      "team_away": "Libertad Asuncion (Par)",
+      "league": null,
+      "title": "América de Cali vs Tigre",
+      "team_home": "América de Cali",
+      "team_away": "Tigre",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779242400
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Copa Sudamericana",
-      "title": "America De Cali (Col) vs Tigre (Arg)",
-      "team_home": "America De Cali (Col)",
-      "team_away": "Tigre (Arg)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
+        ],
+        "es": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1779242400
@@ -409,19 +251,19 @@
       "date": "2026-05-20",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "Copa Sudamericana",
-      "title": "Dep. Cuenca (Ecu) vs Recoleta (Par)",
-      "team_home": "Dep. Cuenca (Ecu)",
-      "team_away": "Recoleta (Par)",
+      "league": null,
+      "title": "Independiente del Valle vs Libertad",
+      "team_home": "Independiente del Valle",
+      "team_away": "Libertad",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "pt-BR": [
           {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
