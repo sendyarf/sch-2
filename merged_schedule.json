@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T23:57:28.846379",
+  "generated_at": "2026-05-20T03:34:16.980891",
   "sources": [
     {
       "name": "cartelive",
@@ -13,161 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 77,
+  "total_events": 64,
   "events": [
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "Coquimbo (Chi) vs Deportes Tolima (Col)",
-      "team_home": "Coquimbo (Chi)",
-      "team_away": "Deportes Tolima (Col)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779228000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "Fluminense (Bra) vs Bolivar (Bol)",
-      "team_home": "Fluminense (Bra)",
-      "team_away": "Bolivar (Bol)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779228000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "Rosario Central (Arg) vs Universidad Central (Ven)",
-      "team_home": "Rosario Central (Arg)",
-      "team_away": "Universidad Central (Ven)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779228000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "A. Italiano (Chi) vs Barracas Central (Arg)",
-      "team_home": "A. Italiano (Chi)",
-      "team_away": "Barracas Central (Arg)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779228000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Montevideo City (Uru) vs Dep. Riestra (Arg)",
-      "team_home": "Montevideo City (Uru)",
-      "team_away": "Dep. Riestra (Arg)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779228000
-    },
     {
       "date": "2026-05-19",
       "time_utc": "22:00",
@@ -199,227 +46,74 @@
     },
     {
       "date": "2026-05-19",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Cleveland Guardians",
-      "team_home": "Detroit Tigers",
-      "team_away": "Cleveland Guardians",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Audax Italiano vs Barracas Central",
+      "team_home": "Audax Italiano",
+      "team_away": "Barracas Central",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779230400
+      "startTimestamp": 1779228000
     },
     {
       "date": "2026-05-19",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Cincinnati Reds",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Cincinnati Reds",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Fluminense vs Bolívar",
+      "team_home": "Fluminense",
+      "team_away": "Bolívar",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1779230400
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Baltimore Orioles",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
+        ],
+        "es": [
           {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1779230400
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Washington Nationals vs New York Mets",
-      "team_home": "Washington Nationals",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
+        ],
+        "pt-BR": [
           {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779230700
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "New York Yankees vs Toronto Blue Jays",
-      "team_home": "New York Yankees",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779231900
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Milwaukee Brewers",
-      "team_home": "Chicago Cubs",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779234000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Boston Red Sox",
-      "team_home": "Kansas City Royals",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779234000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Houston Astros",
-      "team_home": "Minnesota Twins",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779234000
-    },
-    {
-      "date": "2026-05-19",
-      "time_utc": "23:45",
-      "time_utc1": "01:45",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Pittsburgh Pirates",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779234300
+      "startTimestamp": 1779228000
     },
     {
       "date": "2026-05-20",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Copa Libertadores",
-      "title": "Always Ready (Bol) vs Mirassol (Bra)",
-      "team_home": "Always Ready (Bol)",
-      "team_away": "Mirassol (Bra)",
+      "league": null,
+      "title": "Always Ready vs Mirassol",
+      "team_home": "Always Ready",
+      "team_away": "Mirassol",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD11",
@@ -441,27 +135,14 @@
       "date": "2026-05-20",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Copa Libertadores",
-      "title": "Santa Fe (Col) vs Platense (Arg)",
-      "team_home": "Santa Fe (Col)",
-      "team_away": "Platense (Arg)",
+      "league": null,
+      "title": "Santa Fe vs Platense",
+      "team_home": "Santa Fe",
+      "team_away": "Platense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR6",
@@ -474,77 +155,27 @@
     },
     {
       "date": "2026-05-20",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "New York Knicks vs Cleveland Cavaliers",
-      "team_home": "New York Knicks",
-      "team_away": "Cleveland Cavaliers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779235200
-    },
-    {
-      "date": "2026-05-20",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Boca Juniors (Arg) vs Cruzeiro (Bra)",
-      "team_home": "Boca Juniors (Arg)",
-      "team_away": "Cruzeiro (Bra)",
+      "league": null,
+      "title": "Boca Juniors vs Cruzeiro",
+      "team_home": "Boca Juniors",
+      "team_away": "Cruzeiro",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ],
@@ -569,22 +200,14 @@
       "date": "2026-05-20",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Sao Paulo (Bra) vs Millonarios (Col)",
-      "team_home": "Sao Paulo (Bra)",
-      "team_away": "Millonarios (Col)",
+      "league": null,
+      "title": "São Paulo vs Millonarios",
+      "team_home": "São Paulo",
+      "team_away": "Millonarios",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR2",
