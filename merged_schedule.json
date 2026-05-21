@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T21:55:05.762678",
+  "generated_at": "2026-05-21T22:58:34.658029",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 51,
+  "total_events": 50,
   "events": [
     {
       "date": "2026-05-15",
@@ -782,21 +782,15 @@
       "date": "2026-05-21",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Utrecht vs Heerenveen",
       "team_home": "Utrecht",
       "team_away": "Heerenveen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -817,47 +811,19 @@
       "date": "2026-05-21",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Partick Thistle vs St. Mirren",
       "team_home": "Partick Thistle",
       "team_away": "St. Mirren",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779390000
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "US Oyonnax vs Valence Romans",
-      "team_home": "US Oyonnax",
-      "team_away": "Valence Romans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
           }
         ]
       },
