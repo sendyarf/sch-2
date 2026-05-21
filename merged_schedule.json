@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T23:46:22.173399",
+  "generated_at": "2026-05-21T02:42:23.098916",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 75,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-05-15",
@@ -616,140 +616,6 @@
       "date": "2026-05-20",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "Nacional (Uru) vs U. de Deportes (Per)",
-      "team_home": "Nacional (Uru)",
-      "team_away": "U. de Deportes (Per)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779314400
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Boston River (Uru) vs O'Higgins (Chi)",
-      "team_home": "Boston River (Uru)",
-      "team_away": "O'Higgins (Chi)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779314400
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Olimpia Asuncion (Par) vs Vasco (Bra)",
-      "team_home": "Olimpia Asuncion (Par)",
-      "team_away": "Vasco (Bra)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv+",
-            "url": "https://multi.govoet.cc/?envivo=96",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779314400
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Santos (Bra) vs San Lorenzo (Arg)",
-      "team_home": "Santos (Bra)",
-      "team_away": "San Lorenzo (Arg)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779314400
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
       "league": null,
       "title": "Nacional vs Universitario",
       "team_home": "Nacional",
@@ -777,135 +643,76 @@
     },
     {
       "date": "2026-05-20",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Cleveland Guardians",
-      "team_home": "Detroit Tigers",
-      "team_away": "Cleveland Guardians",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Santos vs San Lorenzo",
+      "team_home": "Santos",
+      "team_away": "San Lorenzo",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt": [
           {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779316800
+      "startTimestamp": 1779314400
     },
     {
       "date": "2026-05-20",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Miami Marlins vs Atlanta Braves",
-      "team_home": "Miami Marlins",
-      "team_away": "Atlanta Braves",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Boston River vs O'Higgins",
+      "team_home": "Boston River",
+      "team_away": "O'Higgins",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt-BR": [
           {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779316800
+      "startTimestamp": 1779314400
     },
     {
       "date": "2026-05-20",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Washington Nationals vs New York Mets",
-      "team_home": "Washington Nationals",
-      "team_away": "New York Mets",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Olimpia vs Vasco da Gama",
+      "team_home": "Olimpia",
+      "team_away": "Vasco da Gama",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt-BR": [
           {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779317100
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "New York Yankees vs Toronto Blue Jays",
-      "team_home": "New York Yankees",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779318300
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Milwaukee Brewers",
-      "team_home": "Chicago Cubs",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779320400
-    },
-    {
-      "date": "2026-05-20",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Boston Red Sox",
-      "team_home": "Kansas City Royals",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779320400
+      "startTimestamp": 1779314400
     },
     {
       "date": "2026-05-20",
