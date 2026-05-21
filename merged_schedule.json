@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T18:19:37.965489",
+  "generated_at": "2026-05-21T20:17:20.249898",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 59,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-05-15",
@@ -614,84 +614,27 @@
     },
     {
       "date": "2026-05-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "Kifisia vs AEL Larissa",
-      "team_home": "Kifisia",
-      "team_away": "AEL Larissa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779379200
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Betfred Super League",
-      "title": "Panetolikos vs Asteras Tripolis",
-      "team_home": "Panetolikos",
-      "team_away": "Asteras Tripolis",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779379200
-    },
-    {
-      "date": "2026-05-21",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Ajax vs Groningen",
       "team_home": "Ajax",
       "team_away": "Groningen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "nl": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ],
@@ -726,64 +669,6 @@
         ]
       },
       "startTimestamp": 1779382800
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Cleveland Guardians",
-      "team_home": "Detroit Tigers",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779383400
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "17:15",
-      "time_utc1": "19:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Pittsburgh Pirates",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779383700
     },
     {
       "date": "2026-05-21",
