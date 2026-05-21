@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T02:42:23.098916",
+  "generated_at": "2026-05-21T06:37:08.390583",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 68,
+  "total_events": 61,
   "events": [
     {
       "date": "2026-05-15",
@@ -715,47 +715,17 @@
       "startTimestamp": 1779314400
     },
     {
-      "date": "2026-05-20",
-      "time_utc": "23:45",
-      "time_utc1": "01:45",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Pittsburgh Pirates",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779320700
-    },
-    {
       "date": "2026-05-21",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Copa Sudamericana",
-      "title": "Gremio (Bra) vs Palestino (Chi)",
-      "team_home": "Gremio (Bra)",
-      "team_away": "Palestino (Chi)",
+      "league": null,
+      "title": "Grêmio vs Palestino",
+      "team_home": "Grêmio",
+      "team_away": "Palestino",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV4",
@@ -777,22 +747,14 @@
       "date": "2026-05-21",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Copa Sudamericana",
-      "title": "Independiente (Bol) vs Botafogo RJ (Bra)",
-      "team_home": "Independiente (Bol)",
-      "team_away": "Botafogo RJ (Bra)",
+      "league": null,
+      "title": "Independiente Petrolero vs Botafogo",
+      "team_home": "Independiente Petrolero",
+      "team_away": "Botafogo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV3",
@@ -812,67 +774,46 @@
     },
     {
       "date": "2026-05-21",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Colorado Avalanche vs Vegas Golden Knights",
-      "team_home": "Colorado Avalanche",
-      "team_away": "Vegas Golden Knights",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Palmeiras vs Cerro Porteño",
+      "team_home": "Palmeiras",
+      "team_away": "Cerro Porteño",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ],
-        "en": [
+        "pt-BR": [
           {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779321600
+      "startTimestamp": 1779323400
     },
     {
       "date": "2026-05-21",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Flamengo RJ (Bra) vs Estudiantes L.P. (Arg)",
-      "team_home": "Flamengo RJ (Bra)",
-      "team_away": "Estudiantes L.P. (Arg)",
+      "league": null,
+      "title": "Flamengo vs Estudiantes",
+      "team_home": "Flamengo",
+      "team_away": "Estudiantes",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -900,91 +841,14 @@
       "date": "2026-05-21",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "LDU Quito (Ecu) vs Lanus (Arg)",
-      "team_home": "LDU Quito (Ecu)",
-      "team_away": "Lanus (Arg)",
+      "league": null,
+      "title": "River Plate vs RB Bragantino",
+      "team_home": "River Plate",
+      "team_away": "RB Bragantino",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN6",
-            "url": "https://multi.govoet.cc/?envivo=92",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779323400
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Palmeiras (Bra) vs Cerro Porteno (Par)",
-      "team_home": "Palmeiras (Bra)",
-      "team_away": "Cerro Porteno (Par)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779323400
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "River Plate (Arg) vs Bragantino (Bra)",
-      "team_home": "River Plate (Arg)",
-      "team_away": "Bragantino (Bra)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -1007,20 +871,14 @@
       "time_utc": "00:30",
       "time_utc1": "02:30",
       "league": "NBA",
-      "title": "Oklahoma City Thunder vs San Antonio Spurs",
-      "team_home": "Oklahoma City Thunder",
-      "team_away": "San Antonio Spurs",
+      "title": "San Antonio Spurs vs Oklahoma City Thunder",
+      "team_home": "San Antonio Spurs",
+      "team_away": "Oklahoma City Thunder",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -1032,126 +890,27 @@
     },
     {
       "date": "2026-05-21",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "Copa Colombia",
-      "title": "Dep. Cali vs Alianza",
-      "team_home": "Dep. Cali",
-      "team_away": "Alianza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779324000
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "San Diego Padres vs Los Angeles Dodgers",
-      "team_home": "San Diego Padres",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779324000
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Athletics",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779327480
-    },
-    {
-      "date": "2026-05-21",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "Cusco (Per) vs Ind. Medellin (Col)",
-      "team_home": "Cusco (Per)",
-      "team_away": "Ind. Medellin (Col)",
+      "league": null,
+      "title": "Junior vs Sporting Cristal",
+      "team_home": "Junior",
+      "team_away": "Sporting Cristal",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779328800
-    },
-    {
-      "date": "2026-05-21",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Copa Libertadores",
-      "title": "Junior (Col) vs Sporting Cristal (Per)",
-      "team_home": "Junior (Col)",
-      "team_away": "Sporting Cristal (Per)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
