@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T16:06:16.282293",
+  "generated_at": "2026-05-22T18:02:52.538991",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 78,
+  "total_events": 77,
   "events": [
     {
       "date": "2026-05-22",
@@ -94,35 +94,6 @@
         ]
       },
       "startTimestamp": 1779458400
-    },
-    {
-      "date": "2026-05-22",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Olympiacos vs Fenerbahce",
-      "team_home": "Olympiacos",
-      "team_away": "Fenerbahce",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779462000
     },
     {
       "date": "2026-05-22",
