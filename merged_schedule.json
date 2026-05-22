@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:06:42.539955",
+  "generated_at": "2026-05-22T21:33:59.619307",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 77,
+  "total_events": 75,
   "events": [
     {
       "date": "2026-05-22",
@@ -252,22 +252,14 @@
       "date": "2026-05-22",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "Coupe De Turquie",
+      "league": null,
       "title": "Trabzonspor vs Konyaspor",
       "team_home": "Trabzonspor",
       "team_away": "Konyaspor",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -284,35 +276,6 @@
         ]
       },
       "startTimestamp": 1779471900
-    },
-    {
-      "date": "2026-05-22",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "EuroLeague (Basketball)",
-      "title": "Valencia vs Real Madrid",
-      "team_home": "Valencia",
-      "team_away": "Real Madrid",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes4",
-            "url": "https://multi.govoet.cc/?envivo=65",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779472800
     },
     {
       "date": "2026-05-22",
@@ -352,56 +315,21 @@
     },
     {
       "date": "2026-05-22",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Houston Astros",
-      "team_home": "Chicago Cubs",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779474000
-    },
-    {
-      "date": "2026-05-22",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "RW Essen vs Greuther Furth",
-      "team_home": "RW Essen",
-      "team_away": "Greuther Furth",
+      "league": null,
+      "title": "Rot-Weiss Essen vs Greuther Fürth",
+      "team_home": "Rot-Weiss Essen",
+      "team_away": "Greuther Fürth",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
           }
         ],
         "pt": [
