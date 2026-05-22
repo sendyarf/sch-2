@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T22:39:43.697865",
+  "generated_at": "2026-05-22T23:44:59.582805",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 74,
+  "total_events": 73,
   "events": [
     {
       "date": "2026-05-22",
@@ -426,51 +426,14 @@
       "date": "2026-05-22",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Juan Pablo II vs FBC Melgar",
-      "team_home": "Juan Pablo II",
-      "team_away": "FBC Melgar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779480000
-    },
-    {
-      "date": "2026-05-22",
-      "time_utc": "20:15",
-      "time_utc1": "22:15",
       "league": "Formula 1",
-      "title": "Formula 1: Grand Prix du Canada - Qualifications sprint",
+      "title": "Canadian Grand Prix: Sprint Qualifying",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -493,7 +456,7 @@
           }
         ]
       },
-      "startTimestamp": 1779480900
+      "startTimestamp": 1779480000
     },
     {
       "date": "2026-05-22",
