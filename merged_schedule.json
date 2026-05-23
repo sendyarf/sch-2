@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T18:10:07.957293",
+  "generated_at": "2026-05-23T19:36:15.350266",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 126,
+  "total_events": 121,
   "events": [
     {
       "date": "2026-05-23",
@@ -163,31 +163,16 @@
     },
     {
       "date": "2026-05-23",
-      "time_utc": "15:40",
-      "time_utc1": "17:40",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
       "league": "Formula 1",
-      "title": "Formula 1: Grand Prix du Canada. La course Sprint",
+      "title": "Canadian Grand Prix: Sprint",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -203,104 +188,7 @@
           }
         ]
       },
-      "startTimestamp": 1779550800
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga Endesa",
-      "title": "Unicaja vs Breogan",
-      "team_home": "Unicaja",
-      "team_away": "Breogan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779552000
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions Femmes",
-      "title": "Barcelona W vs Lyon W",
-      "team_home": "Barcelona W",
-      "team_away": "Lyon W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "equipe",
-            "url": "https://multi.govoet.cc/?envivo=19",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779552000
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Serie A",
-      "title": "Bologna vs Inter",
-      "team_home": "Bologna",
-      "team_away": "Inter",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779552000
+      "startTimestamp": 1779548400
     },
     {
       "date": "2026-05-23",
@@ -376,71 +264,21 @@
     },
     {
       "date": "2026-05-23",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Pro League",
-      "title": "Dender vs Lommel SK",
-      "team_home": "Dender",
-      "team_away": "Lommel SK",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779552900
-    },
-    {
-      "date": "2026-05-23",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "A. Italiano vs Cobresal",
-      "team_home": "A. Italiano",
+      "league": null,
+      "title": "Audax Italiano vs Cobresal",
+      "team_home": "Audax Italiano",
       "team_away": "Cobresal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779553800
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro D2 (Rugby)",
-      "title": "Provence Rugby vs CA Brive",
-      "team_home": "Provence Rugby",
-      "team_away": "CA Brive",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
           }
         ]
       },
