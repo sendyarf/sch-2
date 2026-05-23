@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T05:03:45.724062",
+  "generated_at": "2026-05-23T07:41:40.406315",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 35,
   "events": [
     {
       "date": "2026-05-22",
@@ -58,28 +58,6 @@
         ]
       },
       "startTimestamp": 1779415200
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Chicago White Sox",
-      "team_home": "San Francisco Giants",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779502500
     },
     {
       "date": "2026-05-23",
