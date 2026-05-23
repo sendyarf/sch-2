@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:25:56.154679",
+  "generated_at": "2026-05-23T23:28:11.875031",
   "sources": [
     {
       "name": "cartelive",
@@ -13,123 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 82,
+  "total_events": 72,
   "events": [
-    {
-      "date": "2026-05-23",
-      "time_utc": "19:40",
-      "time_utc1": "21:40",
-      "league": "Formula 1",
-      "title": "Formula 1: Grand Prix du Canada. Essais qualificatifs",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779565200
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Copa Colombia",
-      "title": "Millonarios vs Chico",
-      "team_home": "Millonarios",
-      "team_away": "Chico",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779566400
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cajamarca vs Sport Boys",
-      "team_home": "Cajamarca",
-      "team_away": "Sport Boys",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779566400
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Serie A Bresil",
-      "title": "Sao Paulo vs Botafogo RJ",
-      "team_home": "Sao Paulo",
-      "team_away": "Botafogo RJ",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR5",
-            "url": "https://multi.govoet.cc/?ss=br5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779566400
-    },
     {
       "date": "2026-05-23",
       "time_utc": "20:00",
@@ -154,157 +39,25 @@
     },
     {
       "date": "2026-05-23",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Detroit Tigers",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Detroit Tigers",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": null,
+      "title": "São Paulo vs Botafogo",
+      "team_home": "São Paulo",
+      "team_away": "Botafogo",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt-BR": [
           {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779566700
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Cleveland Guardians",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779566700
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Chicago White Sox",
-      "team_home": "San Francisco Giants",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779566700
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Washington Nationals",
-      "team_home": "Atlanta Braves",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779567000
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Minnesota Twins",
-      "team_home": "Boston Red Sox",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779567000
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Seattle Mariners",
-      "team_home": "Kansas City Royals",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779567000
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs New York Mets",
-      "team_home": "Miami Marlins",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779567000
+      "startTimestamp": 1779566400
     },
     {
       "date": "2026-05-23",
