@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T17:01:11.326572",
+  "generated_at": "2026-05-23T18:10:07.957293",
   "sources": [
     {
       "name": "cartelive",
@@ -136,49 +136,19 @@
       "date": "2026-05-23",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Championship",
-      "title": "Hull vs Middlesbrough",
-      "team_home": "Hull",
+      "league": null,
+      "title": "Hull City vs Middlesbrough",
+      "team_home": "Hull City",
       "team_away": "Middlesbrough",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
           }
         ],
         "pt": [
