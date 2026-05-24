@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T17:41:27.541232",
+  "generated_at": "2026-05-24T18:47:33.043435",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 106,
+  "total_events": 101,
   "events": [
     {
       "date": "2026-05-24",
@@ -136,173 +136,19 @@
       "date": "2026-05-24",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Ligue 2",
-      "title": "Laval vs Rouen",
-      "team_home": "Laval",
-      "team_away": "Rouen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Premier League: Multiplex Premier League",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Brighton vs Manchester Utd",
-      "team_home": "Brighton",
-      "team_away": "Manchester Utd",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 9",
-            "url": "https://multi.govoet.cc/?envivo=39",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR5",
-            "url": "https://multi.govoet.cc/?ss=br5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Burnley vs Wolves",
-      "team_home": "Burnley",
-      "team_away": "Wolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 11",
-            "url": "https://multi.govoet.cc/?envivo=41",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
+      "league": null,
       "title": "Crystal Palace vs Arsenal",
       "team_home": "Crystal Palace",
       "team_away": "Arsenal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=129",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -326,133 +172,19 @@
       "date": "2026-05-24",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Fulham vs Newcastle",
-      "team_home": "Fulham",
-      "team_away": "Newcastle",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 7",
-            "url": "https://multi.govoet.cc/?envivo=37",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK F1",
-            "url": "https://multi.govoet.cc/?envivo=134",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Liverpool vs Brentford",
-      "team_home": "Liverpool",
-      "team_away": "Brentford",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 8",
-            "url": "https://multi.govoet.cc/?envivo=38",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=133",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
+      "league": null,
       "title": "Manchester City vs Aston Villa",
       "team_home": "Manchester City",
       "team_away": "Aston Villa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -469,115 +201,19 @@
       "date": "2026-05-24",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Nottingham vs Bournemouth",
-      "team_home": "Nottingham",
-      "team_away": "Bournemouth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SPFL Rangers",
-            "url": "https://multi.govoet.cc/?envivo=136",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Sunderland vs Chelsea",
-      "team_home": "Sunderland",
-      "team_away": "Chelsea",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=132",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779634800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "Tottenham vs Everton",
-      "team_home": "Tottenham",
+      "league": null,
+      "title": "Tottenham Hotspur vs Everton",
+      "team_home": "Tottenham Hotspur",
       "team_away": "Everton",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -594,38 +230,84 @@
       "date": "2026-05-24",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Premier League",
-      "title": "West Ham vs Leeds",
-      "team_home": "West Ham",
-      "team_away": "Leeds",
+      "league": null,
+      "title": "Sunderland vs Chelsea",
+      "team_home": "Sunderland",
+      "team_away": "Chelsea",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 5",
-            "url": "https://multi.govoet.cc/?envivo=35",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779634800
+    },
+    {
+      "date": "2026-05-24",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
+      "title": "Brighton & Hove Albion vs Manchester United",
+      "team_home": "Brighton & Hove Albion",
+      "team_away": "Manchester United",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ],
-        "es": [
+        "pt": [
           {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
           {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779634800
+    },
+    {
+      "date": "2026-05-24",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
+      "title": "Liverpool vs Brentford",
+      "team_home": "Liverpool",
+      "team_away": "Brentford",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -647,6 +329,28 @@
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779634800
+    },
+    {
+      "date": "2026-05-24",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
+      "title": "Fulham vs Newcastle United",
+      "team_home": "Fulham",
+      "team_away": "Newcastle United",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ]
