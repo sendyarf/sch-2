@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T23:28:11.875031",
+  "generated_at": "2026-05-24T01:28:49.154331",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 72,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-05-23",
@@ -61,28 +61,6 @@
     },
     {
       "date": "2026-05-23",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "MLS",
-      "title": "Minnesota United vs Real Salt Lake",
-      "team_home": "Minnesota United",
-      "team_away": "Real Salt Lake",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779568200
-    },
-    {
-      "date": "2026-05-23",
       "time_utc": "21:00",
       "time_utc1": "23:00",
       "league": null,
@@ -105,75 +83,16 @@
     },
     {
       "date": "2026-05-23",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Ecuador Ligapro",
-      "title": "Orense vs U. Catolica",
-      "team_home": "Orense",
-      "team_away": "U. Catolica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779571800
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Nacional vs Albion",
-      "team_home": "Nacional",
-      "team_away": "Albion",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779571800
-    },
-    {
-      "date": "2026-05-23",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Serie A Bresil",
-      "title": "Gremio vs Santos",
-      "team_home": "Gremio",
+      "league": null,
+      "title": "Grêmio vs Santos",
+      "team_home": "Grêmio",
       "team_away": "Santos",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR4",
@@ -205,28 +124,6 @@
         ]
       },
       "startTimestamp": 1779573600
-    },
-    {
-      "date": "2026-05-23",
-      "time_utc": "22:15",
-      "time_utc1": "00:15",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cusco vs Grau",
-      "team_home": "Cusco",
-      "team_away": "Grau",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779574500
     },
     {
       "date": "2026-05-23",
