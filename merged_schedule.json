@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:42:45.242995",
+  "generated_at": "2026-05-24T17:41:27.541232",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 108,
+  "total_events": 106,
   "events": [
     {
       "date": "2026-05-24",
@@ -109,50 +109,6 @@
         ]
       },
       "startTimestamp": 1779627600
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Albacete vs Real Sociedad B",
-      "team_home": "Albacete",
-      "team_away": "Real Sociedad B",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779632100
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Andorra vs Ceuta",
-      "team_home": "Andorra",
-      "team_away": "Ceuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779632100
     },
     {
       "date": "2026-05-24",
