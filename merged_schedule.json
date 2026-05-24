@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T12:46:13.814230",
+  "generated_at": "2026-05-24T15:42:01.458516",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 113,
+  "total_events": 109,
   "events": [
     {
       "date": "2026-05-24",
@@ -36,108 +36,6 @@
         ]
       },
       "startTimestamp": 1779602400
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Liga Endesa",
-      "title": "Bilbao vs Basquet Girona",
-      "team_home": "Bilbao",
-      "team_away": "Basquet Girona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779616800
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "10:15",
-      "time_utc1": "12:15",
-      "league": "Eredivisie",
-      "title": "Ajax vs Utrecht",
-      "team_home": "Ajax",
-      "team_away": "Utrecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779617700
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "Basket Zaragoza vs Murcia",
-      "team_home": "Basket Zaragoza",
-      "team_away": "Murcia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779618600
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "10:30",
-      "time_utc1": "12:30",
-      "league": "Liga Endesa",
-      "title": "Forca Lleida vs MoraBanc Andorra",
-      "team_home": "Forca Lleida",
-      "team_away": "MoraBanc Andorra",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779618600
     },
     {
       "date": "2026-05-24",
@@ -382,8 +280,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
+            "channel": "C+Live 9",
+            "url": "https://multi.govoet.cc/?envivo=39",
             "source": "cartelive"
           }
         ],
@@ -437,8 +335,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 5",
-            "url": "https://multi.govoet.cc/?envivo=35",
+            "channel": "C+Live 11",
+            "url": "https://multi.govoet.cc/?envivo=41",
             "source": "cartelive"
           }
         ],
@@ -528,8 +426,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
+            "channel": "C+Live 7",
+            "url": "https://multi.govoet.cc/?envivo=37",
             "source": "cartelive"
           }
         ],
@@ -670,8 +568,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 7",
-            "url": "https://multi.govoet.cc/?envivo=37",
+            "channel": "C+Live 10",
+            "url": "https://multi.govoet.cc/?envivo=40",
             "source": "cartelive"
           }
         ],
@@ -700,8 +598,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 8",
-            "url": "https://multi.govoet.cc/?envivo=38",
+            "channel": "C+Live 6",
+            "url": "https://multi.govoet.cc/?envivo=36",
             "source": "cartelive"
           }
         ],
@@ -742,8 +640,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 9",
-            "url": "https://multi.govoet.cc/?envivo=39",
+            "channel": "C+Live 4",
+            "url": "https://multi.govoet.cc/?envivo=34",
             "source": "cartelive"
           }
         ],
@@ -795,8 +693,8 @@
       "streams_by_language": {
         "fr": [
           {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
+            "channel": "C+Live 5",
+            "url": "https://multi.govoet.cc/?envivo=35",
             "source": "cartelive"
           }
         ],
