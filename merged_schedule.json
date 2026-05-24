@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T18:47:33.043435",
+  "generated_at": "2026-05-24T20:00:35.457375",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 101,
+  "total_events": 84,
   "events": [
     {
       "date": "2026-05-24",
@@ -361,65 +361,15 @@
       "date": "2026-05-24",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sporting Cristal vs AD Tarma",
-      "team_home": "Sporting Cristal",
-      "team_away": "AD Tarma",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779638400
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga Endesa",
-      "title": "Joventut Badalona vs San Pablo Burgos",
-      "team_home": "Joventut Badalona",
-      "team_away": "San Pablo Burgos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779638400
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Serie A",
+      "league": null,
       "title": "Napoli vs Udinese",
       "team_home": "Napoli",
       "team_away": "Udinese",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -440,370 +390,23 @@
       "date": "2026-05-24",
       "time_utc": "16:15",
       "time_utc1": "18:15",
-      "league": "Coupe Du Portugal",
+      "league": null,
       "title": "Sporting CP vs Torreense",
       "team_home": "Sporting CP",
       "team_away": "Torreense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1779639300
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Pittsburgh Pirates",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779639300
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "D. Concepcion vs Huachipato",
-      "team_home": "D. Concepcion",
-      "team_away": "Huachipato",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Cadiz CF vs Leganes",
-      "team_home": "Cadiz CF",
-      "team_away": "Leganes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Cultural Leonesa vs Burgos CF",
-      "team_home": "Cultural Leonesa",
-      "team_away": "Burgos CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Eibar vs Cordoba",
-      "team_home": "Eibar",
-      "team_away": "Cordoba",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Gijon vs Almeria",
-      "team_home": "Gijon",
-      "team_away": "Almeria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Huesca vs Castellon",
-      "team_home": "Huesca",
-      "team_away": "Castellon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Las Palmas vs Zaragoza",
-      "team_home": "Las Palmas",
-      "team_away": "Zaragoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Malaga vs Racing Santander",
-      "team_home": "Malaga",
-      "team_away": "Racing Santander",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Mirandes vs Granada CF",
-      "team_home": "Mirandes",
-      "team_away": "Granada CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Laliga 2",
-      "title": "Valladolid vs Dep. La Coruna",
-      "team_home": "Valladolid",
-      "team_away": "Dep. La Coruna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Club Brugge KV vs Gent",
-      "team_home": "Club Brugge KV",
-      "team_away": "Gent",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Royale Union SG vs Anderlecht",
-      "team_home": "Royale Union SG",
-      "team_away": "Anderlecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "St. Truiden vs KV Mechelen",
-      "team_home": "St. Truiden",
-      "team_away": "KV Mechelen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640200
     },
     {
       "date": "2026-05-24",
@@ -826,28 +429,6 @@
         ]
       },
       "startTimestamp": 1779640200
-    },
-    {
-      "date": "2026-05-24",
-      "time_utc": "16:35",
-      "time_utc1": "18:35",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Detroit Tigers",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779640500
     },
     {
       "date": "2026-05-24",
