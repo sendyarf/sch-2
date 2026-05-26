@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T20:36:03.599961",
+  "generated_at": "2026-05-26T22:10:29.751847",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 75,
+  "total_events": 73,
   "events": [
     {
       "date": "2026-05-26",
@@ -127,56 +127,21 @@
     },
     {
       "date": "2026-05-26",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Joventut vs Unicaja Málaga",
-      "team_home": "Joventut",
-      "team_away": "Unicaja Málaga",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779818400
-    },
-    {
-      "date": "2026-05-26",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Greuther Furth vs RW Essen",
-      "team_home": "Greuther Furth",
-      "team_away": "RW Essen",
+      "league": null,
+      "title": "Greuther Fürth vs Rot-Weiss Essen",
+      "team_home": "Greuther Fürth",
+      "team_away": "Rot-Weiss Essen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -188,40 +153,6 @@
         ]
       },
       "startTimestamp": 1779820200
-    },
-    {
-      "date": "2026-05-26",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 1",
-      "title": "St Etienne vs Nice",
-      "team_home": "St Etienne",
-      "team_away": "Nice",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779821100
     },
     {
       "date": "2026-05-26",
