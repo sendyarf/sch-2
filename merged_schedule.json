@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T23:44:35.824771",
+  "generated_at": "2026-05-26T01:30:48.605130",
   "sources": [
     {
       "name": "cartelive",
@@ -13,30 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 66,
+  "total_events": 64,
   "events": [
-    {
-      "date": "2026-05-25",
-      "time_utc": "21:05",
-      "time_utc1": "23:05",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Arizona Diamondbacks",
-      "team_home": "San Francisco Giants",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779743100
-    },
     {
       "date": "2026-05-25",
       "time_utc": "22:00",
@@ -58,28 +36,6 @@
         ]
       },
       "startTimestamp": 1779746400
-    },
-    {
-      "date": "2026-05-25",
-      "time_utc": "22:10",
-      "time_utc1": "00:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Washington Nationals",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779747000
     },
     {
       "date": "2026-05-25",
