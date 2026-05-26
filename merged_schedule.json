@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T22:10:29.751847",
+  "generated_at": "2026-05-26T23:35:33.424608",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 73,
+  "total_events": 71,
   "events": [
     {
       "date": "2026-05-26",
@@ -189,50 +189,6 @@
         ]
       },
       "startTimestamp": 1779821100
-    },
-    {
-      "date": "2026-05-26",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "Liga Endesa",
-      "title": "Basket Zaragoza vs Valencia",
-      "team_home": "Basket Zaragoza",
-      "team_away": "Valencia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779822900
-    },
-    {
-      "date": "2026-05-26",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Copa Colombia",
-      "title": "Real Cundinamarca vs Aguilas",
-      "team_home": "Real Cundinamarca",
-      "team_away": "Aguilas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779827400
     },
     {
       "date": "2026-05-26",
