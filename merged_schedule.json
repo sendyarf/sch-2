@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T01:30:48.605130",
+  "generated_at": "2026-05-26T05:49:43.286157",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-05-25",
@@ -39,53 +39,16 @@
     },
     {
       "date": "2026-05-25",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "San Diego Padres vs Philadelphia Phillies",
-      "team_home": "San Diego Padres",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779748800
-    },
-    {
-      "date": "2026-05-25",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "Serie A Bresil",
+      "league": null,
       "title": "Coritiba vs Bahia",
       "team_home": "Coritiba",
       "team_away": "Bahia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -97,73 +60,22 @@
       "startTimestamp": 1779750000
     },
     {
-      "date": "2026-05-25",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "Texas Rangers vs Houston Astros",
-      "team_home": "Texas Rangers",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779750300
-    },
-    {
-      "date": "2026-05-25",
-      "time_utc": "23:07",
-      "time_utc1": "01:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Miami Marlins",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779750420
-    },
-    {
       "date": "2026-05-26",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "Aucas vs Manta",
-      "team_home": "Aucas",
-      "team_away": "Manta",
+      "league": null,
+      "title": "Copiapó vs Unión Española",
+      "team_home": "Copiapó",
+      "team_away": "Unión Española",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
@@ -174,43 +86,18 @@
       "time_utc": "00:00",
       "time_utc1": "02:00",
       "league": "NBA",
-      "title": "Cleveland Cavaliers vs New York Knicks",
-      "team_home": "Cleveland Cavaliers",
-      "team_away": "New York Knicks",
+      "title": "New York Knicks vs Cleveland Cavaliers",
+      "team_home": "New York Knicks",
+      "team_away": "Cleveland Cavaliers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -239,31 +126,9 @@
       "team_home": "Montreal Canadiens",
       "team_away": "Carolina Hurricanes",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV2",
@@ -273,72 +138,6 @@
         ]
       },
       "startTimestamp": 1779753600
-    },
-    {
-      "date": "2026-05-26",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Copiapó vs Unión Española",
-      "team_home": "Copiapó",
-      "team_away": "Unión Española",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779753600
-    },
-    {
-      "date": "2026-05-26",
-      "time_utc": "01:10",
-      "time_utc1": "03:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779757800
-    },
-    {
-      "date": "2026-05-26",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Seattle Mariners",
-      "team_home": "Athletics",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779759600
     },
     {
       "date": "2026-05-26",
