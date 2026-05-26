@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T16:27:00.083837",
+  "generated_at": "2026-05-26T18:41:02.398244",
   "sources": [
     {
       "name": "cartelive",
@@ -83,36 +83,6 @@
     },
     {
       "date": "2026-05-26",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "International Friendly",
-      "title": "Morocco vs Burundi",
-      "team_home": "Morocco",
-      "team_away": "Burundi",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779807600
-    },
-    {
-      "date": "2026-05-26",
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": null,
@@ -127,6 +97,28 @@
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779811200
+    },
+    {
+      "date": "2026-05-26",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Morocco vs Burundi",
+      "team_home": "Morocco",
+      "team_away": "Burundi",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "ar": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
