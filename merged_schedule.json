@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T19:35:45.367966",
+  "generated_at": "2026-05-27T21:26:30.983192",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 51,
   "events": [
     {
       "date": "2026-05-27",
@@ -36,79 +36,6 @@
         ]
       },
       "startTimestamp": 1779870600
-    },
-    {
-      "date": "2026-05-27",
-      "time_utc": "17:07",
-      "time_utc1": "19:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Miami Marlins",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779901620
-    },
-    {
-      "date": "2026-05-27",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Washington Nationals",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779901800
-    },
-    {
-      "date": "2026-05-27",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs St.Louis Cardinals",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779903600
     },
     {
       "date": "2026-05-27",
