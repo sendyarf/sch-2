@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T02:55:03.344334",
+  "generated_at": "2026-05-28T06:48:15.093905",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 35,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-05-27",
@@ -335,43 +335,6 @@
       "date": "2026-05-28",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Montreal Canadiens vs Carolina Hurricanes",
-      "team_home": "Montreal Canadiens",
-      "team_away": "Carolina Hurricanes",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779926400
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
       "league": "NBA",
       "title": "Cleveland Cavaliers vs New York Knicks",
       "team_home": "Cleveland Cavaliers",
@@ -392,190 +355,38 @@
     },
     {
       "date": "2026-05-28",
-      "time_utc": "00:05",
-      "time_utc1": "02:05",
-      "league": "MLB",
-      "title": "Texas Rangers vs Houston Astros",
-      "team_home": "Texas Rangers",
-      "team_away": "Houston Astros",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NHL",
+      "title": "Montreal Canadiens vs Carolina Hurricanes",
+      "team_home": "Montreal Canadiens",
+      "team_away": "Carolina Hurricanes",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779926700
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Bolivar (Bol) vs Ind. Rivadavia (Arg)",
-      "team_home": "Bolivar (Bol)",
-      "team_away": "Ind. Rivadavia (Arg)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN6",
-            "url": "https://multi.govoet.cc/?envivo=92",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779928200
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Corinthians (Bra) vs Platense (Arg)",
-      "team_home": "Corinthians (Bra)",
-      "team_away": "Platense (Arg)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779928200
+      "startTimestamp": 1779926400
     },
     {
       "date": "2026-05-28",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Fluminense (Bra) vs La Guaira (Ven)",
-      "team_home": "Fluminense (Bra)",
-      "team_away": "La Guaira (Ven)",
+      "league": null,
+      "title": "RB Bragantino vs Carabobo",
+      "team_home": "RB Bragantino",
+      "team_away": "Carabobo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779928200
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Penarol (Uru) vs Santa Fe (Col)",
-      "team_home": "Penarol (Uru)",
-      "team_away": "Santa Fe (Col)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779928200
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Bragantino (Bra) vs Carabobo (Ven)",
-      "team_home": "Bragantino (Bra)",
-      "team_away": "Carabobo (Ven)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv+",
-            "url": "https://multi.govoet.cc/?envivo=96",
-            "source": "cartelive"
-          }
-        ],
         "it": [
           {
             "channel": "HD8",
@@ -597,27 +408,14 @@
       "date": "2026-05-28",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "River Plate (Arg) vs Blooming (Bol)",
-      "team_home": "River Plate (Arg)",
-      "team_away": "Blooming (Bol)",
+      "league": null,
+      "title": "River Plate vs Blooming",
+      "team_home": "River Plate",
+      "team_away": "Blooming",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -644,25 +442,76 @@
     },
     {
       "date": "2026-05-28",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Colorado Rockies",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Colorado Rockies",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Corinthians vs Platense",
+      "team_home": "Corinthians",
+      "team_away": "Platense",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt": [
           {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1779934200
+      "startTimestamp": 1779928200
+    },
+    {
+      "date": "2026-05-28",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Peñarol vs Santa Fe",
+      "team_home": "Peñarol",
+      "team_away": "Santa Fe",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779928200
+    },
+    {
+      "date": "2026-05-28",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Fluminense vs Deportivo La Guaira",
+      "team_home": "Fluminense",
+      "team_away": "Deportivo La Guaira",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1779928200
     },
     {
       "date": "2026-05-28",
