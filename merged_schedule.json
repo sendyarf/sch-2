@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T20:10:31.494898",
+  "generated_at": "2026-05-28T22:08:19.562922",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 83,
+  "total_events": 79,
   "events": [
     {
       "date": "2026-05-22",
@@ -1636,96 +1636,17 @@
     },
     {
       "date": "2026-05-28",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Los Angeles Angels",
-      "team_home": "Detroit Tigers",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779988200
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "International Friendly",
-      "title": "Egypt vs Russia",
-      "team_home": "Egypt",
-      "team_away": "Russia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779991200
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Minnesota Twins",
-      "team_home": "Chicago White Sox",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1779991800
-    },
-    {
-      "date": "2026-05-28",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Ireland vs Qatar",
-      "team_home": "Ireland",
+      "league": null,
+      "title": "Ireland Republic vs Qatar",
+      "team_home": "Ireland Republic",
       "team_away": "Qatar",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -1735,20 +1656,6 @@
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
           }
         ],
         "ar": [
@@ -1772,47 +1679,19 @@
       "date": "2026-05-28",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Casa Pia vs Torreense",
       "team_home": "Casa Pia",
       "team_away": "Torreense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1779994800
-    },
-    {
-      "date": "2026-05-28",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Vannes vs US Oyonnax",
-      "team_home": "Vannes",
-      "team_away": "US Oyonnax",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
           }
         ]
       },
