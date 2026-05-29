@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T21:15:22.443235",
+  "generated_at": "2026-05-29T22:48:22.132570",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 82,
+  "total_events": 72,
   "events": [
     {
       "date": "2026-05-29",
@@ -92,29 +92,14 @@
       "date": "2026-05-29",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "International Friendly",
-      "title": "Bosnia & Herzegovina vs North Macedonia",
-      "team_home": "Bosnia & Herzegovina",
+      "league": null,
+      "title": "Bosnia and Herzegovina vs North Macedonia",
+      "team_home": "Bosnia and Herzegovina",
       "team_away": "North Macedonia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -124,201 +109,6 @@
         ]
       },
       "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Baskonia vs Unicaja",
-      "team_home": "Baskonia",
-      "team_away": "Unicaja",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Basquet Girona vs Joventut Badalona",
-      "team_home": "Basquet Girona",
-      "team_away": "Joventut Badalona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Breogan vs Basket Zaragoza",
-      "team_home": "Breogan",
-      "team_away": "Basket Zaragoza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "MoraBanc Andorra vs Barcelona",
-      "team_home": "MoraBanc Andorra",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Murcia vs Forca Lleida",
-      "team_home": "Murcia",
-      "team_away": "Forca Lleida",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Tenerife vs Bilbao",
-      "team_home": "Tenerife",
-      "team_away": "Bilbao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Gran Canaria",
-      "team_home": "Valencia",
-      "team_away": "Gran Canaria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 1",
-      "title": "Nice vs St Etienne",
-      "team_home": "Nice",
-      "team_away": "St Etienne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780080300
     },
     {
       "date": "2026-05-29",
@@ -348,50 +138,6 @@
         ]
       },
       "startTimestamp": 1780080300
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "D1 Féminin",
-      "title": "Lyon W vs Paris FC W",
-      "team_home": "Lyon W",
-      "team_away": "Paris FC W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780081200
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Colomiers vs Provence Rugby",
-      "team_home": "Colomiers",
-      "team_away": "Provence Rugby",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780081200
     },
     {
       "date": "2026-05-29",
@@ -1001,8 +747,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
+            "channel": "TNTCHILE Premium",
+            "url": "https://multi.govoet.cc/?envivo=83",
             "source": "cartelive"
           }
         ]
