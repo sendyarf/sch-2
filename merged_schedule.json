@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T19:11:28.781557",
+  "generated_at": "2026-05-29T21:15:22.443235",
   "sources": [
     {
       "name": "cartelive",
@@ -15,34 +15,6 @@
   "timezone_output": "UTC+0",
   "total_events": 82,
   "events": [
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Mamelodi Sundowns (Rsa) vs RB Leipzig (Ger)",
-      "team_home": "Mamelodi Sundowns (Rsa)",
-      "team_away": "RB Leipzig (Ger)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780077600
-    },
     {
       "date": "2026-05-29",
       "time_utc": "18:00",
@@ -66,6 +38,28 @@
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780077600
+    },
+    {
+      "date": "2026-05-29",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Mamelodi Sundowns vs RB Leipzig",
+      "team_home": "Mamelodi Sundowns",
+      "team_away": "RB Leipzig",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ]
