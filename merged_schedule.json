@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T16:41:33.261356",
+  "generated_at": "2026-05-30T17:45:04.135026",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 104,
+  "total_events": 102,
   "events": [
     {
       "date": "2026-05-30",
@@ -159,50 +159,6 @@
         ]
       },
       "startTimestamp": 1780146000
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Ceuta vs Albacete",
-      "team_home": "Ceuta",
-      "team_away": "Albacete",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780150500
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Laliga 2",
-      "title": "Real Sociedad B vs Cultural Leonesa",
-      "team_home": "Real Sociedad B",
-      "team_away": "Cultural Leonesa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780150500
     },
     {
       "date": "2026-05-30",
