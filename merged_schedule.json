@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T22:48:22.132570",
+  "generated_at": "2026-05-30T00:03:52.388064",
   "sources": [
     {
       "name": "cartelive",
@@ -13,27 +13,42 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 72,
+  "total_events": 60,
   "events": [
     {
       "date": "2026-05-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
       "league": null,
-      "title": "Monza vs Catanzaro",
-      "team_home": "Monza",
-      "team_away": "Catanzaro",
+      "title": "Juventude vs América-MG",
+      "team_home": "Juventude",
+      "team_away": "América-MG",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "pt-BR": [
           {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
           }
-        ],
+        ]
+      },
+      "startTimestamp": 1780012800
+    },
+    {
+      "date": "2026-05-29",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "Legacy Fighting Alliance 234: Fernando vs Soares",
+      "team_home": "Legacy Fighting Alliance 234: Fernando",
+      "team_away": "Soares",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "pt-BR": [
           {
             "channel": "BR6",
@@ -42,190 +57,95 @@
           }
         ]
       },
-      "startTimestamp": 1780077600
+      "startTimestamp": 1780012800
     },
     {
       "date": "2026-05-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Mamelodi Sundowns vs RB Leipzig",
-      "team_home": "Mamelodi Sundowns",
-      "team_away": "RB Leipzig",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NHL",
+      "title": "Carolina Hurricanes vs Montreal Canadiens",
+      "team_home": "Carolina Hurricanes",
+      "team_away": "Montreal Canadiens",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780077600
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Fluminense U17 vs Santos U17",
-      "team_home": "Fluminense U17",
-      "team_away": "Santos U17",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780077600
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "Bosnia and Herzegovina vs North Macedonia",
-      "team_home": "Bosnia and Herzegovina",
-      "team_away": "North Macedonia",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780079400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": null,
-      "title": "Nice vs Saint-Étienne",
-      "team_home": "Nice",
-      "team_away": "Saint-Étienne",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
         "pt": [
           {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780080300
+      "startTimestamp": 1780012800
     },
     {
       "date": "2026-05-29",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Grau vs Moquegua",
-      "team_home": "Grau",
-      "team_away": "Moquegua",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780084800
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
       "league": null,
-      "title": "Colombia vs Costa Rica",
-      "team_home": "Colombia",
-      "team_away": "Costa Rica",
+      "title": "NASCAR Truck Series: Flote 200 - Nashville Superspeedway",
+      "team_home": null,
+      "team_away": null,
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "pt": [
           {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780084800
+      "startTimestamp": 1780012800
     },
     {
       "date": "2026-05-29",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
+      "time_utc": "01:30",
+      "time_utc1": "03:30",
       "league": null,
-      "title": "Internacional U17 vs Flamengo U17",
-      "team_home": "Internacional U17",
-      "team_away": "Flamengo U17",
+      "title": "WRC: Rally Japan - Special 9",
+      "team_home": null,
+      "team_away": null,
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt-BR": [
+        "pt": [
           {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780084800
+      "startTimestamp": 1780018200
     },
     {
       "date": "2026-05-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
+      "time_utc": "04:00",
+      "time_utc1": "06:00",
       "league": null,
-      "title": "Halifax Tides vs Ottawa Rapid",
-      "team_home": "Halifax Tides",
-      "team_away": "Ottawa Rapid",
+      "title": "WRC: Rally Japan - Special 10",
+      "team_home": null,
+      "team_away": null,
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780088400
+      "startTimestamp": 1780027200
     },
     {
       "date": "2026-05-29",
@@ -266,28 +186,6 @@
             "channel": "VTV plus",
             "url": "https://multi.govoet.cc/?envivo=109",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780093800
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "22:30",
-      "time_utc1": "00:30",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 7",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
           }
         ]
       },
@@ -383,28 +281,6 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780095600
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": null,
-      "title": "Supra du Quebec vs Inter Toronto",
-      "team_home": "Supra du Quebec",
-      "team_away": "Inter Toronto",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
           }
         ]
       },
@@ -522,50 +398,6 @@
     },
     {
       "date": "2026-05-29",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 8",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780097400
-    },
-    {
-      "date": "2026-05-29",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": null,
-      "title": "Flamengo U20 vs São Paulo U20",
-      "team_home": "Flamengo U20",
-      "team_away": "São Paulo U20",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780097400
-    },
-    {
-      "date": "2026-05-29",
       "time_utc": "23:40",
       "time_utc1": "01:40",
       "league": "MLB",
@@ -595,8 +427,7 @@
       "team_home": "Carolina Hurricanes",
       "team_away": "Montreal Canadiens",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -611,79 +442,6 @@
             "channel": "EXTRA SPORT36",
             "url": "https://multi.govoet.cc/?envivo=189",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780099200
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Juventude vs América-MG",
-      "team_home": "Juventude",
-      "team_away": "América-MG",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780099200
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Legacy Fighting Alliance 234: Fernando vs Soares",
-      "team_home": "Legacy Fighting Alliance 234: Fernando",
-      "team_away": "Soares",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780099200
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "NASCAR Truck Series: Flote 200 - Nashville Superspeedway",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -806,28 +564,6 @@
     },
     {
       "date": "2026-05-30",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 9",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780104600
-    },
-    {
-      "date": "2026-05-30",
       "time_utc": "01:40",
       "time_utc1": "03:40",
       "league": "MLB",
@@ -891,28 +627,6 @@
         ]
       },
       "startTimestamp": 1780107300
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "04:00",
-      "time_utc1": "06:00",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 10",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780113600
     },
     {
       "date": "2026-05-30",
