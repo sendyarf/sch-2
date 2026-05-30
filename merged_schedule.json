@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T20:04:09.373505",
+  "generated_at": "2026-05-30T21:13:38.395848",
   "sources": [
     {
       "name": "cartelive",
@@ -13,52 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 95,
+  "total_events": 93,
   "events": [
-    {
-      "date": "2026-05-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs Progreso",
-      "team_home": "Danubio",
-      "team_away": "Progreso",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780164000
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Detroit Tigers",
-      "team_home": "Chicago White Sox",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780164600
-    },
     {
       "date": "2026-05-30",
       "time_utc": "18:30",
