@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T23:15:30.312864",
+  "generated_at": "2026-05-31T01:33:28.294501",
   "sources": [
     {
       "name": "cartelive",
@@ -13,124 +13,36 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 79,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-05-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
       "league": null,
-      "title": "La Serena vs Colo-Colo",
-      "team_home": "La Serena",
-      "team_away": "Colo-Colo",
+      "title": "Korea Republic vs Trinidad and Tobago",
+      "team_home": "Korea Republic",
+      "team_away": "Trinidad and Tobago",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780167600
+      "startTimestamp": 1780102800
     },
     {
       "date": "2026-05-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
+      "time_utc": "01:15",
+      "time_utc1": "03:15",
       "league": null,
-      "title": "HFX Wanderers vs Vancouver",
-      "team_home": "HFX Wanderers",
-      "team_away": "Vancouver",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780167600
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Flamengo vs Coritiba",
-      "team_home": "Flamengo",
-      "team_away": "Coritiba",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780167600
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Athletico-PR vs Mirassol",
-      "team_home": "Athletico-PR",
-      "team_away": "Mirassol",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780167600
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": null,
-      "title": "CF Os Belenenses vs Farense",
-      "team_home": "CF Os Belenenses",
-      "team_away": "Farense",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780169400
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": null,
-      "title": "Sail: Mubadala New York Sail Grand Prix - D1",
+      "title": "WRC: Rally Japan - Special 17 & 18",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -139,165 +51,57 @@
       "streams_by_language": {
         "pt": [
           {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780169400
+      "startTimestamp": 1780103700
     },
     {
       "date": "2026-05-30",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Serie A Bresil",
-      "title": "Gremio vs Corinthians",
-      "team_home": "Gremio",
-      "team_away": "Corinthians",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780173000
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
       "league": null,
-      "title": "Bahia vs Botafogo",
-      "team_home": "Bahia",
-      "team_away": "Botafogo",
+      "title": "Mexico vs Australia",
+      "team_home": "Mexico",
+      "team_away": "Australia",
       "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR5",
-            "url": "https://multi.govoet.cc/?ss=br5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780173000
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Copa Argentina",
-      "title": "Instituto vs Lanus",
-      "team_home": "Instituto",
-      "team_away": "Lanus",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780174800
+      "startTimestamp": 1780106400
     },
     {
       "date": "2026-05-30",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. De Chile vs D. Concepcion",
-      "team_home": "U. De Chile",
-      "team_away": "D. Concepcion",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780176600
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "22:30",
-      "time_utc1": "00:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Boys vs Comerciantes Unidos",
-      "team_home": "Sport Boys",
-      "team_away": "Comerciantes Unidos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780180200
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
+      "time_utc": "03:15",
+      "time_utc1": "05:15",
       "league": null,
-      "title": "Santos vs Vitória",
-      "team_home": "Santos",
-      "team_away": "Vitória",
+      "title": "WRC: Rally Japan - Special 19",
+      "team_home": null,
+      "team_away": null,
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt-BR": [
+        "pt": [
           {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780182000
+      "startTimestamp": 1780110900
     },
     {
       "date": "2026-05-30",
@@ -352,8 +156,7 @@
       "team_home": "Ecuador",
       "team_away": "Saudi Arabia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -361,11 +164,6 @@
             "channel": "GOLPERU",
             "url": "https://multi.govoet.cc/?envivo=85",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -373,13 +171,6 @@
             "channel": "DE Sportdigital Fussball",
             "url": "https://multi.govoet.cc/?envivo=125",
             "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ]
       },
@@ -394,8 +185,7 @@
       "team_home": "Toluca",
       "team_away": "Tigres UANL",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -403,25 +193,6 @@
             "channel": "TUDN USA",
             "url": "https://multi.govoet.cc/?envivo=68",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
           }
         ]
       },
@@ -473,28 +244,6 @@
     },
     {
       "date": "2026-05-31",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 16",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780185600
-    },
-    {
-      "date": "2026-05-31",
       "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "International Friendly",
@@ -502,8 +251,7 @@
       "team_home": "South Korea",
       "team_away": "Trinidad & Tobago",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -511,11 +259,6 @@
             "channel": "ES DAZN F1",
             "url": "https://multi.govoet.cc/?envivo=60",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
           }
         ]
       },
@@ -567,28 +310,6 @@
     },
     {
       "date": "2026-05-31",
-      "time_utc": "01:15",
-      "time_utc1": "03:15",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 17 & 18",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780190100
-    },
-    {
-      "date": "2026-05-31",
       "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": "International Friendly",
@@ -596,8 +317,7 @@
       "team_home": "Mexico",
       "team_away": "Australia",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -630,11 +350,6 @@
             "channel": "Azteca 7",
             "url": "https://multi.govoet.cc/?envivo=108",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -705,28 +420,6 @@
         ]
       },
       "startTimestamp": 1780193400
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "03:15",
-      "time_utc1": "05:15",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 19",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780197300
     },
     {
       "date": "2026-05-31",
