@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T11:13:35.591812",
+  "generated_at": "2026-05-31T12:47:20.242664",
   "sources": [
     {
       "name": "cartelive",
@@ -13,96 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 98,
+  "total_events": 94,
   "events": [
-    {
-      "date": "2026-05-30",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": null,
-      "title": "Korea Republic vs Trinidad and Tobago",
-      "team_home": "Korea Republic",
-      "team_away": "Trinidad and Tobago",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780102800
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "01:15",
-      "time_utc1": "03:15",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 17 & 18",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780103700
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": null,
-      "title": "Mexico vs Australia",
-      "team_home": "Mexico",
-      "team_away": "Australia",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780106400
-    },
-    {
-      "date": "2026-05-30",
-      "time_utc": "03:15",
-      "time_utc1": "05:15",
-      "league": null,
-      "title": "WRC: Rally Japan - Special 19",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780110900
-    },
     {
       "date": "2026-05-31",
       "time_utc": "05:00",
@@ -302,8 +214,8 @@
       "date": "2026-05-31",
       "time_utc": "11:15",
       "time_utc1": "13:15",
-      "league": "Liga Endesa",
-      "title": "Liga Endesa: Grand Prix d’Italie La Grille",
+      "league": "MotoGP",
+      "title": "MotoGP: Grand Prix d’Italie La Grille",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -353,12 +265,13 @@
       "date": "2026-05-31",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Liga Endesa",
-      "title": "Liga Endesa: Grand Prix d’Italie La Course",
+      "league": "MotoGP",
+      "title": "MotoGP: Grand Prix d’Italie La Course",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -373,6 +286,27 @@
             "channel": "ES M+ Deportes6",
             "url": "https://multi.govoet.cc/?envivo=67",
             "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
