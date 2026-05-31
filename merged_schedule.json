@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T12:47:20.242664",
+  "generated_at": "2026-05-31T14:26:26.613996",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 94,
+  "total_events": 93,
   "events": [
     {
       "date": "2026-05-31",
@@ -157,31 +157,25 @@
       "date": "2026-05-31",
       "time_utc": "10:25",
       "time_utc1": "12:25",
-      "league": "International Friendly",
+      "league": null,
       "title": "Japan vs Iceland",
       "team_home": "Japan",
       "team_away": "Iceland",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
@@ -209,57 +203,6 @@
         ]
       },
       "startTimestamp": 1780225200
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "11:15",
-      "time_utc1": "13:15",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix d’Italie La Grille",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780226100
     },
     {
       "date": "2026-05-31",
