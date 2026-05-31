@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T19:39:36.163232",
+  "generated_at": "2026-05-31T20:40:57.615461",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 65,
+  "total_events": 62,
   "events": [
     {
       "date": "2026-05-31",
@@ -68,28 +68,6 @@
     },
     {
       "date": "2026-05-31",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Barcelona vs Valencia",
-      "team_home": "Barcelona",
-      "team_away": "Valencia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780246800
-    },
-    {
-      "date": "2026-05-31",
       "time_utc": "17:30",
       "time_utc1": "19:30",
       "league": null,
@@ -109,50 +87,6 @@
         ]
       },
       "startTimestamp": 1780248600
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Minnesota Twins",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780248900
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Washington Nationals vs San Diego Padres",
-      "team_home": "Washington Nationals",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780248900
     },
     {
       "date": "2026-05-31",
