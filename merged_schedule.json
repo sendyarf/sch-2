@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T15:47:25.012013",
+  "generated_at": "2026-05-31T16:59:57.556742",
   "sources": [
     {
       "name": "cartelive",
@@ -13,59 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 81,
+  "total_events": 79,
   "events": [
-    {
-      "date": "2026-05-31",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "International Friendly",
-      "title": "Switzerland vs Jordan",
-      "team_home": "Switzerland",
-      "team_away": "Jordan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780232400
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Albion vs Montevideo City",
-      "team_home": "Albion",
-      "team_away": "Montevideo City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780232400
-    },
     {
       "date": "2026-05-31",
       "time_utc": "14:00",
