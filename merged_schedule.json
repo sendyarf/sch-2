@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T21:39:54.321201",
+  "generated_at": "2026-05-31T22:39:26.628786",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 52,
+  "total_events": 45,
   "events": [
     {
       "date": "2026-05-31",
@@ -114,45 +114,25 @@
       "date": "2026-05-31",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "International Friendly",
+      "league": null,
       "title": "Germany vs Finland",
       "team_home": "Germany",
       "team_away": "Finland",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "equipe",
-            "url": "https://multi.govoet.cc/?envivo=19",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -172,123 +152,6 @@
         ]
       },
       "startTimestamp": 1780253100
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Huachipato vs U. Catolica",
-      "team_home": "Huachipato",
-      "team_away": "U. Catolica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254000
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Cordoba vs Huesca",
-      "team_home": "Cordoba",
-      "team_away": "Huesca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254000
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Leganes vs Mirandes",
-      "team_home": "Leganes",
-      "team_away": "Mirandes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254000
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Serie A Bresil",
-      "title": "Palmeiras vs Chapecoense-SC",
-      "team_home": "Palmeiras",
-      "team_away": "Chapecoense-SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254000
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Serie A Bresil",
-      "title": "Vasco vs Atletico-MG",
-      "team_home": "Vasco",
-      "team_away": "Atletico-MG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254000
     },
     {
       "date": "2026-05-31",
@@ -336,99 +199,27 @@
     },
     {
       "date": "2026-05-31",
-      "time_utc": "19:05",
-      "time_utc1": "21:05",
-      "league": "Top 14",
-      "title": "Clermont vs Racing 92",
-      "team_home": "Clermont",
-      "team_away": "Racing 92",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254300
-    },
-    {
-      "date": "2026-05-31",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs San Francisco Giants",
-      "team_home": "Colorado Rockies",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780254600
-    },
-    {
-      "date": "2026-05-31",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "International Friendly",
+      "league": null,
       "title": "USA vs Senegal",
       "team_home": "USA",
       "team_away": "Senegal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 11",
-            "url": "https://multi.govoet.cc/?envivo=41",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
