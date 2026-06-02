@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T23:27:10.837764",
+  "generated_at": "2026-06-02T01:57:44.640352",
   "sources": [
     {
       "name": "cartelive",
@@ -13,96 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 25,
+  "total_events": 21,
   "events": [
-    {
-      "date": "2026-06-01",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Ecuador Ligapro",
-      "title": "Leones del Norte vs Macara",
-      "team_home": "Leones del Norte",
-      "team_away": "Macara",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780351200
-    },
-    {
-      "date": "2026-06-01",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": null,
-      "title": "Ponte Preta vs Botafogo-SP",
-      "team_home": "Ponte Preta",
-      "team_away": "Botafogo-SP",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780351200
-    },
-    {
-      "date": "2026-06-01",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Detroit Tigers",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780353600
-    },
-    {
-      "date": "2026-06-01",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Washington Nationals vs Miami Marlins",
-      "team_home": "Washington Nationals",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780353900
-    },
     {
       "date": "2026-06-01",
       "time_utc": "23:00",
@@ -112,8 +24,7 @@
       "team_home": "Colombia",
       "team_away": "Costa Rica",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -126,11 +37,6 @@
             "channel": "EXTRA SPORT5",
             "url": "https://multi.govoet.cc/?envivo=159",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -138,25 +44,6 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -303,8 +190,7 @@
       "team_home": "Canada",
       "team_away": "Uzbekistan",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
@@ -312,11 +198,6 @@
             "channel": "DE bundliga4",
             "url": "https://multi.govoet.cc/?envivo=114",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -331,11 +212,6 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
           }
         ]
       },
