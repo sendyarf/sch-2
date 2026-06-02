@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T21:44:00.368182",
+  "generated_at": "2026-06-02T23:21:35.729180",
   "sources": [
     {
       "name": "cartelive",
@@ -13,129 +13,79 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 46,
   "events": [
     {
       "date": "2026-06-02",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
       "league": null,
-      "title": "China PR U20 vs Congo DR U20",
-      "team_home": "China PR U20",
-      "team_away": "Congo DR U20",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780405200
-    },
-    {
-      "date": "2026-06-02",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
-      "title": "Croatia vs Belgium",
-      "team_home": "Croatia",
-      "team_away": "Belgium",
+      "title": "Haiti vs New Zealand",
+      "team_home": "Haiti",
+      "team_away": "New Zealand",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ],
-        "fr": [
+        "es": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ],
         "pt-BR": [
           {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780416000
+      "startTimestamp": 1780358400
     },
     {
       "date": "2026-06-02",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
+      "time_utc": "00:10",
+      "time_utc1": "02:10",
       "league": null,
-      "title": "Saudi Arabia U23 vs Colombia U20",
-      "team_home": "Saudi Arabia U23",
-      "team_away": "Colombia U20",
+      "title": "Barracas Central vs Huracán",
+      "team_home": "Barracas Central",
+      "team_away": "Huracán",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780417800
+      "startTimestamp": 1780359000
     },
     {
       "date": "2026-06-02",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
       "league": null,
-      "title": "Georgia vs Romania",
-      "team_home": "Georgia",
-      "team_away": "Romania",
+      "title": "Junior vs Atlético Nacional",
+      "team_home": "Junior",
+      "team_away": "Atlético Nacional",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
+        "es": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -143,134 +93,7 @@
           }
         ]
       },
-      "startTimestamp": 1780419600
-    },
-    {
-      "date": "2026-06-02",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Morocco vs Madagascar",
-      "team_home": "Morocco",
-      "team_away": "Madagascar",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780419600
-    },
-    {
-      "date": "2026-06-02",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "International Friendly",
-      "title": "Wales vs Ghana",
-      "team_home": "Wales",
-      "team_away": "Ghana",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780425900
-    },
-    {
-      "date": "2026-06-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga Endesa",
-      "title": "Real Madrid vs Tenerife",
-      "team_home": "Real Madrid",
-      "team_away": "Tenerife",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780426800
-    },
-    {
-      "date": "2026-06-02",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": null,
-      "title": "Flamengo U17 vs Fluminense U17",
-      "team_home": "Flamengo U17",
-      "team_away": "Fluminense U17",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780434000
+      "startTimestamp": 1780360200
     },
     {
       "date": "2026-06-02",
@@ -508,8 +331,7 @@
       "team_home": "Haiti",
       "team_away": "New Zealand",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -517,25 +339,6 @@
             "channel": "FOX Deportes",
             "url": "https://multi.govoet.cc/?envivo=70",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -594,8 +397,7 @@
       "team_home": "Barracas Central",
       "team_away": "Huracan",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -603,11 +405,6 @@
             "channel": "TyC Sports",
             "url": "https://multi.govoet.cc/?envivo=77",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -644,8 +441,7 @@
       "team_home": "Junior",
       "team_away": "Atl. Nacional",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -653,13 +449,6 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1063,6 +852,376 @@
         ]
       },
       "startTimestamp": 1780533000
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": null,
+      "title": "Golf: DP World Tour - KLM Open D1",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780570800
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "12:00",
+      "time_utc1": "14:00",
+      "league": null,
+      "title": "Slovenia vs Cyprus",
+      "team_home": "Slovenia",
+      "team_away": "Cyprus",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780574400
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Hockey: Benfica vs OC Barcelos",
+      "team_home": "Hockey: Benfica",
+      "team_away": "OC Barcelos",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780581600
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Northern Ireland vs Guinea",
+      "team_home": "Northern Ireland",
+      "team_away": "Guinea",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780588800
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Andorra vs Liechtenstein",
+      "team_home": "Andorra",
+      "team_away": "Liechtenstein",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780592400
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Sweden vs Greece",
+      "team_home": "Sweden",
+      "team_away": "Greece",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780592400
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Italy U17 vs Spain U17",
+      "team_home": "Italy U17",
+      "team_away": "Spain U17",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780596000
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Spain vs Iraq",
+      "team_home": "Spain",
+      "team_away": "Iraq",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780599600
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "19:10",
+      "time_utc1": "21:10",
+      "league": null,
+      "title": "France vs Côte d'Ivoire",
+      "team_home": "France",
+      "team_away": "Côte d'Ivoire",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "ar": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780600200
+    },
+    {
+      "date": "2026-06-05",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "Czech Republic vs Guatemala",
+      "team_home": "Czech Republic",
+      "team_away": "Guatemala",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780617600
+    },
+    {
+      "date": "2026-06-05",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "UFC BJJ: Fowler vs Johnson",
+      "team_home": "UFC BJJ: Fowler",
+      "team_away": "Johnson",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780617600
+    },
+    {
+      "date": "2026-06-05",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NHL",
+      "title": "Carolina Hurricanes vs Vegas Goldcen Knights",
+      "team_home": "Carolina Hurricanes",
+      "team_away": "Vegas Goldcen Knights",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780617600
+    },
+    {
+      "date": "2026-06-05",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": null,
+      "title": "Mexico vs Serbia",
+      "team_home": "Mexico",
+      "team_away": "Serbia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780624800
     }
   ]
 }
