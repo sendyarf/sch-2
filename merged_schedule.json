@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T18:53:11.420203",
+  "generated_at": "2026-06-02T21:44:00.368182",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 39,
+  "total_events": 38,
   "events": [
     {
       "date": "2026-06-02",
@@ -48,57 +48,32 @@
       "date": "2026-06-02",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Croatia vs Belgium",
       "team_home": "Croatia",
       "team_away": "Belgium",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          },
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ],
@@ -145,22 +120,14 @@
       "date": "2026-06-02",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Georgia vs Romania",
       "team_home": "Georgia",
       "team_away": "Romania",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD10",
@@ -182,49 +149,19 @@
       "date": "2026-06-02",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Morocco vs Madagascar",
       "team_home": "Morocco",
       "team_away": "Madagascar",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780419600
-    },
-    {
-      "date": "2026-06-02",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Murcia vs Barcelona",
-      "team_home": "Murcia",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
           }
         ]
       },
