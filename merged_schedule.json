@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T12:08:12.139504",
+  "generated_at": "2026-06-03T17:15:08.256007",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 50,
+  "total_events": 69,
   "events": [
     {
       "date": "2026-05-29",
@@ -719,14 +719,22 @@
       "date": "2026-06-03",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": null,
+      "league": "International Friendly",
       "title": "Gibraltar vs British Virgin Islands",
       "team_home": "Gibraltar",
       "team_away": "British Virgin Islands",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "DE bundliga1",
+            "url": "https://multi.govoet.cc/?envivo=111",
+            "source": "cartelive"
+          }
+        ],
         "unknown": [
           {
             "channel": "HD11",
@@ -739,45 +747,126 @@
     },
     {
       "date": "2026-06-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Congo DR vs Denmark",
-      "team_home": "Congo DR",
-      "team_away": "Denmark",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Liga Endesa",
+      "title": "Valencia vs Bilbao",
+      "team_home": "Valencia",
+      "team_away": "Bilbao",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
-        "unknown": [
+        "es": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
+            "channel": "dazn baloncesto 1",
+            "url": "https://multi.govoet.cc/?envivo=155",
+            "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1780509600
+      "startTimestamp": 1780506000
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "17:05",
+      "time_utc1": "19:05",
+      "league": "MLB",
+      "title": "Washington Nationals vs Miami Marlins",
+      "team_home": "Washington Nationals",
+      "team_away": "Miami Marlins",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780506300
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "17:10",
+      "time_utc1": "19:10",
+      "league": "MLB",
+      "title": "Tampa Bay Rays vs Detroit Tigers",
+      "team_home": "Tampa Bay Rays",
+      "team_away": "Detroit Tigers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 4",
+            "url": "https://multi.govoet.cc/?envivo=4",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780506600
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "17:40",
+      "time_utc1": "19:40",
+      "league": "MLB",
+      "title": "Minnesota Twins vs Chicago White Sox",
+      "team_home": "Minnesota Twins",
+      "team_away": "Chicago White Sox",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ESPN5",
+            "url": "https://multi.govoet.cc/?envivo=91",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780508400
     },
     {
       "date": "2026-06-03",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": null,
+      "league": "International Friendly",
       "title": "Albania vs Israel",
       "team_home": "Albania",
       "team_away": "Israel",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "de": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          }
+        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -790,77 +879,103 @@
     },
     {
       "date": "2026-06-03",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": null,
-      "title": "Netherlands vs Algeria",
-      "team_home": "Netherlands",
-      "team_away": "Algeria",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "International Friendly",
+      "title": "D.R. Congo vs Denmark",
+      "team_home": "D.R. Congo",
+      "team_away": "Denmark",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "fr": [
           {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
+            "channel": "C+Live 10",
+            "url": "https://multi.govoet.cc/?envivo=40",
+            "source": "cartelive"
           }
         ],
         "pt": [
           {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "channel": "PT SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=144",
+            "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ],
-        "pt-BR": [
+        "unknown": [
           {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1780512300
+      "startTimestamp": 1780509600
     },
     {
       "date": "2026-06-03",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": null,
+      "league": "International Friendly",
       "title": "Luxembourg vs Italy",
       "team_home": "Luxembourg",
       "team_away": "Italy",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "fr": [
           {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
+            "channel": "C+Live 11",
+            "url": "https://multi.govoet.cc/?envivo=41",
+            "source": "cartelive"
           }
         ],
         "it": [
           {
+            "channel": "DE bundliga3",
+            "url": "https://multi.govoet.cc/?envivo=113",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "DE dazn 2",
+            "url": "https://multi.govoet.cc/?envivo=124",
+            "source": "cartelive"
+          }
+        ],
+        "el": [
+          {
+            "channel": "GR SPORT 3",
+            "url": "https://multi.govoet.cc/?envivo=150",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "EXTRA SPORT4",
+            "url": "https://multi.govoet.cc/?envivo=158",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ],
@@ -885,14 +1000,109 @@
       "date": "2026-06-03",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": null,
+      "league": "International Friendly",
+      "title": "Netherlands vs Algeria",
+      "team_home": "Netherlands",
+      "team_away": "Algeria",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "equipe",
+            "url": "https://multi.govoet.cc/?envivo=19",
+            "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "IT SKY CALCIO",
+            "url": "https://multi.govoet.cc/?envivo=138",
+            "source": "cartelive"
+          }
+        ],
+        "de": [
+          {
+            "channel": "DE dazn 1",
+            "url": "https://multi.govoet.cc/?envivo=123",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "PT SPORT 2",
+            "url": "https://multi.govoet.cc/?envivo=145",
+            "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ESPN1",
+            "url": "https://multi.govoet.cc/?envivo=87",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "nl": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1780512300
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": "International Friendly",
       "title": "Poland vs Nigeria",
       "team_home": "Poland",
       "team_away": "Nigeria",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "de": [
+          {
+            "channel": "DE dazn 2",
+            "url": "https://multi.govoet.cc/?envivo=124",
+            "source": "cartelive"
+          },
+          {
+            "channel": "DE bundliga4",
+            "url": "https://multi.govoet.cc/?envivo=114",
+            "source": "cartelive"
+          }
+        ],
         "en": [
           {
             "channel": "HD1",
@@ -926,6 +1136,50 @@
     },
     {
       "date": "2026-06-03",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": "Liga Endesa",
+      "title": "Baskonia vs Joventut Badalona",
+      "team_home": "Baskonia",
+      "team_away": "Joventut Badalona",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES Vamos",
+            "url": "https://multi.govoet.cc/?envivo=55",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780513200
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "19:40",
+      "time_utc1": "21:40",
+      "league": "MLB",
+      "title": "Seattle Mariners vs New York Mets",
+      "team_home": "Seattle Mariners",
+      "team_away": "New York Mets",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780515600
+    },
+    {
+      "date": "2026-06-03",
       "time_utc": "20:00",
       "time_utc1": "22:00",
       "league": null,
@@ -945,6 +1199,211 @@
         ]
       },
       "startTimestamp": 1780516800
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "22:40",
+      "time_utc1": "00:40",
+      "league": "MLB",
+      "title": "Philadelphia Phillies vs San Diego Padres",
+      "team_home": "Philadelphia Phillies",
+      "team_away": "San Diego Padres",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780526400
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "22:45",
+      "time_utc1": "00:45",
+      "league": "MLB",
+      "title": "Boston Red Sox vs Baltimore Orioles",
+      "team_home": "Boston Red Sox",
+      "team_away": "Baltimore Orioles",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780526700
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "23:05",
+      "time_utc1": "01:05",
+      "league": "MLB",
+      "title": "New York Yankees vs Cleveland Guardians",
+      "team_home": "New York Yankees",
+      "team_away": "Cleveland Guardians",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 4",
+            "url": "https://multi.govoet.cc/?envivo=4",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780527900
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "Cincinnati Reds vs Kansas City Royals",
+      "team_home": "Cincinnati Reds",
+      "team_away": "Kansas City Royals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780528200
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Atlanta Braves vs Toronto Blue Jays",
+      "team_home": "Atlanta Braves",
+      "team_away": "Toronto Blue Jays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT35",
+            "url": "https://multi.govoet.cc/?envivo=188",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780528500
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "23:40",
+      "time_utc1": "01:40",
+      "league": "MLB",
+      "title": "Milwaukee Brewers vs San Francisco Giants",
+      "team_home": "Milwaukee Brewers",
+      "team_away": "San Francisco Giants",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT36",
+            "url": "https://multi.govoet.cc/?envivo=189",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780530000
+    },
+    {
+      "date": "2026-06-03",
+      "time_utc": "23:45",
+      "time_utc1": "01:45",
+      "league": "MLB",
+      "title": "St.Louis Cardinals vs Texas Rangers",
+      "team_home": "St.Louis Cardinals",
+      "team_away": "Texas Rangers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT37",
+            "url": "https://multi.govoet.cc/?envivo=190",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780530300
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "00:05",
+      "time_utc1": "02:05",
+      "league": "MLB",
+      "title": "Chicago Cubs vs Athletics",
+      "team_home": "Chicago Cubs",
+      "team_away": "Athletics",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT38",
+            "url": "https://multi.govoet.cc/?envivo=191",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780531500
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "00:10",
+      "time_utc1": "02:10",
+      "league": "MLB",
+      "title": "Houston Astros vs Pittsburgh Pirates",
+      "team_home": "Houston Astros",
+      "team_away": "Pittsburgh Pirates",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780531800
     },
     {
       "date": "2026-06-04",
@@ -973,22 +1432,133 @@
       "time_utc": "00:30",
       "time_utc1": "02:30",
       "league": "NBA",
-      "title": "New York Knicks vs San Antonio Spurs",
-      "team_home": "New York Knicks",
-      "team_away": "San Antonio Spurs",
+      "title": "San Antonio Spurs vs New York Knicks",
+      "team_home": "San Antonio Spurs",
+      "team_away": "New York Knicks",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
+            "channel": "EXTRA SPORT40",
+            "url": "https://multi.govoet.cc/?envivo=193",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
+        ],
+        "es": [
+          {
+            "channel": "ESPN Deportes",
+            "url": "https://multi.govoet.cc/?envivo=71",
+            "source": "cartelive"
+          }
         ]
       },
       "startTimestamp": 1780533000
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "00:45",
+      "time_utc1": "02:45",
+      "league": "International Friendly",
+      "title": "Panama vs Dominican Republic",
+      "team_home": "Panama",
+      "team_away": "Dominican Republic",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "DE bundliga5",
+            "url": "https://multi.govoet.cc/?envivo=115",
+            "source": "cartelive"
+          },
+          {
+            "channel": "DE bundliga6",
+            "url": "https://multi.govoet.cc/?envivo=116",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780533900
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "International Friendly",
+      "title": "South Korea vs El Salvador",
+      "team_home": "South Korea",
+      "team_away": "El Salvador",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT5",
+            "url": "https://multi.govoet.cc/?envivo=159",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780534800
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "01:38",
+      "time_utc1": "03:38",
+      "league": "MLB",
+      "title": "Los Angeles Angels vs Colorado Rockies",
+      "team_home": "Los Angeles Angels",
+      "team_away": "Colorado Rockies",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780537080
+    },
+    {
+      "date": "2026-06-04",
+      "time_utc": "01:40",
+      "time_utc1": "03:40",
+      "league": "MLB",
+      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "team_home": "Arizona Diamondbacks",
+      "team_away": "Los Angeles Dodgers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT42",
+            "url": "https://multi.govoet.cc/?envivo=195",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780537200
     },
     {
       "date": "2026-06-04",
