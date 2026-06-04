@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T09:08:54.464062",
+  "generated_at": "2026-06-04T12:16:25.963206",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 70,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-05-29",
@@ -1553,50 +1553,6 @@
         ]
       },
       "startTimestamp": 1780185600
-    },
-    {
-      "date": "2026-06-03",
-      "time_utc": "00:10",
-      "time_utc1": "02:10",
-      "league": null,
-      "title": "San Lorenzo vs Deportivo Riestra",
-      "team_home": "San Lorenzo",
-      "team_away": "Deportivo Riestra",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780445400
-    },
-    {
-      "date": "2026-06-03",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "New York Knicks vs San Antonio Spurs",
-      "team_home": "New York Knicks",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780446600
     },
     {
       "date": "2026-06-04",
