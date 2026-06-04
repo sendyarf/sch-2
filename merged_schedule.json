@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T15:55:49.462803",
+  "generated_at": "2026-06-04T18:11:38.846892",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 83,
+  "total_events": 77,
   "events": [
     {
       "date": "2026-05-29",
@@ -1556,140 +1556,6 @@
     },
     {
       "date": "2026-06-04",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": null,
-      "title": "Golf: DP World Tour - KLM Open D1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780570800
-    },
-    {
-      "date": "2026-06-04",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": null,
-      "title": "Slovenia vs Cyprus",
-      "team_home": "Slovenia",
-      "team_away": "Cyprus",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780574400
-    },
-    {
-      "date": "2026-06-04",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Roland-Garros",
-      "title": "M. Kostyuk vs M. Andreeva",
-      "team_home": "M. Kostyuk",
-      "team_away": "M. Andreeva",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "france2",
-            "url": "https://multi.govoet.cc/?envivo=28",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780578000
-    },
-    {
-      "date": "2026-06-04",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": null,
-      "title": "Hockey: Benfica vs OC Barcelos",
-      "team_home": "Hockey: Benfica",
-      "team_away": "OC Barcelos",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780581600
-    },
-    {
-      "date": "2026-06-04",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Roland-Garros",
-      "title": "D. Shnaider vs M. Chwalinska",
-      "team_home": "D. Shnaider",
-      "team_away": "M. Chwalinska",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "france2",
-            "url": "https://multi.govoet.cc/?envivo=28",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780583400
-    },
-    {
-      "date": "2026-06-04",
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": "International Friendly",
@@ -1697,8 +1563,7 @@
       "team_home": "Northern Ireland",
       "team_away": "Guinea",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
@@ -1706,11 +1571,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -1761,8 +1621,7 @@
       "team_home": "Andorra",
       "team_away": "Liechtenstein",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -1770,20 +1629,6 @@
             "channel": "EXTRA SPORT9",
             "url": "https://multi.govoet.cc/?envivo=163",
             "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1798,8 +1643,7 @@
       "team_home": "Sweden",
       "team_away": "Greece",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -1814,11 +1658,6 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ],
         "el": [
@@ -1826,11 +1665,6 @@
             "channel": "DE bundliga1",
             "url": "https://multi.govoet.cc/?envivo=111",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -1838,20 +1672,6 @@
             "channel": "EXTRA SPORT10",
             "url": "https://multi.govoet.cc/?envivo=164",
             "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1944,28 +1764,6 @@
         ]
       },
       "startTimestamp": 1780594500
-    },
-    {
-      "date": "2026-06-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Italy U17 vs Spain U17",
-      "team_home": "Italy U17",
-      "team_away": "Spain U17",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780596000
     },
     {
       "date": "2026-06-04",
