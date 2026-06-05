@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T04:53:55.726220",
+  "generated_at": "2026-06-05T08:39:44.383787",
   "sources": [
     {
       "name": "cartelive",
@@ -13,45 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 63,
   "events": [
-    {
-      "date": "2026-06-05",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "International Friendly",
-      "title": "Mexico vs Serbia",
-      "team_home": "Mexico",
-      "team_away": "Serbia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780624800
-    },
     {
       "date": "2026-06-05",
       "time_utc": "07:00",
