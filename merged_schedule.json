@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T20:54:38.973095",
+  "generated_at": "2026-06-05T22:11:25.724589",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 83,
+  "total_events": 81,
   "events": [
     {
       "date": "2026-06-05",
@@ -246,21 +246,15 @@
       "date": "2026-06-05",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Azerbaijan vs Malta",
       "team_home": "Azerbaijan",
       "team_away": "Malta",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -269,28 +263,6 @@
         ]
       },
       "startTimestamp": 1780682400
-    },
-    {
-      "date": "2026-06-05",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs San Francisco Giants",
-      "team_home": "Chicago Cubs",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780683600
     },
     {
       "date": "2026-06-05",
@@ -320,28 +292,6 @@
         ]
       },
       "startTimestamp": 1780684500
-    },
-    {
-      "date": "2026-06-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga Endesa",
-      "title": "Joventut Badalona vs Baskonia",
-      "team_home": "Joventut Badalona",
-      "team_away": "Baskonia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780686000
     },
     {
       "date": "2026-06-05",
