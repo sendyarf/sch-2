@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T19:06:13.713779",
+  "generated_at": "2026-06-05T20:54:38.973095",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 85,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-06-05",
@@ -63,22 +63,14 @@
       "date": "2026-06-05",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "International Friendly",
+      "league": null,
       "title": "Slovakia vs Montenegro",
       "team_home": "Slovakia",
       "team_away": "Montenegro",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD8",
@@ -144,52 +136,14 @@
       "date": "2026-06-05",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
-      "title": "Moldova vs Bulgaria",
-      "team_home": "Moldova",
-      "team_away": "Bulgaria",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
-        "bg": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780678800
-    },
-    {
-      "date": "2026-06-05",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Russia vs Burkina Faso",
       "team_home": "Russia",
       "team_away": "Burkina Faso",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD11",
@@ -204,26 +158,18 @@
       "date": "2026-06-05",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
-      "title": "San Marino vs Bangladesh",
-      "team_home": "San Marino",
-      "team_away": "Bangladesh",
+      "league": null,
+      "title": "Moldova vs Bulgaria",
+      "team_home": "Moldova",
+      "team_away": "Bulgaria",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
+        "bg": [
           {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
@@ -234,53 +180,19 @@
       "date": "2026-06-05",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Liga Endesa",
-      "title": "Bilbao vs Valencia",
-      "team_home": "Bilbao",
-      "team_away": "Valencia",
+      "league": null,
+      "title": "San Marino vs Bangladesh",
+      "team_home": "San Marino",
+      "team_away": "Bangladesh",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780678800
-    },
-    {
-      "date": "2026-06-05",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Roland-Garros",
-      "title": "Arnaldi vs Cobolli",
-      "team_home": "Arnaldi",
-      "team_away": "Cobolli",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "france3",
-            "url": "https://multi.govoet.cc/?envivo=29",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -312,22 +224,14 @@
       "date": "2026-06-05",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "International Friendly",
+      "league": null,
       "title": "Hungary vs Finland",
       "team_home": "Hungary",
       "team_away": "Finland",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD4",
