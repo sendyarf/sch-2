@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T11:51:17.372845",
+  "generated_at": "2026-06-06T13:16:50.651652",
   "sources": [
     {
       "name": "cartelive",
@@ -13,37 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 84,
+  "total_events": 83,
   "events": [
-    {
-      "date": "2026-06-06",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Roland-Garros",
-      "title": "M. Granollers / H. Zeballos vs H. Heliovaara / H. Patten",
-      "team_home": "M. Granollers / H. Zeballos",
-      "team_away": "H. Heliovaara / H. Patten",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "france4",
-            "url": "https://multi.govoet.cc/?envivo=30",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780736400
-    },
     {
       "date": "2026-06-06",
       "time_utc": "10:30",
