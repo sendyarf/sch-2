@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T14:55:52.385670",
+  "generated_at": "2026-06-06T16:03:09.427166",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 81,
+  "total_events": 79,
   "events": [
     {
       "date": "2026-06-06",
@@ -111,126 +111,16 @@
     },
     {
       "date": "2026-06-06",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "International Friendly",
-      "title": "Belgium vs Tunisia",
-      "team_home": "Belgium",
-      "team_away": "Tunisia",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "equipe",
-            "url": "https://multi.govoet.cc/?envivo=19",
-            "source": "cartelive"
-          },
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780750800
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Racing Montevideo",
-      "team_home": "Central Esp.",
-      "team_away": "Racing Montevideo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780750800
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
+      "time_utc": "12:45",
+      "time_utc1": "14:45",
       "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de Hongrie La course Sprint des Moto GP",
+      "title": "Hungary Sprint Race",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -253,32 +143,46 @@
           }
         ]
       },
-      "startTimestamp": 1780750800
+      "startTimestamp": 1780749900
     },
     {
       "date": "2026-06-06",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Roland-Garros",
-      "title": "Chwalinska vs Andreeva",
-      "team_home": "Chwalinska",
-      "team_away": "Andreeva",
+      "league": null,
+      "title": "Belgium vs Tunisia",
+      "team_home": "Belgium",
+      "team_away": "Tunisia",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
           {
-            "channel": "france2",
-            "url": "https://multi.govoet.cc/?envivo=28",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ],
-        "es": [
+        "ar": [
           {
-            "channel": "ES M+ Deportes5",
-            "url": "https://multi.govoet.cc/?envivo=66",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
           }
         ]
       },
