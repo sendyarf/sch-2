@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T20:05:27.260548",
+  "generated_at": "2026-06-06T21:16:44.463455",
   "sources": [
     {
       "name": "cartelive",
@@ -13,93 +13,20 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 62,
+  "total_events": 58,
   "events": [
-    {
-      "date": "2026-06-06",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Seattle Mariners",
-      "team_home": "Detroit Tigers",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780765800
-    },
     {
       "date": "2026-06-06",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "International Friendly",
+      "league": null,
       "title": "Portugal vs Chile",
       "team_home": "Portugal",
       "team_away": "Chile",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 11",
-            "url": "https://multi.govoet.cc/?envivo=41",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -107,10 +34,24 @@
             "source": "sportsonline"
           }
         ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "ar": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ],
@@ -128,39 +69,19 @@
       "date": "2026-06-06",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "International Friendly",
+      "league": null,
       "title": "Romania vs Wales",
       "team_home": "Romania",
       "team_away": "Wales",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
           }
         ],
         "unknown": [
@@ -177,22 +98,14 @@
       "date": "2026-06-06",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Albania vs Luxembourg",
       "team_home": "Albania",
       "team_away": "Luxembourg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ],
         "ar": [
           {
             "channel": "HD8",
@@ -202,72 +115,6 @@
         ]
       },
       "startTimestamp": 1780768800
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Montevideo City vs Maldonado",
-      "team_home": "Montevideo City",
-      "team_away": "Maldonado",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780768800
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Kansas City Royals",
-      "team_home": "Minnesota Twins",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780769400
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Cincinnati Reds",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780769700
     },
     {
       "date": "2026-06-06",
