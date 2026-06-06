@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T08:10:41.987824",
+  "generated_at": "2026-06-06T10:20:16.820420",
   "sources": [
     {
       "name": "cartelive",
@@ -13,117 +13,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 91,
+  "total_events": 86,
   "events": [
-    {
-      "date": "2026-06-05",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Haiti vs Peru",
-      "team_home": "Haiti",
-      "team_away": "Peru",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780617600
-    },
-    {
-      "date": "2026-06-05",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "NBA",
-      "title": "New York Knicks vs San Antonio Spurs",
-      "team_home": "New York Knicks",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780619400
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "06:30",
-      "time_utc1": "08:30",
-      "league": "Moto2/3",
-      "title": "Hungary FP2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780727400
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "06:40",
-      "time_utc1": "08:40",
-      "league": "Moto3",
-      "title": "Moto3: Grand Prix de Hongrie Essais libres 2 des Moto 3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780728000
-    },
     {
       "date": "2026-06-06",
       "time_utc": "07:25",
@@ -152,42 +43,6 @@
         ]
       },
       "startTimestamp": 1780730700
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "MotoGP",
-      "title": "Hungary Qualifying",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780732800
     },
     {
       "date": "2026-06-06",
