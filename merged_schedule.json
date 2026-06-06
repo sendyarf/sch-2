@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:03:09.427166",
+  "generated_at": "2026-06-06T17:33:51.667549",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 79,
+  "total_events": 78,
   "events": [
     {
       "date": "2026-06-06",
@@ -219,61 +219,16 @@
     },
     {
       "date": "2026-06-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "International Friendly",
-      "title": "Armenia vs Kazakhstan",
-      "team_home": "Armenia",
-      "team_away": "Kazakhstan",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1780754400
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
+      "time_utc": "13:15",
+      "time_utc1": "15:15",
       "league": "Formula 1",
-      "title": "Formula 1: Grand Prix de Monaco Essais qualificatifs",
+      "title": "Monaco Grand Prix: Qualifying",
       "team_home": null,
       "team_away": null,
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -296,7 +251,7 @@
           }
         ]
       },
-      "startTimestamp": 1780754400
+      "startTimestamp": 1780751700
     },
     {
       "date": "2026-06-06",
@@ -319,28 +274,6 @@
         ]
       },
       "startTimestamp": 1780754400
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "International Friendly",
-      "title": "Kyrgyzstan vs Palestine",
-      "team_home": "Kyrgyzstan",
-      "team_away": "Palestine",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780756200
     },
     {
       "date": "2026-06-06",
@@ -410,6 +343,28 @@
             "channel": "canal+",
             "url": "https://multi.govoet.cc/?envivo=11",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780761600
+    },
+    {
+      "date": "2026-06-06",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Armenia vs Kazakhstan",
+      "team_home": "Armenia",
+      "team_away": "Kazakhstan",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "ar": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
