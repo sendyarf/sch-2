@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T17:45:28.936180",
+  "generated_at": "2026-06-07T19:11:04.755643",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 81,
+  "total_events": 82,
   "events": [
     {
       "date": "2026-06-07",
@@ -327,6 +327,35 @@
           {
             "channel": "dazn baloncesto 1",
             "url": "https://multi.govoet.cc/?envivo=155",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1780851600
+    },
+    {
+      "date": "2026-06-07",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Roland-Garros",
+      "title": "Cobolli vs Zverev",
+      "team_home": "Cobolli",
+      "team_away": "Zverev",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "france2",
+            "url": "https://multi.govoet.cc/?envivo=28",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes5",
+            "url": "https://multi.govoet.cc/?envivo=66",
             "source": "cartelive"
           }
         ]
