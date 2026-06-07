@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T01:54:56.211113",
+  "generated_at": "2026-06-07T06:17:17.892459",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 48,
   "events": [
     {
       "date": "2026-06-06",
@@ -131,90 +131,18 @@
       "startTimestamp": 1780783200
     },
     {
-      "date": "2026-06-06",
-      "time_utc": "23:35",
-      "time_utc1": "01:35",
-      "league": "MLB",
-      "title": "New York Yankees vs Boston Red Sox",
-      "team_home": "New York Yankees",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780788900
-    },
-    {
-      "date": "2026-06-06",
-      "time_utc": "23:35",
-      "time_utc1": "01:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs Cleveland Guardians",
-      "team_home": "Texas Rangers",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780788900
-    },
-    {
       "date": "2026-06-07",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Argentina vs Honduras",
       "team_home": "Argentina",
       "team_away": "Honduras",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 13",
-            "url": "https://multi.govoet.cc/?envivo=43",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -279,72 +207,6 @@
         ]
       },
       "startTimestamp": 1780790400
-    },
-    {
-      "date": "2026-06-07",
-      "time_utc": "01:10",
-      "time_utc1": "03:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Milwaukee Brewers",
-      "team_home": "Colorado Rockies",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780794600
-    },
-    {
-      "date": "2026-06-07",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Los Angeles Angels",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780798200
-    },
-    {
-      "date": "2026-06-07",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "San Diego Padres vs New York Mets",
-      "team_home": "San Diego Padres",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1780798200
     },
     {
       "date": "2026-06-07",
