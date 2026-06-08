@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:26:12.884663",
+  "generated_at": "2026-06-08T22:54:56.618716",
   "sources": [
     {
       "name": "cartelive",
@@ -19,32 +19,19 @@
       "date": "2026-06-08",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "International Friendly",
+      "league": null,
       "title": "Netherlands vs Uzbekistan",
       "team_home": "Netherlands",
       "team_away": "Uzbekistan",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
           }
         ],
         "ar": [
@@ -68,44 +55,26 @@
       "date": "2026-06-08",
       "time_utc": "19:10",
       "time_utc1": "21:10",
-      "league": "International Friendly",
+      "league": null,
       "title": "France vs Northern Ireland",
       "team_home": "France",
       "team_away": "Northern Ireland",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "tf1",
-            "url": "https://multi.govoet.cc/?envivo=24",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
           }
         ],
-        "es": [
+        "fr": [
           {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ],
         "ar": [
