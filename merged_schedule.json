@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:09:59.244933",
+  "generated_at": "2026-06-09T21:08:00.469696",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 52,
   "events": [
     {
       "date": "2026-06-09",
@@ -290,21 +290,15 @@
       "date": "2026-06-09",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "International Friendly",
+      "league": null,
       "title": "Belarus vs Burkina Faso",
       "team_home": "Belarus",
       "team_away": "Burkina Faso",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -318,22 +312,14 @@
       "date": "2026-06-09",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Hungary vs Kazakhstan",
       "team_home": "Hungary",
       "team_away": "Kazakhstan",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD1",
@@ -362,22 +348,14 @@
       "date": "2026-06-09",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "International Friendly",
-      "title": "Russia vs Trinidad & Tobago",
+      "league": null,
+      "title": "Russia vs Trinidad and Tobago",
       "team_home": "Russia",
-      "team_away": "Trinidad & Tobago",
+      "team_away": "Trinidad and Tobago",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD2",
@@ -414,22 +392,14 @@
       "date": "2026-06-09",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "International Friendly",
+      "league": null,
       "title": "Azerbaijan vs San Marino",
       "team_home": "Azerbaijan",
       "team_away": "San Marino",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD8",
@@ -442,28 +412,6 @@
             "channel": "BR3",
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781028000
-    },
-    {
-      "date": "2026-06-09",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Barcelona vs Tenerife",
-      "team_home": "Barcelona",
-      "team_away": "Tenerife",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
           }
         ]
       },
