@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T21:08:00.469696",
+  "generated_at": "2026-06-09T22:47:28.287503",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 52,
+  "total_events": 51,
   "events": [
     {
       "date": "2026-06-09",
@@ -416,40 +416,6 @@
         ]
       },
       "startTimestamp": 1781028000
-    },
-    {
-      "date": "2026-06-09",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Almeria vs Castellon",
-      "team_home": "Almeria",
-      "team_away": "Castellon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781031600
     },
     {
       "date": "2026-06-09",
