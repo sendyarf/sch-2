@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T16:45:36.298416",
+  "generated_at": "2026-06-09T19:09:59.244933",
   "sources": [
     {
       "name": "cartelive",
@@ -195,27 +195,36 @@
       "date": "2026-06-09",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "International Friendly",
+      "league": null,
+      "title": "Congo DR vs Chile",
+      "team_home": "Congo DR",
+      "team_away": "Chile",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781017200
+    },
+    {
+      "date": "2026-06-09",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
       "title": "Armenia vs Moldova",
       "team_home": "Armenia",
       "team_away": "Moldova",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD8",
@@ -276,34 +285,6 @@
         ]
       },
       "startTimestamp": 1781017200
-    },
-    {
-      "date": "2026-06-09",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "International Friendly",
-      "title": "D.R. Congo vs Chile",
-      "team_home": "D.R. Congo",
-      "team_away": "Chile",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781020800
     },
     {
       "date": "2026-06-09",
