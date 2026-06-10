@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T18:40:27.143048",
+  "generated_at": "2026-06-10T21:12:59.736774",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 43,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-06-05",
@@ -385,181 +385,6 @@
     },
     {
       "date": "2026-06-10",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": null,
-      "title": "Tennis: ATP World Tour 250 - 's-Hertogenbosch",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781082000
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": null,
-      "title": "Tennis: ATP World Tour 250 - Stuttgart",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781082000
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": null,
-      "title": "Congo DR U20 vs Saudi Arabia U21",
-      "team_home": "Congo DR U20",
-      "team_away": "Saudi Arabia U21",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781091000
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Colombia U20 vs Tunisia U20",
-      "team_home": "Colombia U20",
-      "team_away": "Tunisia U20",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781110800
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs New York Yankees",
-      "team_home": "Cleveland Guardians",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781111400
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Boston Red Sox",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781111400
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Joventut Badalona",
-      "team_home": "Valencia",
-      "team_away": "Joventut Badalona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781114400
-    },
-    {
-      "date": "2026-06-10",
       "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": "Laliga 2",
@@ -712,6 +537,50 @@
       "date": "2026-06-10",
       "time_utc": "20:00",
       "time_utc1": "22:00",
+      "league": null,
+      "title": "Bolivia vs Algeria",
+      "team_home": "Bolivia",
+      "team_away": "Algeria",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781121600
+    },
+    {
+      "date": "2026-06-10",
+      "time_utc": "20:10",
+      "time_utc1": "22:10",
+      "league": "MLB",
+      "title": "San Diego Padres vs Cincinnati Reds",
+      "team_home": "San Diego Padres",
+      "team_away": "Cincinnati Reds",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781122200
+    },
+    {
+      "date": "2026-06-10",
+      "time_utc": "21:00",
+      "time_utc1": "23:00",
       "league": "International Friendly",
       "title": "England vs Costa Rica",
       "team_home": "England",
@@ -762,51 +631,7 @@
           }
         ]
       },
-      "startTimestamp": 1781121600
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": null,
-      "title": "Bolivia vs Algeria",
-      "team_home": "Bolivia",
-      "team_away": "Algeria",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781121600
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "San Diego Padres vs Cincinnati Reds",
-      "team_home": "San Diego Padres",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781122200
+      "startTimestamp": 1781125200
     },
     {
       "date": "2026-06-10",
