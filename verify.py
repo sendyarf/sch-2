@@ -6,12 +6,14 @@ with open("merged_schedule.json", "r", encoding="utf-8") as f:
 both = sum(1 for e in d["events"] if len(e["sources"]) > 1)
 s1 = sum(1 for e in d["events"] if e["sources"] == ["cartelive"])
 s2 = sum(1 for e in d["events"] if e["sources"] == ["sportsonline"])
+s3 = sum(1 for e in d["events"] if e["sources"] == ["manual"])
 
 lines = []
 lines.append(f"Total: {d['total_events']}")
-lines.append(f"Both sources: {both}")
+lines.append(f"Matched (multi sources): {both}")
 lines.append(f"Only cartelive: {s1}")
 lines.append(f"Only sportsonline: {s2}")
+lines.append(f"Only manual: {s3}")
 lines.append("")
 lines.append("=== Matched events ===")
 for e in d["events"]:
@@ -36,6 +38,12 @@ for e in d["events"]:
         if count >= 15:
             lines.append("  ... (truncated)")
             break
+
+lines.append("")
+lines.append("=== Manual only ===")
+for e in d["events"]:
+    if e["sources"] == ["manual"]:
+        lines.append(f"  {e['date']} {e['time_utc']} | {e['title'][:60]} | {e['league']}")
 
 with open("stats.txt", "w", encoding="utf-8") as f:
     f.write("\n".join(lines))

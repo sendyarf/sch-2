@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:26:03.150656",
+  "generated_at": "2026-06-12T06:29:06.685344",
   "sources": [
     {
       "name": "cartelive",
@@ -10,10 +10,15 @@
       "name": "sportsonline",
       "url": "https://sportsonline.pk/prog.txt",
       "timezone": "UTC+0"
+    },
+    {
+      "name": "manual",
+      "url": "https://v2-gvtsch.pages.dev/manual_sch.json",
+      "timezone": "UTC+0"
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 43,
+  "total_events": 40,
   "events": [
     {
       "date": "2026-06-11",
@@ -265,6 +270,90 @@
     },
     {
       "date": "2026-06-12",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": "World - FIFA World Cup, Group A",
+      "title": "Mexico vs South Africa",
+      "team_home": "Mexico",
+      "team_away": "South Africa",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?hls=lasestre",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "ja": [
+          {
+            "channel": "CH-JP",
+            "url": "https://multi.govoet.cc/?hls=nhkbs4k",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1781229600
+    },
+    {
+      "date": "2026-06-12",
       "time_utc": "08:20",
       "time_utc1": "10:20",
       "league": "Superbike World SBK",
@@ -279,6 +368,11 @@
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
@@ -302,6 +396,64 @@
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781254800
+    },
+    {
+      "date": "2026-06-12",
+      "time_utc": "09:00",
+      "time_utc1": "11:00",
+      "league": "World - FIFA World Cup, Group A",
+      "title": "South Korea vs Czechia",
+      "team_home": "South Korea",
+      "team_away": "Czechia",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=fox1us",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
           }
         ]
       },
@@ -353,32 +505,15 @@
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781263800
-    },
-    {
-      "date": "2026-06-12",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Superbike World SBK",
-      "title": "Pirelli GP Italy - FP2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
+          },
           {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1781269200
+      "startTimestamp": 1781263800
     },
     {
       "date": "2026-06-12",
@@ -647,113 +782,124 @@
     },
     {
       "date": "2026-06-13",
-      "time_utc": "07:30",
-      "time_utc1": "09:30",
-      "league": "Superbike World SBK",
-      "title": "Pirelli GP Italy - FP3",
-      "team_home": null,
-      "team_away": null,
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": "World - FIFA World Cup, Group B",
+      "title": "Canada vs Bosnia & Herzegovina",
+      "team_home": "Canada",
+      "team_away": "Bosnia & Herzegovina",
       "sources": [
-        "sportsonline"
+        "manual"
       ],
       "streams_by_language": {
-        "pt": [
+        "es": [
           {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "ja": [
+          {
+            "channel": "CH-JP",
+            "url": "https://multi.govoet.cc/?shaka=nhkbs4k",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1781335800
+      "startTimestamp": 1781316000
     },
     {
       "date": "2026-06-13",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "World WCR",
-      "title": "Pirelli GP Italy - Race 1",
-      "team_home": null,
-      "team_away": null,
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "World - FIFA World Cup, Group D",
+      "title": "USA vs Paraguay",
+      "team_home": "USA",
+      "team_away": "Paraguay",
       "sources": [
-        "sportsonline"
+        "manual"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
           }
-        ]
-      },
-      "startTimestamp": 1781341200
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250 - Stuttgart",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
+        ],
+        "cs": [
           {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
-        ]
-      },
-      "startTimestamp": 1781344800
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Superbike World SPB",
-      "title": "Pirelli GP Italy - Race 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
+        ],
+        "es": [
           {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781344800
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Superbike World SSP",
-      "title": "Pirelli GP Italy - Race 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
           {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?hls=lasestre",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1781348400
+      "startTimestamp": 1781337600
     },
     {
       "date": "2026-06-13",
@@ -793,6 +939,11 @@
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
@@ -1169,6 +1320,66 @@
     },
     {
       "date": "2026-06-14",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": "World - FIFA World Cup, Group B",
+      "title": "Qatar vs Switzerland",
+      "team_home": "Qatar",
+      "team_away": "Switzerland",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1781402400
+    },
+    {
+      "date": "2026-06-14",
       "time_utc": "04:00",
       "time_utc1": "06:00",
       "league": null,
@@ -1276,6 +1487,136 @@
     },
     {
       "date": "2026-06-14",
+      "time_utc": "05:00",
+      "time_utc1": "07:00",
+      "league": "World - FIFA World Cup, Group C",
+      "title": "Brazil vs Morocco",
+      "team_home": "Brazil",
+      "team_away": "Morocco",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?hls=lasestre",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
+          }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1781413200
+    },
+    {
+      "date": "2026-06-14",
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "World - FIFA World Cup, Group C",
+      "title": "Haiti vs Scotland",
+      "team_home": "Haiti",
+      "team_away": "Scotland",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "ja": [
+          {
+            "channel": "CH-JP",
+            "url": "https://multi.govoet.cc/?hls=nhkbs4k",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1781424000
+    },
+    {
+      "date": "2026-06-14",
       "time_utc": "09:00",
       "time_utc1": "11:00",
       "league": "Superbike World SBK",
@@ -1298,50 +1639,6 @@
     },
     {
       "date": "2026-06-14",
-      "time_utc": "09:45",
-      "time_utc1": "11:45",
-      "league": "World WCR",
-      "title": "Pirelli GP Italy - Race 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781430300
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "10:45",
-      "time_utc1": "12:45",
-      "league": "Superbike World SPB",
-      "title": "Pirelli GP Italy - Race 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781433900
-    },
-    {
-      "date": "2026-06-14",
       "time_utc": "11:00",
       "time_utc1": "13:00",
       "league": "Tennis",
@@ -1357,6 +1654,69 @@
             "channel": "SPORTTV4",
             "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781434800
+    },
+    {
+      "date": "2026-06-14",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": "World - FIFA World Cup, Group D",
+      "title": "Australia vs Türkiye",
+      "team_home": "Australia",
+      "team_away": "Türkiye",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=fox1us",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
           }
         ]
       },
@@ -1383,72 +1743,6 @@
         ]
       },
       "startTimestamp": 1781436600
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Tennis",
-      "title": "ATP World Tour 250 - 's-Hertogenbosch",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781440200
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Superbike World SSP",
-      "title": "Pirelli GP Italy - Race 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781442000
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Surf",
-      "title": "WSL - El Salvador Pro",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781445600
     },
     {
       "date": "2026-06-14",

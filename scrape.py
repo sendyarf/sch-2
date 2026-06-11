@@ -34,6 +34,7 @@ if sys.platform == "win32":
 
 SOURCE1_URL = "https://18zone.click/vip3.php"
 SOURCE2_URL = "https://sportsonline.pk/prog.txt"
+SOURCE3_URL = "https://v2-gvtsch.pages.dev/manual_sch.json"
 # Base URL untuk generate stream link sumber 1
 # Formula: CH{N} → player/{N+3}/1
 CARTELIVE_BASE = "https://18zone.click/player"
@@ -743,6 +744,93 @@ def parse_source2(raw: str) -> list[dict]:
 
 
 # ═══════════════════════════════════════════════
+# PARSER SUMBER 3 — manual_sch.json
+# ═══════════════════════════════════════════════
+
+MANUAL_LANG_MAP = {
+    "es": "es",
+    "pt": "pt",
+    "cz": "cs",
+    "sk": "sk",
+    "jp": "ja",
+    "en": "en",
+    "de": "de",
+    "mx": "es",
+    "fr": "fr",
+    "it": "it",
+    "nl": "nl",
+    "ar": "ar",
+    "tr": "tr",
+    "el": "el",
+}
+
+def parse_manual_lang(label: str) -> str:
+    clean_label = label.replace("CH-", "").strip().lower()
+    return MANUAL_LANG_MAP.get(clean_label, "unknown")
+
+def parse_manual_sch(raw: str) -> list[dict]:
+    """Parse manual schedule JSON source."""
+    try:
+        data = json.loads(raw)
+    except Exception as e:
+        print(f"   ❌ Gagal parse JSON manual_sch: {e}")
+        return []
+
+    events = []
+    for m in data:
+        date_str = m.get("match_date") or m.get("kickoff_date")
+        time_str = m.get("match_time") or m.get("kickoff_time")
+        if not date_str or not time_str:
+            continue
+
+        league = apply_translation(m.get("league"), "leagues")
+        team_home = apply_translation(m.get("team1", {}).get("name"), "teams")
+        team_away = apply_translation(m.get("team2", {}).get("name"), "teams")
+
+        if team_home and team_away:
+            title = f"{team_home} vs {team_away}"
+        else:
+            title = m.get("title") or m.get("id") or "Event"
+
+        streams = []
+        for s in m.get("servers", []):
+            url = s.get("url")
+            label = s.get("label", "CH-EN")
+            lang = parse_manual_lang(label)
+
+            streams.append({
+                "channel_id": label,
+                "channel_name": label,
+                "language": lang,
+                "url": url,
+                "source": "manual",
+            })
+
+        try:
+            dt_utc0 = datetime.strptime(f"{date_str}T{time_str}", "%Y-%m-%dT%H:%M")
+            offset_hours = get_eu_dst_offset(dt_utc0, "CEU")
+            dt_utc1 = dt_utc0 + timedelta(hours=offset_hours)
+            time_utc1 = dt_utc1.strftime("%H:%M")
+        except ValueError:
+            time_utc1 = time_str
+
+        events.append({
+            "date": date_str,
+            "time_utc": time_str,
+            "time_utc1": time_utc1,
+            "league": league,
+            "title": title,
+            "team_home": team_home,
+            "team_away": team_away,
+            "streams": streams,
+            "_source": "manual",
+            "_match_key": normalize_text(title),
+        })
+
+    return events
+
+
+# ═══════════════════════════════════════════════
 # MERGER
 # ═══════════════════════════════════════════════
 
@@ -785,81 +873,72 @@ def merge_streams_by_lang(streams: list[dict]) -> dict:
     return by_lang
 
 
-def merge_events(events1: list[dict], events2: list[dict]) -> list[dict]:
+def merge_events(*sources_list: list[list[dict]]) -> list[dict]:
     """
-    Gabungkan event dari kedua sumber.
+    Gabungkan event dari beberapa sumber secara dinamis.
     Event yang cocok → stream digabung.
     Event unik → masuk sendiri.
     """
-    matched_s2_indices = set()
     merged = []
 
-    for e1 in events1:
-        match = find_best_match(e1, events2)
-
-        all_streams = list(e1["streams"])
-        sources = ["cartelive"]
-
-        if match:
-            all_streams.extend(match["streams"])
-            sources.append("sportsonline")
-            # Tandai match agar tidak masuk lagi
-            for i, e2 in enumerate(events2):
-                if e2 is match:
-                    matched_s2_indices.add(i)
-                    break
-
-        # League: prioritas sumber 1 (lebih lengkap), fallback sumber 2
-        league = e1.get("league") or (match.get("league") if match else None)
-
-        title_e1 = f"{e1['team_home']} vs {e1['team_away']}" if (e1.get("team_home") and e1.get("team_away")) else e1["title"]
-
-        merged.append({
-            "date": e1["date"],
-            "time_utc": e1["time_utc"],
-            "time_utc1": e1["time_utc1"],
-            "league": league,
-            "title": title_e1,
-            "team_home": e1.get("team_home"),
-            "team_away": e1.get("team_away"),
-            "sources": sources,
-            "streams_by_language": merge_streams_by_lang(all_streams),
-        })
-
-    # Tambah event sumber 2 yang tidak punya pasangan
-    for i, e2 in enumerate(events2):
-        if i in matched_s2_indices:
-            continue
-
-        title_e2 = f"{e2['team_home']} vs {e2['team_away']}" if (e2.get("team_home") and e2.get("team_away")) else e2["title"]
-
-        merged.append({
-            "date": e2["date"],
-            "time_utc": e2["time_utc"],
-            "time_utc1": e2["time_utc1"],
-            "league": e2.get("league"),
-            "title": title_e2,
-            "team_home": e2.get("team_home"),
-            "team_away": e2.get("team_away"),
-            "sources": ["sportsonline"],
-            "streams_by_language": merge_streams_by_lang(e2["streams"]),
-        })
+    for source_events in sources_list:
+        for e in source_events:
+            match = find_best_match(e, merged)
+            if match:
+                match["streams"].extend(e["streams"])
+                if e["_source"] not in match["sources"]:
+                    match["sources"].append(e["_source"])
+                if not match.get("league") and e.get("league"):
+                    match["league"] = e["league"]
+                if not match.get("team_home") and e.get("team_home"):
+                    match["team_home"] = e["team_home"]
+                if not match.get("team_away") and e.get("team_away"):
+                    match["team_away"] = e["team_away"]
+            else:
+                new_event = {
+                    "date": e["date"],
+                    "time_utc": e["time_utc"],
+                    "time_utc1": e["time_utc1"],
+                    "league": e.get("league"),
+                    "title": e["title"],
+                    "team_home": e.get("team_home"),
+                    "team_away": e.get("team_away"),
+                    "sources": [e["_source"]],
+                    "streams": list(e["streams"]),
+                    "_match_key": e.get("_match_key") or normalize_text(e["title"]),
+                }
+                merged.append(new_event)
 
     import calendar
-
-    # Tambahkan startTimestamp ke semua event
+    final_merged = []
     for e in merged:
+        if e.get("team_home") and e.get("team_away"):
+            title = f"{e['team_home']} vs {e['team_away']}"
+        else:
+            title = e["title"]
+
         dt_str = f"{e['date']} {e['time_utc']}"
         try:
             dt_obj = datetime.strptime(dt_str, "%Y-%m-%d %H:%M")
-            # calendar.timegm menganggap tuple sebagai UTC dan mengembalikan unix timestamp
-            e["startTimestamp"] = int(calendar.timegm(dt_obj.timetuple()))
+            start_timestamp = int(calendar.timegm(dt_obj.timetuple()))
         except ValueError:
-            e["startTimestamp"] = 0
+            start_timestamp = 0
 
-    # Sort by startTimestamp
-    merged.sort(key=lambda x: x["startTimestamp"])
-    return merged
+        final_merged.append({
+            "date": e["date"],
+            "time_utc": e["time_utc"],
+            "time_utc1": e["time_utc1"],
+            "league": e["league"],
+            "title": title,
+            "team_home": e["team_home"],
+            "team_away": e["team_away"],
+            "sources": e["sources"],
+            "streams_by_language": merge_streams_by_lang(e["streams"]),
+            "startTimestamp": start_timestamp,
+        })
+
+    final_merged.sort(key=lambda x: x["startTimestamp"])
+    return final_merged
 
 
 # ═══════════════════════════════════════════════
@@ -914,20 +993,36 @@ def main():
     events2 = parse_source2(raw2)
     print(f"   → {len(events2)} event ditemukan")
 
+    # ── Fetch sumber 3 ──
+    print(f"\n🔽 Fetching sumber 3: {SOURCE3_URL}")
+    try:
+        raw3 = fetch_url(SOURCE3_URL)
+        print(f"   ✅ Berhasil ({len(raw3):,} bytes)")
+    except Exception as e:
+        print(f"   ❌ Gagal: {e}")
+        sys.exit(1)
+
+    # Parse sumber 3
+    print("\n🔍 Parsing sumber 3 (manual)...")
+    events3 = parse_manual_sch(raw3)
+    print(f"   → {len(events3)} event ditemukan")
+
     # ── Merge ──
     print("\n🔗 Merging events...")
-    merged = merge_events(events1, events2)
+    merged = merge_events(events1, events2, events3)
     print(f"   → {len(merged)} event total")
 
     # Statistik
     both = sum(1 for e in merged if len(e["sources"]) > 1)
     only1 = sum(1 for e in merged if e["sources"] == ["cartelive"])
     only2 = sum(1 for e in merged if e["sources"] == ["sportsonline"])
+    only3 = sum(1 for e in merged if e["sources"] == ["manual"])
 
     print(f"\n📊 Statistik:")
-    print(f"   ✅ Matched (kedua sumber) : {both}")
+    print(f"   ✅ Matched (multi sumber) : {both}")
     print(f"   🔵 Hanya cartelive        : {only1}")
     print(f"   🟢 Hanya sportsonline     : {only2}")
+    print(f"   🟣 Hanya manual           : {only3}")
 
     # ── Output ──
     output = {
@@ -935,6 +1030,7 @@ def main():
         "sources": [
             {"name": "cartelive", "url": SOURCE1_URL, "timezone": "UTC+1"},
             {"name": "sportsonline", "url": SOURCE2_URL, "timezone": "UTC+0"},
+            {"name": "manual", "url": SOURCE3_URL, "timezone": "UTC+0"},
         ],
         "timezone_output": "UTC+0",
         "total_events": len(merged),
@@ -951,7 +1047,7 @@ def main():
     print("📋 Preview (5 event pertama):")
     print(f"{'─' * 60}")
     for e in merged[:5]:
-        src_icons = {"cartelive": "🔵", "sportsonline": "🟢"}
+        src_icons = {"cartelive": "🔵", "sportsonline": "🟢", "manual": "🟣"}
         src_str = " ".join(src_icons.get(s, "⚪") for s in e["sources"])
         langs = list(e["streams_by_language"].keys())
         stream_count = sum(len(v) for v in e["streams_by_language"].values())
