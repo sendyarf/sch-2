@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T21:35:21.898960",
+  "generated_at": "2026-06-11T23:09:18.190802",
   "sources": [
     {
       "name": "cartelive",
@@ -1823,128 +1823,6 @@
     },
     {
       "date": "2026-06-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Coupe Du Monde",
-      "title": "Mexique vs Afrique du Sud",
-      "team_home": "Mexique",
-      "team_away": "Afrique du Sud",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781204400
-    },
-    {
-      "date": "2026-06-11",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Chicago Cubs",
-      "team_home": "Colorado Rockies",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781205000
-    },
-    {
-      "date": "2026-06-11",
       "time_utc": "22:40",
       "time_utc1": "00:40",
       "league": "MLB",
@@ -2102,6 +1980,64 @@
         ]
       },
       "startTimestamp": 1781229600
+    },
+    {
+      "date": "2026-06-12",
+      "time_utc": "11:30",
+      "time_utc1": "13:30",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix de Barcelone Essais libres 1",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781263800
+    },
+    {
+      "date": "2026-06-12",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix de Barcelone Essais libres 2",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781276400
     }
   ]
 }
