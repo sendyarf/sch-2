@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:30:31.884593",
+  "generated_at": "2026-06-12T06:33:18.607772",
   "sources": [
     {
       "name": "cartelive",
@@ -18,8 +18,92 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 40,
+  "total_events": 35,
   "events": [
+    {
+      "date": "2026-06-11",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": "World - FIFA World Cup, Group A",
+      "title": "Mexico vs South Africa",
+      "team_home": "Mexico",
+      "team_away": "South Africa",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?hls=lasestre",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "ja": [
+          {
+            "channel": "CH-JP",
+            "url": "https://multi.govoet.cc/?hls=nhkbs4k",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1781204400
+    },
     {
       "date": "2026-06-11",
       "time_utc": "22:40",
@@ -273,37 +357,13 @@
       "time_utc": "02:00",
       "time_utc1": "04:00",
       "league": "World - FIFA World Cup, Group A",
-      "title": "Mexico vs South Africa",
-      "team_home": "Mexico",
-      "team_away": "South Africa",
+      "title": "South Korea vs Czechia",
+      "team_home": "South Korea",
+      "team_away": "Czechia",
       "sources": [
         "manual"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=tvela1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-MX",
-            "url": "https://multi.govoet.cc/?hls=lasestre",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=sportv",
-            "source": "manual"
-          }
-        ],
         "cs": [
           {
             "channel": "CH-CZ",
@@ -311,21 +371,19 @@
             "source": "manual"
           }
         ],
-        "sk": [
+        "es": [
           {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=jojsport",
-            "source": "manual"
-          }
-        ],
-        "ja": [
-          {
-            "channel": "CH-JP",
-            "url": "https://multi.govoet.cc/?hls=nhkbs4k",
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
           }
         ],
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=fox1us",
+            "source": "manual"
+          },
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn1",
@@ -333,7 +391,7 @@
           },
           {
             "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
             "source": "manual"
           },
           {
@@ -342,10 +400,10 @@
             "source": "manual"
           }
         ],
-        "de": [
+        "sk": [
           {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
             "source": "manual"
           }
         ]
@@ -396,64 +454,6 @@
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781254800
-    },
-    {
-      "date": "2026-06-12",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "World - FIFA World Cup, Group A",
-      "title": "South Korea vs Czechia",
-      "team_home": "South Korea",
-      "team_away": "Czechia",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=fox1us",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn5",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=jojsport",
-            "source": "manual"
           }
         ]
       },
@@ -548,12 +548,13 @@
       "date": "2026-06-12",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": null,
+      "league": "World - FIFA World Cup, Group B",
       "title": "Canada vs Bosnia and Herzegovina",
       "team_home": "Canada",
       "team_away": "Bosnia and Herzegovina",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -571,6 +572,21 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
           }
         ],
         "de": [
@@ -592,6 +608,16 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
           }
         ],
         "it": [
@@ -647,6 +673,20 @@
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
           }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "ja": [
+          {
+            "channel": "CH-JP",
+            "url": "https://multi.govoet.cc/?shaka=nhkbs4k",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1781290800
@@ -677,12 +717,13 @@
       "date": "2026-06-13",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": null,
+      "league": "World - FIFA World Cup, Group D",
       "title": "USA vs Paraguay",
       "team_home": "USA",
       "team_away": "Paraguay",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -700,6 +741,26 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
           }
         ],
         "de": [
@@ -721,6 +782,16 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?hls=lasestre",
+            "source": "manual"
           }
         ],
         "it": [
@@ -763,6 +834,11 @@
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
           }
         ],
         "pt-BR": [
@@ -776,86 +852,6 @@
             "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1781312400
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "World - FIFA World Cup, Group B",
-      "title": "Canada vs Bosnia & Herzegovina",
-      "team_home": "Canada",
-      "team_away": "Bosnia & Herzegovina",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=tvela1",
-            "source": "manual"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=jojsport",
-            "source": "manual"
-          }
-        ],
-        "ja": [
-          {
-            "channel": "CH-JP",
-            "url": "https://multi.govoet.cc/?shaka=nhkbs4k",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn3",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1781316000
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "World - FIFA World Cup, Group D",
-      "title": "USA vs Paraguay",
-      "team_home": "USA",
-      "team_away": "Paraguay",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=sportv",
-            "source": "manual"
-          }
         ],
         "cs": [
           {
@@ -863,43 +859,9 @@
             "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-MX",
-            "url": "https://multi.govoet.cc/?hls=lasestre",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn3",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn5",
-            "source": "manual"
-          }
         ]
       },
-      "startTimestamp": 1781337600
+      "startTimestamp": 1781312400
     },
     {
       "date": "2026-06-13",
@@ -998,12 +960,13 @@
       "date": "2026-06-13",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": null,
+      "league": "World - FIFA World Cup, Group B",
       "title": "Qatar vs Switzerland",
       "team_home": "Qatar",
       "team_away": "Switzerland",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -1021,6 +984,21 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn3",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
           }
         ],
         "de": [
@@ -1028,6 +1006,11 @@
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
           }
         ],
         "fr": [
@@ -1042,6 +1025,11 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           }
         ],
         "unknown": [
@@ -1090,6 +1078,20 @@
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
           }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1781377200
@@ -1098,12 +1100,13 @@
       "date": "2026-06-13",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": null,
+      "league": "World - FIFA World Cup, Group C",
       "title": "Brazil vs Morocco",
       "team_home": "Brazil",
       "team_away": "Morocco",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -1121,6 +1124,21 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
           }
         ],
         "de": [
@@ -1128,6 +1146,11 @@
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
           }
         ],
         "fr": [
@@ -1142,6 +1165,21 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?hls=lasestre",
+            "source": "manual"
           }
         ],
         "it": [
@@ -1189,6 +1227,11 @@
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
           }
         ],
         "pt-BR": [
@@ -1207,6 +1250,20 @@
             "url": "https://multi.govoet.cc/?ss=br5",
             "source": "sportsonline"
           }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1781388000
@@ -1215,12 +1272,13 @@
       "date": "2026-06-14",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": null,
+      "league": "World - FIFA World Cup, Group C",
       "title": "Haiti vs Scotland",
       "team_home": "Haiti",
       "team_away": "Scotland",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -1238,6 +1296,21 @@
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
           }
         ],
         "de": [
@@ -1259,6 +1332,11 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           }
         ],
         "it": [
@@ -1314,28 +1392,6 @@
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1781398800
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "World - FIFA World Cup, Group B",
-      "title": "Qatar vs Switzerland",
-      "team_home": "Qatar",
-      "team_away": "Switzerland",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
         ],
         "sk": [
           {
@@ -1344,39 +1400,15 @@
             "source": "manual"
           }
         ],
-        "cs": [
+        "ja": [
           {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn3",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "channel": "CH-JP",
+            "url": "https://multi.govoet.cc/?hls=nhkbs4k",
             "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1781402400
+      "startTimestamp": 1781398800
     },
     {
       "date": "2026-06-14",
@@ -1487,187 +1519,8 @@
     },
     {
       "date": "2026-06-14",
-      "time_utc": "05:00",
-      "time_utc1": "07:00",
-      "league": "World - FIFA World Cup, Group C",
-      "title": "Brazil vs Morocco",
-      "team_home": "Brazil",
-      "team_away": "Morocco",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=tvela1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-MX",
-            "url": "https://multi.govoet.cc/?hls=lasestre",
-            "source": "manual"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=jojsport",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=sportv",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn5",
-            "source": "manual"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=zdfde",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1781413200
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "World - FIFA World Cup, Group C",
-      "title": "Haiti vs Scotland",
-      "team_home": "Haiti",
-      "team_away": "Scotland",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=jojsport",
-            "source": "manual"
-          }
-        ],
-        "ja": [
-          {
-            "channel": "CH-JP",
-            "url": "https://multi.govoet.cc/?hls=nhkbs4k",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn5",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1781424000
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Superbike World SBK",
-      "title": "Pirelli GP Italy - Tissot Superpole",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781427600
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250 - Stuttgart",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781434800
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
+      "time_utc": "04:00",
+      "time_utc1": "06:00",
       "league": "World - FIFA World Cup, Group D",
       "title": "Australia vs Türkiye",
       "team_home": "Australia",
@@ -1717,6 +1570,55 @@
             "channel": "CH-PT",
             "url": "https://multi.govoet.cc/?shaka=sportv",
             "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1781409600
+    },
+    {
+      "date": "2026-06-14",
+      "time_utc": "09:00",
+      "time_utc1": "11:00",
+      "league": "Superbike World SBK",
+      "title": "Pirelli GP Italy - Tissot Superpole",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781427600
+    },
+    {
+      "date": "2026-06-14",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": "Tennis",
+      "title": "ATP World Tour 250 - Stuttgart",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },

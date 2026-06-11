@@ -783,6 +783,17 @@ def parse_manual_sch(raw: str) -> list[dict]:
         if not date_str or not time_str:
             continue
 
+        # Waktu input manual_sch adalah UTC+7. Ubah ke UTC+0.
+        try:
+            dt_utc7 = datetime.strptime(f"{date_str}T{time_str}", "%Y-%m-%dT%H:%M")
+            dt_utc0 = dt_utc7 - timedelta(hours=7)
+            date_utc0 = dt_utc0.strftime("%Y-%m-%d")
+            time_utc0 = dt_utc0.strftime("%H:%M")
+        except ValueError:
+            date_utc0 = date_str
+            time_utc0 = time_str
+            dt_utc0 = None
+
         league = apply_translation(m.get("league"), "leagues")
         team_home = apply_translation(m.get("team1", {}).get("name"), "teams")
         team_away = apply_translation(m.get("team2", {}).get("name"), "teams")
@@ -806,17 +817,16 @@ def parse_manual_sch(raw: str) -> list[dict]:
                 "source": "manual",
             })
 
-        try:
-            dt_utc0 = datetime.strptime(f"{date_str}T{time_str}", "%Y-%m-%dT%H:%M")
+        if dt_utc0:
             offset_hours = get_eu_dst_offset(dt_utc0, "CEU")
             dt_utc1 = dt_utc0 + timedelta(hours=offset_hours)
             time_utc1 = dt_utc1.strftime("%H:%M")
-        except ValueError:
-            time_utc1 = time_str
+        else:
+            time_utc1 = time_utc0
 
         events.append({
-            "date": date_str,
-            "time_utc": time_str,
+            "date": date_utc0,
+            "time_utc": time_utc0,
             "time_utc1": time_utc1,
             "league": league,
             "title": title,
