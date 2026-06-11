@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T22:56:47.290796",
+  "generated_at": "2026-06-11T00:12:54.668160",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 34,
+  "total_events": 33,
   "events": [
     {
       "date": "2026-06-05",
@@ -452,82 +452,18 @@
       "time_utc": "20:00",
       "time_utc1": "22:00",
       "league": null,
-      "title": "Bolivia vs Algeria",
-      "team_home": "Bolivia",
-      "team_away": "Algeria",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781121600
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "San Diego Padres vs Cincinnati Reds",
-      "team_home": "San Diego Padres",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781122200
-    },
-    {
-      "date": "2026-06-10",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "International Friendly",
       "title": "England vs Costa Rica",
       "team_home": "England",
       "team_away": "Costa Rica",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "equipe",
-            "url": "https://multi.govoet.cc/?envivo=19",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -545,7 +481,29 @@
           }
         ]
       },
-      "startTimestamp": 1781125200
+      "startTimestamp": 1781121600
+    },
+    {
+      "date": "2026-06-10",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": null,
+      "title": "Bolivia vs Algeria",
+      "team_home": "Bolivia",
+      "team_away": "Algeria",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781121600
     },
     {
       "date": "2026-06-10",
