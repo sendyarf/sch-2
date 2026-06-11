@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:38:17.848058",
+  "generated_at": "2026-06-12T06:47:14.249017",
   "sources": [
     {
       "name": "cartelive",
@@ -242,6 +242,11 @@
         ],
         "es": [
           {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
             "channel": "ES DAZN 1",
             "url": "https://multi.govoet.cc/?envivo=56",
             "source": "cartelive"
@@ -265,34 +270,9 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
           }
         ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=fox1us",
@@ -312,6 +292,26 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn4",
             "source": "manual"
+          },
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "de": [
@@ -541,21 +541,6 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn1",
             "source": "manual"
@@ -569,6 +554,21 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn4",
             "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "de": [
@@ -587,11 +587,6 @@
         ],
         "es": [
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
@@ -600,6 +595,11 @@
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=tvela1",
             "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "it": [
@@ -710,21 +710,6 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn1",
             "source": "manual"
@@ -743,6 +728,21 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn5",
             "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "de": [
@@ -761,11 +761,6 @@
         ],
         "es": [
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
@@ -774,6 +769,11 @@
             "channel": "CH-MX",
             "url": "https://multi.govoet.cc/?hls=lasestre",
             "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "it": [
@@ -813,14 +813,14 @@
         ],
         "pt": [
           {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-PT",
             "url": "https://multi.govoet.cc/?shaka=sportv",
             "source": "manual"
+          },
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
           }
         ],
         "pt-BR": [
@@ -953,21 +953,6 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn1",
             "source": "manual"
@@ -981,18 +966,33 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn4",
             "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "de": [
           {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=zdfde",
             "source": "manual"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
           }
         ],
         "fr": [
@@ -1004,14 +1004,14 @@
         ],
         "es": [
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "unknown": [
@@ -1093,21 +1093,6 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn1",
             "source": "manual"
@@ -1121,18 +1106,33 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn5",
             "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "de": [
           {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=zdfde",
             "source": "manual"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
           }
         ],
         "fr": [
@@ -1143,11 +1143,6 @@
           }
         ],
         "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          },
           {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
@@ -1162,6 +1157,11 @@
             "channel": "CH-MX",
             "url": "https://multi.govoet.cc/?hls=lasestre",
             "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "it": [
@@ -1201,6 +1201,11 @@
         ],
         "pt": [
           {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
+          },
+          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
@@ -1209,11 +1214,6 @@
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          },
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=sportv",
-            "source": "manual"
           }
         ],
         "pt-BR": [
@@ -1265,21 +1265,6 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn1",
             "source": "manual"
@@ -1293,6 +1278,21 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn5",
             "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "de": [
@@ -1311,14 +1311,14 @@
         ],
         "es": [
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "it": [
@@ -1407,21 +1407,6 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=fox1us",
             "source": "manual"
@@ -1440,6 +1425,21 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn5",
             "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
         "de": [
@@ -1458,14 +1458,14 @@
         ],
         "es": [
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "it": [
@@ -1505,14 +1505,14 @@
         ],
         "pt": [
           {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          },
-          {
             "channel": "CH-PT",
             "url": "https://multi.govoet.cc/?shaka=sportv",
             "source": "manual"
+          },
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
           }
         ],
         "pt-BR": [

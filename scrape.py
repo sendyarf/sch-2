@@ -880,6 +880,10 @@ def merge_streams_by_lang(streams: list[dict]) -> dict:
             "source": s.get("source"),
         })
 
+    # Urutkan stream agar sumber "manual" berada di posisi paling atas
+    for lang in by_lang:
+        by_lang[lang].sort(key=lambda s: s.get("source") != "manual")
+
     return by_lang
 
 
