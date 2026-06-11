@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:33:18.607772",
+  "generated_at": "2026-06-12T06:35:15.232789",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 35,
+  "total_events": 33,
   "events": [
     {
       "date": "2026-06-11",
@@ -224,7 +224,8 @@
       "team_away": "Czech Republic",
       "sources": [
         "cartelive",
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "fr": [
@@ -264,6 +265,11 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           }
         ],
         "en": [
@@ -286,6 +292,26 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=fox1us",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
           }
         ],
         "de": [
@@ -348,55 +374,11 @@
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1781229600
-    },
-    {
-      "date": "2026-06-12",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "World - FIFA World Cup, Group A",
-      "title": "South Korea vs Czechia",
-      "team_home": "South Korea",
-      "team_away": "Czechia",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
+        ],
         "cs": [
           {
             "channel": "CH-CZ",
             "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=fox1us",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn5",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
             "source": "manual"
           }
         ],
@@ -1414,12 +1396,13 @@
       "date": "2026-06-14",
       "time_utc": "04:00",
       "time_utc1": "06:00",
-      "league": null,
+      "league": "World - FIFA World Cup, Group D",
       "title": "Australia vs Turkey",
       "team_home": "Australia",
       "team_away": "Turkey",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -1437,6 +1420,26 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=fox1us",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn5",
+            "source": "manual"
           }
         ],
         "de": [
@@ -1458,6 +1461,11 @@
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           }
         ],
         "it": [
@@ -1500,6 +1508,11 @@
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
+          },
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
           }
         ],
         "pt-BR": [
@@ -1513,62 +1526,11 @@
             "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1781409600
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "04:00",
-      "time_utc1": "06:00",
-      "league": "World - FIFA World Cup, Group D",
-      "title": "Australia vs Türkiye",
-      "team_home": "Australia",
-      "team_away": "Türkiye",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=fox1us",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn5",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
         ],
         "sk": [
           {
             "channel": "CH-SK",
             "url": "https://multi.govoet.cc/?shaka=jojsport",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=sportv",
             "source": "manual"
           }
         ]
