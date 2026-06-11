@@ -407,10 +407,19 @@ def events_are_matchable(e1: dict, e2: dict) -> float:
 
 def extract_league_from_title(title: str) -> tuple[str | None, str]:
     """Ekstrak league dari prefix title sumber 2."""
+    # 1. Cek hardcoded prefixes dulu
     for prefix, league_name in KNOWN_LEAGUE_PREFIXES:
         if title.startswith(prefix + ":"):
             rest = title[len(prefix) + 1:].strip()
             return league_name, rest
+
+    # 2. Dynamic extraction untuk prefix umum seperti "Handball: ..." atau "Tennis: ..."
+    m = re.match(r'^([a-zA-Z0-9\s\-\.]{3,30}):\s*(.+)$', title)
+    if m:
+        league_name = m.group(1).strip()
+        rest = m.group(2).strip()
+        return league_name, rest
+
     return None, title
 
 

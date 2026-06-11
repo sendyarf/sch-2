@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:19:22.101031",
+  "generated_at": "2026-06-12T06:26:03.150656",
   "sources": [
     {
       "name": "cartelive",
@@ -13,7 +13,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 45,
+  "total_events": 43,
   "events": [
     {
       "date": "2026-06-11",
@@ -267,8 +267,8 @@
       "date": "2026-06-12",
       "time_utc": "08:20",
       "time_utc1": "10:20",
-      "league": null,
-      "title": "Superbike World SBK: Pirelli GP Italy - FP1",
+      "league": "Superbike World SBK",
+      "title": "Pirelli GP Italy - FP1",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -289,8 +289,8 @@
       "date": "2026-06-12",
       "time_utc": "09:00",
       "time_utc1": "11:00",
-      "league": null,
-      "title": "Tennis: ATP World Tour 250 - Stuttgart",
+      "league": "Tennis",
+      "title": "ATP World Tour 250 - Stuttgart",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -312,7 +312,7 @@
       "time_utc": "11:30",
       "time_utc1": "13:30",
       "league": "Formula 1",
-      "title": "Formula 1: Grand Prix de Barcelone Essais libres 1",
+      "title": "Grand Prix of Barcelona Free Practice 1",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -340,52 +340,8 @@
       "date": "2026-06-12",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": null,
-      "title": "World WCR: Pirelli GP Italy - Tissot Superpole",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781263800
-    },
-    {
-      "date": "2026-06-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": null,
-      "title": "Superbike World SPB: Pirelli GP Italy - Tissot Superpole",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781263800
-    },
-    {
-      "date": "2026-06-12",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": null,
-      "title": "Superbike World SSP: Pirelli GP Italy - Tissot Superpole",
+      "league": "World WCR",
+      "title": "Pirelli GP Italy - Tissot Superpole",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -406,8 +362,8 @@
       "date": "2026-06-12",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": null,
-      "title": "Superbike World SBK: Pirelli GP Italy - FP2",
+      "league": "Superbike World SBK",
+      "title": "Pirelli GP Italy - FP2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -429,7 +385,7 @@
       "time_utc": "15:00",
       "time_utc1": "17:00",
       "league": "Formula 1",
-      "title": "Formula 1: Grand Prix de Barcelone Essais libres 2",
+      "title": "Grand Prix of Barcelona Free Practice 2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -693,8 +649,8 @@
       "date": "2026-06-13",
       "time_utc": "07:30",
       "time_utc1": "09:30",
-      "league": null,
-      "title": "Superbike World SBK: Pirelli GP Italy - FP3",
+      "league": "Superbike World SBK",
+      "title": "Pirelli GP Italy - FP3",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -715,8 +671,8 @@
       "date": "2026-06-13",
       "time_utc": "09:00",
       "time_utc1": "11:00",
-      "league": null,
-      "title": "World WCR: Pirelli GP Italy - Race 1",
+      "league": "World WCR",
+      "title": "Pirelli GP Italy - Race 1",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -737,8 +693,8 @@
       "date": "2026-06-13",
       "time_utc": "10:00",
       "time_utc1": "12:00",
-      "league": null,
-      "title": "Tennis: ATP World Tour 250 - Stuttgart",
+      "league": "Tennis",
+      "title": "ATP World Tour 250 - Stuttgart",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -759,8 +715,8 @@
       "date": "2026-06-13",
       "time_utc": "10:00",
       "time_utc1": "12:00",
-      "league": null,
-      "title": "Superbike World SPB: Pirelli GP Italy - Race 1",
+      "league": "Superbike World SPB",
+      "title": "Pirelli GP Italy - Race 1",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -781,8 +737,8 @@
       "date": "2026-06-13",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": null,
-      "title": "Superbike World SSP: Pirelli GP Italy - Race 1",
+      "league": "Superbike World SSP",
+      "title": "Pirelli GP Italy - Race 1",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -803,9 +759,9 @@
       "date": "2026-06-13",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": null,
-      "title": "Handball: Magdeburg vs Fechse Berlin",
-      "team_home": "Handball: Magdeburg",
+      "league": "Handball",
+      "title": "Magdeburg vs Fechse Berlin",
+      "team_home": "Magdeburg",
       "team_away": "Fechse Berlin",
       "sources": [
         "sportsonline"
@@ -825,8 +781,8 @@
       "date": "2026-06-13",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": null,
-      "title": "Surf: WSL - El Salvador Pro",
+      "league": "Surf",
+      "title": "WSL - El Salvador Pro",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -869,9 +825,9 @@
       "date": "2026-06-13",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": null,
-      "title": "Handball: Aalborg vs Barcelona",
-      "team_home": "Handball: Aalborg",
+      "league": "Handball",
+      "title": "Aalborg vs Barcelona",
+      "team_home": "Aalborg",
       "team_away": "Barcelona",
       "sources": [
         "sportsonline"
@@ -1322,8 +1278,8 @@
       "date": "2026-06-14",
       "time_utc": "09:00",
       "time_utc1": "11:00",
-      "league": null,
-      "title": "Superbike World SBK: Pirelli GP Italy - Tissot Superpole",
+      "league": "Superbike World SBK",
+      "title": "Pirelli GP Italy - Tissot Superpole",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1344,8 +1300,8 @@
       "date": "2026-06-14",
       "time_utc": "09:45",
       "time_utc1": "11:45",
-      "league": null,
-      "title": "World WCR: Pirelli GP Italy - Race 2",
+      "league": "World WCR",
+      "title": "Pirelli GP Italy - Race 2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1366,8 +1322,8 @@
       "date": "2026-06-14",
       "time_utc": "10:45",
       "time_utc1": "12:45",
-      "league": null,
-      "title": "Superbike World SPB: Pirelli GP Italy - Race 2",
+      "league": "Superbike World SPB",
+      "title": "Pirelli GP Italy - Race 2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1388,8 +1344,8 @@
       "date": "2026-06-14",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": null,
-      "title": "Tennis: ATP World Tour 250 - Stuttgart",
+      "league": "Tennis",
+      "title": "ATP World Tour 250 - Stuttgart",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1410,8 +1366,8 @@
       "date": "2026-06-14",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": null,
-      "title": "Superbike World SBK: Pirelli GP Italy - Race 2",
+      "league": "Superbike World SBK",
+      "title": "Pirelli GP Italy - Race 2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1432,8 +1388,8 @@
       "date": "2026-06-14",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": null,
-      "title": "Tennis: ATP World Tour 250 - 's-Hertogenbosch",
+      "league": "Tennis",
+      "title": "ATP World Tour 250 - 's-Hertogenbosch",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1454,8 +1410,8 @@
       "date": "2026-06-14",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": null,
-      "title": "Superbike World SSP: Pirelli GP Italy - Race 2",
+      "league": "Superbike World SSP",
+      "title": "Pirelli GP Italy - Race 2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1476,8 +1432,8 @@
       "date": "2026-06-14",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": null,
-      "title": "Surf: WSL - El Salvador Pro",
+      "league": "Surf",
+      "title": "WSL - El Salvador Pro",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1498,8 +1454,8 @@
       "date": "2026-06-14",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": null,
-      "title": "Premier Padel: Valencia",
+      "league": "Premier Padel",
+      "title": "Valencia",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -1856,8 +1812,8 @@
       "date": "2026-06-15",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": null,
-      "title": "UFC Freedom 250: Ilia Topuria v Justin Gaethje",
+      "league": "UFC Freedom 250",
+      "title": "Ilia Topuria v Justin Gaethje",
       "team_home": null,
       "team_away": null,
       "sources": [
