@@ -15,6 +15,7 @@ if sys.platform == "win32":
 
 SOURCE1_URL = "https://18zone.click/vip3.php"
 SOURCE2_URL = "https://sportsonline.pk/prog.txt"
+SOURCE3_URL = "https://v2-gvtsch.pages.dev/manual_sch.json"
 DICT_FILE = "dictionary.json"
 
 DEEPSEEK_API_KEY = os.environ.get("DEEPSEEK_API_KEY", "")
@@ -181,6 +182,9 @@ def main():
     print("🔽 Fetching Source 2...")
     raw2 = fetch_url(SOURCE2_URL)
 
+    print("🔽 Fetching Source 3...")
+    raw3 = fetch_url(SOURCE3_URL)
+
     # 3. Parse Source 1 (French)
     s1_leagues = set()
     s1_teams = set()
@@ -241,6 +245,27 @@ def main():
                     s2_teams.add(parts[1].strip())
             else:
                 s2_titles.add(clean_title)
+
+    # 4.5. Parse Source 3 (Manual JSON)
+    # Memasukkan item dari Source 3 agar AI bisa mencocokkan variasi kata dari ketiga sumber.
+    try:
+        data3 = json.loads(raw3)
+        for m in data3:
+            league = m.get("league")
+            if league:
+                s1_leagues.add(league)
+                s2_leagues.add(league)
+            
+            t1 = m.get("team1", {}).get("name")
+            t2 = m.get("team2", {}).get("name")
+            if t1:
+                s1_teams.add(t1)
+                s2_teams.add(t1)
+            if t2:
+                s1_teams.add(t2)
+                s2_teams.add(t2)
+    except Exception as e:
+        print(f"   ⚠️ Gagal parse Source 3 untuk dictionary: {e}")
 
     # 5. Filter out already translated/mapped items
     unmatched_leagues = sorted([l for l in s1_leagues if l.lower() not in existing_aliases["leagues"]])
