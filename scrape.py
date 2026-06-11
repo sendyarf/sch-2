@@ -32,11 +32,11 @@ if sys.platform == "win32":
 # KONFIGURASI
 # ═══════════════════════════════════════════════
 
-SOURCE1_URL = "https://cartelive.club/vip3.php"
-SOURCE2_URL = "https://sportsonline.st/prog.txt"
+SOURCE1_URL = "https://18zone.click/vip3.php"
+SOURCE2_URL = "https://sportsonline.pk/prog.txt"
 # Base URL untuk generate stream link sumber 1
 # Formula: CH{N} → player/{N+3}/1
-CARTELIVE_BASE = "https://cartelive.club/player"
+CARTELIVE_BASE = "https://18zone.click/player"
 CARTELIVE_OFFSET = 3  # CH1 = player/4/1
 
 OUTPUT_FILE = "merged_schedule.json"
@@ -341,22 +341,24 @@ def events_are_matchable(e1: dict, e2: dict) -> float:
     Hitung skor matching antara dua event dengan logika yang lebih cerdas.
     Return: 0.0 - 1.0 (atau lebih dengan bonus)
     """
-    # Tanggal HARUS sama
-    if e1["date"] != e2["date"]:
+    # Parse datetimes
+    try:
+        dt1 = datetime.strptime(f"{e1['date']} {e1['time_utc']}", "%Y-%m-%d %H:%M")
+        dt2 = datetime.strptime(f"{e2['date']} {e2['time_utc']}", "%Y-%m-%d %H:%M")
+    except (ValueError, KeyError):
         return 0.0
 
-    # Cek jarak waktu — toleransi ±120 menit (sumber kadang beda interpretasi waktu)
-    try:
-        t1 = datetime.strptime(e1["time_utc"], "%H:%M")
-        t2 = datetime.strptime(e2["time_utc"], "%H:%M")
-        diff_min = abs((t1 - t2).total_seconds()) / 60
-        # Handle midnight wrap (23:50 vs 00:10 = 20 min, bukan 1420 min)
-        if diff_min > 720:
-            diff_min = 1440 - diff_min
-        if diff_min > 120:
-            return 0.0  # Terlalu jauh waktunya
-    except (ValueError, KeyError):
-        pass
+    # Cari selisih terkecil dengan mencoba shift tanggal (-1 day, 0 day, +1 day)
+    # Ini membantu jika satu sumber mencatat game malam di bawah hari sebelumnya.
+    diff_min = 999999.0
+    for day_shift in [-1, 0, 1]:
+        dt2_shifted = dt2 + timedelta(days=day_shift)
+        d_min = abs((dt1 - dt2_shifted).total_seconds()) / 60
+        if d_min < diff_min:
+            diff_min = d_min
+
+    if diff_min > 120:
+        return 0.0  # Terlalu jauh waktunya
 
     # Jika kedua event punya matchup (team_home & team_away)
     e1_has_teams = e1.get("team_home") and e1.get("team_away")
@@ -524,10 +526,11 @@ def parse_source1(schedule_text: str, channel_map: dict) -> list[dict]:
 # PARSER SUMBER 2 — sportsonline.st
 # ═══════════════════════════════════════════════
 
-def determine_dates_from_today() -> dict[str, str]:
+def determine_dates_from_today(raw_s2: str = None) -> dict[str, str]:
     """
     Tentukan mapping hari → tanggal berdasarkan tanggal hari ini.
     Cari hari Jumat terdekat (sebelum atau hari ini), lalu map semua 7 hari (Fri-Thu).
+    Jika raw_s2 mengandung 'LAST UPDATE: DD-MM-YY', gunakan tanggal tersebut sebagai basis.
     """
     today = datetime.now()
     weekday = today.weekday()  # 0=Mon, 4=Fri
@@ -537,10 +540,31 @@ def determine_dates_from_today() -> dict[str, str]:
     friday = today - timedelta(days=days_since_friday)
 
     day_names = ["FRIDAY", "SATURDAY", "SUNDAY", "MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY"]
-    return {
+    day_dates = {
         day_names[i]: (friday + timedelta(days=i)).strftime("%Y-%m-%d")
         for i in range(7)
     }
+
+    if raw_s2:
+        m = re.search(r'LAST UPDATE:\s*(\d{2})-(\d{2})-(\d{2,4})', raw_s2)
+        if m:
+            try:
+                day_val = int(m.group(1))
+                month_val = int(m.group(2))
+                year_val = int(m.group(3))
+                if year_val < 100:
+                    year_val += 2000
+                anchor_date = datetime(year_val, month_val, day_val)
+                weekday_names = ["MONDAY", "TUESDAY", "WEDNESDAY", "THURSDAY", "FRIDAY", "SATURDAY", "SUNDAY"]
+                # Map 7 hari ke depan dari anchor_date
+                for i in range(7):
+                    day_dt = anchor_date + timedelta(days=i)
+                    name = weekday_names[day_dt.weekday()]
+                    day_dates[name] = day_dt.strftime("%Y-%m-%d")
+            except Exception as e:
+                print(f"      [!] Gagal parse LAST UPDATE date: {e}")
+
+    return day_dates
 
 
 # Mapping bahasa channel sumber 2
@@ -570,7 +594,7 @@ def parse_source2(raw: str) -> list[dict]:
     Waktu = UTC+0
     """
     events_by_key: dict[tuple, dict] = {}
-    day_dates = determine_dates_from_today()
+    day_dates = determine_dates_from_today(raw)
 
     current_day = None
     current_date = None

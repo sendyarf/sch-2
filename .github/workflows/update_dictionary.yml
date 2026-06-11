@@ -1,0 +1,44 @@
+name: Auto Update Dictionary using AI
+
+on:
+  schedule:
+    # Run every 3 hours
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+    # Allow manual triggering
+
+jobs:
+  update-dictionary:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run AI Dictionary Updater
+        run: |
+          python update_dictionary_ai.py
+
+      - name: Run Scraper to update schedule
+        run: |
+          python scrape.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Stage both dictionary.json and merged_schedule.json
+          git add dictionary.json merged_schedule.json
+          
+          # Commit and push if there are changes
+          git diff --staged --quiet || (git commit -m "Auto-update dictionary and schedule (AI): $(date -u +'%Y-%m-%d %H:%M UTC')" && git push)
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
