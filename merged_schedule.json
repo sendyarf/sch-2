@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T01:37:40.843675",
+  "generated_at": "2026-06-12T03:41:08.638957",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 34,
+  "total_events": 30,
   "events": [
     {
       "date": "2026-06-11",
@@ -103,108 +103,6 @@
         ]
       },
       "startTimestamp": 1781204400
-    },
-    {
-      "date": "2026-06-11",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Los Angeles Dodgers",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781217600
-    },
-    {
-      "date": "2026-06-11",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Seattle Mariners",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781219100
-    },
-    {
-      "date": "2026-06-11",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Atlanta Braves",
-      "team_home": "Chicago White Sox",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781221200
-    },
-    {
-      "date": "2026-06-12",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Carolina Hurricanes vs Vegas Golden Knights",
-      "team_home": "Carolina Hurricanes",
-      "team_away": "Vegas Golden Knights",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781222400
     },
     {
       "date": "2026-06-12",
