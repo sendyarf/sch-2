@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T03:41:08.638957",
+  "generated_at": "2026-06-12T06:18:09.663733",
   "sources": [
     {
       "name": "cartelive",
@@ -108,20 +108,19 @@
       "date": "2026-06-12",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup, Group A",
       "title": "South Korea vs Czech Republic",
       "team_home": "South Korea",
       "team_away": "Czech Republic",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
+        "cs": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ],
         "es": [
@@ -129,26 +128,6 @@
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
           }
         ],
         "en": [
@@ -170,25 +149,6 @@
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
         ],
