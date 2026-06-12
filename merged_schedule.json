@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T06:47:14.249017",
+  "generated_at": "2026-06-12T01:37:40.843675",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 33,
+  "total_events": 34,
   "events": [
     {
       "date": "2026-06-11",
@@ -186,8 +186,7 @@
       "team_home": "Carolina Hurricanes",
       "team_away": "Vegas Golden Knights",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -203,13 +202,6 @@
             "url": "https://multi.govoet.cc/?envivo=198",
             "source": "cartelive"
           }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
         ]
       },
       "startTimestamp": 1781222400
@@ -224,7 +216,6 @@
       "team_away": "Czech Republic",
       "sources": [
         "cartelive",
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
@@ -233,11 +224,6 @@
             "channel": "beIN SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=1",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -265,11 +251,6 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "en": [
@@ -297,21 +278,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -319,60 +285,6 @@
             "channel": "DE bundliga2",
             "url": "https://multi.govoet.cc/?envivo=112",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
           }
         ],
         "cs": [
@@ -386,6 +298,18 @@
           {
             "channel": "CH-SK",
             "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
             "source": "manual"
           }
         ]
@@ -611,6 +535,16 @@
         ],
         "unknown": [
           {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
@@ -784,6 +718,16 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -1016,6 +960,16 @@
         ],
         "unknown": [
           {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
@@ -1172,6 +1126,16 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -1330,6 +1294,16 @@
         ],
         "unknown": [
           {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
@@ -1476,6 +1450,16 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -2116,6 +2100,108 @@
         ]
       },
       "startTimestamp": 1781488800
+    },
+    {
+      "date": "2026-06-18",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": null,
+      "title": "South Korea vs Czech Republic",
+      "team_home": "South Korea",
+      "team_away": "Czech Republic",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "nl": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "ar": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781748000
     }
   ]
 }
