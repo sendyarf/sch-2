@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:43:30.530571",
+  "generated_at": "2026-06-13T12:15:16.986908",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 29,
+  "total_events": 31,
   "events": [
     {
       "date": "2026-06-11",
@@ -591,6 +591,35 @@
     },
     {
       "date": "2026-06-13",
+      "time_utc": "10:30",
+      "time_utc1": "12:30",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix de Barcelone Essais libres 3",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781346600
+    },
+    {
+      "date": "2026-06-13",
       "time_utc": "13:00",
       "time_utc1": "15:00",
       "league": "Handball",
@@ -610,6 +639,35 @@
         ]
       },
       "startTimestamp": 1781355600
+    },
+    {
+      "date": "2026-06-13",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix de Barcelone Essais qualificatifs",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781359200
     },
     {
       "date": "2026-06-13",
