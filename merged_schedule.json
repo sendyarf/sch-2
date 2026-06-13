@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T20:15:34.478418",
+  "generated_at": "2026-06-13T21:42:49.732492",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 49,
+  "total_events": 47,
   "events": [
     {
       "date": "2026-06-11",
@@ -362,50 +362,6 @@
         ]
       },
       "startTimestamp": 1781366400
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Tenerife vs Barcelona",
-      "team_home": "Tenerife",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781373600
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Minnesota Twins vs St.Louis Cardinals",
-      "team_home": "Minnesota Twins",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781374200
     },
     {
       "date": "2026-06-13",
