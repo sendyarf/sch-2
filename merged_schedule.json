@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T21:42:49.732492",
+  "generated_at": "2026-06-13T22:45:53.347498",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 47,
+  "total_events": 44,
   "events": [
     {
       "date": "2026-06-11",
@@ -367,99 +367,15 @@
       "date": "2026-06-13",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Everton vs Palestino",
-      "team_home": "Everton",
-      "team_away": "Palestino",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781377200
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup, Group B",
       "title": "Qatar vs Switzerland",
       "team_home": "Qatar",
       "team_away": "Switzerland",
       "sources": [
-        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=zdfde",
-            "source": "manual"
-          },
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "CH-EN",
@@ -477,11 +393,6 @@
             "source": "manual"
           },
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
@@ -494,6 +405,37 @@
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -570,57 +512,6 @@
         ]
       },
       "startTimestamp": 1781377200
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "19:05",
-      "time_utc1": "21:05",
-      "league": "Top 14",
-      "title": "Section Paloise vs Racing 92",
-      "team_home": "Section Paloise",
-      "team_away": "Racing 92",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781377500
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "19:07",
-      "time_utc1": "21:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs New York Yankees",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781377620
     },
     {
       "date": "2026-06-13",
