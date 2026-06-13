@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T04:52:45.831001",
+  "generated_at": "2026-06-13T08:17:25.539335",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 31,
+  "total_events": 29,
   "events": [
     {
       "date": "2026-06-11",
@@ -588,50 +588,6 @@
         ]
       },
       "startTimestamp": 1781312400
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "02:05",
-      "time_utc1": "04:05",
-      "league": "MLB",
-      "title": "Athletics vs Colorado Rockies",
-      "team_home": "Athletics",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781316300
-    },
-    {
-      "date": "2026-06-13",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Chicago Cubs",
-      "team_home": "San Francisco Giants",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781316900
     },
     {
       "date": "2026-06-13",
