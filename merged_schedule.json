@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T05:04:00.984201",
+  "generated_at": "2026-06-14T08:47:25.950800",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 31,
+  "total_events": 28,
   "events": [
     {
       "date": "2026-06-11",
@@ -547,112 +547,16 @@
     },
     {
       "date": "2026-06-14",
-      "time_utc": "02:05",
-      "time_utc1": "04:05",
-      "league": "MLB",
-      "title": "Athletics vs Colorado Rockies",
-      "team_home": "Athletics",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781402700
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "02:05",
-      "time_utc1": "04:05",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Chicago Cubs",
-      "team_home": "San Francisco Giants",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781402700
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "02:07",
-      "time_utc1": "04:07",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Tampa Bay Rays",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781402820
-    },
-    {
-      "date": "2026-06-14",
       "time_utc": "04:00",
       "time_utc1": "06:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup, Group D",
       "title": "Australia vs Turkey",
       "team_home": "Australia",
       "team_away": "Turkey",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "CH-EN",
@@ -673,11 +577,13 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=tsn5",
             "source": "manual"
-          },
+          }
+        ],
+        "es": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           }
         ],
         "sk": [
@@ -893,6 +799,11 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -1042,6 +953,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1292,6 +1208,13 @@
             "source": "manual"
           }
         ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          }
+        ],
         "pt": [
           {
             "channel": "CH-PT",
@@ -1411,6 +1334,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
