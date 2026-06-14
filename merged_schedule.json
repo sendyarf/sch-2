@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T18:07:52.250718",
+  "generated_at": "2026-06-14T19:55:53.065605",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 48,
+  "total_events": 45,
   "events": [
     {
       "date": "2026-06-11",
@@ -614,72 +614,6 @@
         ]
       },
       "startTimestamp": 1781409600
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Top 14",
-      "title": "Provence Rugby vs USA Perpignan",
-      "team_home": "Provence Rugby",
-      "team_away": "USA Perpignan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781452800
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Miami Marlins",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781453700
-    },
-    {
-      "date": "2026-06-14",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "D. Concepcion vs Limache",
-      "team_home": "D. Concepcion",
-      "team_away": "Limache",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781454600
     },
     {
       "date": "2026-06-14",
