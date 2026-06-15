@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T13:37:40.411155",
+  "generated_at": "2026-06-15T18:14:49.244334",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 33,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-06-11",
@@ -881,55 +881,6 @@
         ]
       },
       "startTimestamp": 1781488800
-    },
-    {
-      "date": "2026-06-15",
-      "time_utc": "09:30",
-      "time_utc1": "11:30",
-      "league": "Tennis - ATP World Tour 500",
-      "title": "Halle 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781515800
-    },
-    {
-      "date": "2026-06-15",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Surf",
-      "title": "WSL - El Salvador Pro",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1781526600
     },
     {
       "date": "2026-06-15",
@@ -1915,6 +1866,33 @@
         ]
       },
       "startTimestamp": 1781575800
+    },
+    {
+      "date": "2026-06-16",
+      "time_utc": "09:30",
+      "time_utc1": "11:30",
+      "league": "Tennis - ATP World Tour 500",
+      "title": "Halle 2026",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781602200
     },
     {
       "date": "2026-06-16",
