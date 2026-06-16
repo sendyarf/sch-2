@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T07:20:00.838891",
+  "generated_at": "2026-06-16T12:25:08.181227",
   "sources": [
     {
       "name": "cartelive",
@@ -1031,51 +1031,9 @@
       "team_home": "Saudi Arabia",
       "team_away": "Uruguay",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=zdfde",
-            "source": "manual"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
         "es": [
           {
             "channel": "CH-ES",
@@ -1086,18 +1044,6 @@
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=dsports",
             "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ],
         "unknown": [
@@ -1105,51 +1051,6 @@
             "channel": "CH-BE",
             "url": "https://multi.govoet.cc/?shaka=tipik",
             "source": "manual"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
           }
         ],
         "sk": [
@@ -1165,6 +1066,18 @@
             "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1781560800
@@ -1178,25 +1091,26 @@
       "team_home": "Iran",
       "team_away": "New Zealand",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "en": [
+        "es": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           },
           {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          }
+        ],
+        "sk": [
           {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
           }
         ],
         "de": [
@@ -1208,89 +1122,6 @@
           {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=fussballtv1",
-            "source": "manual"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=jojsport",
             "source": "manual"
           }
         ],
@@ -1335,16 +1166,91 @@
       "date": "2026-06-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "France vs Senegal",
       "team_home": "France",
       "team_away": "Senegal",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "m6",
+            "url": "https://multi.govoet.cc/?envivo=26",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          },
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=131",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1361,6 +1267,18 @@
             "source": "sportsonline"
           }
         ],
+        "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
         "de": [
           {
             "channel": "CH-DE",
@@ -1368,49 +1286,13 @@
             "source": "manual"
           },
           {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=foxone",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=tvela1",
-            "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
@@ -1473,40 +1355,27 @@
       "date": "2026-06-16",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "Iraq vs Norway",
       "team_home": "Iraq",
       "team_away": "Norway",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
         "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "m6",
+            "url": "https://multi.govoet.cc/?envivo=26",
+            "source": "cartelive"
+          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -1514,6 +1383,11 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
           {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
@@ -1535,8 +1409,62 @@
             "source": "manual"
           },
           {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=131",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -1616,40 +1544,22 @@
       "date": "2026-06-17",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "Argentina vs Algeria",
       "team_home": "Argentina",
       "team_away": "Algeria",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
         "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -1657,6 +1567,11 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
           {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
@@ -1678,8 +1593,77 @@
             "source": "manual"
           },
           {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT4",
+            "url": "https://multi.govoet.cc/?envivo=158",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT5",
+            "url": "https://multi.govoet.cc/?envivo=159",
+            "source": "cartelive"
+          },
+          {
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          },
+          {
+            "channel": "DE bundliga3",
+            "url": "https://multi.govoet.cc/?envivo=113",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -1744,16 +1728,61 @@
       "date": "2026-06-17",
       "time_utc": "04:00",
       "time_utc1": "06:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "Austria vs Jordan",
       "team_home": "Austria",
       "team_away": "Jordan",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=131",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1777,27 +1806,18 @@
             "source": "manual"
           },
           {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
+            "channel": "DE bundliga1",
+            "url": "https://multi.govoet.cc/?envivo=111",
+            "source": "cartelive"
           },
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -1874,12 +1894,13 @@
       "date": "2026-06-17",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Portugal vs Congo DR",
       "team_home": "Portugal",
       "team_away": "Congo DR",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -1901,6 +1922,16 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -1915,6 +1946,21 @@
         ],
         "es": [
           {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=universo",
+            "source": "manual"
+          },
+          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
@@ -1928,6 +1974,11 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -1972,6 +2023,13 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ]
       },
@@ -2003,12 +2061,13 @@
       "date": "2026-06-17",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "England vs Croatia",
       "team_home": "England",
       "team_away": "Croatia",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -2030,6 +2089,16 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -2044,6 +2113,26 @@
         ],
         "es": [
           {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=tvela1",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?shaka=tudnmx",
+            "source": "manual"
+          },
+          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
@@ -2057,6 +2146,11 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-BE",
+            "url": "https://multi.govoet.cc/?shaka=tipik",
+            "source": "manual"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -2111,6 +2205,13 @@
             "channel": "BR3",
             "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
           }
         ]
       },
@@ -2120,12 +2221,13 @@
       "date": "2026-06-17",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Ghana vs Panama",
       "team_home": "Ghana",
       "team_away": "Panama",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -2147,6 +2249,11 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -2160,6 +2267,11 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -2219,6 +2331,13 @@
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
           }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1781737200
@@ -2227,12 +2346,13 @@
       "date": "2026-06-18",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Uzbekistan vs Colombia",
       "team_home": "Uzbekistan",
       "team_away": "Colombia",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -2254,6 +2374,11 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -2267,6 +2392,11 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -2328,6 +2458,13 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
+          }
+        ],
+        "sk": [
+          {
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=jojsport",
+            "source": "manual"
           }
         ]
       },
@@ -2364,12 +2501,13 @@
       "date": "2026-06-18",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Czech Republic vs South Africa",
       "team_home": "Czech Republic",
       "team_away": "South Africa",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -2391,6 +2529,16 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=zdfde",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=fussballtv1",
+            "source": "manual"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
@@ -2404,6 +2552,11 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
