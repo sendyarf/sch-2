@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T00:12:55.495251",
+  "generated_at": "2026-06-18T05:01:51.259298",
   "sources": [
     {
       "name": "cartelive",
@@ -72,62 +72,25 @@
       "date": "2026-06-17",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Ghana vs Panama",
       "team_home": "Ghana",
       "team_away": "Panama",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
           }
         ],
         "de": [
           {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
             "source": "manual"
           }
         ],
@@ -145,66 +108,19 @@
       "date": "2026-06-18",
       "time_utc": "02:00",
       "time_utc1": "04:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Uzbekistan vs Colombia",
       "team_home": "Uzbekistan",
       "team_away": "Colombia",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=dsports",
             "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
           }
         ],
         "pt": [
