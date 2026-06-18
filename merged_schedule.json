@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T18:35:03.904885",
+  "generated_at": "2026-06-18T21:11:02.376581",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 29,
+  "total_events": 28,
   "events": [
     {
       "date": "2026-06-17",
@@ -144,49 +144,19 @@
       "date": "2026-06-18",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Czech Republic vs South Africa",
       "team_home": "Czech Republic",
       "team_away": "South Africa",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
           }
         ],
         "de": [
@@ -194,51 +164,10 @@
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=dsports",
             "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
           }
         ]
       },
       "startTimestamp": 1781798400
-    },
-    {
-      "date": "2026-06-18",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Valencia vs Barcelona",
-      "team_home": "Valencia",
-      "team_away": "Barcelona",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781805600
     },
     {
       "date": "2026-06-18",
