@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T14:27:16.110037",
+  "generated_at": "2026-06-19T16:57:29.934182",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 34,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-06-17",
@@ -392,18 +392,95 @@
     },
     {
       "date": "2026-06-19",
+      "time_utc": "18:20",
+      "time_utc1": "20:20",
+      "league": "MLB",
+      "title": "Chicago Cubs vs Toronto Blue Jays",
+      "team_home": "Chicago Cubs",
+      "team_away": "Toronto Blue Jays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781893200
+    },
+    {
+      "date": "2026-06-19",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "USA vs Australia",
       "team_home": "USA",
       "team_away": "Australia",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "m6",
+            "url": "https://multi.govoet.cc/?envivo=26",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=universo",
+            "source": "manual"
+          },
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=131",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -432,31 +509,22 @@
             "source": "manual"
           },
           {
+            "channel": "DE bundliga4",
+            "url": "https://multi.govoet.cc/?envivo=114",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=universo",
-            "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -534,18 +602,100 @@
     },
     {
       "date": "2026-06-19",
+      "time_utc": "19:05",
+      "time_utc1": "21:05",
+      "league": "Top 14",
+      "title": "Stade Toulousain vs Racing 92",
+      "team_home": "Stade Toulousain",
+      "team_away": "Racing 92",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+",
+            "url": "https://multi.govoet.cc/?envivo=11",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781895900
+    },
+    {
+      "date": "2026-06-19",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "Scotland vs Morocco",
       "team_home": "Scotland",
       "team_away": "Morocco",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "m6",
+            "url": "https://multi.govoet.cc/?envivo=26",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT4",
+            "url": "https://multi.govoet.cc/?envivo=158",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT5",
+            "url": "https://multi.govoet.cc/?envivo=159",
+            "source": "cartelive"
+          },
+          {
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -569,26 +719,22 @@
             "source": "manual"
           },
           {
+            "channel": "DE bundliga4",
+            "url": "https://multi.govoet.cc/?envivo=114",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -651,19 +797,296 @@
       "startTimestamp": 1781906400
     },
     {
+      "date": "2026-06-19",
+      "time_utc": "22:40",
+      "time_utc1": "00:40",
+      "league": "MLB",
+      "title": "Detroit Tigers vs Chicago White Sox",
+      "team_home": "Detroit Tigers",
+      "team_away": "Chicago White Sox",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781908800
+    },
+    {
+      "date": "2026-06-19",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": "Copa Chili",
+      "title": "A. Italiano vs CD Santa Cruz",
+      "team_home": "A. Italiano",
+      "team_away": "CD Santa Cruz",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNTCHILE Premium",
+            "url": "https://multi.govoet.cc/?envivo=83",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781910000
+    },
+    {
+      "date": "2026-06-19",
+      "time_utc": "23:05",
+      "time_utc1": "01:05",
+      "league": "MLB",
+      "title": "New York Yankees vs Cincinnati Reds",
+      "team_home": "New York Yankees",
+      "team_away": "Cincinnati Reds",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781910300
+    },
+    {
+      "date": "2026-06-19",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "Miami Marlins vs San Francisco Giants",
+      "team_home": "Miami Marlins",
+      "team_away": "San Francisco Giants",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781910600
+    },
+    {
+      "date": "2026-06-19",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "Tampa Bay Rays vs Washington Nationals",
+      "team_home": "Tampa Bay Rays",
+      "team_away": "Washington Nationals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781910600
+    },
+    {
+      "date": "2026-06-19",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Atlanta Braves vs Milwaukee Brewers",
+      "team_home": "Atlanta Braves",
+      "team_away": "Milwaukee Brewers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN4",
+            "url": "https://multi.govoet.cc/?envivo=90",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781910900
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "Copa Chili",
+      "title": "San Marcos de Arica vs Limache",
+      "team_home": "San Marcos de Arica",
+      "team_away": "Limache",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNTCHILE Premium",
+            "url": "https://multi.govoet.cc/?envivo=83",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781913600
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "00:05",
+      "time_utc1": "02:05",
+      "league": "MLB",
+      "title": "Texas Rangers vs San Diego Padres",
+      "team_home": "Texas Rangers",
+      "team_away": "San Diego Padres",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781913900
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "00:10",
+      "time_utc1": "02:10",
+      "league": "MLB",
+      "title": "Houston Astros vs Cleveland Guardians",
+      "team_home": "Houston Astros",
+      "team_away": "Cleveland Guardians",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781914200
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": "MLB",
+      "title": "Kansas City Royals vs St.Louis Cardinals",
+      "team_home": "Kansas City Royals",
+      "team_away": "St.Louis Cardinals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT35",
+            "url": "https://multi.govoet.cc/?envivo=188",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781914500
+    },
+    {
       "date": "2026-06-20",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "Brazil vs Haiti",
       "team_home": "Brazil",
       "team_away": "Haiti",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "CANAL5",
+            "url": "https://multi.govoet.cc/?envivo=107",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Azteca 7",
+            "url": "https://multi.govoet.cc/?envivo=108",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -687,26 +1110,22 @@
             "source": "manual"
           },
           {
+            "channel": "DE bundliga4",
+            "url": "https://multi.govoet.cc/?envivo=114",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -787,22 +1206,177 @@
     },
     {
       "date": "2026-06-20",
+      "time_utc": "00:40",
+      "time_utc1": "02:40",
+      "league": "MLB",
+      "title": "Colorado Rockies vs Pittsburgh Pirates",
+      "team_home": "Colorado Rockies",
+      "team_away": "Pittsburgh Pirates",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT36",
+            "url": "https://multi.govoet.cc/?envivo=189",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781916000
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "01:40",
+      "time_utc1": "03:40",
+      "league": "MLB",
+      "title": "Athletics vs Los Angeles Angels",
+      "team_home": "Athletics",
+      "team_away": "Los Angeles Angels",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT37",
+            "url": "https://multi.govoet.cc/?envivo=190",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781919600
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "01:45",
+      "time_utc1": "03:45",
+      "league": "MLB",
+      "title": "Arizona Diamondbacks vs Minnesota Twins",
+      "team_home": "Arizona Diamondbacks",
+      "team_away": "Minnesota Twins",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT38",
+            "url": "https://multi.govoet.cc/?envivo=191",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781919900
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "02:10",
+      "time_utc1": "04:10",
+      "league": "MLB",
+      "title": "Los Angeles Dodgers vs Baltimore Orioles",
+      "team_home": "Los Angeles Dodgers",
+      "team_away": "Baltimore Orioles",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781921400
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "02:10",
+      "time_utc1": "04:10",
+      "league": "MLB",
+      "title": "Seattle Mariners vs Boston Red Sox",
+      "team_home": "Seattle Mariners",
+      "team_away": "Boston Red Sox",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT40",
+            "url": "https://multi.govoet.cc/?envivo=193",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781921400
+    },
+    {
+      "date": "2026-06-20",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "Turkey vs Paraguay",
       "team_home": "Turkey",
       "team_away": "Paraguay",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=fox1us",
             "source": "manual"
+          },
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
           },
           {
             "channel": "HD1",
@@ -827,26 +1401,22 @@
             "source": "manual"
           },
           {
+            "channel": "DE bundliga4",
+            "url": "https://multi.govoet.cc/?envivo=114",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -963,6 +1533,35 @@
     },
     {
       "date": "2026-06-20",
+      "time_utc": "06:45",
+      "time_utc1": "08:45",
+      "league": "Moto3",
+      "title": "Moto3: Essais libres 2 des Moto 3",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781937900
+    },
+    {
+      "date": "2026-06-20",
       "time_utc": "08:00",
       "time_utc1": "10:00",
       "league": "MotoGP",
@@ -996,6 +1595,35 @@
         ]
       },
       "startTimestamp": 1781942400
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "08:50",
+      "time_utc1": "10:50",
+      "league": "MotoGP",
+      "title": "MotoGP: Essais qualificatifs 1 et 2 des Moto GP",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781945400
     },
     {
       "date": "2026-06-20",
@@ -1059,6 +1687,86 @@
         ]
       },
       "startTimestamp": 1781952300
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "11:40",
+      "time_utc1": "13:40",
+      "league": "Moto2",
+      "title": "Moto2: Essais qualificatifs 1 & 2 des Moto 2",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781955600
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": "MotoGP",
+      "title": "MotoGP: La course Sprint des Moto GP",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1781960400
     },
     {
       "date": "2026-06-20",
