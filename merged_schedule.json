@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T21:41:50.395894",
+  "generated_at": "2026-06-19T22:37:25.108601",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-06-17",
@@ -394,71 +394,16 @@
       "date": "2026-06-19",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "USA vs Australia",
       "team_home": "USA",
       "team_away": "Australia",
       "sources": [
-        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=universo",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -487,22 +432,31 @@
             "source": "manual"
           },
           {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "it": [
+        "fr": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=universo",
+            "source": "manual"
           },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -577,28 +531,6 @@
         ]
       },
       "startTimestamp": 1781895600
-    },
-    {
-      "date": "2026-06-19",
-      "time_utc": "19:05",
-      "time_utc1": "21:05",
-      "league": "Top 14",
-      "title": "Stade Toulousain vs Racing 92",
-      "team_home": "Stade Toulousain",
-      "team_away": "Racing 92",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781895900
     },
     {
       "date": "2026-06-19",
