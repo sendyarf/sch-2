@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T01:51:52.224399",
+  "generated_at": "2026-06-19T06:59:58.801986",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 29,
+  "total_events": 28,
   "events": [
     {
       "date": "2026-06-17",
@@ -257,88 +257,21 @@
     },
     {
       "date": "2026-06-19",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. De Chile vs O'Higgins",
-      "team_home": "U. De Chile",
-      "team_away": "O'Higgins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781827200
-    },
-    {
-      "date": "2026-06-19",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Mexico vs South Korea",
       "team_home": "Mexico",
       "team_away": "South Korea",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-MX",
-            "url": "https://multi.govoet.cc/?shaka=tudnmx",
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
             "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
           }
         ],
         "de": [
@@ -346,24 +279,12 @@
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=dsports",
             "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
           }
         ],
-        "it": [
+        "es": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "channel": "CH-MX",
+            "url": "https://multi.govoet.cc/?shaka=tudnmx",
             "source": "manual"
           }
         ],
