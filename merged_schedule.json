@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T06:48:29.096924",
+  "generated_at": "2026-06-20T09:58:22.376413",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 37,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-06-17",
@@ -541,10 +541,10 @@
     },
     {
       "date": "2026-06-20",
-      "time_utc": "06:45",
-      "time_utc1": "08:45",
-      "league": "Moto3",
-      "title": "Moto3: Essais libres 2 des Moto 3",
+      "time_utc": "07:25",
+      "time_utc1": "09:25",
+      "league": "Moto2",
+      "title": "Moto2: Essais libres 2 des Moto 2",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -566,7 +566,7 @@
           }
         ]
       },
-      "startTimestamp": 1781937900
+      "startTimestamp": 1781940300
     },
     {
       "date": "2026-06-20",
@@ -603,35 +603,6 @@
         ]
       },
       "startTimestamp": 1781942400
-    },
-    {
-      "date": "2026-06-20",
-      "time_utc": "08:50",
-      "time_utc1": "10:50",
-      "league": "MotoGP",
-      "title": "MotoGP: Essais qualificatifs 1 et 2 des Moto GP",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781945400
     },
     {
       "date": "2026-06-20",
@@ -686,6 +657,35 @@
       "date": "2026-06-20",
       "time_utc": "10:45",
       "time_utc1": "12:45",
+      "league": "Moto3",
+      "title": "Moto3: Essais qualificatifs 1 et 2 des Moto 3",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1781952300
+    },
+    {
+      "date": "2026-06-20",
+      "time_utc": "10:45",
+      "time_utc1": "12:45",
       "league": "Moto2/3",
       "title": "Czechia Qualifying",
       "team_home": null,
@@ -717,35 +717,6 @@
         ]
       },
       "startTimestamp": 1781952300
-    },
-    {
-      "date": "2026-06-20",
-      "time_utc": "11:40",
-      "time_utc1": "13:40",
-      "league": "Moto2",
-      "title": "Moto2: Essais qualificatifs 1 & 2 des Moto 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781955600
     },
     {
       "date": "2026-06-20",
