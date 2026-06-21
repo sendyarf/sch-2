@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T17:22:03.911218",
+  "generated_at": "2026-06-21T18:57:27.566161",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 30,
   "events": [
     {
       "date": "2026-06-20",
@@ -140,144 +140,6 @@
     },
     {
       "date": "2026-06-21",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "Moto3",
-      "title": "Grand Prix of Czechia",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782028800
-    },
-    {
-      "date": "2026-06-21",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Judo",
-      "title": "Ulaanbaatar - D3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782032400
-    },
-    {
-      "date": "2026-06-21",
-      "time_utc": "11:15",
-      "time_utc1": "13:15",
-      "league": "MotoGP",
-      "title": "Grand Prix of Czechia",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782040500
-    },
-    {
-      "date": "2026-06-21",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Tennis - ATP World Tour 500",
-      "title": "London 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782045000
-    },
-    {
-      "date": "2026-06-21",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Volleyball",
-      "title": "Azerbaijan vs Portugal",
-      "team_home": "Azerbaijan",
-      "team_away": "Portugal",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782050400
-    },
-    {
-      "date": "2026-06-21",
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": "World Cup",
@@ -286,7 +148,6 @@
       "team_away": "Saudi Arabia",
       "sources": [
         "cartelive",
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
@@ -300,11 +161,6 @@
             "channel": "m6",
             "url": "https://multi.govoet.cc/?envivo=26",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -347,11 +203,6 @@
             "channel": "Azteca 7",
             "url": "https://multi.govoet.cc/?envivo=108",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "en": [
@@ -359,21 +210,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=131",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ],
         "it": [
@@ -381,11 +217,6 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -398,64 +229,19 @@
             "channel": "DE bundliga4",
             "url": "https://multi.govoet.cc/?envivo=114",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
           }
         ],
         "ja": [
           {
             "channel": "CH-JP",
             "url": "https://multi.govoet.cc/?hls=nhkbs4k",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
             "source": "manual"
           }
         ]
@@ -1780,113 +1566,6 @@
         ]
       },
       "startTimestamp": 1782183600
-    },
-    {
-      "date": "2026-06-27",
-      "time_utc": "04:00",
-      "time_utc1": "06:00",
-      "league": null,
-      "title": "Tunisia vs Japan",
-      "team_home": "Tunisia",
-      "team_away": "Japan",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782532800
     }
   ]
 }
