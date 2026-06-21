@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:47:49.514074",
+  "generated_at": "2026-06-21T00:01:08.801155",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-06-20",
@@ -150,104 +150,6 @@
       "date": "2026-06-20",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "World Cup",
-      "title": "Germany vs Ivory Coast",
-      "team_home": "Germany",
-      "team_away": "Ivory Coast",
-      "sources": [
-        "cartelive",
-        "manual"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=sportv",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1781985600
-    },
-    {
-      "date": "2026-06-20",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
       "league": null,
       "title": "Germany vs Côte d'Ivoire",
       "team_home": "Germany",
@@ -353,91 +255,37 @@
     },
     {
       "date": "2026-06-20",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Texas Rangers vs San Diego Padres",
-      "team_home": "Texas Rangers",
-      "team_away": "San Diego Padres",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": "World - FIFA World Cup",
+      "title": "Germany vs Ivory Coast",
+      "team_home": "Germany",
+      "team_away": "Ivory Coast",
       "sources": [
-        "cartelive"
+        "manual"
       ],
       "streams_by_language": {
-        "en": [
+        "de": [
           {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=sportv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1781985900
-    },
-    {
-      "date": "2026-06-20",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Milwaukee Brewers",
-      "team_home": "Atlanta Braves",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781986200
-    },
-    {
-      "date": "2026-06-20",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs San Francisco Giants",
-      "team_home": "Miami Marlins",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781986200
-    },
-    {
-      "date": "2026-06-20",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Washington Nationals",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1781986200
+      "startTimestamp": 1781985600
     },
     {
       "date": "2026-06-20",
