@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T19:44:41.601738",
+  "generated_at": "2026-06-22T21:49:26.659010",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-06-20",
@@ -270,181 +270,21 @@
     },
     {
       "date": "2026-06-22",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250 - Eastbourne",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782122400
-    },
-    {
-      "date": "2026-06-22",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Argentina vs Austria",
       "team_home": "Argentina",
       "team_away": "Austria",
       "sources": [
-        "cartelive",
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
         "de": [
           {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=dsportv",
             "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -457,49 +297,10 @@
             "channel": "CH-PT",
             "url": "https://multi.govoet.cc/?shaka=cazetv",
             "source": "manual"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
           }
         ]
       },
       "startTimestamp": 1782147600
-    },
-    {
-      "date": "2026-06-22",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Endesa",
-      "title": "Barcelona vs Valencia",
-      "team_home": "Barcelona",
-      "team_away": "Valencia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782151200
     },
     {
       "date": "2026-06-22",
@@ -1296,6 +1097,38 @@
     },
     {
       "date": "2026-06-23",
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
+      "league": "Tennis",
+      "title": "ATP World Tour 250 - Eastbourne",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1782208800
+    },
+    {
+      "date": "2026-06-23",
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": "World - FIFA World Cup",
@@ -1816,33 +1649,6 @@
         ]
       },
       "startTimestamp": 1782266400
-    },
-    {
-      "date": "2026-06-24",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250 - Eastbourne",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782295200
     },
     {
       "date": "2026-06-24",
