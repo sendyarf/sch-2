@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T19:18:03.019470",
+  "generated_at": "2026-06-23T21:11:53.228707",
   "sources": [
     {
       "name": "cartelive",
@@ -403,73 +403,19 @@
       "date": "2026-06-23",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Portugal vs Uzbekistan",
       "team_home": "Portugal",
       "team_away": "Uzbekistan",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?hls=trece",
             "source": "manual"
-          },
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
           }
         ],
         "sk": [
