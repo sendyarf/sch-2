@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T18:11:15.925471",
+  "generated_at": "2026-06-25T20:21:20.686690",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-06-20",
@@ -808,64 +808,6 @@
         ]
       },
       "startTimestamp": 1782385200
-    },
-    {
-      "date": "2026-06-25",
-      "time_utc": "16:10",
-      "time_utc1": "18:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Kansas City Royals",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782403800
-    },
-    {
-      "date": "2026-06-25",
-      "time_utc": "16:35",
-      "time_utc1": "18:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Seattle Mariners",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782405300
     },
     {
       "date": "2026-06-25",
