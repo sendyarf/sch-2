@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T15:38:08.419759",
+  "generated_at": "2026-06-27T16:44:33.023518",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 51,
+  "total_events": 50,
   "events": [
     {
       "date": "2026-06-26",
@@ -349,35 +349,6 @@
         ]
       },
       "startTimestamp": 1782567000
-    },
-    {
-      "date": "2026-06-27",
-      "time_utc": "13:40",
-      "time_utc1": "15:40",
-      "league": "Formula 1",
-      "title": "Formula 1: Essais qualificatifs",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782567600
     },
     {
       "date": "2026-06-27",
