@@ -33,7 +33,7 @@ if sys.platform == "win32":
 # ═══════════════════════════════════════════════
 
 SOURCE1_URL = "https://cartelive.club/vip3.php"
-SOURCE2_URL = "https://sportsonline.pk/prog.txt"
+SOURCE2_URL = "https://sportsonline.st/prog.txt"
 SOURCE3_URL = "https://v2-gvtsch.pages.dev/manual_sch.json"
 # Base URL untuk generate stream link sumber 1
 # Formula: CH{N} → player/{N+3}/1
