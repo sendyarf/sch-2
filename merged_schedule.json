@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T21:53:03.027184",
+  "generated_at": "2026-06-30T23:04:24.930631",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 41,
+  "total_events": 40,
   "events": [
     {
       "date": "2026-06-30",
@@ -154,49 +154,6 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1782838800
-    },
-    {
-      "date": "2026-06-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "World - FIFA World Cup",
-      "title": "Ivory Coast vs Norway",
-      "team_home": "Ivory Coast",
-      "team_away": "Norway",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
           }
         ]
       },
@@ -766,6 +723,16 @@
             "source": "cartelive"
           },
           {
+            "channel": "CANAL5",
+            "url": "https://multi.govoet.cc/?envivo=107",
+            "source": "cartelive"
+          },
+          {
+            "channel": "VTV plus",
+            "url": "https://multi.govoet.cc/?envivo=109",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
@@ -1131,15 +1098,21 @@
       "date": "2026-07-01",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Belgium vs Senegal",
       "team_home": "Belgium",
       "team_away": "Senegal",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1153,6 +1126,21 @@
         ],
         "unknown": [
           {
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=unicanal",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=trece",
+            "source": "manual"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
@@ -1164,6 +1152,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1214,6 +1207,11 @@
         ],
         "pt": [
           {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
@@ -1235,6 +1233,13 @@
             "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1782936000
@@ -1243,15 +1248,21 @@
       "date": "2026-07-02",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "USA vs Bosnia and Herzegovina",
       "team_home": "USA",
       "team_away": "Bosnia and Herzegovina",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1265,6 +1276,21 @@
         ],
         "unknown": [
           {
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=unicanal",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=trece",
+            "source": "manual"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
@@ -1276,6 +1302,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1312,6 +1343,11 @@
         ],
         "pt": [
           {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
@@ -1322,6 +1358,13 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ]
       },
@@ -1402,15 +1445,21 @@
       "date": "2026-07-02",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Spain vs Austria",
       "team_home": "Spain",
       "team_away": "Austria",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1424,6 +1473,21 @@
         ],
         "unknown": [
           {
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=unicanal",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=trece",
+            "source": "manual"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
@@ -1435,6 +1499,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1484,6 +1553,11 @@
           }
         ],
         "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
           {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
@@ -1506,6 +1580,13 @@
             "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1783018800
@@ -1514,15 +1595,21 @@
       "date": "2026-07-02",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Portugal vs Croatia",
       "team_home": "Portugal",
       "team_away": "Croatia",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1536,6 +1623,21 @@
         ],
         "unknown": [
           {
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=unicanal",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=trece",
+            "source": "manual"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
@@ -1547,6 +1649,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1597,6 +1704,11 @@
         ],
         "pt": [
           {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
@@ -1607,6 +1719,13 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ]
       },
@@ -1638,15 +1757,21 @@
       "date": "2026-07-03",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Switzerland vs Algeria",
       "team_home": "Switzerland",
       "team_away": "Algeria",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1660,6 +1785,21 @@
         ],
         "unknown": [
           {
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=unicanal",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-PA",
+            "url": "https://multi.govoet.cc/?hls=trece",
+            "source": "manual"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
@@ -1671,6 +1811,11 @@
           }
         ],
         "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1707,6 +1852,11 @@
         ],
         "pt": [
           {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          },
+          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
@@ -1717,6 +1867,13 @@
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ]
       },
