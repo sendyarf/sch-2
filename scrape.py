@@ -32,7 +32,7 @@ if sys.platform == "win32":
 # KONFIGURASI
 # ═══════════════════════════════════════════════
 
-SOURCE1_URL = "https://18zone.click/vip3.php"
+SOURCE1_URL = "https://cartelive.club/vip3.php"
 SOURCE2_URL = "https://sportsonline.pk/prog.txt"
 SOURCE3_URL = "https://v2-gvtsch.pages.dev/manual_sch.json"
 # Base URL untuk generate stream link sumber 1
