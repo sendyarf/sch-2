@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T20:28:18.918366",
+  "generated_at": "2026-07-01T22:02:19.010504",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 35,
   "events": [
     {
       "date": "2026-06-30",
@@ -323,72 +323,6 @@
         ]
       },
       "startTimestamp": 1782921600
-    },
-    {
-      "date": "2026-07-01",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Washington Nationals",
-      "team_home": "Boston Red Sox",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782927300
-    },
-    {
-      "date": "2026-07-01",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "New York Yankees vs Detroit Tigers",
-      "team_home": "New York Yankees",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782927300
-    },
-    {
-      "date": "2026-07-01",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs San Diego Padres",
-      "team_home": "Chicago Cubs",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782930000
     },
     {
       "date": "2026-07-01",
