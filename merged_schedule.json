@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T23:41:05.054328",
+  "generated_at": "2026-07-02T01:48:58.577826",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 34,
+  "total_events": 31,
   "events": [
     {
       "date": "2026-06-30",
@@ -473,72 +473,6 @@
         ]
       },
       "startTimestamp": 1782936000
-    },
-    {
-      "date": "2026-07-01",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Chili",
-      "title": "Limache vs Coquimbo",
-      "team_home": "Limache",
-      "team_away": "Coquimbo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782943200
-    },
-    {
-      "date": "2026-07-01",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Ecuador Ligapro",
-      "title": "LDU Quito vs Orense",
-      "team_home": "LDU Quito",
-      "team_away": "Orense",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782943200
-    },
-    {
-      "date": "2026-07-01",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Pittsburgh Pirates",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1782945600
     },
     {
       "date": "2026-07-01",
