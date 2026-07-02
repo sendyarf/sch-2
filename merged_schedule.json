@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T21:41:12.669700",
+  "generated_at": "2026-07-02T22:45:17.589742",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 26,
+  "total_events": 25,
   "events": [
     {
       "date": "2026-07-02",
@@ -95,105 +95,20 @@
       "date": "2026-07-02",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Spain vs Austria",
       "team_home": "Spain",
       "team_away": "Austria",
       "sources": [
-        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          },
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
           },
           {
             "channel": "HD1",
@@ -203,18 +118,6 @@
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
@@ -234,6 +137,37 @@
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "CH-FR",
+            "url": "https://multi.govoet.cc/?shaka=m6",
+            "source": "manual"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
@@ -303,28 +237,6 @@
         ]
       },
       "startTimestamp": 1783018800
-    },
-    {
-      "date": "2026-07-02",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Miami Marlins",
-      "team_home": "Colorado Rockies",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783019400
     },
     {
       "date": "2026-07-02",
