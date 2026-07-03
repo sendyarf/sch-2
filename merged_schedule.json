@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T19:08:03.492610",
+  "generated_at": "2026-07-03T20:31:45.117556",
   "sources": [
     {
       "name": "cartelive",
@@ -18,163 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 41,
+  "total_events": 38,
   "events": [
-    {
-      "date": "2026-07-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "World - FIFA World Cup",
-      "title": "Spain vs Austria",
-      "team_home": "Spain",
-      "team_away": "Austria",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783018800
-    },
-    {
-      "date": "2026-07-02",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "World - FIFA World Cup",
-      "title": "Portugal vs Croatia",
-      "team_home": "Portugal",
-      "team_away": "Croatia",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783033200
-    },
-    {
-      "date": "2026-07-03",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "World - FIFA World Cup",
-      "title": "Switzerland vs Algeria",
-      "team_home": "Switzerland",
-      "team_away": "Algeria",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783047600
-    },
     {
       "date": "2026-07-03",
       "time_utc": "14:35",
@@ -529,6 +374,11 @@
             "source": "manual"
           },
           {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
@@ -557,6 +407,11 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
