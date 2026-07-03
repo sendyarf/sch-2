@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T03:32:09.016167",
+  "generated_at": "2026-07-03T06:50:08.632635",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 18,
+  "total_events": 16,
   "events": [
     {
       "date": "2026-07-02",
@@ -129,73 +129,28 @@
     },
     {
       "date": "2026-07-03",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Los Angeles Angels",
-      "team_home": "Seattle Mariners",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783042800
-    },
-    {
-      "date": "2026-07-03",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783044600
-    },
-    {
-      "date": "2026-07-03",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Switzerland vs Algeria",
       "team_home": "Switzerland",
       "team_away": "Algeria",
       "sources": [
-        "cartelive",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ],
         "es": [
@@ -207,47 +162,6 @@
           {
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
         ],
