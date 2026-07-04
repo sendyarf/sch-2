@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:49:38.257700",
+  "generated_at": "2026-07-04T13:07:49.910880",
   "sources": [
     {
       "name": "cartelive",
@@ -18,37 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 24,
+  "total_events": 22,
   "events": [
-    {
-      "date": "2026-07-03",
-      "time_utc": "14:35",
-      "time_utc1": "16:35",
-      "league": "Formula 1",
-      "title": "British Grand Prix: Practice 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783089300
-    },
     {
       "date": "2026-07-03",
       "time_utc": "18:00",
@@ -58,7 +29,6 @@
       "team_home": "Australia",
       "team_away": "Egypt",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
@@ -67,116 +37,6 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
           }
         ],
         "cs": [
@@ -185,42 +45,40 @@
             "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
+          }
+        ],
+        "fr": [
+          {
+            "channel": "CH-FR",
+            "url": "https://multi.govoet.cc/?shaka=m6",
+            "source": "manual"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "CH-PT",
+            "url": "https://multi.govoet.cc/?shaka=cazetv",
+            "source": "manual"
+          }
         ]
       },
       "startTimestamp": 1783101600
     },
     {
       "date": "2026-07-03",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "River Plate vs Flamengo",
-      "team_home": "River Plate",
-      "team_away": "Flamengo",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783103400
-    },
-    {
-      "date": "2026-07-03",
       "time_utc": "22:00",
       "time_utc1": "00:00",
       "league": "World - FIFA World Cup",
-      "title": "Argentina vs Cape Verde Islands",
+      "title": "Argentina vs Cape Verde",
       "team_home": "Argentina",
-      "team_away": "Cape Verde Islands",
+      "team_away": "Cape Verde",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
@@ -234,40 +92,6 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=foxone",
             "source": "manual"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=caracoltv",
-            "source": "manual"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
           }
         ],
         "fr": [
@@ -275,11 +99,20 @@
             "channel": "CH-FR",
             "url": "https://multi.govoet.cc/?shaka=m6",
             "source": "manual"
-          },
+          }
+        ],
+        "unknown": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ],
         "es": [
@@ -287,74 +120,12 @@
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ],
         "pt": [
           {
             "channel": "CH-PT",
             "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
         ]
@@ -370,7 +141,6 @@
       "team_home": "Colombia",
       "team_away": "Ghana",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
@@ -379,42 +149,6 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -422,32 +156,6 @@
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=telemundo",
             "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
           }
         ],
         "pt": [
@@ -455,18 +163,6 @@
             "channel": "CH-PT",
             "url": "https://multi.govoet.cc/?shaka=cazetv",
             "source": "manual"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
           }
         ]
       },
@@ -637,6 +333,35 @@
         ]
       },
       "startTimestamp": 1783170000
+    },
+    {
+      "date": "2026-07-04",
+      "time_utc": "13:50",
+      "time_utc1": "15:50",
+      "league": "Formula 1",
+      "title": "British Grand Prix: Qualifying",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1783173000
     },
     {
       "date": "2026-07-04",
@@ -937,35 +662,6 @@
         ]
       },
       "startTimestamp": 1783206000
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Formula 1",
-      "title": "British F1 Grand Prix",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783260000
     },
     {
       "date": "2026-07-05",
