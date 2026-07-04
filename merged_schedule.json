@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T05:03:37.530891",
+  "generated_at": "2026-07-04T08:03:33.514663",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 26,
+  "total_events": 24,
   "events": [
     {
       "date": "2026-07-03",
@@ -471,50 +471,6 @@
         ]
       },
       "startTimestamp": 1783128600
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783131000
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Toronto Blue Jays",
-      "team_home": "Seattle Mariners",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783131000
     },
     {
       "date": "2026-07-04",
@@ -1037,12 +993,13 @@
       "date": "2026-07-05",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Brazil vs Norway",
       "team_home": "Brazil",
       "team_away": "Norway",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
@@ -1166,12 +1123,13 @@
       "date": "2026-07-06",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": null,
+      "league": "World - FIFA World Cup",
       "title": "Mexico vs England",
       "team_home": "Mexico",
       "team_away": "England",
       "sources": [
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "en": [
