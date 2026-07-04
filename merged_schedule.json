@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T22:27:58.400667",
+  "generated_at": "2026-07-04T23:31:20.841787",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-07-03",
@@ -512,50 +512,6 @@
         ]
       },
       "startTimestamp": 1783184400
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Texas Rangers vs Detroit Tigers",
-      "team_home": "Texas Rangers",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783195500
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Toronto Blue Jays",
-      "team_home": "Seattle Mariners",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783195800
     },
     {
       "date": "2026-07-04",
