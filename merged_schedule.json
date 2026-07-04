@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T20:27:54.250717",
+  "generated_at": "2026-07-04T21:28:25.162181",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 40,
+  "total_events": 39,
   "events": [
     {
       "date": "2026-07-03",
@@ -512,35 +512,6 @@
         ]
       },
       "startTimestamp": 1783184400
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "New York Yankees vs Minnesota Twins",
-      "team_home": "New York Yankees",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783186500
     },
     {
       "date": "2026-07-04",
