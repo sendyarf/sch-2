@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T21:17:55.736073",
+  "generated_at": "2026-07-05T23:35:19.646034",
   "sources": [
     {
       "name": "cartelive",
@@ -18,266 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 28,
+  "total_events": 15,
   "events": [
-    {
-      "date": "2026-07-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "World - FIFA World Cup",
-      "title": "Australia vs Egypt",
-      "team_home": "Australia",
-      "team_away": "Egypt",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783101600
-    },
-    {
-      "date": "2026-07-03",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "World - FIFA World Cup",
-      "title": "Argentina vs Cape Verde",
-      "team_home": "Argentina",
-      "team_away": "Cape Verde",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=foxone",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=caracoltv",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783116000
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "World - FIFA World Cup",
-      "title": "Colombia vs Ghana",
-      "team_home": "Colombia",
-      "team_away": "Ghana",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783128600
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "World - FIFA World Cup",
-      "title": "Canada vs Morocco",
-      "team_home": "Canada",
-      "team_away": "Morocco",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783184400
-    },
-    {
-      "date": "2026-07-04",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "World - FIFA World Cup",
-      "title": "Paraguay vs France",
-      "team_home": "Paraguay",
-      "team_away": "France",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783198800
-    },
     {
       "date": "2026-07-05",
       "time_utc": "10:00",
@@ -380,213 +122,17 @@
     },
     {
       "date": "2026-07-05",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "MLB",
-      "title": "Chicago Cubs vs St.Louis Cardinals",
-      "team_home": "Chicago Cubs",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783276200
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Copa Chili",
-      "title": "Nublense vs Curico Unido",
-      "team_home": "Nublense",
-      "team_away": "Curico Unido",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783278000
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Philadelphia Phillies",
-      "team_home": "Kansas City Royals",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783278000
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "MLB",
-      "title": "Houston Astros vs Tampa Bay Rays",
-      "team_home": "Houston Astros",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783279800
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "MLB",
-      "title": "Texas Rangers vs Detroit Tigers",
-      "team_home": "Texas Rangers",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783279800
-    },
-    {
-      "date": "2026-07-05",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "World Cup",
+      "league": null,
       "title": "Brazil vs Norway",
       "team_home": "Brazil",
       "team_away": "Norway",
       "sources": [
-        "cartelive",
-        "sportsonline",
-        "manual"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          },
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -600,22 +146,26 @@
         ],
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "it": [
+        "fr": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -623,11 +173,6 @@
           }
         ],
         "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -657,11 +202,6 @@
         ],
         "pt": [
           {
-            "channel": "CH-PT",
-            "url": "https://multi.govoet.cc/?shaka=cazetv",
-            "source": "manual"
-          },
-          {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
             "source": "sportsonline"
@@ -686,72 +226,6 @@
         ]
       },
       "startTimestamp": 1783281600
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Milwaukee Brewers",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783281600
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "MLB",
-      "title": "Colorado Rockies vs San Francisco Giants",
-      "team_home": "Colorado Rockies",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783281600
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "MLB",
-      "title": "Athletics vs Miami Marlins",
-      "team_home": "Athletics",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783283400
     },
     {
       "date": "2026-07-05",
