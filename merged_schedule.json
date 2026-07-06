@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T01:22:04.078035",
+  "generated_at": "2026-07-06T05:49:19.409707",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 12,
+  "total_events": 9,
   "events": [
     {
       "date": "2026-07-05",
@@ -229,28 +229,6 @@
     },
     {
       "date": "2026-07-05",
-      "time_utc": "23:20",
-      "time_utc1": "01:20",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783293600
-    },
-    {
-      "date": "2026-07-05",
       "time_utc": "23:30",
       "time_utc1": "01:30",
       "league": null,
@@ -275,48 +253,44 @@
       "date": "2026-07-06",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Copa Chili",
-      "title": "Limache vs San Marcos de Arica",
-      "team_home": "Limache",
-      "team_away": "San Marcos de Arica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783296000
-    },
-    {
-      "date": "2026-07-06",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Mexico vs England",
       "team_home": "Mexico",
       "team_away": "England",
       "sources": [
-        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
         "fr": [
           {
             "channel": "CH-FR",
             "url": "https://multi.govoet.cc/?shaka=m6",
             "source": "manual"
-          },
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
           },
           {
             "channel": "HD4",
@@ -336,67 +310,8 @@
             "source": "manual"
           },
           {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -461,28 +376,6 @@
         ]
       },
       "startTimestamp": 1783296000
-    },
-    {
-      "date": "2026-07-06",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Boston Red Sox",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783301400
     },
     {
       "date": "2026-07-06",
