@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:59:13.579563",
+  "generated_at": "2026-07-06T22:17:02.857678",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 21,
+  "total_events": 20,
   "events": [
     {
       "date": "2026-07-06",
@@ -49,129 +49,22 @@
     },
     {
       "date": "2026-07-06",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Philadelphia Phillies",
-      "team_home": "Kansas City Royals",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783361400
-    },
-    {
-      "date": "2026-07-06",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "World Cup",
+      "league": "World - FIFA World Cup",
       "title": "Portugal vs Spain",
       "team_home": "Portugal",
       "team_away": "Spain",
       "sources": [
-        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          },
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "m6",
-            "url": "https://multi.govoet.cc/?envivo=26",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          },
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
           },
           {
             "channel": "HD1",
@@ -189,24 +82,43 @@
             "source": "sportsonline"
           }
         ],
-        "de": [
+        "fr": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
+            "channel": "CH-FR",
+            "url": "https://multi.govoet.cc/?shaka=m6",
+            "source": "manual"
           },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "it": [
+        "es": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=telemundo",
+            "source": "manual"
           },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=sportsk",
+            "source": "manual"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
