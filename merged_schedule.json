@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T23:35:19.646034",
+  "generated_at": "2026-07-06T01:22:04.078035",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 15,
+  "total_events": 12,
   "events": [
     {
       "date": "2026-07-05",
@@ -226,72 +226,6 @@
         ]
       },
       "startTimestamp": 1783281600
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Toronto Blue Jays",
-      "team_home": "Seattle Mariners",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783285200
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Copa Chili",
-      "title": "U. Espanola vs O'Higgins",
-      "team_home": "U. Espanola",
-      "team_away": "O'Higgins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783287000
-    },
-    {
-      "date": "2026-07-05",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Ecuador Ligapro",
-      "title": "Delfin vs Emelec",
-      "team_home": "Delfin",
-      "team_away": "Emelec",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783288800
     },
     {
       "date": "2026-07-05",
