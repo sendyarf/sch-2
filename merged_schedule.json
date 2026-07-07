@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T20:23:47.012782",
+  "generated_at": "2026-07-07T21:50:56.136777",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 28,
+  "total_events": 26,
   "events": [
     {
       "date": "2026-07-06",
@@ -299,57 +299,6 @@
         ]
       },
       "startTimestamp": 1783440000
-    },
-    {
-      "date": "2026-07-07",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Milwaukee Brewers",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783448100
-    },
-    {
-      "date": "2026-07-07",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Ligue Des Champions",
-      "title": "Borac Banja Luka (Bih) vs Levski Sofia (Bul)",
-      "team_home": "Borac Banja Luka (Bih)",
-      "team_away": "Levski Sofia (Bul)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783449000
     },
     {
       "date": "2026-07-07",
