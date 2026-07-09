@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T18:59:17.199731",
+  "generated_at": "2026-07-09T20:49:30.597495",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 39,
+  "total_events": 34,
   "events": [
     {
       "date": "2026-07-09",
@@ -88,35 +88,6 @@
     },
     {
       "date": "2026-07-09",
-      "time_utc": "16:35",
-      "time_utc1": "18:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Atlanta Braves",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783614900
-    },
-    {
-      "date": "2026-07-09",
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": null,
@@ -136,94 +107,6 @@
         ]
       },
       "startTimestamp": 1783616400
-    },
-    {
-      "date": "2026-07-09",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "New York Mets vs Kansas City Royals",
-      "team_home": "New York Mets",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783617000
-    },
-    {
-      "date": "2026-07-09",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs New York Yankees",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783617000
-    },
-    {
-      "date": "2026-07-09",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Chicago Cubs",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783618500
-    },
-    {
-      "date": "2026-07-09",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Cleveland Guardians",
-      "team_home": "Minnesota Twins",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783618800
     },
     {
       "date": "2026-07-09",
@@ -398,13 +281,8 @@
         ],
         "unknown": [
           {
-            "channel": "CH-ML",
-            "url": "https://multi.govoet.cc/?shaka=suldtv",
-            "source": "manual"
-          },
-          {
             "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
             "source": "manual"
           },
           {
@@ -462,6 +340,13 @@
           {
             "channel": "CH-SK",
             "url": "https://multi.govoet.cc/?shaka=sportsk",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
         ]
