@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T16:19:28.247211",
+  "generated_at": "2026-07-10T18:06:45.179080",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 49,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-07-09",
@@ -447,6 +447,35 @@
     },
     {
       "date": "2026-07-10",
+      "time_utc": "20:30",
+      "time_utc1": "22:30",
+      "league": "NBA",
+      "title": "Indiana Pacers vs Cleveland Cavaliers",
+      "team_home": "Indiana Pacers",
+      "team_away": "Cleveland Cavaliers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 4",
+            "url": "https://multi.govoet.cc/?envivo=4",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783715400
+    },
+    {
+      "date": "2026-07-10",
       "time_utc": "22:00",
       "time_utc1": "00:00",
       "league": "Liga AUF Uruguaya",
@@ -466,6 +495,28 @@
         ]
       },
       "startTimestamp": 1783720800
+    },
+    {
+      "date": "2026-07-10",
+      "time_utc": "22:30",
+      "time_utc1": "00:30",
+      "league": "NBA",
+      "title": "Denver Nuggets vs Houston Rockets",
+      "team_home": "Denver Nuggets",
+      "team_away": "Houston Rockets",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783722600
     },
     {
       "date": "2026-07-10",
@@ -747,6 +798,28 @@
     },
     {
       "date": "2026-07-11",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "NBA",
+      "title": "Toronto Raptors vs Boston Celtics",
+      "team_home": "Toronto Raptors",
+      "team_away": "Boston Celtics",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783731600
+    },
+    {
+      "date": "2026-07-11",
       "time_utc": "01:40",
       "time_utc1": "03:40",
       "league": "MLB",
@@ -832,6 +905,28 @@
         ]
       },
       "startTimestamp": 1783736100
+    },
+    {
+      "date": "2026-07-11",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": "NBA",
+      "title": "Phoenix Suns vs Portland Trail Blazers",
+      "team_home": "Phoenix Suns",
+      "team_away": "Portland Trail Blazers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT45",
+            "url": "https://multi.govoet.cc/?envivo=198",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783738800
     },
     {
       "date": "2026-07-11",
