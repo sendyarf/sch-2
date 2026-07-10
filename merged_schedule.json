@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T08:48:57.567697",
+  "generated_at": "2026-07-10T11:44:44.863224",
   "sources": [
     {
       "name": "cartelive",
@@ -327,13 +327,8 @@
         ],
         "unknown": [
           {
-            "channel": "CH-ML",
-            "url": "https://multi.govoet.cc/?shaka=suldtv",
-            "source": "manual"
-          },
-          {
             "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
             "source": "manual"
           },
           {
@@ -391,6 +386,13 @@
           {
             "channel": "CH-SK",
             "url": "https://multi.govoet.cc/?shaka=sportsk",
+            "source": "manual"
+          }
+        ],
+        "cs": [
+          {
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
             "source": "manual"
           }
         ]
