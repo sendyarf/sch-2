@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T23:13:17.972510",
+  "generated_at": "2026-07-11T00:09:23.380937",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 47,
   "events": [
     {
       "date": "2026-07-09",
@@ -91,159 +91,6 @@
     },
     {
       "date": "2026-07-10",
-      "time_utc": "07:15",
-      "time_utc1": "09:15",
-      "league": "MotoGP",
-      "title": "Germany FP1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783667700
-    },
-    {
-      "date": "2026-07-10",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Tennis",
-      "title": "Wimbledon",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783677600
-    },
-    {
-      "date": "2026-07-10",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Golf",
-      "title": "Evian Championship - D3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783677600
-    },
-    {
-      "date": "2026-07-10",
-      "time_utc": "11:15",
-      "time_utc1": "13:15",
-      "league": "MotoGP",
-      "title": "Germany Practice",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783682100
-    },
-    {
-      "date": "2026-07-10",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Golf",
-      "title": "DP World Tour- Scottish Open - D2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783684800
-    },
-    {
-      "date": "2026-07-10",
       "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": "World - FIFA World Cup",
@@ -251,30 +98,14 @@
       "team_home": "Spain",
       "team_away": "Belgium",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "en": [
+        "sk": [
           {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "channel": "CH-SK",
+            "url": "https://multi.govoet.cc/?shaka=sportsk",
             "source": "manual"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -282,23 +113,20 @@
             "channel": "CH-DE",
             "url": "https://multi.govoet.cc/?shaka=dsports",
             "source": "manual"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
           }
         ],
-        "fr": [
+        "unknown": [
           {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
+            "channel": "CH-CO",
+            "url": "https://multi.govoet.cc/?shaka=caracoltv",
             "source": "manual"
-          },
+          }
+        ],
+        "cs": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
+            "channel": "CH-CZ",
+            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "source": "manual"
           }
         ],
         "es": [
@@ -311,122 +139,24 @@
             "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?shaka=tvela1",
             "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
-        "it": [
+        "en": [
           {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=caracoltv",
-            "source": "manual"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ],
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
           }
         ],
-        "cs": [
+        "fr": [
           {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
+            "channel": "CH-FR",
+            "url": "https://multi.govoet.cc/?shaka=m6",
             "source": "manual"
           }
         ]
       },
       "startTimestamp": 1783710000
-    },
-    {
-      "date": "2026-07-10",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "NBA",
-      "title": "Indiana Pacers vs Cleveland Cavaliers",
-      "team_home": "Indiana Pacers",
-      "team_away": "Cleveland Cavaliers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783715400
     },
     {
       "date": "2026-07-10",
@@ -796,28 +526,6 @@
     },
     {
       "date": "2026-07-11",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Power Slap 21",
-      "title": "Las Vegas",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783735200
-    },
-    {
-      "date": "2026-07-11",
       "time_utc": "02:10",
       "time_utc1": "04:10",
       "league": "MLB",
@@ -928,6 +636,64 @@
     },
     {
       "date": "2026-07-11",
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "MotoGP",
+      "title": "Germany Qualifying",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1783756800
+    },
+    {
+      "date": "2026-07-11",
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "Golf",
+      "title": "Evian Championship - D3",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1783756800
+    },
+    {
+      "date": "2026-07-11",
       "time_utc": "09:00",
       "time_utc1": "11:00",
       "league": null,
@@ -1030,6 +796,42 @@
     },
     {
       "date": "2026-07-11",
+      "time_utc": "12:45",
+      "time_utc1": "14:45",
+      "league": "MotoGP",
+      "title": "Germany Sprint",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1783773900
+    },
+    {
+      "date": "2026-07-11",
       "time_utc": "13:00",
       "time_utc1": "15:00",
       "league": null,
@@ -1071,6 +873,28 @@
         ]
       },
       "startTimestamp": 1783774800
+    },
+    {
+      "date": "2026-07-11",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Golf",
+      "title": "DP World Tour- Scottish Open - D3",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1783778400
     },
     {
       "date": "2026-07-11",
@@ -1396,100 +1220,6 @@
         ]
       },
       "startTimestamp": 1783818000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "Moto3",
-      "title": "Grand Prix of Germany",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783843200
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "11:15",
-      "time_utc1": "13:15",
-      "league": "MotoGP",
-      "title": "Grand Prix of Germany",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783854900
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Golf",
-      "title": "DP World Tour- Scottish Open - D4",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783863000
     },
     {
       "date": "2026-07-12",
