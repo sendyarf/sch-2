@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:48:16.647633",
+  "generated_at": "2026-07-12T20:36:57.657984",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 49,
+  "total_events": 46,
   "events": [
     {
       "date": "2026-07-09",
@@ -233,28 +233,6 @@
     },
     {
       "date": "2026-07-12",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ecuador Ligapro",
-      "title": "LDU Quito vs Libertad",
-      "team_home": "LDU Quito",
-      "team_away": "Libertad",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783875600
-    },
-    {
-      "date": "2026-07-12",
       "time_utc": "17:30",
       "time_utc1": "19:30",
       "league": null,
@@ -274,50 +252,6 @@
         ]
       },
       "startTimestamp": 1783877400
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Kansas City Royals",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783877700
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Washington Nationals vs New York Yankees",
-      "team_home": "Washington Nationals",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783877700
     },
     {
       "date": "2026-07-12",
