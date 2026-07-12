@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T04:36:40.365338",
+  "generated_at": "2026-07-12T07:15:03.375881",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 31,
+  "total_events": 30,
   "events": [
     {
       "date": "2026-07-09",
@@ -800,28 +800,6 @@
         ]
       },
       "startTimestamp": 1783818000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NBA",
-      "title": "Dallas Mavericks vs Los Angeles Lakers",
-      "team_home": "Dallas Mavericks",
-      "team_away": "Los Angeles Lakers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783821600
     },
     {
       "date": "2026-07-12",
