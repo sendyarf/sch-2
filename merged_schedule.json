@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:31:37.811627",
+  "generated_at": "2026-07-12T22:29:34.772106",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 32,
+  "total_events": 29,
   "events": [
     {
       "date": "2026-07-09",
@@ -201,79 +201,6 @@
         ]
       },
       "startTimestamp": 1783818000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:35",
-      "time_utc1": "20:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs Houston Astros",
-      "team_home": "Texas Rangers",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783881300
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "NBA",
-      "title": "New Orleans Pelicans vs Phoenix Suns",
-      "team_home": "New Orleans Pelicans",
-      "team_away": "Phoenix Suns",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783882800
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "Copa Argentina",
-      "title": "Ind. Rivadavia vs Tigre",
-      "team_home": "Ind. Rivadavia",
-      "team_away": "Tigre",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783883700
     },
     {
       "date": "2026-07-12",
