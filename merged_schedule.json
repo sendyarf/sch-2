@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T20:36:57.657984",
+  "generated_at": "2026-07-12T21:31:37.811627",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 46,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-07-09",
@@ -204,299 +204,6 @@
     },
     {
       "date": "2026-07-12",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Tennis",
-      "title": "Wimbledon Men's Final",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783866600
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": null,
-      "title": "CSU Craiova vs Universitatea Cluj",
-      "team_home": "CSU Craiova",
-      "team_away": "Universitatea Cluj",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783877400
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs Chicago Cubs",
-      "team_home": "Cincinnati Reds",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783878000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Philadelphia Phillies",
-      "team_home": "Detroit Tigers",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783878000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Miami Marlins vs Cleveland Guardians",
-      "team_home": "Miami Marlins",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783878000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "New York Mets vs Boston Red Sox",
-      "team_home": "New York Mets",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783878000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Seattle Mariners",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783878000
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Boston River vs Central Esp.",
-      "team_home": "Boston River",
-      "team_away": "Central Esp.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783879200
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Pumas UNAM vs América de Cali",
-      "team_home": "Pumas UNAM",
-      "team_away": "América de Cali",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783879200
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "São Bernardo FC vs Cuiabá",
-      "team_home": "São Bernardo FC",
-      "team_away": "Cuiabá",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783879200
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Athletics",
-      "team_home": "Chicago White Sox",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783879800
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Los Angeles Angels",
-      "team_home": "Minnesota Twins",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783879800
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Atlanta Braves",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783880100
-    },
-    {
-      "date": "2026-07-12",
       "time_utc": "18:35",
       "time_utc1": "20:35",
       "league": "MLB",
@@ -548,28 +255,6 @@
     },
     {
       "date": "2026-07-12",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Fluminense vs Bahia",
-      "team_home": "Fluminense",
-      "team_away": "Bahia",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1783882800
-    },
-    {
-      "date": "2026-07-12",
       "time_utc": "19:15",
       "time_utc1": "21:15",
       "league": "Copa Argentina",
@@ -577,8 +262,7 @@
       "team_home": "Ind. Rivadavia",
       "team_away": "Tigre",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -586,18 +270,6 @@
             "channel": "TyC Sports",
             "url": "https://multi.govoet.cc/?envivo=77",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
           }
         ]
       },
@@ -781,28 +453,6 @@
             "channel": "EXTRA SPORT35",
             "url": "https://multi.govoet.cc/?envivo=188",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783893600
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": null,
-      "title": "CRB vs Goiás",
-      "team_home": "CRB",
-      "team_away": "Goiás",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1242,6 +892,28 @@
         ]
       },
       "startTimestamp": 1784055600
+    },
+    {
+      "date": "2026-07-19",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "CRB vs Goiás",
+      "team_home": "CRB",
+      "team_away": "Goiás",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784498400
     }
   ]
 }
