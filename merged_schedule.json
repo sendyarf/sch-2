@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T18:36:51.612386",
+  "generated_at": "2026-07-12T19:48:16.647633",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 51,
+  "total_events": 49,
   "events": [
     {
       "date": "2026-07-09",
@@ -230,50 +230,6 @@
         ]
       },
       "startTimestamp": 1783866600
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Milwaukee Brewers",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783872900
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Copa Chili",
-      "title": "Cobreloa vs La Serena",
-      "team_home": "Cobreloa",
-      "team_away": "La Serena",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783873800
     },
     {
       "date": "2026-07-12",
