@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T01:04:44.356696",
+  "generated_at": "2026-07-13T04:44:02.219667",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 21,
+  "total_events": 18,
   "events": [
     {
       "date": "2026-07-09",
@@ -206,28 +206,6 @@
       "date": "2026-07-12",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Portland Trail Blazers vs Orlando Magic",
-      "team_home": "Portland Trail Blazers",
-      "team_away": "Orlando Magic",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783897200
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
       "league": "WNBA",
       "title": "Sparks vs Dream",
       "team_home": "Sparks",
@@ -267,50 +245,6 @@
         ]
       },
       "startTimestamp": 1783899000
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "Washington Wizards vs Sacramento Kings",
-      "team_home": "Washington Wizards",
-      "team_away": "Sacramento Kings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783900800
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NBA",
-      "title": "Milwaukee Bucks vs San Antonio Spurs",
-      "team_home": "Milwaukee Bucks",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783904400
     },
     {
       "date": "2026-07-13",
