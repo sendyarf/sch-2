@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T22:36:16.654116",
+  "generated_at": "2026-07-13T23:33:28.320189",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 25,
+  "total_events": 23,
   "events": [
     {
       "date": "2026-07-09",
@@ -382,64 +382,6 @@
         ]
       },
       "startTimestamp": 1783960200
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "NBA",
-      "title": "New York Knicks vs Detroit Pistons",
-      "team_home": "New York Knicks",
-      "team_away": "Detroit Pistons",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783972800
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "NBA",
-      "title": "Indiana Pacers vs Toronto Raptors",
-      "team_home": "Indiana Pacers",
-      "team_away": "Toronto Raptors",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783974600
     },
     {
       "date": "2026-07-13",
