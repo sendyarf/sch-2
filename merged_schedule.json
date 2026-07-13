@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T10:52:51.323127",
+  "generated_at": "2026-07-13T13:13:50.463613",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 17,
+  "total_events": 16,
   "events": [
     {
       "date": "2026-07-09",
@@ -548,28 +548,6 @@
         ]
       },
       "startTimestamp": 1784055600
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": null,
-      "title": "CRB vs Goiás",
-      "team_home": "CRB",
-      "team_away": "Goiás",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784498400
     }
   ]
 }
