@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T13:13:50.463613",
+  "generated_at": "2026-07-13T15:56:29.833639",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 16,
+  "total_events": 25,
   "events": [
     {
       "date": "2026-07-09",
@@ -382,6 +382,218 @@
         ]
       },
       "startTimestamp": 1783960200
+    },
+    {
+      "date": "2026-07-13",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": "NBA",
+      "title": "New York Knicks vs Detroit Pistons",
+      "team_home": "New York Knicks",
+      "team_away": "Detroit Pistons",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783972800
+    },
+    {
+      "date": "2026-07-13",
+      "time_utc": "20:30",
+      "time_utc1": "22:30",
+      "league": "NBA",
+      "title": "Indiana Pacers vs Toronto Raptors",
+      "team_home": "Indiana Pacers",
+      "team_away": "Toronto Raptors",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 4",
+            "url": "https://multi.govoet.cc/?envivo=4",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ESPN3",
+            "url": "https://multi.govoet.cc/?envivo=89",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783974600
+    },
+    {
+      "date": "2026-07-13",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "Liga AUF Uruguaya",
+      "title": "Cerro Largo vs Defensor Sp.",
+      "team_home": "Cerro Largo",
+      "team_away": "Defensor Sp.",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "VTV plus",
+            "url": "https://multi.govoet.cc/?envivo=109",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783980000
+    },
+    {
+      "date": "2026-07-13",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "NBA",
+      "title": "Boston Celtics vs Atlanta Hawks",
+      "team_home": "Boston Celtics",
+      "team_away": "Atlanta Hawks",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783980000
+    },
+    {
+      "date": "2026-07-13",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": "NBA",
+      "title": "Memphis Grizzlies vs Dallas Mavericks",
+      "team_home": "Memphis Grizzlies",
+      "team_away": "Dallas Mavericks",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783983600
+    },
+    {
+      "date": "2026-07-14",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NBA",
+      "title": "Cleveland Cavaliers vs Miami Heat",
+      "team_home": "Cleveland Cavaliers",
+      "team_away": "Miami Heat",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783987200
+    },
+    {
+      "date": "2026-07-14",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "NBA",
+      "title": "Utah Jazz vs Chicago Bulls",
+      "team_home": "Utah Jazz",
+      "team_away": "Chicago Bulls",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783990800
+    },
+    {
+      "date": "2026-07-14",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": "NBA",
+      "title": "Milwaukee Bucks vs Phoenix Suns",
+      "team_home": "Milwaukee Bucks",
+      "team_away": "Phoenix Suns",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783994400
+    },
+    {
+      "date": "2026-07-14",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": "NBA",
+      "title": "Portland Trail Blazers vs Minnesota Timberwolves",
+      "team_home": "Portland Trail Blazers",
+      "team_away": "Minnesota Timberwolves",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1783998000
     },
     {
       "date": "2026-07-14",
