@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T01:03:02.669086",
+  "generated_at": "2026-07-14T04:16:02.225776",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 21,
+  "total_events": 18,
   "events": [
     {
       "date": "2026-07-09",
@@ -382,72 +382,6 @@
         ]
       },
       "startTimestamp": 1783960200
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Memphis Grizzlies vs Dallas Mavericks",
-      "team_home": "Memphis Grizzlies",
-      "team_away": "Dallas Mavericks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783983600
-    },
-    {
-      "date": "2026-07-14",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "Cleveland Cavaliers vs Miami Heat",
-      "team_home": "Cleveland Cavaliers",
-      "team_away": "Miami Heat",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783987200
-    },
-    {
-      "date": "2026-07-14",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NBA",
-      "title": "Utah Jazz vs Chicago Bulls",
-      "team_home": "Utah Jazz",
-      "team_away": "Chicago Bulls",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783990800
     },
     {
       "date": "2026-07-14",
