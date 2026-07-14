@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T23:33:28.320189",
+  "generated_at": "2026-07-14T01:03:02.669086",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 23,
+  "total_events": 21,
   "events": [
     {
       "date": "2026-07-09",
@@ -382,50 +382,6 @@
         ]
       },
       "startTimestamp": 1783960200
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Cerro Largo vs Defensor Sp.",
-      "team_home": "Cerro Largo",
-      "team_away": "Defensor Sp.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783980000
-    },
-    {
-      "date": "2026-07-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "NBA",
-      "title": "Boston Celtics vs Atlanta Hawks",
-      "team_home": "Boston Celtics",
-      "team_away": "Atlanta Hawks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1783980000
     },
     {
       "date": "2026-07-13",
