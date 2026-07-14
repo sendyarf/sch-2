@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T08:53:22.060390",
+  "generated_at": "2026-07-14T10:39:21.877062",
   "sources": [
     {
       "name": "cartelive",
@@ -18,190 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 29,
+  "total_events": 26,
   "events": [
-    {
-      "date": "2026-07-09",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "World - FIFA World Cup",
-      "title": "France vs Morocco",
-      "team_home": "France",
-      "team_away": "Morocco",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=caracoltv",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=tvela1",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783627200
-    },
-    {
-      "date": "2026-07-10",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "World - FIFA World Cup",
-      "title": "Spain vs Belgium",
-      "team_home": "Spain",
-      "team_away": "Belgium",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "sk": [
-          {
-            "channel": "CH-SK",
-            "url": "https://multi.govoet.cc/?shaka=sportsk",
-            "source": "manual"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "CH-CO",
-            "url": "https://multi.govoet.cc/?shaka=caracoltv",
-            "source": "manual"
-          }
-        ],
-        "cs": [
-          {
-            "channel": "CH-CZ",
-            "url": "https://multi.govoet.cc/?shaka=ctsport",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=telemundo",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=tvela1",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783710000
-    },
-    {
-      "date": "2026-07-11",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "World - FIFA World Cup",
-      "title": "Norway vs England",
-      "team_home": "Norway",
-      "team_away": "England",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783803600
-    },
-    {
-      "date": "2026-07-12",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "World - FIFA World Cup",
-      "title": "Argentina vs Switzerland",
-      "team_home": "Argentina",
-      "team_away": "Switzerland",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "CH-FR",
-            "url": "https://multi.govoet.cc/?shaka=m6",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1783818000
-    },
     {
       "date": "2026-07-12",
       "time_utc": "23:00",
@@ -553,7 +371,8 @@
       "team_away": "Spain",
       "sources": [
         "cartelive",
-        "sportsonline"
+        "sportsonline",
+        "manual"
       ],
       "streams_by_language": {
         "fr": [
@@ -622,6 +441,11 @@
         ],
         "de": [
           {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          },
+          {
             "channel": "DE bundliga1",
             "url": "https://multi.govoet.cc/?envivo=111",
             "source": "cartelive"
@@ -646,6 +470,16 @@
         ],
         "en": [
           {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
@@ -662,6 +496,16 @@
           }
         ],
         "unknown": [
+          {
+            "channel": "CH-EC",
+            "url": "https://multi.govoet.cc/?shaka=teleamazonas",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-IS",
+            "url": "https://multi.govoet.cc/?shaka=kan11",
+            "source": "manual"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -929,6 +773,52 @@
         ]
       },
       "startTimestamp": 1784080800
+    },
+    {
+      "date": "2026-07-15",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": "World - FIFA World Cup",
+      "title": "England vs Argentina",
+      "team_home": "England",
+      "team_away": "Argentina",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "CH-EC",
+            "url": "https://multi.govoet.cc/?shaka=teleamazonas",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-IS",
+            "url": "https://multi.govoet.cc/?shaka=kan11",
+            "source": "manual"
+          }
+        ],
+        "de": [
+          {
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1784142000
     }
   ]
 }
