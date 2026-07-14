@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:38:01.625255",
+  "generated_at": "2026-07-14T23:32:31.368463",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 44,
+  "total_events": 43,
   "events": [
     {
       "date": "2026-07-14",
@@ -77,28 +77,6 @@
         ]
       },
       "startTimestamp": 1784055600
-    },
-    {
-      "date": "2026-07-14",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "NBA",
-      "title": "Houston Rockets vs Philadelphia 76ers",
-      "team_home": "Houston Rockets",
-      "team_away": "Philadelphia 76ers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784059200
     },
     {
       "date": "2026-07-14",
@@ -506,12 +484,17 @@
         "en": [
           {
             "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "url": "https://multi.govoet.cc/?shaka=ctv",
             "source": "manual"
           },
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
           },
           {
@@ -550,6 +533,11 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?jw=americatv",
+            "source": "manual"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
