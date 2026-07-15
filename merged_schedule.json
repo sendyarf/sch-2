@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T00:59:22.941334",
+  "generated_at": "2026-07-15T04:08:18.293403",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 42,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-07-14",
@@ -77,166 +77,6 @@
         ]
       },
       "startTimestamp": 1784055600
-    },
-    {
-      "date": "2026-07-14",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "NBA",
-      "title": "Brooklyn Nets vs Sacramento Kings",
-      "team_home": "Brooklyn Nets",
-      "team_away": "Sacramento Kings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784066400
-    },
-    {
-      "date": "2026-07-14",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NBA",
-      "title": "Golden State Warriors vs Memphis Grizzlies",
-      "team_home": "Golden State Warriors",
-      "team_away": "Memphis Grizzlies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784070000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "Manta vs Delfin",
-      "team_home": "Manta",
-      "team_away": "Delfin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784073600
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "MLB",
-      "title": "National League vs American League",
-      "team_home": "National League",
-      "team_away": "American League",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784073600
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "Chicago Bulls vs Washington Wizards",
-      "team_home": "Chicago Bulls",
-      "team_away": "Washington Wizards",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784073600
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NBA",
-      "title": "Oklahoma City Thunder vs Denver Nuggets",
-      "team_home": "Oklahoma City Thunder",
-      "team_away": "Denver Nuggets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784077200
     },
     {
       "date": "2026-07-15",
@@ -538,6 +378,11 @@
           {
             "channel": "CH-IS",
             "url": "https://multi.govoet.cc/?shaka=kan11",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-AS",
+            "url": "https://multi.govoet.cc/?shaka=makkan",
             "source": "manual"
           },
           {
