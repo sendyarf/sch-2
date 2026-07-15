@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T15:20:43.974232",
+  "generated_at": "2026-07-15T16:49:04.149944",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 35,
+  "total_events": 39,
   "events": [
     {
       "date": "2026-07-14",
@@ -80,123 +80,25 @@
     },
     {
       "date": "2026-07-15",
-      "time_utc": "08:30",
-      "time_utc1": "10:30",
-      "league": "Tennis - ATP World Tour 250",
-      "title": "Gstaad 2026",
-      "team_home": null,
-      "team_away": null,
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Ecuador Ligapro",
+      "title": "Libertad vs Tecnico U.",
+      "team_home": "Libertad",
+      "team_away": "Tecnico U.",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
-        "pt": [
+        "es": [
           {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
+            "channel": "Zapping sports",
+            "url": "https://multi.govoet.cc/?envivo=86",
+            "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1784104200
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Cycling",
-      "title": "Tour de France - Stage 11",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784115000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Tennis - ATP World Tour 250",
-      "title": "UMAG 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784124000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Padel",
-      "title": "Premier Padel - Malaga P1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784124000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "14:15",
-      "time_utc1": "16:15",
-      "league": "Volleyball",
-      "title": "Ukraine vs Iran",
-      "team_home": "Ukraine",
-      "team_away": "Iran",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784124900
+      "startTimestamp": 1784134800
     },
     {
       "date": "2026-07-15",
@@ -268,15 +170,95 @@
       "date": "2026-07-15",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "World - FIFA World Cup",
+      "league": "World Cup",
       "title": "England vs Argentina",
       "team_home": "England",
       "team_away": "Argentina",
       "sources": [
+        "cartelive",
         "sportsonline",
         "manual"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "m6",
+            "url": "https://multi.govoet.cc/?envivo=26",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?jw=americatv",
+            "source": "manual"
+          },
+          {
+            "channel": "ES DAZN 1",
+            "url": "https://multi.govoet.cc/?envivo=56",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          },
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT4",
+            "url": "https://multi.govoet.cc/?envivo=158",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT5",
+            "url": "https://multi.govoet.cc/?envivo=159",
+            "source": "cartelive"
+          },
+          {
+            "channel": "CANAL5",
+            "url": "https://multi.govoet.cc/?envivo=107",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Azteca 7",
+            "url": "https://multi.govoet.cc/?envivo=108",
+            "source": "cartelive"
+          },
+          {
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
         "en": [
           {
             "channel": "CH-EN",
@@ -292,6 +274,11 @@
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=wctv",
             "source": "manual"
+          },
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=131",
+            "source": "cartelive"
           },
           {
             "channel": "HD1",
@@ -316,31 +303,22 @@
             "source": "manual"
           },
           {
+            "channel": "DE bundliga1",
+            "url": "https://multi.govoet.cc/?envivo=111",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?jw=americatv",
-            "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -417,6 +395,57 @@
     },
     {
       "date": "2026-07-15",
+      "time_utc": "19:30",
+      "time_utc1": "21:30",
+      "league": "NBA",
+      "title": "Minnesota Timberwolves vs Indiana Pacers",
+      "team_home": "Minnesota Timberwolves",
+      "team_away": "Indiana Pacers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784143800
+    },
+    {
+      "date": "2026-07-15",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": "NBA",
+      "title": "Philadelphia 76ers vs Orlando Magic",
+      "team_home": "Philadelphia 76ers",
+      "team_away": "Orlando Magic",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 4",
+            "url": "https://multi.govoet.cc/?envivo=4",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784145600
+    },
+    {
+      "date": "2026-07-15",
       "time_utc": "20:40",
       "time_utc1": "22:40",
       "league": "Volleyball",
@@ -439,17 +468,74 @@
     },
     {
       "date": "2026-07-15",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "NBA Summer League",
-      "title": "Phoenix Suns vs Detroit Pistons",
-      "team_home": "Phoenix Suns",
-      "team_away": "Detroit Pistons",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": "NBA",
+      "title": "Cleveland Cavaliers vs New Orleans Pelicans",
+      "team_home": "Cleveland Cavaliers",
+      "team_away": "New Orleans Pelicans",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784151000
+    },
+    {
+      "date": "2026-07-15",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "Ecuador Ligapro",
+      "title": "U. Catolica vs LDU Quito",
+      "team_home": "U. Catolica",
+      "team_away": "LDU Quito",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Zapping sports",
+            "url": "https://multi.govoet.cc/?envivo=86",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784152800
+    },
+    {
+      "date": "2026-07-15",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "NBA",
+      "title": "Detroit Pistons vs Phoenix Suns",
+      "team_home": "Detroit Pistons",
+      "team_away": "Phoenix Suns",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN3",
+            "url": "https://multi.govoet.cc/?envivo=89",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -460,18 +546,53 @@
       "startTimestamp": 1784152800
     },
     {
-      "date": "2026-07-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA Summer League",
-      "title": "Boston Celtics vs Sacramento Kings",
-      "team_home": "Boston Celtics",
-      "team_away": "Sacramento Kings",
+      "date": "2026-07-15",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "NBA",
+      "title": "Charlotte Hornets vs Milwaukee Bucks",
+      "team_home": "Charlotte Hornets",
+      "team_away": "Milwaukee Bucks",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784158200
+    },
+    {
+      "date": "2026-07-16",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "NBA",
+      "title": "Sacramento Kings vs Boston Celtics",
+      "team_home": "Sacramento Kings",
+      "team_away": "Boston Celtics",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN3",
+            "url": "https://multi.govoet.cc/?envivo=89",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -480,6 +601,28 @@
         ]
       },
       "startTimestamp": 1784160000
+    },
+    {
+      "date": "2026-07-16",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "Ecuador Ligapro",
+      "title": "Barcelona SC vs Guayaquil City",
+      "team_home": "Barcelona SC",
+      "team_away": "Guayaquil City",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Zapping sports",
+            "url": "https://multi.govoet.cc/?envivo=86",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784161800
     },
     {
       "date": "2026-07-16",
@@ -505,17 +648,45 @@
     },
     {
       "date": "2026-07-16",
+      "time_utc": "01:30",
+      "time_utc1": "03:30",
+      "league": "NBA",
+      "title": "San Antonio Spurs vs Utah Jazz",
+      "team_home": "San Antonio Spurs",
+      "team_away": "Utah Jazz",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784165400
+    },
+    {
+      "date": "2026-07-16",
       "time_utc": "02:30",
       "time_utc1": "04:30",
-      "league": "NBA Summer League",
-      "title": "Washington Wizards vs LA Clippers",
-      "team_home": "Washington Wizards",
-      "team_away": "LA Clippers",
+      "league": "NBA",
+      "title": "Los Angeles Clippers vs Washington Wizards",
+      "team_home": "Los Angeles Clippers",
+      "team_away": "Washington Wizards",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -553,6 +724,33 @@
         ]
       },
       "startTimestamp": 1784179800
+    },
+    {
+      "date": "2026-07-16",
+      "time_utc": "08:30",
+      "time_utc1": "10:30",
+      "league": "Tennis - ATP World Tour 250",
+      "title": "Gstaad 2026",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784190600
     },
     {
       "date": "2026-07-16",
