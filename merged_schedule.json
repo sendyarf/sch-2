@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T04:08:18.293403",
+  "generated_at": "2026-07-15T06:26:06.142849",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 35,
   "events": [
     {
       "date": "2026-07-14",
@@ -77,28 +77,6 @@
         ]
       },
       "startTimestamp": 1784055600
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NBA",
-      "title": "Los Angeles Lakers vs Los Angeles Clippers",
-      "team_home": "Los Angeles Lakers",
-      "team_away": "Los Angeles Clippers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784080800
     },
     {
       "date": "2026-07-15",
