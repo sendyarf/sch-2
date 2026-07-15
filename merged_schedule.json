@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:38:40.460881",
+  "generated_at": "2026-07-15T23:38:55.367673",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 60,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-07-14",
@@ -299,35 +299,6 @@
         ]
       },
       "startTimestamp": 1784142000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "NBA",
-      "title": "Philadelphia 76ers vs Orlando Magic",
-      "team_home": "Philadelphia 76ers",
-      "team_away": "Orlando Magic",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784145600
     },
     {
       "date": "2026-07-15",
