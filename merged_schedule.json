@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T01:06:11.523155",
+  "generated_at": "2026-07-16T04:23:26.760015",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 57,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-07-14",
@@ -345,53 +345,18 @@
       "startTimestamp": 1784152800
     },
     {
-      "date": "2026-07-15",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "NBA",
-      "title": "Charlotte Hornets vs Milwaukee Bucks",
-      "team_home": "Charlotte Hornets",
-      "team_away": "Milwaukee Bucks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784158200
-    },
-    {
       "date": "2026-07-16",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "NBA",
-      "title": "Sacramento Kings vs Boston Celtics",
-      "team_home": "Sacramento Kings",
-      "team_away": "Boston Celtics",
+      "league": "NBA Summer League",
+      "title": "Boston Celtics vs Sacramento Kings",
+      "team_home": "Boston Celtics",
+      "team_away": "Sacramento Kings",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -400,28 +365,6 @@
         ]
       },
       "startTimestamp": 1784160000
-    },
-    {
-      "date": "2026-07-16",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Ecuador Ligapro",
-      "title": "Barcelona SC vs Guayaquil City",
-      "team_home": "Barcelona SC",
-      "team_away": "Guayaquil City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784161800
     },
     {
       "date": "2026-07-16",
