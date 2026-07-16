@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T14:53:54.046237",
+  "generated_at": "2026-07-16T17:39:14.374394",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 46,
   "events": [
     {
       "date": "2026-07-14",
@@ -80,72 +80,6 @@
     },
     {
       "date": "2026-07-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Vitesse vs AEK Athens",
-      "team_home": "Vitesse",
-      "team_away": "AEK Athens",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784134800
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": null,
-      "title": "CSU Craiova vs ML Rogachev",
-      "team_home": "CSU Craiova",
-      "team_away": "ML Rogachev",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784136600
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "Volleyball",
-      "title": "Serbia vs Turkey",
-      "team_home": "Serbia",
-      "team_away": "Turkey",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784137500
-    },
-    {
-      "date": "2026-07-15",
       "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": "World - FIFA World Cup",
@@ -153,85 +87,9 @@
       "team_home": "England",
       "team_away": "Argentina",
       "sources": [
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=ctv",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=foxone",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=wctv",
-            "source": "manual"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "CH-DE",
-            "url": "https://multi.govoet.cc/?shaka=dsports",
-            "source": "manual"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?jw=lasestre",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?jw=americatv",
-            "source": "manual"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
         "unknown": [
           {
             "channel": "CH-EC",
@@ -247,168 +105,46 @@
             "channel": "CH-AS",
             "url": "https://multi.govoet.cc/?shaka=makkan",
             "source": "manual"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
           }
         ],
-        "el": [
+        "es": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?jw=lasestre",
+            "source": "manual"
           },
           {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?jw=americatv",
+            "source": "manual"
           }
         ],
-        "pt-BR": [
+        "de": [
           {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
+            "channel": "CH-DE",
+            "url": "https://multi.govoet.cc/?shaka=dsports",
+            "source": "manual"
+          }
+        ],
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=ctv",
+            "source": "manual"
           },
           {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=wctv",
+            "source": "manual"
           }
         ]
       },
       "startTimestamp": 1784142000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "20:40",
-      "time_utc1": "22:40",
-      "league": "Volleyball",
-      "title": "France vs Brazil",
-      "team_home": "France",
-      "team_away": "Brazil",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784148000
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "NBA Summer League",
-      "title": "Phoenix Suns vs Detroit Pistons",
-      "team_home": "Phoenix Suns",
-      "team_away": "Detroit Pistons",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784152800
-    },
-    {
-      "date": "2026-07-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NBA Summer League",
-      "title": "Boston Celtics vs Sacramento Kings",
-      "team_home": "Boston Celtics",
-      "team_away": "Sacramento Kings",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784160000
-    },
-    {
-      "date": "2026-07-16",
-      "time_utc": "00:45",
-      "time_utc1": "02:45",
-      "league": "Volleyball",
-      "title": "USA vs China",
-      "team_home": "USA",
-      "team_away": "China",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784162700
-    },
-    {
-      "date": "2026-07-16",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "NBA Summer League",
-      "title": "Washington Wizards vs LA Clippers",
-      "team_home": "Washington Wizards",
-      "team_away": "LA Clippers",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784169000
     },
     {
       "date": "2026-07-16",
