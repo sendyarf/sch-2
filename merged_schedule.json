@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T04:23:26.760015",
+  "generated_at": "2026-07-16T06:39:51.374636",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 54,
   "events": [
     {
       "date": "2026-07-14",
@@ -390,45 +390,17 @@
     },
     {
       "date": "2026-07-16",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "NBA",
-      "title": "San Antonio Spurs vs Utah Jazz",
-      "team_home": "San Antonio Spurs",
-      "team_away": "Utah Jazz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784165400
-    },
-    {
-      "date": "2026-07-16",
       "time_utc": "02:30",
       "time_utc1": "04:30",
-      "league": "NBA",
-      "title": "Los Angeles Clippers vs Washington Wizards",
-      "team_home": "Los Angeles Clippers",
-      "team_away": "Washington Wizards",
+      "league": "NBA Summer League",
+      "title": "Washington Wizards vs LA Clippers",
+      "team_home": "Washington Wizards",
+      "team_away": "LA Clippers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
