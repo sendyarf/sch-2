@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:38:55.367673",
+  "generated_at": "2026-07-16T01:06:11.523155",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 59,
+  "total_events": 57,
   "events": [
     {
       "date": "2026-07-14",
@@ -324,74 +324,17 @@
     },
     {
       "date": "2026-07-15",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "NBA",
-      "title": "Cleveland Cavaliers vs New Orleans Pelicans",
-      "team_home": "Cleveland Cavaliers",
-      "team_away": "New Orleans Pelicans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784151000
-    },
-    {
-      "date": "2026-07-15",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Ecuador Ligapro",
-      "title": "U. Catolica vs LDU Quito",
-      "team_home": "U. Catolica",
-      "team_away": "LDU Quito",
+      "league": "NBA Summer League",
+      "title": "Phoenix Suns vs Detroit Pistons",
+      "team_home": "Phoenix Suns",
+      "team_away": "Detroit Pistons",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784152800
-    },
-    {
-      "date": "2026-07-15",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "NBA",
-      "title": "Detroit Pistons vs Phoenix Suns",
-      "team_home": "Detroit Pistons",
-      "team_away": "Phoenix Suns",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
