@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T22:58:43.522847",
+  "generated_at": "2026-07-17T00:00:49.931332",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 89,
+  "total_events": 87,
   "events": [
     {
       "date": "2026-07-14",
@@ -404,57 +404,6 @@
         ]
       },
       "startTimestamp": 1784225700
-    },
-    {
-      "date": "2026-07-16",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "NBA",
-      "title": "Oklahoma City Thunder vs Dallas Mavericks",
-      "team_home": "Oklahoma City Thunder",
-      "team_away": "Dallas Mavericks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784232000
-    },
-    {
-      "date": "2026-07-16",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "NBA",
-      "title": "Houston Rockets vs Brooklyn Nets",
-      "team_home": "Houston Rockets",
-      "team_away": "Brooklyn Nets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784233800
     },
     {
       "date": "2026-07-16",
