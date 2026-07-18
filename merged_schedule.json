@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T14:20:18.499721",
+  "generated_at": "2026-07-18T15:27:41.858234",
   "sources": [
     {
       "name": "cartelive",
@@ -163,21 +163,15 @@
       "date": "2026-07-18",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Amical Club",
-      "title": "Groningen (Ned) vs AEK Athens (Gre)",
-      "team_home": "Groningen (Ned)",
-      "team_away": "AEK Athens (Gre)",
+      "league": null,
+      "title": "Groningen vs AEK Athens",
+      "team_home": "Groningen",
+      "team_away": "AEK Athens",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
