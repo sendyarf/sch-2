@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T03:49:56.089518",
+  "generated_at": "2026-07-18T05:58:47.004766",
   "sources": [
     {
       "name": "cartelive",
@@ -18,233 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 83,
+  "total_events": 75,
   "events": [
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cienciano vs FBC Melgar",
-      "team_home": "Cienciano",
-      "team_away": "FBC Melgar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784336400
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Atl. San Luis vs Cruz Azul",
-      "team_home": "Atl. San Luis",
-      "team_away": "Cruz Azul",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784336400
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Club Leon vs Atlas",
-      "team_home": "Club Leon",
-      "team_away": "Atlas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784336400
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NBA",
-      "title": "Miami Heat vs Detroit Pistons",
-      "team_home": "Miami Heat",
-      "team_away": "Detroit Pistons",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784336400
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Detroit Tigers",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784338680
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs St.Louis Cardinals",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784338800
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Washington Nationals",
-      "team_home": "Athletics",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784338800
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Seattle Mariners vs San Francisco Giants",
-      "team_home": "Seattle Mariners",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784340600
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "02:25",
-      "time_utc1": "04:25",
-      "league": "MLS",
-      "title": "Los Angeles Galaxy vs Los Angeles FC",
-      "team_home": "Los Angeles Galaxy",
-      "team_away": "Los Angeles FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784341500
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "NBA",
-      "title": "Utah Jazz vs Portland Trail Blazers",
-      "team_home": "Utah Jazz",
-      "team_away": "Portland Trail Blazers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784341800
-    },
     {
       "date": "2026-07-18",
       "time_utc": "03:00",
@@ -2134,6 +1909,50 @@
         ]
       },
       "startTimestamp": 1784423220
+    },
+    {
+      "date": "2026-07-19",
+      "time_utc": "02:05",
+      "time_utc1": "04:05",
+      "league": "MLB",
+      "title": "Athletics vs Washington Nationals",
+      "team_home": "Athletics",
+      "team_away": "Washington Nationals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784426700
+    },
+    {
+      "date": "2026-07-19",
+      "time_utc": "02:07",
+      "time_utc1": "04:07",
+      "league": "MLB",
+      "title": "Los Angeles Angels vs Detroit Tigers",
+      "team_home": "Los Angeles Angels",
+      "team_away": "Detroit Tigers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT42",
+            "url": "https://multi.govoet.cc/?envivo=195",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784426820
     },
     {
       "date": "2026-07-19",
