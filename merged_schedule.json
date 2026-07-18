@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T16:26:14.014006",
+  "generated_at": "2026-07-18T17:28:49.926226",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 98,
+  "total_events": 96,
   "events": [
     {
       "date": "2026-07-18",
@@ -258,61 +258,15 @@
       "date": "2026-07-18",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Ajax (Ned) vs Olympiacos Piraeus (Gre)",
-      "team_home": "Ajax (Ned)",
-      "team_away": "Olympiacos Piraeus (Gre)",
+      "league": null,
+      "title": "Basel vs Juventus",
+      "team_home": "Basel",
+      "team_away": "Juventus",
       "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784381400
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Basel (Sui) vs Juventus (Ita)",
-      "team_home": "Basel (Sui)",
-      "team_away": "Juventus (Ita)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -326,24 +280,25 @@
       "date": "2026-07-18",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Lotte (Ger) vs Betis (Esp)",
-      "team_home": "Lotte (Ger)",
-      "team_away": "Betis (Esp)",
+      "league": null,
+      "title": "Ajax vs Olympiakos Piraeus",
+      "team_home": "Ajax",
+      "team_away": "Olympiakos Piraeus",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "el": [
           {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          },
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
           {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
@@ -352,54 +307,25 @@
     },
     {
       "date": "2026-07-18",
-      "time_utc": "13:40",
-      "time_utc1": "15:40",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Belgique Essais qualificatifs",
-      "team_home": null,
-      "team_away": null,
+      "time_utc": "13:30",
+      "time_utc1": "15:30",
+      "league": null,
+      "title": "Sportfreunde Lotte vs Real Betis",
+      "team_home": "Sportfreunde Lotte",
+      "team_away": "Real Betis",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784382000
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Celtic (Sco) vs Middlesbrough (Eng)",
-      "team_home": "Celtic (Sco)",
-      "team_away": "Middlesbrough (Eng)",
-      "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1784383200
+      "startTimestamp": 1784381400
     },
     {
       "date": "2026-07-18",
