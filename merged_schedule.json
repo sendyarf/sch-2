@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T17:28:49.926226",
+  "generated_at": "2026-07-18T18:27:29.374960",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 96,
+  "total_events": 95,
   "events": [
     {
       "date": "2026-07-18",
@@ -331,43 +331,15 @@
       "date": "2026-07-18",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Lille (Fra) vs RAAL La Louviere (Bel)",
-      "team_home": "Lille (Fra)",
-      "team_away": "RAAL La Louviere (Bel)",
+      "league": null,
+      "title": "Manchester United vs Wrexham",
+      "team_home": "Manchester United",
+      "team_away": "Wrexham",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784386800
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Manchester Utd (Eng) vs Wrexham (Wal)",
-      "team_home": "Manchester Utd (Eng)",
-      "team_away": "Wrexham (Wal)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -381,21 +353,15 @@
       "date": "2026-07-18",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Oberhausen (Ger) vs Dortmund (Ger)",
-      "team_home": "Oberhausen (Ger)",
-      "team_away": "Dortmund (Ger)",
+      "league": null,
+      "title": "Rot-Weiß Oberhausen vs Borussia Dortmund",
+      "team_home": "Rot-Weiß Oberhausen",
+      "team_away": "Borussia Dortmund",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
