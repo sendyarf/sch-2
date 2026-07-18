@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T12:58:32.678913",
+  "generated_at": "2026-07-18T14:20:18.499721",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 99,
+  "total_events": 98,
   "events": [
     {
       "date": "2026-07-18",
@@ -107,35 +107,6 @@
         ]
       },
       "startTimestamp": 1784368800
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "10:15",
-      "time_utc1": "12:15",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Belgique Essais Libres 3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784369700
     },
     {
       "date": "2026-07-18",
@@ -370,14 +341,12 @@
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ],
         "en": [
+          {
+            "channel": "PT BTV",
+            "url": "https://multi.govoet.cc/?envivo=147",
+            "source": "cartelive"
+          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
