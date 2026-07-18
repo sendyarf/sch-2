@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T19:41:10.394466",
+  "generated_at": "2026-07-18T20:27:07.476784",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 93,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-07-18",
@@ -443,50 +443,6 @@
         ]
       },
       "startTimestamp": 1784392200
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "SK Rapid (Aut) vs Hamburger SV (Ger)",
-      "team_home": "SK Rapid (Aut)",
-      "team_away": "Hamburger SV (Ger)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784394000
-    },
-    {
-      "date": "2026-07-18",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Slavia Prague (Cze) vs Lyon (Fra)",
-      "team_home": "Slavia Prague (Cze)",
-      "team_away": "Lyon (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 11",
-            "url": "https://multi.govoet.cc/?envivo=41",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784394000
     },
     {
       "date": "2026-07-18",
