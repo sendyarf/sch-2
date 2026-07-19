@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:13:10.412880",
+  "generated_at": "2026-07-19T17:13:36.390171",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 58,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-07-18",
@@ -60,79 +60,6 @@
         ]
       },
       "startTimestamp": 1784408400
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Cerro Largo",
-      "team_home": "Central Esp.",
-      "team_away": "Cerro Largo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784466000
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Belgique",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784466000
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Cracovia (Pol) vs Sevilla (Esp)",
-      "team_home": "Cracovia (Pol)",
-      "team_away": "Sevilla (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784469600
     },
     {
       "date": "2026-07-19",
