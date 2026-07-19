@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T03:50:32.627996",
+  "generated_at": "2026-07-19T06:24:38.456448",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 70,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-07-18",
@@ -60,175 +60,6 @@
         ]
       },
       "startTimestamp": 1784408400
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NBA",
-      "title": "New Orleans Pelicans vs Indiana Pacers",
-      "team_home": "New Orleans Pelicans",
-      "team_away": "Indiana Pacers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784422800
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "01:05",
-      "time_utc1": "03:05",
-      "league": "Liga Mx",
-      "title": "Monterrey vs Santos Laguna",
-      "team_home": "Monterrey",
-      "team_away": "Santos Laguna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784423100
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "01:07",
-      "time_utc1": "03:07",
-      "league": "Liga Mx",
-      "title": "Guadalajara Chivas vs Toluca",
-      "team_home": "Guadalajara Chivas",
-      "team_away": "Toluca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784423220
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "02:05",
-      "time_utc1": "04:05",
-      "league": "MLB",
-      "title": "Athletics vs Washington Nationals",
-      "team_home": "Athletics",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784426700
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "02:07",
-      "time_utc1": "04:07",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Detroit Tigers",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784426820
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "NBA",
-      "title": "Phoenix Suns vs San Antonio Spurs",
-      "team_home": "Phoenix Suns",
-      "team_away": "San Antonio Spurs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784428200
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Queretaro vs Club America",
-      "team_home": "Queretaro",
-      "team_away": "Club America",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784430600
     },
     {
       "date": "2026-07-19",
@@ -823,6 +654,11 @@
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?vidstack=fox4kusa",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?jw=bbconeuk",
             "source": "manual"
           },
           {
