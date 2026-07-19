@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T10:14:11.907266",
+  "generated_at": "2026-07-19T11:30:45.944349",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-07-18",
@@ -60,77 +60,6 @@
         ]
       },
       "startTimestamp": 1784408400
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
-      "league": "Golf",
-      "title": "The Open Championship - D4",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784448000
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "09:30",
-      "time_utc1": "11:30",
-      "league": "Tennis",
-      "title": "ATP World Tour 250: Gstaad 2006 - Final",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784453400
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250: Bastad 2006 - Final",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784462400
     },
     {
       "date": "2026-07-19",
@@ -185,42 +114,6 @@
     },
     {
       "date": "2026-07-19",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": null,
-      "title": "Belgian F1 Grand Prix",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784466000
-    },
-    {
-      "date": "2026-07-19",
       "time_utc": "14:00",
       "time_utc1": "16:00",
       "league": "Amical Club",
@@ -228,8 +121,7 @@
       "team_home": "Cracovia (Pol)",
       "team_away": "Sevilla (Esp)",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -237,13 +129,6 @@
             "channel": "ES M+ Deportes",
             "url": "https://multi.govoet.cc/?envivo=62",
             "source": "cartelive"
-          }
-        ],
-        "pl": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
@@ -358,28 +243,6 @@
         ]
       },
       "startTimestamp": 1784479500
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Indycar",
-      "title": "Indy NXT Series - Nashville",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784480400
     },
     {
       "date": "2026-07-19",
@@ -567,7 +430,6 @@
       "team_away": "Argentina",
       "sources": [
         "cartelive",
-        "sportsonline",
         "manual"
       ],
       "streams_by_language": {
@@ -581,11 +443,6 @@
             "channel": "m6",
             "url": "https://multi.govoet.cc/?envivo=26",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -633,11 +490,6 @@
             "channel": "GOLPERU",
             "url": "https://multi.govoet.cc/?envivo=85",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
           }
         ],
         "en": [
@@ -665,21 +517,6 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ],
         "de": [
@@ -687,11 +524,6 @@
             "channel": "DE bundliga1",
             "url": "https://multi.govoet.cc/?envivo=111",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
           }
         ],
         "it": [
@@ -699,11 +531,6 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ],
         "unknown": [
@@ -711,56 +538,6 @@
             "channel": "CH-KZ",
             "url": "https://multi.govoet.cc/?jw=qazs",
             "source": "manual"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pl": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV5",
-            "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
           }
         ]
       },
@@ -922,28 +699,6 @@
     },
     {
       "date": "2026-07-19",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Indycar",
-      "title": "Indycar Nashville - Race",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784498400
-    },
-    {
-      "date": "2026-07-19",
       "time_utc": "22:30",
       "time_utc1": "00:30",
       "league": "NBA",
@@ -1002,8 +757,7 @@
       "team_home": "Alianza Lima",
       "team_away": "Sport Huancayo",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
@@ -1011,13 +765,6 @@
             "channel": "Liga1MAX",
             "url": "https://multi.govoet.cc/?envivo=84",
             "source": "cartelive"
-          }
-        ],
-        "ar": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1066,6 +813,28 @@
         ]
       },
       "startTimestamp": 1784509200
+    },
+    {
+      "date": "2026-07-20",
+      "time_utc": "09:00",
+      "time_utc1": "11:00",
+      "league": "Tennis",
+      "title": "ATP World Tour 250: Kitzbuhel 2026",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784538000
     },
     {
       "date": "2026-07-20",
@@ -1159,28 +928,6 @@
         ]
       },
       "startTimestamp": 1784592000
-    },
-    {
-      "date": "2026-07-21",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250: Kitzbuhel 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784624400
     },
     {
       "date": "2026-07-21",
@@ -1533,13 +1280,159 @@
       "startTimestamp": 1784689200
     },
     {
-      "date": "2026-07-25",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
+      "date": "2026-07-26",
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "Golf",
+      "title": "The Open Championship - D4",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785052800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "09:30",
+      "time_utc1": "11:30",
+      "league": "Tennis",
+      "title": "ATP World Tour 250: Gstaad 2006 - Final",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785058200
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "12:00",
+      "time_utc1": "14:00",
+      "league": "Tennis",
+      "title": "ATP World Tour 250: Bastad 2006 - Final",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785067200
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
       "league": null,
-      "title": "France vs England",
-      "team_home": "France",
-      "team_away": "England",
+      "title": "Belgian F1 Grand Prix",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785070800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Cracovia Kraków vs Sevilla",
+      "team_home": "Cracovia Kraków",
+      "team_away": "Sevilla",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pl": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785074400
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Indycar",
+      "title": "Indy NXT Series - Nashville",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785085200
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Spain vs Argentina",
+      "team_home": "Spain",
+      "team_away": "Argentina",
       "sources": [
         "sportsonline"
       ],
@@ -1548,6 +1441,11 @@
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           },
           {
@@ -1603,7 +1501,9 @@
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          },
+          }
+        ],
+        "pl": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -1635,133 +1535,38 @@
           }
         ]
       },
-      "startTimestamp": 1785013200
+      "startTimestamp": 1785092400
     },
     {
-      "date": "2026-07-25",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": null,
-      "title": "Atlético-GO vs Athletic",
-      "team_home": "Atlético-GO",
-      "team_away": "Athletic",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785013200
-    },
-    {
-      "date": "2026-07-25",
+      "date": "2026-07-26",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "UFC",
-      "title": "Prelims",
+      "league": "Indycar",
+      "title": "Indycar Nashville - Race",
       "team_home": null,
       "team_away": null,
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785016800
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": null,
-      "title": "Millonarios vs Colo-Colo",
-      "team_home": "Millonarios",
-      "team_away": "Colo-Colo",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785020400
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "UFC",
-      "title": "Dricus du Plessis vs Kamaru Usman",
-      "team_home": "Dricus du Plessis",
-      "team_away": "Kamaru Usman",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
         "pt": [
           {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785024000
+      "startTimestamp": 1785103200
     },
     {
-      "date": "2026-07-26",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Boxing",
-      "title": "Bryan Flores vs Jonathan Navarro",
-      "team_home": "Bryan Flores",
-      "team_away": "Jonathan Navarro",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785027600
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "01:05",
-      "time_utc1": "03:05",
+      "date": "2026-07-27",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
       "league": null,
-      "title": "Monterrey vs Santos Laguna",
-      "team_home": "Monterrey",
-      "team_away": "Santos Laguna",
+      "title": "Alianza Lima vs Sport Huancayo",
+      "team_home": "Alianza Lima",
+      "team_away": "Sport Huancayo",
       "sources": [
         "sportsonline"
       ],
@@ -1774,29 +1579,7 @@
           }
         ]
       },
-      "startTimestamp": 1785027900
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": null,
-      "title": "Querétaro vs América",
-      "team_home": "Querétaro",
-      "team_away": "América",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785035400
+      "startTimestamp": 1785110400
     }
   ]
 }
