@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T18:08:17.969092",
+  "generated_at": "2026-07-19T19:29:43.292236",
   "sources": [
     {
       "name": "cartelive",
@@ -18,115 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 51,
   "events": [
-    {
-      "date": "2026-07-18",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "World - FIFA World Cup",
-      "title": "France vs England",
-      "team_home": "France",
-      "team_away": "England",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "CH-KZ",
-            "url": "https://multi.govoet.cc/?jw=qazs",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?jw=foxusa",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?vidstack=fox4kusa",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?jw=telemundohls",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1784408400
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Los Chankas vs Sport Boys",
-      "team_home": "Los Chankas",
-      "team_away": "Sport Boys",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784476800
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "CA Cerro vs Racing Montevideo",
-      "team_home": "CA Cerro",
-      "team_away": "Racing Montevideo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784476800
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Chicago White Sox",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784477700
-    },
     {
       "date": "2026-07-19",
       "time_utc": "16:35",
@@ -375,6 +268,11 @@
         "es": [
           {
             "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=dsportsarg",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
             "url": "https://multi.govoet.cc/?jw=telemundohls",
             "source": "manual"
           },
@@ -422,22 +320,22 @@
         "en": [
           {
             "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=ctv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?shaka=foxone",
             "source": "manual"
           },
           {
             "channel": "CH-EN",
             "url": "https://multi.govoet.cc/?jw=foxusa",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?vidstack=fox4kusa",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?jw=bbconeuk",
             "source": "manual"
           },
           {
@@ -464,6 +362,21 @@
           {
             "channel": "CH-KZ",
             "url": "https://multi.govoet.cc/?jw=qazs",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ID",
+            "url": "https://multi.govoet.cc/?shaka=tvri",
+            "source": "manual"
+          },
+          {
+            "channel": "PC-EN4k",
+            "url": "https://multi.govoet.cc/?vidstack=fox4kusa",
+            "source": "manual"
+          },
+          {
+            "channel": "PC-DE4k",
+            "url": "https://multi.govoet.cc/?vidstack=fussballtv1de",
             "source": "manual"
           }
         ]
