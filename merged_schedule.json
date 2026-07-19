@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T20:23:57.259138",
+  "generated_at": "2026-07-19T21:12:53.905774",
   "sources": [
     {
       "name": "cartelive",
@@ -18,162 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 49,
+  "total_events": 42,
   "events": [
-    {
-      "date": "2026-07-19",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Texas Rangers",
-      "team_home": "Atlanta Braves",
-      "team_away": "Texas Rangers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784482500
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Tampa Bay Rays",
-      "team_home": "Boston Red Sox",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784482500
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs New York Mets",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784482500
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Pittsburgh Pirates",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784482800
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Baltimore Orioles",
-      "team_home": "Houston Astros",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784484600
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs San Diego Padres",
-      "team_home": "Kansas City Royals",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784484600
-    },
-    {
-      "date": "2026-07-19",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Miami Marlins",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784484600
-    },
     {
       "date": "2026-07-19",
       "time_utc": "18:20",
@@ -205,7 +51,8 @@
       "team_home": "Spain",
       "team_away": "Argentina",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "manual"
       ],
       "streams_by_language": {
         "fr": [
@@ -221,6 +68,21 @@
           }
         ],
         "es": [
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?shaka=dsportsarg",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?jw=telemundohls",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ES",
+            "url": "https://multi.govoet.cc/?hls=telemundohls",
+            "source": "manual"
+          },
           {
             "channel": "ES DAZN 1",
             "url": "https://multi.govoet.cc/?envivo=56",
@@ -264,6 +126,31 @@
         ],
         "en": [
           {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=tsn4",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=ctv",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=foxone",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?jw=foxusa",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?hls=foxusa",
+            "source": "manual"
+          },
+          {
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
@@ -281,6 +168,28 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "CH-KZ",
+            "url": "https://multi.govoet.cc/?jw=qazs",
+            "source": "manual"
+          },
+          {
+            "channel": "CH-ID",
+            "url": "https://multi.govoet.cc/?shaka=tvri",
+            "source": "manual"
+          },
+          {
+            "channel": "PC-EN4k",
+            "url": "https://multi.govoet.cc/?vidstack=fox4kusa",
+            "source": "manual"
+          },
+          {
+            "channel": "PC-DE4k",
+            "url": "https://multi.govoet.cc/?vidstack=fussballtv1de",
+            "source": "manual"
           }
         ]
       },
