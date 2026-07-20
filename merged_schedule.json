@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T21:30:26.788594",
+  "generated_at": "2026-07-20T22:36:49.391135",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-07-19",
@@ -100,50 +100,6 @@
         ]
       },
       "startTimestamp": 1784487600
-    },
-    {
-      "date": "2026-07-20",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Mushuc Runa vs Orense",
-      "team_home": "Mushuc Runa",
-      "team_away": "Orense",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784574000
-    },
-    {
-      "date": "2026-07-20",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "Amical Club",
-      "title": "Sporting CP (Por) vs Strasbourg (Fra)",
-      "team_home": "Sporting CP (Por)",
-      "team_away": "Strasbourg (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784574900
     },
     {
       "date": "2026-07-20",
