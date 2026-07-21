@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:34:18.380416",
+  "generated_at": "2026-07-21T21:44:38.909705",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-07-19",
@@ -171,22 +171,14 @@
       "date": "2026-07-21",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Fenerbahce (Tur) vs Gornik Zabrze (Pol)",
-      "team_home": "Fenerbahce (Tur)",
-      "team_away": "Gornik Zabrze (Pol)",
+      "league": null,
+      "title": "Fenerbahçe vs Górnik Zabrze",
+      "team_home": "Fenerbahçe",
+      "team_away": "Górnik Zabrze",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -201,21 +193,15 @@
       "date": "2026-07-21",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Thun (Sui) vs Din. Zagreb (Cro)",
-      "team_home": "Thun (Sui)",
-      "team_away": "Din. Zagreb (Cro)",
+      "league": null,
+      "title": "Thun vs Dinamo Zagreb",
+      "team_home": "Thun",
+      "team_away": "Dinamo Zagreb",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -227,46 +213,16 @@
     },
     {
       "date": "2026-07-21",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Conference League",
-      "title": "Bissen (Lux) vs Gyor (Hun)",
-      "team_home": "Bissen (Lux)",
-      "team_away": "Gyor (Hun)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784657700
-    },
-    {
-      "date": "2026-07-21",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Ligue Des Champions",
-      "title": "Sturm Graz (Aut) vs Hearts (Sco)",
-      "team_home": "Sturm Graz (Aut)",
-      "team_away": "Hearts (Sco)",
+      "league": null,
+      "title": "Sturm Graz vs Hearts",
+      "team_home": "Sturm Graz",
+      "team_away": "Hearts",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
