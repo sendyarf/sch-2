@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T09:37:44.313197",
+  "generated_at": "2026-07-21T11:28:09.611121",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 21,
+  "total_events": 16,
   "events": [
     {
       "date": "2026-07-19",
@@ -472,121 +472,6 @@
         ]
       },
       "startTimestamp": 1784689200
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 250: Kitzbuhel 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785142800
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Darts",
-      "title": "World Matchplay Darts D3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785175200
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Sporting CP vs Strasbourg",
-      "team_home": "Sporting CP",
-      "team_away": "Strasbourg",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785179700
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": null,
-      "title": "Ferroviária vs Corinthians",
-      "team_home": "Ferroviária",
-      "team_away": "Corinthians",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785193200
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "WNBA",
-      "title": "Aces vs Tempo",
-      "team_home": "Aces",
-      "team_away": "Tempo",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785196800
     }
   ]
 }
