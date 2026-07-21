@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T04:29:16.613066",
+  "generated_at": "2026-07-21T07:10:26.437981",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 24,
+  "total_events": 21,
   "events": [
     {
       "date": "2026-07-19",
@@ -100,79 +100,6 @@
         ]
       },
       "startTimestamp": 1784487600
-    },
-    {
-      "date": "2026-07-21",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Athletics",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784598000
-    },
-    {
-      "date": "2026-07-21",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Cincinnati Reds",
-      "team_home": "Seattle Mariners",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784598000
-    },
-    {
-      "date": "2026-07-21",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs St.Louis Cardinals",
-      "team_home": "Los Angeles Angels",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784599800
     },
     {
       "date": "2026-07-21",
