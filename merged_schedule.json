@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T21:54:16.625616",
+  "generated_at": "2026-07-22T22:55:23.858401",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 73,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-07-19",
@@ -171,108 +171,6 @@
       "date": "2026-07-22",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Amical Club",
-      "title": "Gil Vicente (Por) vs FC Porto (Por)",
-      "team_home": "Gil Vicente (Por)",
-      "team_away": "FC Porto (Por)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784746800
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Zeleznicar Pancevo (Srb) vs Braga (Por)",
-      "team_home": "Zeleznicar Pancevo (Srb)",
-      "team_away": "Braga (Por)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784746800
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Macara vs Dep. Cuenca",
-      "team_home": "Macara",
-      "team_away": "Dep. Cuenca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784746800
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Egnatia (Alb) vs Celje (Slo)",
-      "team_home": "Egnatia (Alb)",
-      "team_away": "Celje (Slo)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784746800
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
       "league": null,
       "title": "Tenerife vs Getafe",
       "team_home": "Tenerife",
@@ -322,69 +220,47 @@
     },
     {
       "date": "2026-07-22",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Washington Nationals",
-      "team_home": "Colorado Rockies",
-      "team_away": "Washington Nationals",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Egnatia Rrogozhinë vs Celje",
+      "team_home": "Egnatia Rrogozhinë",
+      "team_away": "Celje",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1784747400
+      "startTimestamp": 1784746800
     },
     {
       "date": "2026-07-22",
-      "time_utc": "19:40",
-      "time_utc1": "21:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Athletics",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Athletics",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Gil Vicente vs Porto",
+      "team_home": "Gil Vicente",
+      "team_away": "Porto",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt": [
           {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1784749200
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "19:40",
-      "time_utc1": "21:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Cincinnati Reds",
-      "team_home": "Seattle Mariners",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784749200
+      "startTimestamp": 1784746800
     },
     {
       "date": "2026-07-22",
