@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T04:31:55.017856",
+  "generated_at": "2026-07-22T07:19:52.724160",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 32,
+  "total_events": 29,
   "events": [
     {
       "date": "2026-07-19",
@@ -189,103 +189,17 @@
       "startTimestamp": 1784595600
     },
     {
-      "date": "2026-07-22",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs St.Louis Cardinals",
-      "team_home": "Los Angeles Angels",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784684280
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Athletics",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784684400
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Cincinnati Reds",
-      "team_home": "Seattle Mariners",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784684400
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "03:05",
-      "time_utc1": "05:05",
-      "league": "Liga Mx",
-      "title": "Toluca vs UNAM Pumas",
+      "date": "2026-07-21",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": null,
+      "title": "Toluca vs Pumas UNAM",
       "team_home": "Toluca",
-      "team_away": "UNAM Pumas",
+      "team_away": "Pumas UNAM",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "pl": [
           {
             "channel": "HD11",
@@ -294,7 +208,7 @@
           }
         ]
       },
-      "startTimestamp": 1784689500
+      "startTimestamp": 1784602800
     },
     {
       "date": "2026-07-22",
