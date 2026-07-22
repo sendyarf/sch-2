@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:44:16.078332",
+  "generated_at": "2026-07-22T21:54:16.625616",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 80,
+  "total_events": 73,
   "events": [
     {
       "date": "2026-07-19",
@@ -103,55 +103,17 @@
     },
     {
       "date": "2026-07-22",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "Conference League",
-      "title": "Basaksehir (Tur) vs Inter Turku (Fin)",
-      "team_home": "Basaksehir (Tur)",
-      "team_away": "Inter Turku (Fin)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784742300
-    },
-    {
-      "date": "2026-07-22",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Olot (Esp) vs Girona (Esp)",
-      "team_home": "Olot (Esp)",
-      "team_away": "Girona (Esp)",
+      "league": null,
+      "title": "Olot vs Girona",
+      "team_home": "Olot",
+      "team_away": "Girona",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -160,138 +122,6 @@
         ]
       },
       "startTimestamp": 1784743200
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Vardar (Mkd) vs Riga FC (Lat)",
-      "team_home": "Vardar (Mkd)",
-      "team_away": "Riga FC (Lat)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784743200
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs San Francisco Giants",
-      "team_home": "Kansas City Royals",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784743800
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs New York Mets",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784743800
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Burton (Eng) vs Birmingham (Eng)",
-      "team_home": "Burton (Eng)",
-      "team_away": "Birmingham (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784745000
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Trnava (Svk) vs CSKA 1948 Sofia (Bul)",
-      "team_home": "Trnava (Svk)",
-      "team_away": "CSKA 1948 Sofia (Bul)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784745000
-    },
-    {
-      "date": "2026-07-22",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Rangers (Sco) vs St Etienne (Fra)",
-      "team_home": "Rangers (Sco)",
-      "team_away": "St Etienne (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784745900
     },
     {
       "date": "2026-07-22",
