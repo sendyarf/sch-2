@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T15:15:27.214961",
+  "generated_at": "2026-07-22T16:54:05.446396",
   "sources": [
     {
       "name": "cartelive",
@@ -147,28 +147,6 @@
     },
     {
       "date": "2026-07-22",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Tottenham (Eng) vs MK Dons (Eng)",
-      "team_home": "Tottenham (Eng)",
-      "team_away": "MK Dons (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784732400
-    },
-    {
-      "date": "2026-07-22",
       "time_utc": "15:30",
       "time_utc1": "17:30",
       "league": "Amical Club",
@@ -232,6 +210,28 @@
           {
             "channel": "EXTRA SPORT10",
             "url": "https://multi.govoet.cc/?envivo=164",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784736000
+    },
+    {
+      "date": "2026-07-22",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Amical Club",
+      "title": "Tottenham (Eng) vs MK Dons (Eng)",
+      "team_home": "Tottenham (Eng)",
+      "team_away": "MK Dons (Eng)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT6",
+            "url": "https://multi.govoet.cc/?envivo=160",
             "source": "cartelive"
           }
         ]
