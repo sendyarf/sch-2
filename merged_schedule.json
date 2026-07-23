@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T17:43:41.172770",
+  "generated_at": "2026-07-23T18:49:23.319708",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 65,
+  "total_events": 52,
   "events": [
     {
       "date": "2026-07-19",
@@ -127,50 +127,6 @@
       "date": "2026-07-23",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Conference League",
-      "title": "Alashkert (Arm) vs CFR Cluj (Rou)",
-      "team_home": "Alashkert (Arm)",
-      "team_away": "CFR Cluj (Rou)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784818800
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Conference League",
-      "title": "FK Liepaja (Lat) vs Austria Vienna (Aut)",
-      "team_home": "FK Liepaja (Lat)",
-      "team_away": "Austria Vienna (Aut)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784818800
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
       "league": null,
       "title": "Liepāja vs Austria Wien",
       "team_home": "Liepāja",
@@ -213,173 +169,6 @@
     },
     {
       "date": "2026-07-23",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Conference League",
-      "title": "FK Panevezys (Ltu) vs Tobol (Kaz)",
-      "team_home": "FK Panevezys (Ltu)",
-      "team_away": "Tobol (Kaz)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784820600
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Debrecen (Hun) vs Pyunik Yerevan (Arm)",
-      "team_home": "Debrecen (Hun)",
-      "team_away": "Pyunik Yerevan (Arm)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784822400
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Dila Gori (Geo) vs Apollon (Cyp)",
-      "team_home": "Dila Gori (Geo)",
-      "team_away": "Apollon (Cyp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784822400
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Flora (Est) vs TNS (Wal)",
-      "team_home": "Flora (Est)",
-      "team_away": "TNS (Wal)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784822400
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "HJK (Fin) vs Coleraine (Nir)",
-      "team_home": "HJK (Fin)",
-      "team_away": "Coleraine (Nir)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784822400
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Paide (Est) vs Zira (Aze)",
-      "team_home": "Paide (Est)",
-      "team_away": "Zira (Aze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784822400
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Europa",
-      "title": "Qarabag (Aze) vs CSKA Sofia (Bul)",
-      "team_home": "Qarabag (Aze)",
-      "team_away": "CSKA Sofia (Bul)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784822400
-    },
-    {
-      "date": "2026-07-23",
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": null,
@@ -402,120 +191,30 @@
     },
     {
       "date": "2026-07-23",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Atlanta Braves vs San Diego Padres",
-      "team_home": "Atlanta Braves",
-      "team_away": "San Diego Padres",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Debrecen vs Pyunik",
+      "team_home": "Debrecen",
+      "team_away": "Pyunik",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "unknown": [
           {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          },
           {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1784823300
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Conference League",
-      "title": "AEK Larnaca (Cyp) vs Beitar Jerusalem (Isr)",
-      "team_home": "AEK Larnaca (Cyp)",
-      "team_away": "Beitar Jerusalem (Isr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784824200
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Conference League",
-      "title": "Dun. Streda (Svk) vs Velez Mostar (Bih)",
-      "team_home": "Dun. Streda (Svk)",
-      "team_away": "Velez Mostar (Bih)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784824200
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Conference League",
-      "title": "RFS (Lat) vs Vestri (Ice)",
-      "team_home": "RFS (Lat)",
-      "team_away": "Vestri (Ice)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784824200
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Conference League",
-      "title": "Rakow (Pol) vs Valletta (Mlt)",
-      "team_home": "Rakow (Pol)",
-      "team_away": "Valletta (Mlt)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784824200
+      "startTimestamp": 1784822400
     },
     {
       "date": "2026-07-23",
@@ -1335,8 +1034,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
             "source": "cartelive"
           }
         ]
