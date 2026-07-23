@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T18:49:23.319708",
+  "generated_at": "2026-07-23T20:08:07.092248",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 52,
+  "total_events": 45,
   "events": [
     {
       "date": "2026-07-19",
@@ -220,162 +220,14 @@
       "date": "2026-07-23",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Dinamo Tbilisi (Geo) vs Zalgiris (Ltu)",
-      "team_home": "Dinamo Tbilisi (Geo)",
-      "team_away": "Zalgiris (Ltu)",
+      "league": null,
+      "title": "Hammarby vs Anderlecht",
+      "team_home": "Hammarby",
+      "team_away": "Anderlecht",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "FC Santa Coloma (And) vs SK Rapid (Aut)",
-      "team_home": "FC Santa Coloma (And)",
-      "team_away": "SK Rapid (Aut)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "GAIS (Swe) vs Nordsjaelland (Den)",
-      "team_home": "GAIS (Swe)",
-      "team_away": "Nordsjaelland (Den)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "U. Cluj (Rou) vs Brann (Nor)",
-      "team_home": "U. Cluj (Rou)",
-      "team_away": "Brann (Nor)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Zimbru Chisinau (Mda) vs Noah (Arm)",
-      "team_home": "Zimbru Chisinau (Mda)",
-      "team_away": "Noah (Arm)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Dyn. Kyiv (Ukr) vs PAOK (Gre)",
-      "team_home": "Dyn. Kyiv (Ukr)",
-      "team_away": "PAOK (Gre)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Hammarby (Swe) vs Anderlecht (Bel)",
-      "team_home": "Hammarby (Swe)",
-      "team_away": "Anderlecht (Bel)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ],
         "fr": [
           {
             "channel": "HD4",
@@ -390,41 +242,19 @@
       "date": "2026-07-23",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Sheriff Tiraspol (Mda) vs Maccabi Tel Aviv (Isr)",
-      "team_home": "Sheriff Tiraspol (Mda)",
-      "team_away": "Maccabi Tel Aviv (Isr)",
+      "league": null,
+      "title": "Dynamo Kyiv vs PAOK",
+      "team_home": "Dynamo Kyiv",
+      "team_away": "PAOK",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784826000
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Tromso (Nor) vs Hradec Kralove (Cze)",
-      "team_home": "Tromso (Nor)",
-      "team_away": "Hradec Kralove (Cze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
