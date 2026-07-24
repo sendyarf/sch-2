@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T21:28:28.912413",
+  "generated_at": "2026-07-24T22:34:33.471490",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 101,
+  "total_events": 102,
   "events": [
     {
       "date": "2026-07-19",
@@ -375,21 +375,15 @@
       "date": "2026-07-24",
       "time_utc": "19:45",
       "time_utc1": "21:45",
-      "league": "Torneo LPF",
-      "title": "Gimnasia Mendoza vs Central Cordoba",
+      "league": null,
+      "title": "Gimnasia Mendoza vs Central Córdoba SdE",
       "team_home": "Gimnasia Mendoza",
-      "team_away": "Central Cordoba",
+      "team_away": "Central Córdoba SdE",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -398,28 +392,6 @@
         ]
       },
       "startTimestamp": 1784922300
-    },
-    {
-      "date": "2026-07-24",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Alianza Atl. vs Los Chankas",
-      "team_home": "Alianza Atl.",
-      "team_away": "Los Chankas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784923200
     },
     {
       "date": "2026-07-24",
@@ -1062,8 +1034,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "LAS latin america sports",
-            "url": "https://multi.govoet.cc/?envivo=74",
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
             "source": "cartelive"
           }
         ]
@@ -1244,6 +1216,35 @@
     },
     {
       "date": "2026-07-25",
+      "time_utc": "10:15",
+      "time_utc1": "12:15",
+      "league": "Formula 1",
+      "title": "Formula 1: GP de Hongrie Essais libres 3",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784974500
+    },
+    {
+      "date": "2026-07-25",
       "time_utc": "11:00",
       "time_utc1": "13:00",
       "league": null,
@@ -1401,6 +1402,35 @@
         ]
       },
       "startTimestamp": 1784986200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "13:40",
+      "time_utc1": "15:40",
+      "league": "Formula 1",
+      "title": "Formula 1: GP de Hongrie Essais qualificatifs",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784986800
     },
     {
       "date": "2026-07-25",
