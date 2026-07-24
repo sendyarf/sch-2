@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T23:28:54.216943",
+  "generated_at": "2026-07-24T00:56:18.421332",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 43,
+  "total_events": 40,
   "events": [
     {
       "date": "2026-07-19",
@@ -100,72 +100,6 @@
         ]
       },
       "startTimestamp": 1784487600
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "21:15",
-      "time_utc1": "23:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Arizona Diamondbacks",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784841300
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Ecuador Ligapro",
-      "title": "Leones del Norte vs Guayaquil City",
-      "team_home": "Leones del Norte",
-      "team_away": "Guayaquil City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784842200
-    },
-    {
-      "date": "2026-07-23",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Ecuador Ligapro",
-      "title": "Orense vs Aucas",
-      "team_home": "Orense",
-      "team_away": "Aucas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784842200
     },
     {
       "date": "2026-07-23",
