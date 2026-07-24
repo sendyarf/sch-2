@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T20:13:43.212901",
+  "generated_at": "2026-07-24T21:28:28.912413",
   "sources": [
     {
       "name": "cartelive",
@@ -331,21 +331,15 @@
       "date": "2026-07-24",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Galatasaray (Tur) vs Monza (Ita)",
-      "team_home": "Galatasaray (Tur)",
-      "team_away": "Monza (Ita)",
+      "league": null,
+      "title": "Galatasaray vs Monza",
+      "team_home": "Galatasaray",
+      "team_away": "Monza",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
