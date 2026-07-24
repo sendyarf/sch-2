@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T14:25:41.056474",
+  "generated_at": "2026-07-24T15:52:36.484797",
   "sources": [
     {
       "name": "cartelive",
@@ -183,28 +183,6 @@
     },
     {
       "date": "2026-07-24",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Amical Club",
-      "title": "Wolfsburg (Ger) vs Lyon (Fra)",
-      "team_home": "Wolfsburg (Ger)",
-      "team_away": "Lyon (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784894400
-    },
-    {
-      "date": "2026-07-24",
       "time_utc": "14:00",
       "time_utc1": "16:00",
       "league": "Amical Club",
@@ -346,6 +324,28 @@
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784912400
+    },
+    {
+      "date": "2026-07-24",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Benfica vs Belenenses",
+      "team_home": "Benfica",
+      "team_away": "Belenenses",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "BTV",
+            "url": "https://multi.govoet.cc/?ss=btv",
             "source": "sportsonline"
           }
         ]
