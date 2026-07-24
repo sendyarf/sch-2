@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:52:36.484797",
+  "generated_at": "2026-07-24T17:22:44.676008",
   "sources": [
     {
       "name": "cartelive",
@@ -183,34 +183,6 @@
     },
     {
       "date": "2026-07-24",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Bournemouth (Eng) vs St. Pauli (Ger)",
-      "team_home": "Bournemouth (Eng)",
-      "team_away": "St. Pauli (Ger)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784901600
-    },
-    {
-      "date": "2026-07-24",
       "time_utc": "14:45",
       "time_utc1": "16:45",
       "league": "Formula 1",
@@ -273,6 +245,28 @@
         ]
       },
       "startTimestamp": 1784904300
+    },
+    {
+      "date": "2026-07-24",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
+      "title": "AFC Bournemouth vs St. Pauli",
+      "team_home": "AFC Bournemouth",
+      "team_away": "St. Pauli",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784905200
     },
     {
       "date": "2026-07-24",
