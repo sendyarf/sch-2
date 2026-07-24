@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T17:22:44.676008",
+  "generated_at": "2026-07-24T18:54:16.624284",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 102,
+  "total_events": 101,
   "events": [
     {
       "date": "2026-07-19",
@@ -180,35 +180,6 @@
         ]
       },
       "startTimestamp": 1784890800
-    },
-    {
-      "date": "2026-07-24",
-      "time_utc": "14:45",
-      "time_utc1": "16:45",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Hongrie Essais libres 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784904300
     },
     {
       "date": "2026-07-24",
