@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T04:26:10.546606",
+  "generated_at": "2026-07-25T06:36:33.068775",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 141,
+  "total_events": 138,
   "events": [
     {
       "date": "2026-07-19",
@@ -593,105 +593,21 @@
     },
     {
       "date": "2026-07-25",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "U. de Deportes vs Cusco",
-      "team_home": "U. de Deportes",
-      "team_away": "Cusco",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784943000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Los Angeles Angels",
-      "team_home": "San Francisco Giants",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784945700
-    },
-    {
-      "date": "2026-07-25",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Atlante vs Club America",
+      "league": null,
+      "title": "Atlante vs América",
       "team_home": "Atlante",
-      "team_away": "Club America",
+      "team_away": "América",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784948400
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Club Tijuana vs Club Leon",
-      "team_home": "Club Tijuana",
-      "team_away": "Club Leon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
           }
         ]
       },
