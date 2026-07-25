@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T20:41:51.392803",
+  "generated_at": "2026-07-25T21:35:53.744090",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 105,
+  "total_events": 102,
   "events": [
     {
       "date": "2026-07-25",
@@ -447,22 +447,14 @@
       "date": "2026-07-25",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "Torneo LPF",
-      "title": "Estudiantes Rio Cuarto vs Tigre",
-      "team_home": "Estudiantes Rio Cuarto",
+      "league": null,
+      "title": "Estudiantes Río Cuarto vs Tigre",
+      "team_home": "Estudiantes Río Cuarto",
       "team_away": "Tigre",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD9",
@@ -477,52 +469,25 @@
       "date": "2026-07-25",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Estoril (Por) vs Torreense (Por)",
-      "team_home": "Estoril (Por)",
-      "team_away": "Torreense (Por)",
+      "league": null,
+      "title": "Standard Liège vs Juventus",
+      "team_home": "Standard Liège",
+      "team_away": "Juventus",
       "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785002400
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "St. Liege (Bel) vs Juventus (Ita)",
-      "team_home": "St. Liege (Bel)",
-      "team_away": "Juventus (Ita)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
@@ -533,26 +498,15 @@
       "date": "2026-07-25",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Valencia (Esp) vs Castellon (Esp)",
-      "team_home": "Valencia (Esp)",
-      "team_away": "Castellon (Esp)",
+      "league": null,
+      "title": "Valencia vs CD Castellon",
+      "team_home": "Valencia",
+      "team_away": "CD Castellon",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -566,62 +520,18 @@
       "date": "2026-07-25",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Huancayo vs Grau",
-      "team_home": "Sport Huancayo",
-      "team_away": "Grau",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785002400
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Cerro Largo",
-      "team_home": "Central Esp.",
-      "team_away": "Cerro Largo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785002400
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
       "league": null,
-      "title": "Standard Lieja vs Juventus",
-      "team_home": "Standard Lieja",
-      "team_away": "Juventus",
+      "title": "Estoril vs Torreense",
+      "team_home": "Estoril",
+      "team_away": "Torreense",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "el": [
+        "pt": [
           {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
@@ -632,28 +542,15 @@
       "date": "2026-07-25",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Sporting CP (Por) vs Monaco (Fra)",
-      "team_home": "Sporting CP (Por)",
-      "team_away": "Monaco (Fra)",
+      "league": null,
+      "title": "Sporting CP vs Monaco",
+      "team_home": "Sporting CP",
+      "team_away": "Monaco",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
