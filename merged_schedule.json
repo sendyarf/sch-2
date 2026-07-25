@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T12:42:25.725714",
+  "generated_at": "2026-07-25T14:17:44.004462",
   "sources": [
     {
       "name": "cartelive",
@@ -18,36 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 117,
+  "total_events": 116,
   "events": [
-    {
-      "date": "2026-07-25",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Amical Club",
-      "title": "Lens (Fra) vs Charleroi (Bel)",
-      "team_home": "Lens (Fra)",
-      "team_away": "Charleroi (Bel)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784973600
-    },
     {
       "date": "2026-07-25",
       "time_utc": "10:00",
@@ -72,32 +44,25 @@
     },
     {
       "date": "2026-07-25",
-      "time_utc": "10:15",
-      "time_utc1": "12:15",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Hongrie Essais libres 3",
-      "team_home": null,
-      "team_away": null,
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
+      "league": null,
+      "title": "Lens vs Sporting Charleroi",
+      "team_home": "Lens",
+      "team_away": "Sporting Charleroi",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
           {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1784974500
+      "startTimestamp": 1784973600
     },
     {
       "date": "2026-07-25",
@@ -139,21 +104,15 @@
       "date": "2026-07-25",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Amical Club",
-      "title": "Dusseldorf (Ger) vs Dortmund (Ger)",
-      "team_home": "Dusseldorf (Ger)",
-      "team_away": "Dortmund (Ger)",
+      "league": null,
+      "title": "Fortuna Düsseldorf vs Borussia Dortmund",
+      "team_home": "Fortuna Düsseldorf",
+      "team_away": "Borussia Dortmund",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -162,21 +121,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
           }
         ]
       },
@@ -252,19 +199,32 @@
       "date": "2026-07-25",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": null,
-      "title": "Kickers Offenbach vs Bayer Leverkusen",
-      "team_home": "Kickers Offenbach",
-      "team_away": "Bayer Leverkusen",
+      "league": "Amical Club",
+      "title": "Offenbach (Ger) vs Bayer Leverkusen (Ger)",
+      "team_home": "Offenbach (Ger)",
+      "team_away": "Bayer Leverkusen (Ger)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
           }
         ]
       },
@@ -339,21 +299,15 @@
       "date": "2026-07-25",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Wehen (Ger) vs Bayern Munich (Ger)",
-      "team_home": "Wehen (Ger)",
-      "team_away": "Bayern Munich (Ger)",
+      "league": null,
+      "title": "Wehen Wiesbaden vs Bayern Munich",
+      "team_home": "Wehen Wiesbaden",
+      "team_away": "Bayern Munich",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
