@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T19:54:04.551199",
+  "generated_at": "2026-07-25T20:41:51.392803",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 108,
+  "total_events": 105,
   "events": [
     {
       "date": "2026-07-25",
@@ -423,87 +423,6 @@
     },
     {
       "date": "2026-07-25",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Celta Vigo (Esp) vs Gijon (Esp)",
-      "team_home": "Celta Vigo (Esp)",
-      "team_away": "Gijon (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784998800
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Malaga (Esp) vs Leicester (Eng)",
-      "team_home": "Malaga (Esp)",
-      "team_away": "Leicester (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784998800
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Kansas City Royals",
-      "team_home": "Detroit Tigers",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784999400
-    },
-    {
-      "date": "2026-07-25",
       "time_utc": "17:30",
       "time_utc1": "19:30",
       "league": null,
@@ -614,6 +533,39 @@
       "date": "2026-07-25",
       "time_utc": "18:00",
       "time_utc1": "20:00",
+      "league": "Amical Club",
+      "title": "Valencia (Esp) vs Castellon (Esp)",
+      "team_home": "Valencia (Esp)",
+      "team_away": "Castellon (Esp)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES M+ Deportes",
+            "url": "https://multi.govoet.cc/?envivo=62",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785002400
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
       "league": "Liga 1 Te Apuesto",
       "title": "Sport Huancayo vs Grau",
       "team_home": "Sport Huancayo",
@@ -670,28 +622,6 @@
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785002400
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Valencia vs CD Castellon",
-      "team_home": "Valencia",
-      "team_away": "CD Castellon",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
