@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T23:41:27.731726",
+  "generated_at": "2026-07-25T01:08:57.947514",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 101,
+  "total_events": 150,
   "events": [
     {
       "date": "2026-07-19",
@@ -419,48 +419,18 @@
       "date": "2026-07-24",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Montevideo City vs Danubio",
-      "team_home": "Montevideo City",
-      "team_away": "Danubio",
+      "league": null,
+      "title": "Vélez Sarsfield vs Instituto",
+      "team_home": "Vélez Sarsfield",
+      "team_away": "Instituto",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784930400
-    },
-    {
-      "date": "2026-07-24",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Racing Club vs Gimnasia L.P.",
-      "team_home": "Racing Club",
-      "team_away": "Gimnasia L.P.",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
@@ -471,24 +441,18 @@
       "date": "2026-07-24",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Velez Sarsfield vs Instituto",
-      "team_home": "Velez Sarsfield",
-      "team_away": "Instituto",
+      "league": null,
+      "title": "Racing Club vs Gimnasia La Plata",
+      "team_home": "Racing Club",
+      "team_away": "Gimnasia La Plata",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "unknown": [
           {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
@@ -556,6 +520,11 @@
             "channel": "EXTRA SPORT27",
             "url": "https://multi.govoet.cc/?envivo=181",
             "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
           }
         ]
       },
@@ -577,6 +546,11 @@
           {
             "channel": "UK TNT SPORT",
             "url": "https://multi.govoet.cc/?envivo=126",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
             "source": "cartelive"
           }
         ]
@@ -643,6 +617,11 @@
           {
             "channel": "EXTRA SPORT30",
             "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
             "source": "cartelive"
           }
         ]
@@ -716,6 +695,13 @@
             "url": "https://multi.govoet.cc/?envivo=79",
             "source": "cartelive"
           }
+        ],
+        "en": [
+          {
+            "channel": "UK TNT SPORT",
+            "url": "https://multi.govoet.cc/?envivo=126",
+            "source": "cartelive"
+          }
         ]
       },
       "startTimestamp": 1784934600
@@ -736,6 +722,11 @@
           {
             "channel": "UK TNT SPORT",
             "url": "https://multi.govoet.cc/?envivo=126",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
             "source": "cartelive"
           }
         ]
@@ -780,6 +771,11 @@
           {
             "channel": "EXTRA SPORT33",
             "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT35",
+            "url": "https://multi.govoet.cc/?envivo=188",
             "source": "cartelive"
           }
         ]
@@ -847,6 +843,11 @@
             "channel": "EXTRA SPORT34",
             "url": "https://multi.govoet.cc/?envivo=187",
             "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
           }
         ]
       },
@@ -869,6 +870,11 @@
             "channel": "EXTRA SPORT35",
             "url": "https://multi.govoet.cc/?envivo=188",
             "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT37",
+            "url": "https://multi.govoet.cc/?envivo=190",
+            "source": "cartelive"
           }
         ]
       },
@@ -890,6 +896,11 @@
           {
             "channel": "EXTRA SPORT36",
             "url": "https://multi.govoet.cc/?envivo=189",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT38",
+            "url": "https://multi.govoet.cc/?envivo=191",
             "source": "cartelive"
           }
         ]
@@ -1152,6 +1163,34 @@
       "date": "2026-07-25",
       "time_utc": "10:00",
       "time_utc1": "12:00",
+      "league": "Amical Club",
+      "title": "Lens (Fra) vs Charleroi (Bel)",
+      "team_home": "Lens (Fra)",
+      "team_away": "Charleroi (Bel)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784973600
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
       "league": null,
       "title": "Celta de Vigo vs Sporting Gijón",
       "team_home": "Celta de Vigo",
@@ -1164,28 +1203,6 @@
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784973600
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Lens vs Sporting Charleroi",
-      "team_home": "Lens",
-      "team_away": "Sporting Charleroi",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
@@ -1225,15 +1242,21 @@
       "date": "2026-07-25",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": null,
-      "title": "Fortuna Düsseldorf vs Borussia Dortmund",
-      "team_home": "Fortuna Düsseldorf",
-      "team_away": "Borussia Dortmund",
+      "league": "Amical Club",
+      "title": "Dusseldorf (Ger) vs Dortmund (Ger)",
+      "team_home": "Dusseldorf (Ger)",
+      "team_away": "Dortmund (Ger)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
+          {
+            "channel": "DE bundliga1",
+            "url": "https://multi.govoet.cc/?envivo=111",
+            "source": "cartelive"
+          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -1242,9 +1265,21 @@
         ],
         "pt": [
           {
+            "channel": "PT SPORT 2",
+            "url": "https://multi.govoet.cc/?envivo=145",
+            "source": "cartelive"
+          },
+          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
           }
         ]
       },
@@ -1271,6 +1306,28 @@
         ]
       },
       "startTimestamp": 1784979300
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": "Amical Club",
+      "title": "AZ Alkmaar (Ned) vs Olympiacos Piraeus (Gre)",
+      "team_home": "AZ Alkmaar (Ned)",
+      "team_away": "Olympiacos Piraeus (Gre)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "GR SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=148",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784984400
     },
     {
       "date": "2026-07-25",
@@ -1363,15 +1420,21 @@
       "date": "2026-07-25",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": null,
-      "title": "Wehen Wiesbaden vs Bayern Munich",
-      "team_home": "Wehen Wiesbaden",
-      "team_away": "Bayern Munich",
+      "league": "Amical Club",
+      "title": "Wehen (Ger) vs Bayern Munich (Ger)",
+      "team_home": "Wehen (Ger)",
+      "team_away": "Bayern Munich (Ger)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -1414,6 +1477,78 @@
       "date": "2026-07-25",
       "time_utc": "14:00",
       "time_utc1": "16:00",
+      "league": "Amical Club",
+      "title": "Bolton (Eng) vs Everton (Eng)",
+      "team_home": "Bolton (Eng)",
+      "team_away": "Everton (Eng)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "PT SPORT 2",
+            "url": "https://multi.govoet.cc/?envivo=145",
+            "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784988000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Amical Club",
+      "title": "QPR (Eng) vs Fiorentina (Ita)",
+      "team_home": "QPR (Eng)",
+      "team_away": "Fiorentina (Ita)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=131",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784988000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Amical Club",
+      "title": "Schalke (Ger) vs Okayama (Jpn)",
+      "team_home": "Schalke (Ger)",
+      "team_away": "Okayama (Jpn)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "DE bundliga3",
+            "url": "https://multi.govoet.cc/?envivo=113",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784988000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
       "league": null,
       "title": "Celtic vs Milan",
       "team_home": "Celtic",
@@ -1429,28 +1564,6 @@
             "source": "sportsonline"
           }
         ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784988000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": null,
-      "title": "Bolton Wanderers vs Everton",
-      "team_home": "Bolton Wanderers",
-      "team_away": "Everton",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
         "pt": [
           {
             "channel": "SPORTTV2",
@@ -1485,17 +1598,89 @@
     },
     {
       "date": "2026-07-25",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Amical Club",
+      "title": "Royale Union SG (Bel) vs Lille (Fra)",
+      "team_home": "Royale Union SG (Bel)",
+      "team_away": "Lille (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784991600
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Amical Club",
+      "title": "Torino (Ita) vs Cittadella (Ita)",
+      "team_home": "Torino (Ita)",
+      "team_away": "Cittadella (Ita)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "IT FEED",
+            "url": "https://multi.govoet.cc/?envivo=139",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784991600
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": "Liga 1 Te Apuesto",
+      "title": "Sport Boys vs AD Tarma",
+      "team_home": "Sport Boys",
+      "team_away": "AD Tarma",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Liga1MAX",
+            "url": "https://multi.govoet.cc/?envivo=84",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784993400
+    },
+    {
+      "date": "2026-07-25",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": null,
-      "title": "Olympique Marseille vs Nice",
-      "team_home": "Olympique Marseille",
-      "team_away": "Nice",
+      "league": "Amical Club",
+      "title": "Marseille (Fra) vs Nice (Fra)",
+      "team_home": "Marseille (Fra)",
+      "team_away": "Nice (Fra)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
+          {
+            "channel": "LIGUE 1 FR 4",
+            "url": "https://multi.govoet.cc/?envivo=21",
+            "source": "cartelive"
+          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -1509,19 +1694,47 @@
       "date": "2026-07-25",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": null,
-      "title": "PSV vs Villarreal",
-      "team_home": "PSV",
-      "team_away": "Villarreal",
+      "league": "Amical Club",
+      "title": "PSV (Ned) vs Villarreal (Esp)",
+      "team_home": "PSV (Ned)",
+      "team_away": "Villarreal (Esp)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784995200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Amical Club",
+      "title": "Rennes (Fra) vs Club Brugge KV (Bel)",
+      "team_home": "Rennes (Fra)",
+      "team_away": "Club Brugge KV (Bel)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 5",
+            "url": "https://multi.govoet.cc/?envivo=22",
+            "source": "cartelive"
           }
         ]
       },
@@ -1551,6 +1764,87 @@
     },
     {
       "date": "2026-07-25",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Amical Club",
+      "title": "Celta Vigo (Esp) vs Gijon (Esp)",
+      "team_home": "Celta Vigo (Esp)",
+      "team_away": "Gijon (Esp)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES LALIGA HYPERMOTION",
+            "url": "https://multi.govoet.cc/?envivo=53",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES M+ Deportes",
+            "url": "https://multi.govoet.cc/?envivo=62",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784998800
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Amical Club",
+      "title": "Malaga (Esp) vs Leicester (Eng)",
+      "team_home": "Malaga (Esp)",
+      "team_away": "Leicester (Eng)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES LALIGA HYPERMOTION2",
+            "url": "https://multi.govoet.cc/?envivo=54",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784998800
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "17:10",
+      "time_utc1": "19:10",
+      "league": "MLB",
+      "title": "Detroit Tigers vs Kansas City Royals",
+      "team_home": "Detroit Tigers",
+      "team_away": "Kansas City Royals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 4",
+            "url": "https://multi.govoet.cc/?envivo=4",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1784999400
+    },
+    {
+      "date": "2026-07-25",
       "time_utc": "17:30",
       "time_utc1": "19:30",
       "league": null,
@@ -1575,14 +1869,22 @@
       "date": "2026-07-25",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": null,
-      "title": "Estudiantes Río Cuarto vs Tigre",
-      "team_home": "Estudiantes Río Cuarto",
+      "league": "Torneo LPF",
+      "title": "Estudiantes Rio Cuarto vs Tigre",
+      "team_home": "Estudiantes Rio Cuarto",
       "team_away": "Tigre",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ],
         "de": [
           {
             "channel": "HD9",
@@ -1597,21 +1899,114 @@
       "date": "2026-07-25",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": null,
-      "title": "Standard Liège vs Juventus",
-      "team_home": "Standard Liège",
-      "team_away": "Juventus",
+      "league": "Amical Club",
+      "title": "Estoril (Por) vs Torreense (Por)",
+      "team_home": "Estoril (Por)",
+      "team_away": "Torreense (Por)",
       "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "PT SPORT 3",
+            "url": "https://multi.govoet.cc/?envivo=146",
+            "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785002400
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Amical Club",
+      "title": "St. Liege (Bel) vs Juventus (Ita)",
+      "team_home": "St. Liege (Bel)",
+      "team_away": "Juventus (Ita)",
+      "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
+            "channel": "IT SKY CALCIO",
+            "url": "https://multi.govoet.cc/?envivo=138",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
-        ],
+        ]
+      },
+      "startTimestamp": 1785002400
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Liga 1 Te Apuesto",
+      "title": "Sport Huancayo vs Grau",
+      "team_home": "Sport Huancayo",
+      "team_away": "Grau",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Liga1MAX",
+            "url": "https://multi.govoet.cc/?envivo=84",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785002400
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Liga AUF Uruguaya",
+      "title": "Central Esp. vs Cerro Largo",
+      "team_home": "Central Esp.",
+      "team_away": "Cerro Largo",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "VTV plus",
+            "url": "https://multi.govoet.cc/?envivo=109",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785002400
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Standard Lieja vs Juventus",
+      "team_home": "Standard Lieja",
+      "team_away": "Juventus",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "el": [
           {
             "channel": "HD11",
@@ -1646,39 +2041,30 @@
     },
     {
       "date": "2026-07-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Estoril vs Torreense",
-      "team_home": "Estoril",
-      "team_away": "Torreense",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785002400
-    },
-    {
-      "date": "2026-07-25",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": null,
-      "title": "Sporting CP vs Monaco",
-      "team_home": "Sporting CP",
-      "team_away": "Monaco",
+      "league": "Amical Club",
+      "title": "Sporting CP (Por) vs Monaco (Fra)",
+      "team_home": "Sporting CP (Por)",
+      "team_away": "Monaco (Fra)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          }
+        ],
         "pt": [
+          {
+            "channel": "PT SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=144",
+            "source": "cartelive"
+          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -1692,15 +2078,21 @@
       "date": "2026-07-25",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": null,
-      "title": "Porto vs Aston Villa",
-      "team_home": "Porto",
-      "team_away": "Aston Villa",
+      "league": "Amical Club",
+      "title": "FC Porto (Por) vs Aston Villa (Eng)",
+      "team_home": "FC Porto (Por)",
+      "team_away": "Aston Villa (Eng)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=129",
+            "source": "cartelive"
+          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -1708,6 +2100,11 @@
           }
         ],
         "pt": [
+          {
+            "channel": "PT SPORT 2",
+            "url": "https://multi.govoet.cc/?envivo=145",
+            "source": "cartelive"
+          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -1719,21 +2116,254 @@
     },
     {
       "date": "2026-07-25",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": "Torneo LPF",
+      "title": "Newells Old Boys vs Talleres Cordoba",
+      "team_home": "Newells Old Boys",
+      "team_away": "Talleres Cordoba",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785009600
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "20:05",
+      "time_utc1": "22:05",
+      "league": "MLB",
+      "title": "San Francisco Giants vs Los Angeles Angels",
+      "team_home": "San Francisco Giants",
+      "team_away": "Los Angeles Angels",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785009900
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "20:05",
+      "time_utc1": "22:05",
+      "league": "MLB",
+      "title": "Washington Nationals vs Arizona Diamondbacks",
+      "team_home": "Washington Nationals",
+      "team_away": "Arizona Diamondbacks",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785009900
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "20:10",
+      "time_utc1": "22:10",
+      "league": "MLB",
+      "title": "Boston Red Sox vs Toronto Blue Jays",
+      "team_home": "Boston Red Sox",
+      "team_away": "Toronto Blue Jays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785010200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "20:10",
+      "time_utc1": "22:10",
+      "league": "MLB",
+      "title": "Miami Marlins vs San Diego Padres",
+      "team_home": "Miami Marlins",
+      "team_away": "San Diego Padres",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785010200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "20:15",
+      "time_utc1": "22:15",
+      "league": "Liga 1 Te Apuesto",
+      "title": "Juan Pablo II vs Cienciano",
+      "team_home": "Juan Pablo II",
+      "team_away": "Cienciano",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Liga1MAX",
+            "url": "https://multi.govoet.cc/?envivo=84",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785010500
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "21:00",
+      "time_utc1": "23:00",
+      "league": "Liga AUF Uruguaya",
+      "title": "Defensor Sp. vs Liverpool M.",
+      "team_home": "Defensor Sp.",
+      "team_away": "Liverpool M.",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "VTV plus",
+            "url": "https://multi.govoet.cc/?envivo=109",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785013200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "21:05",
+      "time_utc1": "23:05",
+      "league": "Liga BetPlay Dimayor",
+      "title": "Ind. Medellin vs Dep. Pasto",
+      "team_home": "Ind. Medellin",
+      "team_away": "Dep. Pasto",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          },
+          {
+            "channel": "WINsport",
+            "url": "https://multi.govoet.cc/?envivo=82",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785013500
+    },
+    {
+      "date": "2026-07-25",
       "time_utc": "21:30",
       "time_utc1": "23:30",
-      "league": null,
+      "league": "Campeonato Itaú Chile",
+      "title": "Huachipato vs Cobresal",
+      "team_home": "Huachipato",
+      "team_away": "Cobresal",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNTCHILE Premium",
+            "url": "https://multi.govoet.cc/?envivo=83",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785015000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": "Serie A Bresil",
       "title": "Athletico-PR vs Internacional",
       "team_home": "Athletico-PR",
       "team_away": "Internacional",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES Vamos",
+            "url": "https://multi.govoet.cc/?envivo=55",
+            "source": "cartelive"
+          }
+        ],
         "pt-BR": [
           {
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785015000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": "Serie A Bresil",
+      "title": "Santos vs Chapecoense-SC",
+      "team_home": "Santos",
+      "team_away": "Chapecoense-SC",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "dazn baloncesto 1",
+            "url": "https://multi.govoet.cc/?envivo=155",
+            "source": "cartelive"
           }
         ]
       },
@@ -1765,19 +2395,37 @@
       "date": "2026-07-25",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": null,
-      "title": "Liverpool vs Sunderland",
-      "team_home": "Liverpool",
-      "team_away": "Sunderland",
+      "league": "Amical Club",
+      "title": "Liverpool (Eng) vs Sunderland (Eng)",
+      "team_home": "Liverpool (Eng)",
+      "team_away": "Sunderland (Eng)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
+            "channel": "UK SKY FOOT",
+            "url": "https://multi.govoet.cc/?envivo=128",
+            "source": "cartelive"
+          },
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=129",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
           }
         ],
         "pt": [
@@ -1792,16 +2440,46 @@
     },
     {
       "date": "2026-07-25",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "Liga de Expansión MX",
+      "title": "Tlaxcala vs Leones Negros",
+      "team_home": "Tlaxcala",
+      "team_away": "Leones Negros",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN1MX",
+            "url": "https://multi.govoet.cc/?envivo=97",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785016800
+    },
+    {
+      "date": "2026-07-25",
       "time_utc": "22:15",
       "time_utc1": "00:15",
-      "league": null,
+      "league": "Torneo LPF",
       "title": "River Plate vs Barracas Central",
       "team_home": "River Plate",
       "team_away": "Barracas Central",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ],
         "de": [
           {
             "channel": "HD9",
@@ -1811,6 +2489,316 @@
         ]
       },
       "startTimestamp": 1785017700
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "22:30",
+      "time_utc1": "00:30",
+      "league": "MLS",
+      "title": "New York Red Bulls vs Charlotte",
+      "team_home": "New York Red Bulls",
+      "team_away": "Charlotte",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT6",
+            "url": "https://multi.govoet.cc/?envivo=160",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785018600
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": "Liga de Expansión MX",
+      "title": "Venados vs Alebrijes Oaxaca",
+      "team_home": "Venados",
+      "team_away": "Alebrijes Oaxaca",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN1MX",
+            "url": "https://multi.govoet.cc/?envivo=97",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ESPN2MX",
+            "url": "https://multi.govoet.cc/?envivo=98",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785020400
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:07",
+      "time_utc1": "01:07",
+      "league": "Liga Mx",
+      "title": "Guadalajara Chivas vs Juarez",
+      "team_home": "Guadalajara Chivas",
+      "team_away": "Juarez",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "NBC UNIVERSO",
+            "url": "https://multi.govoet.cc/?envivo=72",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785020820
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "Liga BetPlay Dimayor",
+      "title": "Millonarios vs Bucaramanga",
+      "team_home": "Millonarios",
+      "team_away": "Bucaramanga",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785021000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "Milwaukee Brewers vs Colorado Rockies",
+      "team_home": "Milwaukee Brewers",
+      "team_away": "Colorado Rockies",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT36",
+            "url": "https://multi.govoet.cc/?envivo=189",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785021000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLS",
+      "title": "Columbus Crew vs FC Cincinnati",
+      "team_home": "Columbus Crew",
+      "team_away": "FC Cincinnati",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785021300
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "MLS",
+      "title": "CF Montreal vs Inter Miami",
+      "team_home": "CF Montreal",
+      "team_away": "Inter Miami",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT7 uefa events only",
+            "url": "https://multi.govoet.cc/?envivo=161",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "MLS",
+      "title": "DC United vs Toronto FC",
+      "team_home": "DC United",
+      "team_away": "Toronto FC",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT8",
+            "url": "https://multi.govoet.cc/?envivo=162",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "MLS",
+      "title": "New England Revolution vs Atlanta Utd",
+      "team_home": "New England Revolution",
+      "team_away": "Atlanta Utd",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "MLS",
+      "title": "New York City vs Chicago Fire",
+      "team_home": "New York City",
+      "team_away": "Chicago Fire",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT10",
+            "url": "https://multi.govoet.cc/?envivo=164",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "MLS",
+      "title": "Orlando City vs Nashville SC",
+      "team_home": "Orlando City",
+      "team_away": "Nashville SC",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT11",
+            "url": "https://multi.govoet.cc/?envivo=165",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "MLS",
+      "title": "Philadelphia Union vs Seattle Sounders",
+      "team_home": "Philadelphia Union",
+      "team_away": "Seattle Sounders",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT12",
+            "url": "https://multi.govoet.cc/?envivo=166",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "Serie A Bresil",
+      "title": "Vasco vs Mirassol",
+      "team_home": "Vasco",
+      "team_away": "Mirassol",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "dazn baloncesto 2",
+            "url": "https://multi.govoet.cc/?envivo=156",
+            "source": "cartelive"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
     },
     {
       "date": "2026-07-25",
@@ -1842,62 +2830,337 @@
       "startTimestamp": 1785022200
     },
     {
-      "date": "2026-07-25",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": null,
-      "title": "Vasco da Gama vs Mirassol",
-      "team_home": "Vasco da Gama",
-      "team_away": "Mirassol",
+      "date": "2026-07-26",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "Campeonato Itaú Chile",
+      "title": "U. Catolica vs La Serena",
+      "team_home": "U. Catolica",
+      "team_away": "La Serena",
       "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785022200
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": null,
-      "title": "CF Montréal vs Inter Miami",
-      "team_home": "CF Montréal",
-      "team_away": "Inter Miami",
-      "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
+            "channel": "TNTCHILE Premium",
+            "url": "https://multi.govoet.cc/?envivo=83",
+            "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1785022200
+      "startTimestamp": 1785024000
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "Ecuador Ligapro",
+      "title": "Tecnico U. vs Manta",
+      "team_home": "Tecnico U.",
+      "team_away": "Manta",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Zapping sports",
+            "url": "https://multi.govoet.cc/?envivo=86",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785024000
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "MLS",
+      "title": "Houston Dynamo vs Austin FC",
+      "team_home": "Houston Dynamo",
+      "team_away": "Austin FC",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT13",
+            "url": "https://multi.govoet.cc/?envivo=167",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785025800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "MLS",
+      "title": "Minnesota United vs Vancouver Whitecaps",
+      "team_home": "Minnesota United",
+      "team_away": "Vancouver Whitecaps",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT14",
+            "url": "https://multi.govoet.cc/?envivo=168",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785025800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "MLS",
+      "title": "St. Louis City vs Colorado Rapids",
+      "team_home": "St. Louis City",
+      "team_away": "Colorado Rapids",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT15",
+            "url": "https://multi.govoet.cc/?envivo=169",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785025800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "Torneo LPF",
+      "title": "Lanus vs San Lorenzo",
+      "team_home": "Lanus",
+      "team_away": "San Lorenzo",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785025800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Liga 1 Te Apuesto",
+      "title": "FBC Melgar vs Sporting Cristal",
+      "team_home": "FBC Melgar",
+      "team_away": "Sporting Cristal",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Liga1MAX",
+            "url": "https://multi.govoet.cc/?envivo=84",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785027600
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Liga de Expansión MX",
+      "title": "Atl. Morelia vs Atletico La Paz",
+      "team_home": "Atl. Morelia",
+      "team_away": "Atletico La Paz",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "LAS latin america sports",
+            "url": "https://multi.govoet.cc/?envivo=74",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785027600
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Liga de Expansión MX",
+      "title": "Jaiba Brava vs Piratas",
+      "team_home": "Jaiba Brava",
+      "team_away": "Piratas",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "GOLPERU",
+            "url": "https://multi.govoet.cc/?envivo=85",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785027600
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "01:15",
+      "time_utc1": "03:15",
+      "league": "Liga BetPlay Dimayor",
+      "title": "Deportes Tolima vs Junior",
+      "team_home": "Deportes Tolima",
+      "team_away": "Junior",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          },
+          {
+            "channel": "WINsport",
+            "url": "https://multi.govoet.cc/?envivo=82",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785028500
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "01:30",
+      "time_utc1": "03:30",
+      "league": "MLS",
+      "title": "San Diego FC vs FC Dallas",
+      "team_home": "San Diego FC",
+      "team_away": "FC Dallas",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785029400
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "02:30",
+      "time_utc1": "04:30",
+      "league": "MLS",
+      "title": "Los Angeles FC vs Sporting Kansas City",
+      "team_home": "Los Angeles FC",
+      "team_away": "Sporting Kansas City",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT16",
+            "url": "https://multi.govoet.cc/?envivo=170",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785033000
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "02:30",
+      "time_utc1": "04:30",
+      "league": "MLS",
+      "title": "Portland Timbers vs Real Salt Lake",
+      "team_home": "Portland Timbers",
+      "team_away": "Real Salt Lake",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT17",
+            "url": "https://multi.govoet.cc/?envivo=171",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785033000
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "02:30",
+      "time_utc1": "04:30",
+      "league": "MLS",
+      "title": "San Jose Earthquakes vs Los Angeles Galaxy",
+      "team_home": "San Jose Earthquakes",
+      "team_away": "Los Angeles Galaxy",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT18",
+            "url": "https://multi.govoet.cc/?envivo=172",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785033000
     },
     {
       "date": "2026-07-26",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": null,
-      "title": "Auckland vs Tottenham Hotspur",
-      "team_home": "Auckland",
-      "team_away": "Tottenham Hotspur",
+      "league": "Amical Club",
+      "title": "Auckland FC (Nzl) vs Tottenham (Eng)",
+      "team_home": "Auckland FC (Nzl)",
+      "team_away": "Tottenham (Eng)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
+          {
+            "channel": "PT SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=144",
+            "source": "cartelive"
+          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -1911,14 +3174,54 @@
       "date": "2026-07-26",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": null,
-      "title": "Tigres UANL vs Atlético San Luis",
-      "team_home": "Tigres UANL",
-      "team_away": "Atlético San Luis",
+      "league": "Liga Mx",
+      "title": "Santos Laguna vs Atlas",
+      "team_home": "Santos Laguna",
+      "team_away": "Atlas",
       "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN1MX",
+            "url": "https://multi.govoet.cc/?envivo=97",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785034800
+    },
+    {
+      "date": "2026-07-26",
+      "time_utc": "03:00",
+      "time_utc1": "05:00",
+      "league": "Liga Mx",
+      "title": "Tigres UANL vs Atl. San Luis",
+      "team_home": "Tigres UANL",
+      "team_away": "Atl. San Luis",
+      "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Telemundo",
+            "url": "https://multi.govoet.cc/?envivo=73",
+            "source": "cartelive"
+          },
+          {
+            "channel": "Azteca 7",
+            "url": "https://multi.govoet.cc/?envivo=108",
+            "source": "cartelive"
+          }
+        ],
         "el": [
           {
             "channel": "HD11",
