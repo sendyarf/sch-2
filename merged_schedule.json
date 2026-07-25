@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T18:37:30.207764",
+  "generated_at": "2026-07-25T19:54:04.551199",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 109,
+  "total_events": 108,
   "events": [
     {
       "date": "2026-07-25",
@@ -359,21 +359,15 @@
       "date": "2026-07-25",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Marseille (Fra) vs Nice (Fra)",
-      "team_home": "Marseille (Fra)",
-      "team_away": "Nice (Fra)",
+      "league": null,
+      "title": "Olympique Marseille vs Nice",
+      "team_home": "Olympique Marseille",
+      "team_away": "Nice",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -387,47 +381,19 @@
       "date": "2026-07-25",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "PSV (Ned) vs Villarreal (Esp)",
-      "team_home": "PSV (Ned)",
-      "team_away": "Villarreal (Esp)",
+      "league": null,
+      "title": "PSV vs Villarreal",
+      "team_home": "PSV",
+      "team_away": "Villarreal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784995200
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Rennes (Fra) vs Club Brugge KV (Bel)",
-      "team_home": "Rennes (Fra)",
-      "team_away": "Club Brugge KV (Bel)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
           }
         ]
       },
