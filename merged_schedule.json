@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T11:40:12.105751",
+  "generated_at": "2026-07-25T12:42:25.725714",
   "sources": [
     {
       "name": "cartelive",
@@ -20,87 +20,6 @@
   "timezone_output": "UTC+0",
   "total_events": 117,
   "events": [
-    {
-      "date": "2026-07-19",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "World - FIFA World Cup",
-      "title": "Spain vs Argentina",
-      "team_home": "Spain",
-      "team_away": "Argentina",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "CH-KZ",
-            "url": "https://multi.govoet.cc/?jw=qazs",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ID",
-            "url": "https://multi.govoet.cc/?shaka=tvri",
-            "source": "manual"
-          },
-          {
-            "channel": "PC-EN4k",
-            "url": "https://multi.govoet.cc/?vidstack=fox4kusa",
-            "source": "manual"
-          },
-          {
-            "channel": "PC-DE4k",
-            "url": "https://multi.govoet.cc/?vidstack=fussballtv1de",
-            "source": "manual"
-          }
-        ],
-        "es": [
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?shaka=dsportsarg",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?jw=telemundohls",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-ES",
-            "url": "https://multi.govoet.cc/?hls=telemundohls",
-            "source": "manual"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=tsn4",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=ctv",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?shaka=foxone",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?jw=foxusa",
-            "source": "manual"
-          },
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?hls=foxusa",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1784487600
-    },
     {
       "date": "2026-07-25",
       "time_utc": "10:00",
@@ -284,6 +203,28 @@
         ]
       },
       "startTimestamp": 1784979300
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "12:25",
+      "time_utc1": "14:25",
+      "league": "Indonesia - President'S Cup",
+      "title": "Persib vs Arema FC",
+      "team_home": "Persib",
+      "team_away": "Arema FC",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "CH-ID",
+            "url": "https://multi.govoet.cc/?hls=aHR0cHM6Ly9oZC1zdHJlYW0ubHhzY29yZS5jb20vbGl2ZS9kZWZhdWx0LTEwNDc1OC5tM3U4",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1784982300
     },
     {
       "date": "2026-07-25",
