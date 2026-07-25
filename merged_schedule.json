@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T21:35:53.744090",
+  "generated_at": "2026-07-25T22:35:47.495859",
   "sources": [
     {
       "name": "cartelive",
@@ -564,21 +564,15 @@
       "date": "2026-07-25",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Amical Club",
-      "title": "FC Porto (Por) vs Aston Villa (Eng)",
-      "team_home": "FC Porto (Por)",
-      "team_away": "Aston Villa (Eng)",
+      "league": null,
+      "title": "Porto vs Aston Villa",
+      "team_home": "Porto",
+      "team_away": "Aston Villa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=129",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -586,11 +580,6 @@
           }
         ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
