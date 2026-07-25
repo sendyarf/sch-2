@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T17:40:05.794550",
+  "generated_at": "2026-07-25T18:37:30.207764",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 112,
+  "total_events": 109,
   "events": [
     {
       "date": "2026-07-25",
@@ -354,72 +354,6 @@
         ]
       },
       "startTimestamp": 1784988000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Royale Union SG (Bel) vs Lille (Fra)",
-      "team_home": "Royale Union SG (Bel)",
-      "team_away": "Lille (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784991600
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Torino (Ita) vs Cittadella (Ita)",
-      "team_home": "Torino (Ita)",
-      "team_away": "Cittadella (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784991600
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Boys vs AD Tarma",
-      "team_home": "Sport Boys",
-      "team_away": "AD Tarma",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784993400
     },
     {
       "date": "2026-07-25",
