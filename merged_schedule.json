@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T14:17:44.004462",
+  "generated_at": "2026-07-25T17:40:05.794550",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 116,
+  "total_events": 112,
   "events": [
     {
       "date": "2026-07-25",
@@ -177,54 +177,19 @@
       "date": "2026-07-25",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "AZ Alkmaar (Ned) vs Olympiacos Piraeus (Gre)",
-      "team_home": "AZ Alkmaar (Ned)",
-      "team_away": "Olympiacos Piraeus (Gre)",
+      "league": null,
+      "title": "Kickers Offenbach vs Bayer Leverkusen",
+      "team_home": "Kickers Offenbach",
+      "team_away": "Bayer Leverkusen",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784984400
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Offenbach (Ger) vs Bayer Leverkusen (Ger)",
-      "team_home": "Offenbach (Ger)",
-      "team_away": "Bayer Leverkusen (Ger)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
           }
         ]
       },
@@ -319,107 +284,6 @@
     },
     {
       "date": "2026-07-25",
-      "time_utc": "13:40",
-      "time_utc1": "15:40",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Hongrie Essais qualificatifs",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784986800
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Bolton (Eng) vs Everton (Eng)",
-      "team_home": "Bolton (Eng)",
-      "team_away": "Everton (Eng)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1784988000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "QPR (Eng) vs Fiorentina (Ita)",
-      "team_home": "QPR (Eng)",
-      "team_away": "Fiorentina (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784988000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Schalke (Ger) vs Okayama (Jpn)",
-      "team_home": "Schalke (Ger)",
-      "team_away": "Okayama (Jpn)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1784988000
-    },
-    {
-      "date": "2026-07-25",
       "time_utc": "14:00",
       "time_utc1": "16:00",
       "league": null,
@@ -437,6 +301,28 @@
             "source": "sportsonline"
           }
         ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1784988000
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "Bolton Wanderers vs Everton",
+      "team_home": "Bolton Wanderers",
+      "team_away": "Everton",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "pt": [
           {
             "channel": "SPORTTV2",
