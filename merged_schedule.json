@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:14:44.926906",
+  "generated_at": "2026-07-26T15:06:30.512167",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 96,
+  "total_events": 95,
   "events": [
     {
       "date": "2026-07-25",
@@ -805,21 +805,15 @@
       "date": "2026-07-26",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Amical Club",
-      "title": "Ajax (Ned) vs Burnley (Eng)",
-      "team_home": "Ajax (Ned)",
-      "team_away": "Burnley (Eng)",
+      "league": null,
+      "title": "Ajax vs Burnley",
+      "team_home": "Ajax",
+      "team_away": "Burnley",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -828,36 +822,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785067200
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Amical Club",
-      "title": "Feyenoord (Ned) vs Rayo Vallecano (Esp)",
-      "team_home": "Feyenoord (Ned)",
-      "team_away": "Rayo Vallecano (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
           }
         ]
       },
