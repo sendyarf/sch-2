@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T23:41:18.419538",
+  "generated_at": "2026-07-26T01:13:58.736870",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 96,
+  "total_events": 89,
   "events": [
     {
       "date": "2026-07-25",
@@ -591,122 +591,21 @@
     },
     {
       "date": "2026-07-25",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Defensor Sp. vs Liverpool M.",
-      "team_home": "Defensor Sp.",
-      "team_away": "Liverpool M.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785013200
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "21:05",
-      "time_utc1": "23:05",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Ind. Medellin vs Dep. Pasto",
-      "team_home": "Ind. Medellin",
-      "team_away": "Dep. Pasto",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785013500
-    },
-    {
-      "date": "2026-07-25",
       "time_utc": "21:30",
       "time_utc1": "23:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Huachipato vs Cobresal",
-      "team_home": "Huachipato",
-      "team_away": "Cobresal",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785015000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Serie A Bresil",
+      "league": null,
       "title": "Athletico-PR vs Internacional",
       "team_home": "Athletico-PR",
       "team_away": "Internacional",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR2",
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785015000
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Serie A Bresil",
-      "title": "Santos vs Chapecoense-SC",
-      "team_home": "Santos",
-      "team_away": "Chapecoense-SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
           }
         ]
       },
@@ -738,37 +637,19 @@
       "date": "2026-07-25",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Amical Club",
-      "title": "Liverpool (Eng) vs Sunderland (Eng)",
-      "team_home": "Liverpool (Eng)",
-      "team_away": "Sunderland (Eng)",
+      "league": null,
+      "title": "Liverpool vs Sunderland",
+      "team_home": "Liverpool",
+      "team_away": "Sunderland",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=129",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -780,72 +661,6 @@
         ]
       },
       "startTimestamp": 1785016800
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tlaxcala vs Leones Negros",
-      "team_home": "Tlaxcala",
-      "team_away": "Leones Negros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785016800
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "22:05",
-      "time_utc1": "00:05",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs New York Yankees",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785017100
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "22:10",
-      "time_utc1": "00:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Cleveland Guardians",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785017400
     },
     {
       "date": "2026-07-25",
@@ -1177,6 +992,48 @@
       "date": "2026-07-25",
       "time_utc": "23:30",
       "time_utc1": "01:30",
+      "league": "Amical Club",
+      "title": "Wrexham (Eng) vs Leeds (Eng)",
+      "team_home": "Wrexham (Eng)",
+      "team_away": "Leeds (Eng)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=129",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785022200
+    },
+    {
+      "date": "2026-07-25",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
       "league": "MLS",
       "title": "CF Montreal vs Inter Miami",
       "team_home": "CF Montreal",
@@ -1335,35 +1192,6 @@
           {
             "channel": "BR4",
             "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785022200
-    },
-    {
-      "date": "2026-07-25",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": null,
-      "title": "Wrexham vs Leeds United",
-      "team_home": "Wrexham",
-      "team_away": "Leeds United",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
