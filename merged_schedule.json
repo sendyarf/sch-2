@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T04:42:35.048938",
+  "generated_at": "2026-07-26T07:19:23.965643",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 60,
+  "total_events": 56,
   "events": [
     {
       "date": "2026-07-25",
@@ -759,89 +759,17 @@
     },
     {
       "date": "2026-07-26",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Los Angeles FC vs Sporting Kansas City",
-      "team_home": "Los Angeles FC",
-      "team_away": "Sporting Kansas City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785033000
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Portland Timbers vs Real Salt Lake",
-      "team_home": "Portland Timbers",
-      "team_away": "Real Salt Lake",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785033000
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "San Jose Earthquakes vs Los Angeles Galaxy",
-      "team_home": "San Jose Earthquakes",
-      "team_away": "Los Angeles Galaxy",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785033000
-    },
-    {
-      "date": "2026-07-26",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Amical Club",
-      "title": "Auckland FC (Nzl) vs Tottenham (Eng)",
-      "team_home": "Auckland FC (Nzl)",
-      "team_away": "Tottenham (Eng)",
+      "league": null,
+      "title": "Auckland vs Tottenham Hotspur",
+      "team_home": "Auckland",
+      "team_away": "Tottenham Hotspur",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -855,54 +783,14 @@
       "date": "2026-07-26",
       "time_utc": "03:00",
       "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Santos Laguna vs Atlas",
-      "team_home": "Santos Laguna",
-      "team_away": "Atlas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785034800
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Tigres UANL vs Atl. San Luis",
+      "league": null,
+      "title": "Tigres UANL vs Atlético San Luis",
       "team_home": "Tigres UANL",
-      "team_away": "Atl. San Luis",
+      "team_away": "Atlético San Luis",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ],
         "el": [
           {
             "channel": "HD11",
