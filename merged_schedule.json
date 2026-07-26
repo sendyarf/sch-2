@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T16:13:04.911432",
+  "generated_at": "2026-07-26T17:15:34.480405",
   "sources": [
     {
       "name": "cartelive",
@@ -897,21 +897,15 @@
       "date": "2026-07-26",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Trabzonspor (Tur) vs Eintracht Frankfurt (Ger)",
-      "team_home": "Trabzonspor (Tur)",
-      "team_away": "Eintracht Frankfurt (Ger)",
+      "league": null,
+      "title": "Trabzonspor vs Eintracht Frankfurt",
+      "team_home": "Trabzonspor",
+      "team_away": "Eintracht Frankfurt",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
