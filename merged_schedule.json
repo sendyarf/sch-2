@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T17:15:34.480405",
+  "generated_at": "2026-07-26T18:29:31.627080",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 94,
+  "total_events": 92,
   "events": [
     {
       "date": "2026-07-25",
@@ -926,35 +926,6 @@
       "date": "2026-07-26",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Amical Club",
-      "title": "Karlsruher SC (Ger) vs Inter (Ita)",
-      "team_home": "Karlsruher SC (Ger)",
-      "team_away": "Inter (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785076200
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
       "league": null,
       "title": "Karlsruher SC vs Internazionale",
       "team_home": "Karlsruher SC",
@@ -979,28 +950,6 @@
         ]
       },
       "startTimestamp": 1785076200
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Rangers (Sco) vs West Ham (Eng)",
-      "team_home": "Rangers (Sco)",
-      "team_away": "West Ham (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785078000
     },
     {
       "date": "2026-07-26",
