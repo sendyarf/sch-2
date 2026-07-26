@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T18:29:31.627080",
+  "generated_at": "2026-07-26T19:44:23.537634",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 92,
+  "total_events": 90,
   "events": [
     {
       "date": "2026-07-25",
@@ -953,61 +953,6 @@
     },
     {
       "date": "2026-07-26",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Amical Club",
-      "title": "Cannes (Fra) vs AS Roma (Ita)",
-      "team_home": "Cannes (Fra)",
-      "team_away": "AS Roma (Ita)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785079800
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Lazio (Ita) vs Flaminia (Ita)",
-      "team_home": "Lazio (Ita)",
-      "team_away": "Flaminia (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785081600
-    },
-    {
-      "date": "2026-07-26",
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": null,
@@ -1030,25 +975,25 @@
     },
     {
       "date": "2026-07-26",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Cleveland Guardians",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Cleveland Guardians",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Roma vs Cannes",
+      "team_home": "Roma",
+      "team_away": "Cannes",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "it": [
           {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785082500
+      "startTimestamp": 1785081600
     },
     {
       "date": "2026-07-26",
