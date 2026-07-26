@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T15:06:30.512167",
+  "generated_at": "2026-07-26T16:13:04.911432",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 95,
+  "total_events": 94,
   "events": [
     {
       "date": "2026-07-25",
@@ -834,54 +834,19 @@
       "date": "2026-07-26",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Zwolle (Ned) vs AEK Athens (Gre)",
-      "team_home": "Zwolle (Ned)",
-      "team_away": "AEK Athens (Gre)",
+      "league": null,
+      "title": "PEC Zwolle vs AEK Athens",
+      "team_home": "PEC Zwolle",
+      "team_away": "AEK Athens",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
           {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785070800
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Formula 1",
-      "title": "Formula 1: GP de Hongrie La course",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
           }
         ]
       },
