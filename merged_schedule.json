@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T01:16:50.581888",
+  "generated_at": "2026-07-27T05:05:05.984224",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 40,
+  "total_events": 31,
   "events": [
     {
       "date": "2026-07-25",
@@ -43,160 +43,6 @@
       "startTimestamp": 1784982300
     },
     {
-      "date": "2026-07-26",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tapatio vs Cruz Azul Hidalgo",
-      "team_home": "Tapatio",
-      "team_away": "Cruz Azul Hidalgo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785106800
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga Mx",
-      "title": "Necaxa vs Monterrey",
-      "team_home": "Necaxa",
-      "team_away": "Monterrey",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785106800
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Alianza vs Fortaleza",
-      "team_home": "Alianza",
-      "team_away": "Fortaleza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785107400
-    },
-    {
-      "date": "2026-07-26",
-      "time_utc": "23:20",
-      "time_utc1": "01:20",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs New York Yankees",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "New York Yankees",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785108000
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Deportivo Garcilaso vs FC Cajamarca",
-      "team_home": "Deportivo Garcilaso",
-      "team_away": "FC Cajamarca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785110400
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "Ecuador Ligapro",
-      "title": "Barcelona SC vs LDU Quito",
-      "team_home": "Barcelona SC",
-      "team_away": "LDU Quito",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785111300
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "D. Concepcion vs O'Higgins",
-      "team_home": "D. Concepcion",
-      "team_away": "O'Higgins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785112200
-    },
-    {
       "date": "2026-07-27",
       "time_utc": "00:30",
       "time_utc1": "02:30",
@@ -217,50 +63,6 @@
         ]
       },
       "startTimestamp": 1785112200
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "01:06",
-      "time_utc1": "03:06",
-      "league": "Liga Mx",
-      "title": "Pachuca vs Queretaro",
-      "team_home": "Pachuca",
-      "team_away": "Queretaro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785114360
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "01:15",
-      "time_utc1": "03:15",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Once Caldas vs Cucuta",
-      "team_home": "Once Caldas",
-      "team_away": "Cucuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785114900
     },
     {
       "date": "2026-07-27",
