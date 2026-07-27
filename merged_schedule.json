@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T20:16:17.111658",
+  "generated_at": "2026-07-27T21:35:53.831488",
   "sources": [
     {
       "name": "cartelive",
@@ -244,29 +244,14 @@
       "date": "2026-07-27",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Galatasaray (Tur) vs Venezia (Ita)",
-      "team_home": "Galatasaray (Tur)",
-      "team_away": "Venezia (Ita)",
+      "league": null,
+      "title": "Galatasaray vs Venezia",
+      "team_home": "Galatasaray",
+      "team_away": "Venezia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD5",
