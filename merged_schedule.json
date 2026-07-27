@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:35:53.831488",
+  "generated_at": "2026-07-27T22:40:03.494724",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 51,
   "events": [
     {
       "date": "2026-07-27",
@@ -305,50 +305,6 @@
         ]
       },
       "startTimestamp": 1785177000
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "18:35",
-      "time_utc1": "20:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs Seattle Mariners",
-      "team_home": "Texas Rangers",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785177300
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Mushuc Runa vs Libertad",
-      "team_home": "Mushuc Runa",
-      "team_away": "Libertad",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785178800
     },
     {
       "date": "2026-07-27",
