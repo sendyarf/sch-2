@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T08:45:47.299579",
+  "generated_at": "2026-07-27T12:14:21.899358",
   "sources": [
     {
       "name": "cartelive",
@@ -18,51 +18,29 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 31,
+  "total_events": 53,
   "events": [
     {
-      "date": "2026-07-25",
-      "time_utc": "12:25",
-      "time_utc1": "14:25",
-      "league": "Indonesia - President'S Cup",
-      "title": "Persib vs Arema FC",
-      "team_home": "Persib",
-      "team_away": "Arema FC",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "CH-ID",
-            "url": "https://multi.govoet.cc/?hls=aHR0cHM6Ly9oZC1zdHJlYW0ubHhzY29yZS5jb20vbGl2ZS9kZWZhdWx0LTEwNDc1OC5tM3U4",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1784982300
-    },
-    {
       "date": "2026-07-27",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "TEST",
-      "title": "1 vs 2",
-      "team_home": "1",
-      "team_away": "2",
+      "time_utc": "10:55",
+      "time_utc1": "12:55",
+      "league": "Asia - Aff Championship",
+      "title": "Singapore vs Timor Leste",
+      "team_home": "Singapore",
+      "team_away": "Timor Leste",
       "sources": [
         "manual"
       ],
       "streams_by_language": {
-        "unknown": [
+        "en": [
           {
-            "channel": "CH-CH",
-            "url": "https://multi.govoet.cc/?vids=c-I9c8mnoys",
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=mlive5",
             "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1785112200
+      "startTimestamp": 1785149700
     },
     {
       "date": "2026-07-27",
@@ -85,6 +63,28 @@
         ]
       },
       "startTimestamp": 1785153600
+    },
+    {
+      "date": "2026-07-27",
+      "time_utc": "13:25",
+      "time_utc1": "15:25",
+      "league": "Asia - Aff Championship",
+      "title": "Indonesia vs Cambodia",
+      "team_home": "Indonesia",
+      "team_away": "Cambodia",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?shaka=mlive6",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1785158700
     },
     {
       "date": "2026-07-27",
@@ -728,6 +728,525 @@
         ]
       },
       "startTimestamp": 1785203100
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "09:45",
+      "time_utc1": "11:45",
+      "league": null,
+      "title": "Chelsea vs Western Sydney Wanderers",
+      "team_home": "Chelsea",
+      "team_away": "Western Sydney Wanderers",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785231900
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": null,
+      "title": "Udinese vs Shabab Al Ahli",
+      "team_home": "Udinese",
+      "team_away": "Shabab Al Ahli",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785252600
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Riga vs Vardar",
+      "team_home": "Riga",
+      "team_away": "Vardar",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785258000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Cambuur vs Volos NFC",
+      "team_home": "Cambuur",
+      "team_away": "Volos NFC",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785258000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Crystal Palace vs Lens",
+      "team_home": "Crystal Palace",
+      "team_away": "Lens",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785258000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Kings League",
+      "title": "World Cup 2026",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785258000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": null,
+      "title": "CSKA 1948 vs Spartak Trnava",
+      "team_home": "CSKA 1948",
+      "team_away": "Spartak Trnava",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "bg": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785259800
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Dinamo Zagreb vs Thun",
+      "team_home": "Dinamo Zagreb",
+      "team_away": "Thun",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785261600
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "18:15",
+      "time_utc1": "20:15",
+      "league": null,
+      "title": "Celje vs Egnatia Rrogozhinë",
+      "team_home": "Celje",
+      "team_away": "Egnatia Rrogozhinë",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785262500
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Famalicão vs Crystal Palace",
+      "team_home": "Famalicão",
+      "team_away": "Crystal Palace",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785263400
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Stoke City vs Everton",
+      "team_home": "Stoke City",
+      "team_away": "Everton",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785264300
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Hearts vs Sturm Graz",
+      "team_home": "Hearts",
+      "team_away": "Sturm Graz",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785264300
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": null,
+      "title": "Lens vs Famalicão",
+      "team_home": "Lens",
+      "team_away": "Famalicão",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785268800
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Banfield vs Sarmiento",
+      "team_home": "Banfield",
+      "team_away": "Sarmiento",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785276000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "San Lorenzo vs Gimnasia Mendoza",
+      "team_home": "San Lorenzo",
+      "team_away": "Gimnasia Mendoza",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785276000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Tigre vs Nacional",
+      "team_home": "Tigre",
+      "team_away": "Nacional",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785276000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Bragantino W vs Santos W",
+      "team_home": "Bragantino W",
+      "team_away": "Santos W",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785276000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "22:30",
+      "time_utc1": "00:30",
+      "league": null,
+      "title": "Juventude vs Avaí",
+      "team_home": "Juventude",
+      "team_away": "Avaí",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785277800
+    },
+    {
+      "date": "2026-07-29",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": null,
+      "title": "Argentinos Juniors vs Estudiantes Río Cuarto",
+      "team_home": "Argentinos Juniors",
+      "team_away": "Estudiantes Río Cuarto",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785284100
+    },
+    {
+      "date": "2026-07-29",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": null,
+      "title": "Rosario Central vs Racing Club",
+      "team_home": "Rosario Central",
+      "team_away": "Racing Club",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785284100
+    },
+    {
+      "date": "2026-07-29",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Santos vs UCV",
+      "team_home": "Santos",
+      "team_away": "UCV",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785285000
+    },
+    {
+      "date": "2026-07-29",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Fortaleza vs Botafogo-SP",
+      "team_home": "Fortaleza",
+      "team_away": "Botafogo-SP",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785285000
     }
   ]
 }
