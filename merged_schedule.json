@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T18:55:57.143969",
+  "generated_at": "2026-07-28T20:12:27.113883",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 81,
+  "total_events": 77,
   "events": [
     {
       "date": "2026-07-27",
@@ -132,112 +132,16 @@
     },
     {
       "date": "2026-07-28",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Real Madrid (Esp) vs Leganes (Esp)",
-      "team_home": "Real Madrid (Esp)",
-      "team_away": "Leganes (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785254400
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Rizespor (Tur) vs Hull (Eng)",
-      "team_home": "Rizespor (Tur)",
-      "team_away": "Hull (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785254400
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions",
-      "title": "Lincoln Red Imps (Gib) vs Mjallby (Swe)",
-      "team_home": "Lincoln Red Imps (Gib)",
-      "team_away": "Mjallby (Swe)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785254400
-    },
-    {
-      "date": "2026-07-28",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Apollon (Cyp) vs Dila Gori (Geo)",
-      "team_home": "Apollon (Cyp)",
-      "team_away": "Dila Gori (Geo)",
+      "league": null,
+      "title": "Riga vs Vardar",
+      "team_home": "Riga",
+      "team_away": "Vardar",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785258000
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Riga FC (Lat) vs Vardar (Mkd)",
-      "team_home": "Riga FC (Lat)",
-      "team_away": "Vardar (Mkd)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD11",
