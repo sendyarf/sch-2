@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:12:27.113883",
+  "generated_at": "2026-07-28T21:31:03.922006",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 77,
+  "total_events": 75,
   "events": [
     {
       "date": "2026-07-27",
@@ -222,22 +222,14 @@
       "date": "2026-07-28",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Conference League",
-      "title": "CSKA 1948 Sofia (Bul) vs Trnava (Svk)",
-      "team_home": "CSKA 1948 Sofia (Bul)",
-      "team_away": "Trnava (Svk)",
+      "league": null,
+      "title": "CSKA 1948 vs Spartak Trnava",
+      "team_home": "CSKA 1948",
+      "team_away": "Spartak Trnava",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ],
         "bg": [
           {
             "channel": "HD2",
@@ -250,67 +242,17 @@
     },
     {
       "date": "2026-07-28",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs Cleveland Guardians",
-      "team_home": "Cincinnati Reds",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785260400
-    },
-    {
-      "date": "2026-07-28",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Drita (Kos) vs Floriana (Mlt)",
-      "team_home": "Drita (Kos)",
-      "team_away": "Floriana (Mlt)",
+      "league": null,
+      "title": "Dinamo Zagreb vs Thun",
+      "team_home": "Dinamo Zagreb",
+      "team_away": "Thun",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785261600
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Din. Zagreb (Cro) vs Thun (Sui)",
-      "team_home": "Din. Zagreb (Cro)",
-      "team_away": "Thun (Sui)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -324,22 +266,14 @@
       "date": "2026-07-28",
       "time_utc": "18:15",
       "time_utc1": "20:15",
-      "league": "Ligue Des Champions",
-      "title": "Celje (Slo) vs Egnatia (Alb)",
-      "team_home": "Celje (Slo)",
-      "team_away": "Egnatia (Alb)",
+      "league": null,
+      "title": "Celje vs Egnatia Rrogozhinë",
+      "team_home": "Celje",
+      "team_away": "Egnatia Rrogozhinë",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -354,21 +288,15 @@
       "date": "2026-07-28",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Aston Villa (Eng) vs Real Sociedad (Esp)",
-      "team_home": "Aston Villa (Eng)",
-      "team_away": "Real Sociedad (Esp)",
+      "league": null,
+      "title": "Aston Villa vs Real Sociedad",
+      "team_home": "Aston Villa",
+      "team_away": "Real Sociedad",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
