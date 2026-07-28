@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T23:42:56.495106",
+  "generated_at": "2026-07-28T01:04:18.945194",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 51,
+  "total_events": 50,
   "events": [
     {
       "date": "2026-07-27",
@@ -305,33 +305,6 @@
         ]
       },
       "startTimestamp": 1785177000
-    },
-    {
-      "date": "2026-07-27",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Ecuador Ligapro",
-      "title": "Guayaquil City vs U. Catolica",
-      "team_home": "Guayaquil City",
-      "team_away": "U. Catolica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          },
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785187800
     },
     {
       "date": "2026-07-27",
