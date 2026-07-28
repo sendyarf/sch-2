@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T11:51:46.558759",
+  "generated_at": "2026-07-28T13:47:34.895865",
   "sources": [
     {
       "name": "cartelive",
@@ -66,32 +66,25 @@
     },
     {
       "date": "2026-07-28",
-      "time_utc": "09:45",
-      "time_utc1": "11:45",
-      "league": "Amical Club",
-      "title": "Chelsea (Eng) vs WS Wanderers (Aus)",
-      "team_home": "Chelsea (Eng)",
-      "team_away": "WS Wanderers (Aus)",
+      "time_utc": "12:25",
+      "time_utc1": "14:25",
+      "league": "Indonesia - President'S Cup",
+      "title": "DPMM FC vs Persib",
+      "team_home": "DPMM FC",
+      "team_away": "Persib",
       "sources": [
-        "cartelive"
+        "manual"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
+            "channel": "CH-ID",
+            "url": "https://multi.govoet.cc/?hls=aHR0cHM6Ly9oZC1zdHJlYW0ubHhzY29yZS5jb20vbGl2ZS9kZWZhdWx0LTE4Mzg1MTMubTN1OA==",
+            "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1785231900
+      "startTimestamp": 1785241500
     },
     {
       "date": "2026-07-28",
