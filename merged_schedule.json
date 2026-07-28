@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T21:31:03.922006",
+  "generated_at": "2026-07-28T22:40:47.482286",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 75,
+  "total_events": 74,
   "events": [
     {
       "date": "2026-07-27",
@@ -332,21 +332,15 @@
       "date": "2026-07-28",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Stoke (Eng) vs Everton (Eng)",
-      "team_home": "Stoke (Eng)",
-      "team_away": "Everton (Eng)",
+      "league": null,
+      "title": "Stoke City vs Everton",
+      "team_home": "Stoke City",
+      "team_away": "Everton",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -360,22 +354,14 @@
       "date": "2026-07-28",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue Des Champions",
-      "title": "Hearts (Sco) vs Sturm Graz (Aut)",
-      "team_home": "Hearts (Sco)",
-      "team_away": "Sturm Graz (Aut)",
+      "league": null,
+      "title": "Hearts vs Sturm Graz",
+      "team_home": "Hearts",
+      "team_away": "Sturm Graz",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD5",
@@ -385,28 +371,6 @@
         ]
       },
       "startTimestamp": 1785264300
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Shamrock Rovers (Irl) vs Ararat-Armenia (Arm)",
-      "team_home": "Shamrock Rovers (Irl)",
-      "team_away": "Ararat-Armenia (Arm)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785265200
     },
     {
       "date": "2026-07-28",
