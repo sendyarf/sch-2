@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:58:45.244199",
+  "generated_at": "2026-07-29T20:58:42.291213",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 83,
+  "total_events": 75,
   "events": [
     {
       "date": "2026-07-27",
@@ -200,78 +200,6 @@
       "date": "2026-07-29",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Racing Santander (Esp) vs Ath Bilbao (Esp)",
-      "team_home": "Racing Santander (Esp)",
-      "team_away": "Ath Bilbao (Esp)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785344400
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "FC Copenhagen (Den) vs Polissya Zhytomyr (Ukr)",
-      "team_home": "FC Copenhagen (Den)",
-      "team_away": "Polissya Zhytomyr (Ukr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785344400
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Des Champions",
-      "title": "Lech Poznan (Pol) vs Aarhus (Den)",
-      "team_home": "Lech Poznan (Pol)",
-      "team_away": "Aarhus (Den)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785344400
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
       "league": null,
       "title": "København vs Polessya",
       "team_home": "København",
@@ -306,6 +234,28 @@
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785344400
+    },
+    {
+      "date": "2026-07-29",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": null,
+      "title": "Racing Santander vs Ath Bilbao",
+      "team_home": "Racing Santander",
+      "team_away": "Ath Bilbao",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
@@ -360,138 +310,6 @@
         ]
       },
       "startTimestamp": 1785344400
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:05",
-      "time_utc1": "19:05",
-      "league": "MLB",
-      "title": "Washington Nationals vs Toronto Blue Jays",
-      "team_home": "Washington Nationals",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785344700
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Baltimore Orioles",
-      "team_home": "Detroit Tigers",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785345000
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "New York Mets vs Atlanta Braves",
-      "team_home": "New York Mets",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785345000
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Ligue Des Champions",
-      "title": "H. Beer Sheva (Isr) vs Vikingur Reykjavik (Ice)",
-      "team_home": "H. Beer Sheva (Isr)",
-      "team_away": "Vikingur Reykjavik (Ice)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785346200
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Ligue Des Champions",
-      "title": "Univ. Craiova (Rou) vs Levski Sofia (Bul)",
-      "team_home": "Univ. Craiova (Rou)",
-      "team_away": "Levski Sofia (Bul)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785346200
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Torneo LPF",
-      "title": "Barracas Central vs Aldosivi",
-      "team_home": "Barracas Central",
-      "team_away": "Aldosivi",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785346200
     },
     {
       "date": "2026-07-29",
