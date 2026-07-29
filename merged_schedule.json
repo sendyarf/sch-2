@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T12:18:08.003672",
+  "generated_at": "2026-07-29T14:38:31.379365",
   "sources": [
     {
       "name": "cartelive",
@@ -624,32 +624,19 @@
       "date": "2026-07-29",
       "time_utc": "09:45",
       "time_utc1": "11:45",
-      "league": "Amical Club",
-      "title": "Tottenham (Eng) vs Sydney FC (Aus)",
-      "team_home": "Tottenham (Eng)",
-      "team_away": "Sydney FC (Aus)",
+      "league": null,
+      "title": "Tottenham Hotspur vs Sydney FC",
+      "team_home": "Tottenham Hotspur",
+      "team_away": "Sydney FC",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
           }
         ]
       },
@@ -659,21 +646,15 @@
       "date": "2026-07-29",
       "time_utc": "10:00",
       "time_utc1": "12:00",
-      "league": "Amical Club",
-      "title": "Cerezo Osaka (Jpn) vs Dortmund (Ger)",
-      "team_home": "Cerezo Osaka (Jpn)",
-      "team_away": "Dortmund (Ger)",
+      "league": null,
+      "title": "Cerezo Osaka vs Borussia Dortmund",
+      "team_home": "Cerezo Osaka",
+      "team_away": "Borussia Dortmund",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
