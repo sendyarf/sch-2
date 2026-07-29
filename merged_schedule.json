@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T23:38:45.149089",
+  "generated_at": "2026-07-29T01:07:15.493294",
   "sources": [
     {
       "name": "cartelive",
@@ -405,52 +405,14 @@
       "date": "2026-07-28",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Tigre (Arg) vs Nacional (Uru)",
-      "team_home": "Tigre (Arg)",
-      "team_away": "Nacional (Uru)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785276000
-    },
-    {
-      "date": "2026-07-28",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Banfield vs Sarmiento Junin",
+      "league": null,
+      "title": "Banfield vs Sarmiento",
       "team_home": "Banfield",
-      "team_away": "Sarmiento Junin",
+      "team_away": "Sarmiento",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD11",
@@ -465,26 +427,40 @@
       "date": "2026-07-28",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "San Lorenzo vs Gimnasia Mendoza",
       "team_home": "San Lorenzo",
       "team_away": "Gimnasia Mendoza",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ],
         "el": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785276000
+    },
+    {
+      "date": "2026-07-28",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Tigre vs Nacional",
+      "team_home": "Tigre",
+      "team_away": "Nacional",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
