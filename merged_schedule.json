@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T18:39:54.484957",
+  "generated_at": "2026-07-29T19:58:45.244199",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 87,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-07-27",
@@ -178,21 +178,15 @@
       "date": "2026-07-29",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "AEK Athens (Gre) vs Samsunspor (Tur)",
-      "team_home": "AEK Athens (Gre)",
-      "team_away": "Samsunspor (Tur)",
+      "league": null,
+      "title": "AEK Athens vs Samsunspor",
+      "team_home": "AEK Athens",
+      "team_away": "Samsunspor",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -204,131 +198,31 @@
     },
     {
       "date": "2026-07-29",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions",
-      "title": "Kauno Zalgiris (Ltu) vs Klaksvik (Fai)",
-      "team_home": "Kauno Zalgiris (Ltu)",
-      "team_away": "Klaksvik (Fai)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785340800
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "16:10",
-      "time_utc1": "18:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs Philadelphia Phillies",
-      "team_home": "Miami Marlins",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785341400
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
       "league": "Amical Club",
-      "title": "Girona (Esp) vs Castellon (Esp)",
-      "team_home": "Girona (Esp)",
-      "team_away": "Castellon (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785342600
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Amical Club",
-      "title": "Offenbach (Ger) vs Stuttgart (Ger)",
-      "team_home": "Offenbach (Ger)",
-      "team_away": "Stuttgart (Ger)",
+      "title": "Racing Santander (Esp) vs Ath Bilbao (Esp)",
+      "team_home": "Racing Santander (Esp)",
+      "team_away": "Ath Bilbao (Esp)",
       "sources": [
         "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
+        "es": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
+            "channel": "ES m.laliga2",
+            "url": "https://multi.govoet.cc/?envivo=50",
             "source": "cartelive"
           },
           {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785342600
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "16:35",
-      "time_utc1": "18:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Arizona Diamondbacks",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785342900
+      "startTimestamp": 1785344400
     },
     {
       "date": "2026-07-29",
@@ -423,17 +317,17 @@
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": null,
-      "title": "Racing Santander vs Ath Bilbao",
-      "team_home": "Racing Santander",
-      "team_away": "Ath Bilbao",
+      "title": "Kickers Offenbach vs Stuttgart",
+      "team_home": "Kickers Offenbach",
+      "team_away": "Stuttgart",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "de": [
           {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ]
