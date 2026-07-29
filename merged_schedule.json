@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T20:58:42.291213",
+  "generated_at": "2026-07-29T22:02:31.565334",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 75,
+  "total_events": 72,
   "events": [
     {
       "date": "2026-07-27",
@@ -337,83 +337,18 @@
       "date": "2026-07-29",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Betis (Esp) vs Lyon (Fra)",
-      "team_home": "Betis (Esp)",
-      "team_away": "Lyon (Fra)",
+      "league": null,
+      "title": "Crvena Zvezda vs Larne",
+      "team_home": "Crvena Zvezda",
+      "team_away": "Larne",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785348000
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Crvena zvezda (Srb) vs Larne (Nir)",
-      "team_home": "Crvena zvezda (Srb)",
-      "team_away": "Larne (Nir)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785348000
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Gornik Zabrze (Pol) vs Fenerbahce (Tur)",
-      "team_home": "Gornik Zabrze (Pol)",
-      "team_away": "Fenerbahce (Tur)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
@@ -451,73 +386,39 @@
     },
     {
       "date": "2026-07-29",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Ligue Des Champions",
-      "title": "Slovan Bratislava (Svk) vs Iberia 1999 (Geo)",
-      "team_home": "Slovan Bratislava (Svk)",
-      "team_away": "Iberia 1999 (Geo)",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Górnik Zabrze vs Fenerbahçe",
+      "team_home": "Górnik Zabrze",
+      "team_away": "Fenerbahçe",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785348900
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Watford (Eng) vs Fiorentina (Ita)",
-      "team_home": "Watford (Eng)",
-      "team_away": "Fiorentina (Ita)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "pt": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785349800
+      "startTimestamp": 1785348000
     },
     {
       "date": "2026-07-29",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "SK Rapid (Aut) vs FC Santa Coloma (And)",
-      "team_home": "SK Rapid (Aut)",
-      "team_away": "FC Santa Coloma (And)",
+      "league": null,
+      "title": "Rapid Wien vs FC Santa Coloma",
+      "team_home": "Rapid Wien",
+      "team_away": "FC Santa Coloma",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -529,55 +430,25 @@
     },
     {
       "date": "2026-07-29",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Burnley (Eng) vs Espanyol (Esp)",
-      "team_home": "Burnley (Eng)",
-      "team_away": "Espanyol (Esp)",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Watford vs Fiorentina",
+      "team_home": "Watford",
+      "team_away": "Fiorentina",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785350700
-    },
-    {
-      "date": "2026-07-29",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Villarreal (Esp) vs Como (Ita)",
-      "team_home": "Villarreal (Esp)",
-      "team_away": "Como (Ita)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "it": [
           {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ],
-        "pl": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785350700
+      "startTimestamp": 1785349800
     },
     {
       "date": "2026-07-29",
@@ -623,6 +494,28 @@
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785355200
+    },
+    {
+      "date": "2026-07-29",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": null,
+      "title": "Como vs Villarreal",
+      "team_home": "Como",
+      "team_away": "Villarreal",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pl": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
