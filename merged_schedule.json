@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:59:35.428616",
+  "generated_at": "2026-07-30T22:10:23.247620",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 51,
+  "total_events": 40,
   "events": [
     {
       "date": "2026-07-27",
@@ -266,21 +266,15 @@
       "date": "2026-07-30",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Ajax (Ned) vs Vojvodina (Srb)",
-      "team_home": "Ajax (Ned)",
-      "team_away": "Vojvodina (Srb)",
+      "league": null,
+      "title": "Ajax vs Vojvodina",
+      "team_home": "Ajax",
+      "team_away": "Vojvodina",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -292,80 +286,6 @@
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785434400
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Ludogorets (Bul) vs Hapoel Tel Aviv (Isr)",
-      "team_home": "Ludogorets (Bul)",
-      "team_away": "Hapoel Tel Aviv (Isr)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785434400
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Vestri (Ice) vs RFS (Lat)",
-      "team_home": "Vestri (Ice)",
-      "team_away": "RFS (Lat)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785434400
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Europa",
-      "title": "CSKA Sofia (Bul) vs Qarabag (Aze)",
-      "team_home": "CSKA Sofia (Bul)",
-      "team_away": "Qarabag (Aze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
           }
         ]
       },
@@ -395,209 +315,42 @@
     },
     {
       "date": "2026-07-30",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs New York Yankees",
-      "team_home": "Chicago White Sox",
-      "team_away": "New York Yankees",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Ludogorets vs Hapoel Tel Aviv",
+      "team_home": "Ludogorets",
+      "team_away": "Hapoel Tel Aviv",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785435000
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Conference League",
-      "title": "Sion (Sui) vs BATE (Blr)",
-      "team_home": "Sion (Sui)",
-      "team_away": "BATE (Blr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785435300
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Conference League",
-      "title": "UNA Strassen (Lux) vs Partizan (Srb)",
-      "team_home": "UNA Strassen (Lux)",
-      "team_away": "Partizan (Srb)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785435300
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Chicago Cubs",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785435300
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Austria Vienna (Aut) vs FK Liepaja (Lat)",
-      "team_home": "Austria Vienna (Aut)",
-      "team_away": "FK Liepaja (Lat)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785436200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "CFR Cluj (Rou) vs Alashkert (Arm)",
-      "team_home": "CFR Cluj (Rou)",
-      "team_away": "Alashkert (Arm)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785436200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Gent (Bel) vs LNZ Cherkasy (Ukr)",
-      "team_home": "Gent (Bel)",
-      "team_away": "LNZ Cherkasy (Ukr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785436200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Panathinaikos (Gre) vs Paks (Hun)",
-      "team_home": "Panathinaikos (Gre)",
-      "team_away": "Paks (Hun)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785436200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Ligue Europa",
-      "title": "Anderlecht (Bel) vs Hammarby (Swe)",
-      "team_home": "Anderlecht (Bel)",
-      "team_away": "Hammarby (Swe)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "it": [
           {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          },
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785434400
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Ferencváros vs Twente",
+      "team_home": "Ferencváros",
+      "team_away": "Twente",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
@@ -608,26 +361,18 @@
       "date": "2026-07-30",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Ligue Europa",
-      "title": "Ferencvaros (Hun) vs Twente (Ned)",
-      "team_home": "Ferencvaros (Hun)",
-      "team_away": "Twente (Ned)",
+      "league": null,
+      "title": "Anderlecht vs Hammarby",
+      "team_home": "Anderlecht",
+      "team_away": "Hammarby",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "nl": [
+        "fr": [
           {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
@@ -704,63 +449,6 @@
       "date": "2026-07-30",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Braga (Por) vs Zeleznicar Pancevo (Srb)",
-      "team_home": "Braga (Por)",
-      "team_away": "Zeleznicar Pancevo (Srb)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785438000
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Europa",
-      "title": "Benfica (Por) vs St. Gallen (Sui)",
-      "team_home": "Benfica (Por)",
-      "team_away": "St. Gallen (Sui)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          },
-          {
-            "channel": "BTV",
-            "url": "https://multi.govoet.cc/?ss=btv",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785438000
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
       "league": null,
       "title": "Sporting Braga vs Železničar Pančevo",
       "team_home": "Sporting Braga",
@@ -773,6 +461,35 @@
           {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785438000
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Benfica vs St. Gallen",
+      "team_home": "Benfica",
+      "team_away": "St. Gallen",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "BTV",
+            "url": "https://multi.govoet.cc/?ss=btv",
             "source": "sportsonline"
           }
         ]
