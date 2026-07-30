@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T03:24:57.536382",
+  "generated_at": "2026-07-30T06:03:59.447953",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 60,
   "events": [
     {
       "date": "2026-07-27",
@@ -714,22 +714,36 @@
       "date": "2026-07-30",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Bragantino (Bra) vs Sporting Cristal (Per)",
-      "team_home": "Bragantino (Bra)",
-      "team_away": "Sporting Cristal (Per)",
+      "league": null,
+      "title": "Instituto vs Platense",
+      "team_home": "Instituto",
+      "team_away": "Platense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
-        ],
+        ]
+      },
+      "startTimestamp": 1785371400
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "RB Bragantino vs Sporting Cristal",
+      "team_home": "RB Bragantino",
+      "team_away": "Sporting Cristal",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "en": [
           {
             "channel": "HD5",
@@ -751,74 +765,14 @@
       "date": "2026-07-30",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Cienciano (Per) vs Lanus (Arg)",
-      "team_home": "Cienciano (Per)",
-      "team_away": "Lanus (Arg)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785371400
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Serie A Bresil",
-      "title": "Fluminense vs Bahia",
-      "team_home": "Fluminense",
-      "team_away": "Bahia",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785371400
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Serie A Bresil",
-      "title": "Vitoria vs Palmeiras",
-      "team_home": "Vitoria",
+      "league": null,
+      "title": "Vitória vs Palmeiras",
+      "team_home": "Vitória",
       "team_away": "Palmeiras",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -833,95 +787,23 @@
       "date": "2026-07-30",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
-      "title": "Instituto vs Platense",
-      "team_home": "Instituto",
-      "team_away": "Platense",
+      "league": null,
+      "title": "Fluminense vs Bahia",
+      "team_home": "Fluminense",
+      "team_away": "Bahia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "pt-BR": [
           {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
             "source": "sportsonline"
           }
         ]
       },
       "startTimestamp": 1785371400
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Houston Astros",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785375480
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Boston Red Sox",
-      "team_home": "Athletics",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785375600
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Seattle Mariners",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785377400
     },
     {
       "date": "2026-07-30",
