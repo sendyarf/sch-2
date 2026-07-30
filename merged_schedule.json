@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T06:03:59.447953",
+  "generated_at": "2026-07-30T08:46:42.368228",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 60,
+  "total_events": 97,
   "events": [
     {
       "date": "2026-07-27",
@@ -829,16 +829,104 @@
     },
     {
       "date": "2026-07-30",
+      "time_utc": "15:30",
+      "time_utc1": "17:30",
+      "league": "Amical Club",
+      "title": "Trabzonspor (Tur) vs Al-Sadd (Qat)",
+      "team_home": "Trabzonspor (Tur)",
+      "team_away": "Al-Sadd (Qat)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "tr": [
+          {
+            "channel": "DE bundliga1",
+            "url": "https://multi.govoet.cc/?envivo=111",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785425400
+    },
+    {
+      "date": "2026-07-30",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": null,
-      "title": "Rottach-egern vs Bayern Munich",
-      "team_home": "Rottach-egern",
-      "team_away": "Bayern Munich",
+      "league": "Amical Club",
+      "title": "Marseille (Fra) vs Nimes (Fra)",
+      "team_home": "Marseille (Fra)",
+      "team_away": "Nimes (Fra)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785427200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Amical Club",
+      "title": "Monza (Ita) vs Aris (Gre)",
+      "team_home": "Monza (Ita)",
+      "team_away": "Aris (Gre)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "GR SPORT 3",
+            "url": "https://multi.govoet.cc/?envivo=150",
+            "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785427200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Amical Club",
+      "title": "Rottach-Egern (Ger) vs Bayern Munich (Ger)",
+      "team_home": "Rottach-Egern (Ger)",
+      "team_away": "Bayern Munich (Ger)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "DE bundliga2",
+            "url": "https://multi.govoet.cc/?envivo=112",
+            "source": "cartelive"
+          }
+        ],
         "de": [
           {
             "channel": "HD3",
@@ -853,19 +941,63 @@
       "date": "2026-07-30",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": null,
-      "title": "Olympique Marseille vs Nîmes",
-      "team_home": "Olympique Marseille",
-      "team_away": "Nîmes",
+      "league": "Conference League",
+      "title": "Auda (Lat) vs FCSB (Rou)",
+      "team_home": "Auda (Lat)",
+      "team_away": "FCSB (Rou)",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
+            "channel": "EXTRA SPORT6",
+            "url": "https://multi.govoet.cc/?envivo=160",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785427200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Conference League",
+      "title": "Inter Turku (Fin) vs Basaksehir (Tur)",
+      "team_home": "Inter Turku (Fin)",
+      "team_away": "Basaksehir (Tur)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "tr": [
+          {
+            "channel": "EXTRA SPORT7 uefa events only",
+            "url": "https://multi.govoet.cc/?envivo=161",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785427200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Conference League",
+      "title": "Jablonec (Cze) vs Varazdin (Cro)",
+      "team_home": "Jablonec (Cze)",
+      "team_away": "Varazdin (Cro)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT8",
+            "url": "https://multi.govoet.cc/?envivo=162",
+            "source": "cartelive"
           }
         ]
       },
@@ -898,28 +1030,6 @@
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": null,
-      "title": "Monza vs Aris",
-      "team_home": "Monza",
-      "team_away": "Aris",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
       "title": "Maccabi Tel Aviv vs Sheriff",
       "team_home": "Maccabi Tel Aviv",
       "team_away": "Sheriff",
@@ -936,6 +1046,182 @@
         ]
       },
       "startTimestamp": 1785427200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "16:10",
+      "time_utc1": "18:10",
+      "league": "MLB",
+      "title": "Tampa Bay Rays vs Texas Rangers",
+      "team_home": "Tampa Bay Rays",
+      "team_away": "Texas Rangers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT37",
+            "url": "https://multi.govoet.cc/?envivo=190",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785427800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Amical Club",
+      "title": "Malaga (Esp) vs Al Ittihad (Sau)",
+      "team_home": "Malaga (Esp)",
+      "team_away": "Al Ittihad (Sau)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "DE bundliga3",
+            "url": "https://multi.govoet.cc/?envivo=113",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Conference League",
+      "title": "Brann (Nor) vs U. Cluj (Rou)",
+      "team_home": "Brann (Nor)",
+      "team_away": "U. Cluj (Rou)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT11",
+            "url": "https://multi.govoet.cc/?envivo=165",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Conference League",
+      "title": "HB Torshavn (Fai) vs Motherwell (Sco)",
+      "team_home": "HB Torshavn (Fai)",
+      "team_away": "Motherwell (Sco)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT12",
+            "url": "https://multi.govoet.cc/?envivo=166",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Conference League",
+      "title": "Nordsjaelland (Den) vs GAIS (Swe)",
+      "team_home": "Nordsjaelland (Den)",
+      "team_away": "GAIS (Swe)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT13",
+            "url": "https://multi.govoet.cc/?envivo=167",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Conference League",
+      "title": "Petrocub (Mda) vs Borac Banja Luka (Bih)",
+      "team_home": "Petrocub (Mda)",
+      "team_away": "Borac Banja Luka (Bih)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT14",
+            "url": "https://multi.govoet.cc/?envivo=168",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Ligue Europa",
+      "title": "Midtjylland (Den) vs Besiktas (Tur)",
+      "team_home": "Midtjylland (Den)",
+      "team_away": "Besiktas (Tur)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Ligue Europa",
+      "title": "Pafos (Cyp) vs Hajduk Split (Cro)",
+      "team_home": "Pafos (Cyp)",
+      "team_away": "Hajduk Split (Cro)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "EXTRA SPORT10",
+            "url": "https://multi.govoet.cc/?envivo=164",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785430800
     },
     {
       "date": "2026-07-30",
@@ -961,17 +1247,133 @@
     },
     {
       "date": "2026-07-30",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": "Conference League",
+      "title": "Beitar Jerusalem (Isr) vs AEK Larnaca (Cyp)",
+      "team_home": "Beitar Jerusalem (Isr)",
+      "team_away": "AEK Larnaca (Cyp)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "EXTRA SPORT15",
+            "url": "https://multi.govoet.cc/?envivo=169",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785432600
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": "Conference League",
+      "title": "Derry City (Nir) vs Rijeka (Cro)",
+      "team_home": "Derry City (Nir)",
+      "team_away": "Rijeka (Cro)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT16",
+            "url": "https://multi.govoet.cc/?envivo=170",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785432600
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": "Conference League",
+      "title": "Valletta (Mlt) vs Rakow (Pol)",
+      "team_home": "Valletta (Mlt)",
+      "team_away": "Rakow (Pol)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT17",
+            "url": "https://multi.govoet.cc/?envivo=171",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785432600
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:40",
+      "time_utc1": "19:40",
+      "league": "MLB",
+      "title": "Minnesota Twins vs Kansas City Royals",
+      "team_home": "Minnesota Twins",
+      "team_away": "Kansas City Royals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT38",
+            "url": "https://multi.govoet.cc/?envivo=191",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785433200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "17:45",
+      "time_utc1": "19:45",
+      "league": "Ligue Europa",
+      "title": "PAOK (Gre) vs Dyn. Kyiv (Ukr)",
+      "team_home": "PAOK (Gre)",
+      "team_away": "Dyn. Kyiv (Ukr)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "EXTRA SPORT18",
+            "url": "https://multi.govoet.cc/?envivo=172",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785433500
+    },
+    {
+      "date": "2026-07-30",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": null,
-      "title": "Ajax vs Vojvodina",
-      "team_home": "Ajax",
-      "team_away": "Vojvodina",
+      "league": "Conference League",
+      "title": "Ajax (Ned) vs Vojvodina (Srb)",
+      "team_home": "Ajax (Ned)",
+      "team_away": "Vojvodina (Srb)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
+          {
+            "channel": "EXTRA SPORT20",
+            "url": "https://multi.govoet.cc/?envivo=174",
+            "source": "cartelive"
+          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -983,6 +1385,80 @@
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785434400
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Conference League",
+      "title": "Ludogorets (Bul) vs Hapoel Tel Aviv (Isr)",
+      "team_home": "Ludogorets (Bul)",
+      "team_away": "Hapoel Tel Aviv (Isr)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT21",
+            "url": "https://multi.govoet.cc/?envivo=175",
+            "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785434400
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Conference League",
+      "title": "Vestri (Ice) vs RFS (Lat)",
+      "team_home": "Vestri (Ice)",
+      "team_away": "RFS (Lat)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT22",
+            "url": "https://multi.govoet.cc/?envivo=176",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785434400
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Ligue Europa",
+      "title": "CSKA Sofia (Bul) vs Qarabag (Aze)",
+      "team_home": "CSKA Sofia (Bul)",
+      "team_away": "Qarabag (Aze)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT19",
+            "url": "https://multi.govoet.cc/?envivo=173",
+            "source": "cartelive"
           }
         ]
       },
@@ -1012,42 +1488,209 @@
     },
     {
       "date": "2026-07-30",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Ludogorets vs Hapoel Tel Aviv",
-      "team_home": "Ludogorets",
-      "team_away": "Hapoel Tel Aviv",
+      "time_utc": "18:10",
+      "time_utc1": "20:10",
+      "league": "MLB",
+      "title": "Chicago White Sox vs New York Yankees",
+      "team_home": "Chicago White Sox",
+      "team_away": "New York Yankees",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
-        "it": [
+        "en": [
           {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1785434400
+      "startTimestamp": 1785435000
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:15",
+      "time_utc1": "20:15",
+      "league": "Conference League",
+      "title": "Sion (Sui) vs BATE (Blr)",
+      "team_home": "Sion (Sui)",
+      "team_away": "BATE (Blr)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "EXTRA SPORT23",
+            "url": "https://multi.govoet.cc/?envivo=177",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785435300
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:15",
+      "time_utc1": "20:15",
+      "league": "Conference League",
+      "title": "UNA Strassen (Lux) vs Partizan (Srb)",
+      "team_home": "UNA Strassen (Lux)",
+      "team_away": "Partizan (Srb)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT24",
+            "url": "https://multi.govoet.cc/?envivo=178",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785435300
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:15",
+      "time_utc1": "20:15",
+      "league": "MLB",
+      "title": "St.Louis Cardinals vs Chicago Cubs",
+      "team_home": "St.Louis Cardinals",
+      "team_away": "Chicago Cubs",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "FOXsport3 arg",
+            "url": "https://multi.govoet.cc/?envivo=80",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "UK TNT SPORT",
+            "url": "https://multi.govoet.cc/?envivo=126",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785435300
     },
     {
       "date": "2026-07-30",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": null,
-      "title": "Ferencváros vs Twente",
-      "team_home": "Ferencváros",
-      "team_away": "Twente",
+      "league": "Conference League",
+      "title": "Austria Vienna (Aut) vs FK Liepaja (Lat)",
+      "team_home": "Austria Vienna (Aut)",
+      "team_away": "FK Liepaja (Lat)",
       "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785436200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": "Conference League",
+      "title": "CFR Cluj (Rou) vs Alashkert (Arm)",
+      "team_home": "CFR Cluj (Rou)",
+      "team_away": "Alashkert (Arm)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785436200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": "Conference League",
+      "title": "Gent (Bel) vs LNZ Cherkasy (Ukr)",
+      "team_home": "Gent (Bel)",
+      "team_away": "LNZ Cherkasy (Ukr)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785436200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": "Conference League",
+      "title": "Panathinaikos (Gre) vs Paks (Hun)",
+      "team_home": "Panathinaikos (Gre)",
+      "team_away": "Paks (Hun)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "el": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785436200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": "Ligue Europa",
+      "title": "Anderlecht (Bel) vs Hammarby (Swe)",
+      "team_home": "Anderlecht (Bel)",
+      "team_away": "Hammarby (Swe)",
+      "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "unknown": [
+        "fr": [
           {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "EXTRA SPORT25",
+            "url": "https://multi.govoet.cc/?envivo=179",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
@@ -1058,18 +1701,26 @@
       "date": "2026-07-30",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": null,
-      "title": "Anderlecht vs Hammarby",
-      "team_home": "Anderlecht",
-      "team_away": "Hammarby",
+      "league": "Ligue Europa",
+      "title": "Ferencvaros (Hun) vs Twente (Ned)",
+      "team_home": "Ferencvaros (Hun)",
+      "team_away": "Twente (Ned)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "nl": [
           {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
@@ -1146,6 +1797,63 @@
       "date": "2026-07-30",
       "time_utc": "19:00",
       "time_utc1": "21:00",
+      "league": "Conference League",
+      "title": "Braga (Por) vs Zeleznicar Pancevo (Srb)",
+      "team_home": "Braga (Por)",
+      "team_away": "Zeleznicar Pancevo (Srb)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785438000
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": "Ligue Europa",
+      "title": "Benfica (Por) vs St. Gallen (Sui)",
+      "team_home": "Benfica (Por)",
+      "team_away": "St. Gallen (Sui)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          },
+          {
+            "channel": "BTV",
+            "url": "https://multi.govoet.cc/?ss=btv",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785438000
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
       "league": null,
       "title": "Sporting Braga vs Železničar Pančevo",
       "team_home": "Sporting Braga",
@@ -1158,35 +1866,6 @@
           {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785438000
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Benfica vs St. Gallen",
-      "team_home": "Benfica",
-      "team_away": "St. Gallen",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "BTV",
-            "url": "https://multi.govoet.cc/?ss=btv",
             "source": "sportsonline"
           }
         ]
@@ -1219,14 +1898,22 @@
       "date": "2026-07-30",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": null,
-      "title": "Grêmio vs Bolívar",
-      "team_home": "Grêmio",
-      "team_away": "Bolívar",
+      "league": "Copa Sudamericana",
+      "title": "Gremio (Bra) vs Bolivar (Bol)",
+      "team_home": "Gremio (Bra)",
+      "team_away": "Bolivar (Bol)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          }
+        ],
         "unknown": [
           {
             "channel": "HD5",
@@ -1255,14 +1942,22 @@
       "date": "2026-07-30",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": null,
-      "title": "Independiente Rivadavia vs Huracán",
-      "team_home": "Independiente Rivadavia",
-      "team_away": "Huracán",
+      "league": "Torneo LPF",
+      "title": "Ind. Rivadavia vs Huracan",
+      "team_home": "Ind. Rivadavia",
+      "team_away": "Huracan",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ],
         "pl": [
           {
             "channel": "HD11",
@@ -1277,14 +1972,22 @@
       "date": "2026-07-30",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": null,
-      "title": "Talleres Córdoba vs Vélez Sarsfield",
-      "team_home": "Talleres Córdoba",
-      "team_away": "Vélez Sarsfield",
+      "league": "Torneo LPF",
+      "title": "Talleres Cordoba vs Velez Sarsfield",
+      "team_home": "Talleres Cordoba",
+      "team_away": "Velez Sarsfield",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          }
+        ],
         "unknown": [
           {
             "channel": "HD10",
@@ -1299,14 +2002,22 @@
       "date": "2026-07-30",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": null,
+      "league": "Serie A Bresil",
       "title": "Corinthians vs Athletico-PR",
       "team_home": "Corinthians",
       "team_away": "Athletico-PR",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES Vamos",
+            "url": "https://multi.govoet.cc/?envivo=55",
+            "source": "cartelive"
+          }
+        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -1316,6 +2027,79 @@
         ]
       },
       "startTimestamp": 1785450600
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "Cincinnati Reds vs Pittsburgh Pirates",
+      "team_home": "Cincinnati Reds",
+      "team_away": "Pittsburgh Pirates",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT40",
+            "url": "https://multi.govoet.cc/?envivo=193",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785453000
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "New York Mets vs Miami Marlins",
+      "team_home": "New York Mets",
+      "team_away": "Miami Marlins",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT max 5",
+            "url": "https://multi.govoet.cc/?envivo=5",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785453000
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Atlanta Braves vs Washington Nationals",
+      "team_home": "Atlanta Braves",
+      "team_away": "Washington Nationals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "UK TNT SPORT",
+            "url": "https://multi.govoet.cc/?envivo=126",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ESPN3MX",
+            "url": "https://multi.govoet.cc/?envivo=99",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785453300
     },
     {
       "date": "2026-07-30",
@@ -1350,36 +2134,22 @@
       "date": "2026-07-31",
       "time_utc": "00:15",
       "time_utc1": "02:15",
-      "league": null,
-      "title": "Independiente vs Newell's Old Boys",
-      "team_home": "Independiente",
-      "team_away": "Newell's Old Boys",
+      "league": "Torneo LPF",
+      "title": "Central Cordoba vs Atl. Tucuman",
+      "team_home": "Central Cordoba",
+      "team_away": "Atl. Tucuman",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "unknown": [
+        "es": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
           }
-        ]
-      },
-      "startTimestamp": 1785456900
-    },
-    {
-      "date": "2026-07-31",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": null,
-      "title": "Central Córdoba SdE vs Atlético Tucumán",
-      "team_home": "Central Córdoba SdE",
-      "team_away": "Atlético Tucumán",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
+        ],
         "pl": [
           {
             "channel": "HD11",
@@ -1392,16 +2162,86 @@
     },
     {
       "date": "2026-07-31",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "O'Higgins vs Boca Juniors",
-      "team_home": "O'Higgins",
-      "team_away": "Boca Juniors",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": "Torneo LPF",
+      "title": "Independiente vs Newells Old Boys",
+      "team_home": "Independiente",
+      "team_away": "Newells Old Boys",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785456900
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "Copa Sudamericana",
+      "title": "Caracas (Ven) vs Santa Fe (Col)",
+      "team_home": "Caracas (Ven)",
+      "team_away": "Santa Fe (Col)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN2",
+            "url": "https://multi.govoet.cc/?envivo=88",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785457800
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "Copa Sudamericana",
+      "title": "O'Higgins (Chi) vs Boca Juniors (Arg)",
+      "team_home": "O'Higgins (Chi)",
+      "team_away": "Boca Juniors (Arg)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN1",
+            "url": "https://multi.govoet.cc/?envivo=87",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ESPN1MX",
+            "url": "https://multi.govoet.cc/?envivo=97",
+            "source": "cartelive"
+          }
+        ],
         "unknown": [
           {
             "channel": "HD5",
@@ -1430,14 +2270,22 @@
       "date": "2026-07-31",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": null,
+      "league": "Serie A Bresil",
       "title": "Coritiba vs Cruzeiro",
       "team_home": "Coritiba",
       "team_away": "Cruzeiro",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "dazn baloncesto 1",
+            "url": "https://multi.govoet.cc/?envivo=155",
+            "source": "cartelive"
+          }
+        ],
         "pt-BR": [
           {
             "channel": "BR3",
@@ -1447,6 +2295,116 @@
         ]
       },
       "startTimestamp": 1785457800
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Liga BetPlay Dimayor",
+      "title": "Bucaramanga vs Llaneros",
+      "team_home": "Bucaramanga",
+      "team_away": "Llaneros",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785459600
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Liga de Expansión MX",
+      "title": "Alebrijes Oaxaca vs Dorados de Sinaloa",
+      "team_home": "Alebrijes Oaxaca",
+      "team_away": "Dorados de Sinaloa",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN4MX",
+            "url": "https://multi.govoet.cc/?envivo=100",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785459600
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "01:40",
+      "time_utc1": "03:40",
+      "league": "MLB",
+      "title": "Athletics vs Boston Red Sox",
+      "team_home": "Athletics",
+      "team_away": "Boston Red Sox",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785462000
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "01:40",
+      "time_utc1": "03:40",
+      "league": "MLB",
+      "title": "San Diego Padres vs San Francisco Giants",
+      "team_home": "San Diego Padres",
+      "team_away": "San Francisco Giants",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT42",
+            "url": "https://multi.govoet.cc/?envivo=195",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785462000
+    },
+    {
+      "date": "2026-07-31",
+      "time_utc": "02:10",
+      "time_utc1": "04:10",
+      "league": "MLB",
+      "title": "Los Angeles Dodgers vs Seattle Mariners",
+      "team_home": "Los Angeles Dodgers",
+      "team_away": "Seattle Mariners",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT43",
+            "url": "https://multi.govoet.cc/?envivo=196",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785463800
     }
   ]
 }
