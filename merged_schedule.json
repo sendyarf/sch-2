@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T18:10:28.087611",
+  "generated_at": "2026-07-30T19:48:58.378643",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 68,
+  "total_events": 56,
   "events": [
     {
       "date": "2026-07-27",
@@ -134,80 +134,14 @@
       "date": "2026-07-30",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Marseille (Fra) vs Nimes (Fra)",
-      "team_home": "Marseille (Fra)",
-      "team_away": "Nimes (Fra)",
+      "league": null,
+      "title": "Rottach-egern vs Bayern Munich",
+      "team_home": "Rottach-egern",
+      "team_away": "Bayern Munich",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Monza (Ita) vs Aris (Gre)",
-      "team_home": "Monza (Ita)",
-      "team_away": "Aris (Gre)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Rottach-Egern (Ger) vs Bayern Munich (Ger)",
-      "team_home": "Rottach-Egern (Ger)",
-      "team_away": "Bayern Munich (Ger)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD3",
@@ -222,85 +156,19 @@
       "date": "2026-07-30",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Trabzonspor (Tur) vs Al-Sadd (Qat)",
-      "team_home": "Trabzonspor (Tur)",
-      "team_away": "Al-Sadd (Qat)",
+      "league": null,
+      "title": "Olympique Marseille vs Nîmes",
+      "team_home": "Olympique Marseille",
+      "team_away": "Nîmes",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "tr": [
+        "fr": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Auda (Lat) vs FCSB (Rou)",
-      "team_home": "Auda (Lat)",
-      "team_away": "FCSB (Rou)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Inter Turku (Fin) vs Basaksehir (Tur)",
-      "team_home": "Inter Turku (Fin)",
-      "team_away": "Basaksehir (Tur)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Jablonec (Cze) vs Varazdin (Cro)",
-      "team_home": "Jablonec (Cze)",
-      "team_away": "Varazdin (Cro)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -333,6 +201,28 @@
       "time_utc": "16:00",
       "time_utc1": "18:00",
       "league": null,
+      "title": "Monza vs Aris",
+      "team_home": "Monza",
+      "team_away": "Aris",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785427200
+    },
+    {
+      "date": "2026-07-30",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
       "title": "Maccabi Tel Aviv vs Sheriff",
       "team_home": "Maccabi Tel Aviv",
       "team_away": "Sheriff",
@@ -349,182 +239,6 @@
         ]
       },
       "startTimestamp": 1785427200
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "16:10",
-      "time_utc1": "18:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Texas Rangers",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Texas Rangers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785427800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Malaga (Esp) vs Al Ittihad (Sau)",
-      "team_home": "Malaga (Esp)",
-      "team_away": "Al Ittihad (Sau)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Brann (Nor) vs U. Cluj (Rou)",
-      "team_home": "Brann (Nor)",
-      "team_away": "U. Cluj (Rou)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "HB Torshavn (Fai) vs Motherwell (Sco)",
-      "team_home": "HB Torshavn (Fai)",
-      "team_away": "Motherwell (Sco)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Nordsjaelland (Den) vs GAIS (Swe)",
-      "team_home": "Nordsjaelland (Den)",
-      "team_away": "GAIS (Swe)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Petrocub (Mda) vs Borac Banja Luka (Bih)",
-      "team_home": "Petrocub (Mda)",
-      "team_away": "Borac Banja Luka (Bih)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Midtjylland (Den) vs Besiktas (Tur)",
-      "team_home": "Midtjylland (Den)",
-      "team_away": "Besiktas (Tur)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Pafos (Cyp) vs Hajduk Split (Cro)",
-      "team_home": "Pafos (Cyp)",
-      "team_away": "Hajduk Split (Cro)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785430800
     },
     {
       "date": "2026-07-30",
