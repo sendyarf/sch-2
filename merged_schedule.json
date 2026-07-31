@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T18:08:34.930883",
+  "generated_at": "2026-07-31T19:49:54.848084",
   "sources": [
     {
       "name": "cartelive",
@@ -68,21 +68,15 @@
       "date": "2026-07-31",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Juventus (Ita) vs Nice (Fra)",
-      "team_home": "Juventus (Ita)",
-      "team_away": "Nice (Fra)",
+      "league": null,
+      "title": "Juventus vs Nice",
+      "team_home": "Juventus",
+      "team_away": "Nice",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
