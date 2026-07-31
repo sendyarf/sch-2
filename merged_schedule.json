@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T22:01:52.693804",
+  "generated_at": "2026-07-31T23:14:20.027232",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-07-31",
@@ -41,28 +41,6 @@
         ]
       },
       "startTimestamp": 1785491700
-    },
-    {
-      "date": "2026-07-31",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Los Chankas vs Comerciantes Unidos",
-      "team_home": "Los Chankas",
-      "team_away": "Comerciantes Unidos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785528000
     },
     {
       "date": "2026-07-31",
