@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T23:17:24.908075",
+  "generated_at": "2026-07-31T01:01:33.983853",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 47,
+  "total_events": 44,
   "events": [
     {
       "date": "2026-07-27",
@@ -85,72 +85,6 @@
         ]
       },
       "startTimestamp": 1785241500
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Gremio (Bra) vs Bolivar (Bol)",
-      "team_home": "Gremio (Bra)",
-      "team_away": "Bolivar (Bol)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785448800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Ind. Rivadavia vs Huracan",
-      "team_home": "Ind. Rivadavia",
-      "team_away": "Huracan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785448800
-    },
-    {
-      "date": "2026-07-30",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Talleres Cordoba vs Velez Sarsfield",
-      "team_home": "Talleres Cordoba",
-      "team_away": "Velez Sarsfield",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785448800
     },
     {
       "date": "2026-07-30",
