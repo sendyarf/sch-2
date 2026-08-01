@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:17:26.170719",
+  "generated_at": "2026-08-01T16:27:09.023103",
   "sources": [
     {
       "name": "cartelive",
@@ -177,59 +177,26 @@
       "date": "2026-08-01",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Manchester Utd (Eng) vs Atl. Madrid (Esp)",
-      "team_home": "Manchester Utd (Eng)",
-      "team_away": "Atl. Madrid (Esp)",
+      "league": null,
+      "title": "Manchester United vs Atlético Madrid",
+      "team_home": "Manchester United",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1785589200
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Stuttgart (Ger) vs Paris FC (Fra)",
-      "team_home": "Stuttgart (Ger)",
-      "team_away": "Paris FC (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
+        ],
+        "es": [
           {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -265,6 +232,28 @@
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785592800
+    },
+    {
+      "date": "2026-08-01",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": "Amical Club",
+      "title": "Middlesbrough (Eng) vs Espanyol (Esp)",
+      "team_home": "Middlesbrough (Eng)",
+      "team_away": "Espanyol (Esp)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES DAZN 4",
+            "url": "https://multi.govoet.cc/?envivo=59",
+            "source": "cartelive"
           }
         ]
       },
