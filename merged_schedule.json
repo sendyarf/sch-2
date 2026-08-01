@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T18:32:03.337852",
+  "generated_at": "2026-08-01T19:51:53.019463",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 86,
+  "total_events": 85,
   "events": [
     {
       "date": "2026-07-31",
@@ -279,26 +279,15 @@
       "date": "2026-08-01",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Real Madrid (Esp) vs Fiorentina (Ita)",
-      "team_home": "Real Madrid (Esp)",
-      "team_away": "Fiorentina (Ita)",
+      "league": null,
+      "title": "Real Madrid vs Fiorentina",
+      "team_home": "Real Madrid",
+      "team_away": "Fiorentina",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -312,41 +301,9 @@
         ],
         "it": [
           {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785600000
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Sochaux (Fra) vs Auxerre (Fra)",
-      "team_home": "Sochaux (Fra)",
-      "team_away": "Auxerre (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
-          },
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
           }
         ]
       },
@@ -378,48 +335,15 @@
       "date": "2026-08-01",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Cobresal vs Union La Calera",
-      "team_home": "Cobresal",
-      "team_away": "Union La Calera",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785601800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Premiership",
+      "league": null,
       "title": "Aberdeen vs Hearts",
       "team_home": "Aberdeen",
       "team_away": "Hearts",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -530,6 +454,28 @@
         ]
       },
       "startTimestamp": 1785605400
+    },
+    {
+      "date": "2026-08-01",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Amical Club",
+      "title": "Brest (Fra) vs Guingamp (Fra)",
+      "team_home": "Brest (Fra)",
+      "team_away": "Guingamp (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785607200
     },
     {
       "date": "2026-08-01",
