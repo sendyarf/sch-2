@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T21:36:25.028005",
+  "generated_at": "2026-08-01T22:36:27.303849",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 80,
+  "total_events": 76,
   "events": [
     {
       "date": "2026-07-31",
@@ -503,72 +503,6 @@
       "date": "2026-08-01",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Everton vs Colo Colo",
-      "team_home": "Everton",
-      "team_away": "Colo Colo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785610800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Manta vs Mushuc Runa",
-      "team_home": "Manta",
-      "team_away": "Mushuc Runa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785610800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Dep. Pasto vs Aguilas",
-      "team_home": "Dep. Pasto",
-      "team_away": "Aguilas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785610800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
       "league": null,
       "title": "Everton vs Colo-Colo",
       "team_home": "Everton",
@@ -589,56 +523,21 @@
     },
     {
       "date": "2026-08-01",
-      "time_utc": "19:07",
-      "time_utc1": "21:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs St.Louis Cardinals",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785611220
-    },
-    {
-      "date": "2026-08-01",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Supertaça",
-      "title": "FC Porto vs Torreense",
-      "team_home": "FC Porto",
+      "league": null,
+      "title": "Porto vs Torreense",
+      "team_home": "Porto",
       "team_away": "Torreense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
           }
         ]
       },
