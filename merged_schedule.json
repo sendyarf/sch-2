@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T16:27:09.023103",
+  "generated_at": "2026-08-01T17:29:57.783702",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 91,
+  "total_events": 89,
   "events": [
     {
       "date": "2026-07-31",
@@ -206,76 +206,26 @@
       "date": "2026-08-01",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Cardiff (Wal) vs AS Roma (Ita)",
-      "team_home": "Cardiff (Wal)",
-      "team_away": "AS Roma (Ita)",
+      "league": null,
+      "title": "Cardiff City vs Roma",
+      "team_home": "Cardiff City",
+      "team_away": "Roma",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
         "it": [
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1785592800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Middlesbrough (Eng) vs Espanyol (Esp)",
-      "team_home": "Middlesbrough (Eng)",
-      "team_away": "Espanyol (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
+        ],
+        "pt": [
           {
-            "channel": "ES DAZN 4",
-            "url": "https://multi.govoet.cc/?envivo=59",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785592800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premiership",
-      "title": "Falkirk vs St. Mirren",
-      "team_home": "Falkirk",
-      "team_away": "St. Mirren",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
