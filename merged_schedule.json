@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T06:22:11.149869",
+  "generated_at": "2026-08-01T08:38:02.870697",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 38,
+  "total_events": 35,
   "events": [
     {
       "date": "2026-07-31",
@@ -857,72 +857,6 @@
         ]
       },
       "startTimestamp": 1785639600
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Univ. Concepción vs Audax Italiano",
-      "team_home": "Univ. Concepción",
-      "team_away": "Audax Italiano",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786060800
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": null,
-      "title": "Puebla vs Guadalajara",
-      "team_home": "Puebla",
-      "team_away": "Guadalajara",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786064400
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": null,
-      "title": "Fortaleza CEIF vs Deportivo Pereira",
-      "team_home": "Fortaleza CEIF",
-      "team_away": "Deportivo Pereira",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786064400
     }
   ]
 }
