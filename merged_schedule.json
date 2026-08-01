@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T20:41:50.425102",
+  "generated_at": "2026-08-01T21:36:25.028005",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 85,
+  "total_events": 80,
   "events": [
     {
       "date": "2026-07-31",
@@ -437,96 +437,19 @@
       "date": "2026-08-01",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Brest (Fra) vs Guingamp (Fra)",
-      "team_home": "Brest (Fra)",
-      "team_away": "Guingamp (Fra)",
+      "league": null,
+      "title": "Girona vs Arsenal",
+      "team_home": "Girona",
+      "team_away": "Arsenal",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785607200
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Girona (Esp) vs Arsenal (Eng)",
-      "team_home": "Girona (Esp)",
-      "team_away": "Arsenal (Eng)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785607200
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "FC Cajamarca vs Sport Huancayo",
-      "team_home": "FC Cajamarca",
-      "team_away": "Sport Huancayo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785607200
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Maldonado vs Juventud",
-      "team_home": "Maldonado",
-      "team_away": "Juventud",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
           }
         ]
       },
@@ -558,71 +481,19 @@
       "date": "2026-08-01",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Leicester (Eng) vs Genoa (Ita)",
-      "team_home": "Leicester (Eng)",
-      "team_away": "Genoa (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785609000
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Torneo LPF",
-      "title": "Estudiantes Rio Cuarto vs Banfield",
-      "team_home": "Estudiantes Rio Cuarto",
+      "league": null,
+      "title": "Estudiantes Río Cuarto vs Banfield",
+      "team_home": "Estudiantes Río Cuarto",
       "team_away": "Banfield",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "it": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785609000
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Torneo LPF",
-      "title": "Gimnasia Mendoza vs Union de Santa Fe",
-      "team_home": "Gimnasia Mendoza",
-      "team_away": "Union de Santa Fe",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
           }
         ]
       },
