@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T19:51:53.019463",
+  "generated_at": "2026-08-01T20:41:50.425102",
   "sources": [
     {
       "name": "cartelive",
@@ -364,21 +364,15 @@
       "date": "2026-08-01",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Estrela (Por) vs Al Nassr (Sau)",
-      "team_home": "Estrela (Por)",
-      "team_away": "Al Nassr (Sau)",
+      "league": null,
+      "title": "Estrela vs Al Nassr",
+      "team_home": "Estrela",
+      "team_away": "Al Nassr",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -421,31 +415,15 @@
       "date": "2026-08-01",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Amical Club",
-      "title": "Stoke (Eng) vs Valencia (Esp)",
-      "team_home": "Stoke (Eng)",
-      "team_away": "Valencia (Esp)",
+      "league": null,
+      "title": "Stoke City vs Valencia",
+      "team_home": "Stoke City",
+      "team_away": "Valencia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -472,6 +450,39 @@
             "channel": "LIGUE 1 FR 1",
             "url": "https://multi.govoet.cc/?envivo=20",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785607200
+    },
+    {
+      "date": "2026-08-01",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Amical Club",
+      "title": "Girona (Esp) vs Arsenal (Eng)",
+      "team_home": "Girona (Esp)",
+      "team_away": "Arsenal (Eng)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
+          },
+          {
+            "channel": "dazn baloncesto 1",
+            "url": "https://multi.govoet.cc/?envivo=155",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ]
       },
@@ -516,28 +527,6 @@
             "channel": "VTV plus",
             "url": "https://multi.govoet.cc/?envivo=109",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785607200
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Girona vs Arsenal",
-      "team_home": "Girona",
-      "team_away": "Arsenal",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ]
       },
