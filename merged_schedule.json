@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T14:11:03.115974",
+  "generated_at": "2026-08-01T15:17:26.170719",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 92,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-07-31",
@@ -114,42 +114,6 @@
         ]
       },
       "startTimestamp": 1785578400
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Amical Club",
-      "title": "Manchester City (Eng) vs Inter (Ita)",
-      "team_home": "Manchester City (Eng)",
-      "team_away": "Inter (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785583800
     },
     {
       "date": "2026-08-01",
