@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T18:09:15.104671",
+  "generated_at": "2026-08-02T19:31:46.170510",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 85,
+  "total_events": 82,
   "events": [
     {
       "date": "2026-07-31",
@@ -214,21 +214,15 @@
       "date": "2026-08-02",
       "time_utc": "15:30",
       "time_utc1": "17:30",
-      "league": "Premiership",
+      "league": null,
       "title": "Hibernian vs Motherwell",
       "team_home": "Hibernian",
       "team_away": "Motherwell",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -244,57 +238,6 @@
         ]
       },
       "startTimestamp": 1785684600
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Johan Cruyff Shield",
-      "title": "PSV vs AZ Alkmaar",
-      "team_home": "PSV",
-      "team_away": "AZ Alkmaar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785686400
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sporting Cristal vs Juan Pablo II",
-      "team_home": "Sporting Cristal",
-      "team_away": "Juan Pablo II",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785686400
     },
     {
       "date": "2026-08-02",
@@ -358,28 +301,6 @@
         ]
       },
       "startTimestamp": 1785686400
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "D. Concepcion vs U. Catolica",
-      "team_home": "D. Concepcion",
-      "team_away": "U. Catolica",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785688200
     },
     {
       "date": "2026-08-02",
