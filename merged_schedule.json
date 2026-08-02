@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:37:06.358101",
+  "generated_at": "2026-08-02T23:39:30.742712",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 66,
+  "total_events": 61,
   "events": [
     {
       "date": "2026-07-31",
@@ -394,48 +394,6 @@
       "date": "2026-08-02",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Torneo LPF",
-      "title": "Newells Old Boys vs Boca Juniors",
-      "team_home": "Newells Old Boys",
-      "team_away": "Boca Juniors",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785700800
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
       "league": null,
       "title": "Liverpool vs Leeds United",
       "team_home": "Liverpool",
@@ -470,113 +428,32 @@
     },
     {
       "date": "2026-08-02",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Athletics vs Detroit Tigers",
-      "team_home": "Athletics",
-      "team_away": "Detroit Tigers",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
+      "league": null,
+      "title": "Newell's Old Boys vs Boca Juniors",
+      "team_home": "Newell's Old Boys",
+      "team_away": "Boca Juniors",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "nl": [
           {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785701100
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "San Diego Padres vs San Francisco Giants",
-      "team_home": "San Diego Padres",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785701400
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Minnesota Twins",
-      "team_home": "Seattle Mariners",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785701400
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Ecuador Ligapro",
-      "title": "Macara vs Guayaquil City",
-      "team_home": "Macara",
-      "team_away": "Guayaquil City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785702600
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Moquegua vs FBC Melgar",
-      "team_home": "Moquegua",
-      "team_away": "FBC Melgar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785702600
+      "startTimestamp": 1785700800
     },
     {
       "date": "2026-08-02",
