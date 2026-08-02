@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T04:38:15.850232",
+  "generated_at": "2026-08-02T07:16:29.129655",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 58,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-07-31",
@@ -41,126 +41,6 @@
         ]
       },
       "startTimestamp": 1785491700
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Milwaukee Brewers",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785634680
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Detroit Tigers",
-      "team_home": "Athletics",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785634800
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Los Angeles Galaxy vs FC Dallas",
-      "team_home": "Los Angeles Galaxy",
-      "team_away": "FC Dallas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785637800
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "02:45",
-      "time_utc1": "04:45",
-      "league": "MLS",
-      "title": "Portland Timbers vs Seattle Sounders",
-      "team_home": "Portland Timbers",
-      "team_away": "Seattle Sounders",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785638700
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "03:05",
-      "time_utc1": "05:05",
-      "league": "Liga Mx",
-      "title": "Cruz Azul vs Atlante",
-      "team_home": "Cruz Azul",
-      "team_away": "Atlante",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785639900
     },
     {
       "date": "2026-08-02",
