@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:34:39.278486",
+  "generated_at": "2026-08-02T22:37:06.358101",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 69,
+  "total_events": 66,
   "events": [
     {
       "date": "2026-07-31",
@@ -350,21 +350,15 @@
       "date": "2026-08-02",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Ascoli (Ita) vs Lazio (Ita)",
-      "team_home": "Ascoli (Ita)",
-      "team_away": "Lazio (Ita)",
+      "league": null,
+      "title": "Ascoli vs Lazio",
+      "team_home": "Ascoli",
+      "team_away": "Lazio",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -373,28 +367,6 @@
         ]
       },
       "startTimestamp": 1785696300
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "La Serena vs O'Higgins",
-      "team_home": "La Serena",
-      "team_away": "O'Higgins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785697200
     },
     {
       "date": "2026-08-02",
@@ -417,50 +389,6 @@
         ]
       },
       "startTimestamp": 1785697200
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Kansas City Royals",
-      "team_home": "Colorado Rockies",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785697800
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Milwaukee Brewers",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785698100
     },
     {
       "date": "2026-08-02",
