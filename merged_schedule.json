@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T23:39:06.298006",
+  "generated_at": "2026-08-02T01:13:44.577534",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 100,
+  "total_events": 93,
   "events": [
     {
       "date": "2026-07-31",
@@ -41,160 +41,6 @@
         ]
       },
       "startTimestamp": 1785491700
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Torneo LPF",
-      "title": "Belgrano vs Argentinos Jrs",
-      "team_home": "Belgrano",
-      "team_away": "Argentinos Jrs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785618000
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Torneo LPF",
-      "title": "Estudiantes L.P. vs Defensa y Justicia",
-      "team_home": "Estudiantes L.P.",
-      "team_away": "Defensa y Justicia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785618000
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:05",
-      "time_utc1": "23:05",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Alianza vs Deportes Tolima",
-      "team_home": "Alianza",
-      "team_away": "Deportes Tolima",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785618300
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Palestino vs Coquimbo",
-      "team_home": "Palestino",
-      "team_away": "Coquimbo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785619800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Ecuador Ligapro",
-      "title": "U. Catolica vs Tecnico U.",
-      "team_home": "U. Catolica",
-      "team_away": "Tecnico U.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785619800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Penarol vs Cerro Largo",
-      "team_home": "Penarol",
-      "team_away": "Cerro Largo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785619800
-    },
-    {
-      "date": "2026-08-01",
-      "time_utc": "21:45",
-      "time_utc1": "23:45",
-      "league": "Liga de Expansión MX",
-      "title": "Cruz Azul Hidalgo vs Venados",
-      "team_home": "Cruz Azul Hidalgo",
-      "team_away": "Venados",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "LAS latin america sports",
-            "url": "https://multi.govoet.cc/?envivo=74",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785620700
     },
     {
       "date": "2026-08-01",
@@ -582,6 +428,13 @@
         "cartelive"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ],
         "pt": [
           {
             "channel": "PT SPORT 1",
