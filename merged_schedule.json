@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:59:42.491001",
+  "generated_at": "2026-08-02T17:05:58.059375",
   "sources": [
     {
       "name": "cartelive",
@@ -126,28 +126,15 @@
       "date": "2026-08-02",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Feyenoord (Ned) vs Atalanta (Ita)",
-      "team_home": "Feyenoord (Ned)",
-      "team_away": "Atalanta (Ita)",
+      "league": null,
+      "title": "Feyenoord vs Atalanta",
+      "team_home": "Feyenoord",
+      "team_away": "Atalanta",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -161,21 +148,15 @@
       "date": "2026-08-02",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Premiership",
-      "title": "St Johnstone vs Kilmarnock",
-      "team_home": "St Johnstone",
+      "league": null,
+      "title": "St. Johnstone vs Kilmarnock",
+      "team_home": "St. Johnstone",
       "team_away": "Kilmarnock",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -189,21 +170,15 @@
       "date": "2026-08-02",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Burnley (Eng) vs Torino (Ita)",
-      "team_home": "Burnley (Eng)",
-      "team_away": "Torino (Ita)",
+      "league": null,
+      "title": "Burnley vs Torino",
+      "team_home": "Burnley",
+      "team_away": "Torino",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
