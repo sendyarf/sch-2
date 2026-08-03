@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T01:13:57.220573",
+  "generated_at": "2026-08-03T08:22:38.226971",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 58,
+  "total_events": 65,
   "events": [
     {
       "date": "2026-07-31",
@@ -525,27 +525,14 @@
       "date": "2026-08-02",
       "time_utc": "22:15",
       "time_utc1": "00:15",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "River Plate vs Rosario Central",
       "team_home": "River Plate",
       "team_away": "Rosario Central",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          }
-        ],
         "el": [
           {
             "channel": "HD11",
@@ -567,22 +554,14 @@
       "date": "2026-08-02",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": "Coupe Du Bresil",
+      "league": null,
       "title": "Internacional vs Corinthians",
       "team_home": "Internacional",
       "team_away": "Corinthians",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -602,56 +581,16 @@
     },
     {
       "date": "2026-08-02",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "Liga BetPlay Dimayor",
-      "title": "America De Cali vs Chico",
-      "team_home": "America De Cali",
-      "team_away": "Chico",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785710700
-    },
-    {
-      "date": "2026-08-02",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "Liga Mx",
-      "title": "Club America vs Santos Laguna",
-      "team_home": "Club America",
+      "league": null,
+      "title": "América vs Santos Laguna",
+      "team_home": "América",
       "team_away": "Santos Laguna",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -663,91 +602,17 @@
       "startTimestamp": 1785711600
     },
     {
-      "date": "2026-08-02",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "Ecuador Ligapro",
-      "title": "Leones del Norte vs Barcelona SC",
-      "team_home": "Leones del Norte",
-      "team_away": "Barcelona SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785712200
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "23:20",
-      "time_utc1": "01:20",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Boston Red Sox",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785712800
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cienciano vs U. de Deportes",
-      "team_home": "Cienciano",
-      "team_away": "U. de Deportes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785713400
-    },
-    {
       "date": "2026-08-03",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
-      "title": "Lanus vs Instituto",
-      "team_home": "Lanus",
+      "league": null,
+      "title": "Lanús vs Instituto",
+      "team_home": "Lanús",
       "team_away": "Instituto",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD10",
@@ -757,28 +622,6 @@
         ]
       },
       "startTimestamp": 1785717000
-    },
-    {
-      "date": "2026-08-03",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Santa Fe vs Once Caldas",
-      "team_home": "Santa Fe",
-      "team_away": "Once Caldas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785718800
     },
     {
       "date": "2026-08-03",
@@ -804,34 +647,16 @@
     },
     {
       "date": "2026-08-03",
-      "time_utc": "01:10",
-      "time_utc1": "03:10",
-      "league": "Liga Mx",
+      "time_utc": "01:05",
+      "time_utc1": "03:05",
+      "league": null,
       "title": "Toluca vs Necaxa",
       "team_home": "Toluca",
       "team_away": "Necaxa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -840,7 +665,7 @@
           }
         ]
       },
-      "startTimestamp": 1785719400
+      "startTimestamp": 1785719100
     },
     {
       "date": "2026-08-03",
@@ -954,6 +779,28 @@
     },
     {
       "date": "2026-08-03",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Liga MX Femenil",
+      "title": "Atl. San Luis W vs Toluca W",
+      "team_home": "Atl. San Luis W",
+      "team_away": "Toluca W",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN2MX",
+            "url": "https://multi.govoet.cc/?envivo=98",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785772800
+    },
+    {
+      "date": "2026-08-03",
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": null,
@@ -1000,15 +847,21 @@
       "date": "2026-08-03",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": null,
-      "title": "Celtic vs Dundee",
+      "league": "Premiership",
+      "title": "Celtic vs Dundee FC",
       "team_home": "Celtic",
-      "team_away": "Dundee",
+      "team_away": "Dundee FC",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "UK SKY MAIN",
+            "url": "https://multi.govoet.cc/?envivo=127",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1017,9 +870,21 @@
         ],
         "pt": [
           {
+            "channel": "PT SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=144",
+            "source": "cartelive"
+          },
+          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "GR SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=148",
+            "source": "cartelive"
           }
         ]
       },
@@ -1073,15 +938,21 @@
       "date": "2026-08-03",
       "time_utc": "19:45",
       "time_utc1": "21:45",
-      "league": null,
-      "title": "Sarmiento vs Independiente Rivadavia",
-      "team_home": "Sarmiento",
-      "team_away": "Independiente Rivadavia",
+      "league": "Torneo LPF",
+      "title": "Sarmiento Junin vs Ind. Rivadavia",
+      "team_home": "Sarmiento Junin",
+      "team_away": "Ind. Rivadavia",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -1117,15 +988,73 @@
       "date": "2026-08-03",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": null,
-      "title": "Vélez Sarsfield vs Independiente",
-      "team_home": "Vélez Sarsfield",
-      "team_away": "Independiente",
+      "league": "Liga AUF Uruguaya",
+      "title": "Defensor Sp. vs CA Cerro",
+      "team_home": "Defensor Sp.",
+      "team_away": "CA Cerro",
       "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "VTV plus",
+            "url": "https://multi.govoet.cc/?envivo=109",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785794400
+    },
+    {
+      "date": "2026-08-03",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "Torneo LPF",
+      "title": "Platense vs Talleres Cordoba",
+      "team_home": "Platense",
+      "team_away": "Talleres Cordoba",
+      "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ],
+        "pl": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785794400
+    },
+    {
+      "date": "2026-08-03",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "Torneo LPF",
+      "title": "Velez Sarsfield vs Independiente",
+      "team_home": "Velez Sarsfield",
+      "team_away": "Independiente",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -1137,25 +1066,91 @@
     },
     {
       "date": "2026-08-03",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": null,
-      "title": "Platense vs Talleres Córdoba",
-      "team_home": "Platense",
-      "team_away": "Talleres Córdoba",
+      "time_utc": "22:40",
+      "time_utc1": "00:40",
+      "league": "MLB",
+      "title": "Philadelphia Phillies vs Washington Nationals",
+      "team_home": "Philadelphia Phillies",
+      "team_away": "Washington Nationals",
       "sources": [
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
-        "pl": [
+        "en": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
+            "channel": "EXTRA SPORT26",
+            "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1785794400
+      "startTimestamp": 1785796800
+    },
+    {
+      "date": "2026-08-03",
+      "time_utc": "23:05",
+      "time_utc1": "01:05",
+      "league": "MLB",
+      "title": "New York Yankees vs St.Louis Cardinals",
+      "team_home": "New York Yankees",
+      "team_away": "St.Louis Cardinals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT27",
+            "url": "https://multi.govoet.cc/?envivo=181",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785798300
+    },
+    {
+      "date": "2026-08-03",
+      "time_utc": "23:40",
+      "time_utc1": "01:40",
+      "league": "MLB",
+      "title": "Milwaukee Brewers vs Pittsburgh Pirates",
+      "team_home": "Milwaukee Brewers",
+      "team_away": "Pittsburgh Pirates",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT28",
+            "url": "https://multi.govoet.cc/?envivo=182",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785800400
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "Ecuador Ligapro",
+      "title": "LDU Quito vs Delfin",
+      "team_home": "LDU Quito",
+      "team_away": "Delfin",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Zapping sports",
+            "url": "https://multi.govoet.cc/?envivo=86",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785801600
     },
     {
       "date": "2026-08-04",
@@ -1181,16 +1176,90 @@
     },
     {
       "date": "2026-08-04",
+      "time_utc": "00:05",
+      "time_utc1": "02:05",
+      "league": "MLB",
+      "title": "Chicago Cubs vs Los Angeles Dodgers",
+      "team_home": "Chicago Cubs",
+      "team_away": "Los Angeles Dodgers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785801900
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "00:05",
+      "time_utc1": "02:05",
+      "league": "MLB",
+      "title": "Texas Rangers vs San Francisco Giants",
+      "team_home": "Texas Rangers",
+      "team_away": "San Francisco Giants",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785801900
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "00:10",
+      "time_utc1": "02:10",
+      "league": "MLB",
+      "title": "Houston Astros vs Toronto Blue Jays",
+      "team_home": "Houston Astros",
+      "team_away": "Toronto Blue Jays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785802200
+    },
+    {
+      "date": "2026-08-04",
       "time_utc": "00:15",
       "time_utc1": "02:15",
-      "league": null,
-      "title": "Central Córdoba SdE vs San Lorenzo",
-      "team_home": "Central Córdoba SdE",
+      "league": "Torneo LPF",
+      "title": "Central Cordoba vs San Lorenzo",
+      "team_home": "Central Cordoba",
       "team_away": "San Lorenzo",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ],
         "pl": [
           {
             "channel": "HD10",
@@ -1205,15 +1274,21 @@
       "date": "2026-08-04",
       "time_utc": "00:15",
       "time_utc1": "02:15",
-      "league": null,
-      "title": "Huracán vs Atlético Tucumán",
-      "team_home": "Huracán",
-      "team_away": "Atlético Tucumán",
+      "league": "Torneo LPF",
+      "title": "Huracan vs Atl. Tucuman",
+      "team_home": "Huracan",
+      "team_away": "Atl. Tucuman",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -1222,6 +1297,72 @@
         ]
       },
       "startTimestamp": 1785802500
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "00:40",
+      "time_utc1": "02:40",
+      "league": "MLB",
+      "title": "Colorado Rockies vs Tampa Bay Rays",
+      "team_home": "Colorado Rockies",
+      "team_away": "Tampa Bay Rays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785804000
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Liga BetPlay Dimayor",
+      "title": "Bucaramanga vs Cucuta",
+      "team_home": "Bucaramanga",
+      "team_away": "Cucuta",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "WINsport+",
+            "url": "https://multi.govoet.cc/?envivo=81",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785805200
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "01:40",
+      "time_utc1": "03:40",
+      "league": "MLB",
+      "title": "Arizona Diamondbacks vs San Diego Padres",
+      "team_home": "Arizona Diamondbacks",
+      "team_away": "San Diego Padres",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785807600
     },
     {
       "date": "2026-08-08",
