@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T18:44:39.926886",
+  "generated_at": "2026-08-03T20:17:59.997242",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 29,
+  "total_events": 28,
   "events": [
     {
       "date": "2026-08-03",
@@ -137,28 +137,6 @@
         ]
       },
       "startTimestamp": 1785771900
-    },
-    {
-      "date": "2026-08-03",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga MX Femenil",
-      "title": "Atl. San Luis W vs Toluca W",
-      "team_home": "Atl. San Luis W",
-      "team_away": "Toluca W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785772800
     },
     {
       "date": "2026-08-03",
