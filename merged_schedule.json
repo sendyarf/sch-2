@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T20:17:59.997242",
+  "generated_at": "2026-08-03T21:37:02.566616",
   "sources": [
     {
       "name": "cartelive",
@@ -186,21 +186,15 @@
       "date": "2026-08-03",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Premiership",
-      "title": "Celtic vs Dundee FC",
+      "league": null,
+      "title": "Celtic vs Dundee",
       "team_home": "Celtic",
-      "team_away": "Dundee FC",
+      "team_away": "Dundee",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -209,21 +203,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
           }
         ]
       },
