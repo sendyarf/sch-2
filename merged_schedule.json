@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T23:39:30.742712",
+  "generated_at": "2026-08-03T01:13:57.220573",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 61,
+  "total_events": 58,
   "events": [
     {
       "date": "2026-07-31",
@@ -457,28 +457,6 @@
     },
     {
       "date": "2026-08-02",
-      "time_utc": "20:45",
-      "time_utc1": "22:45",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Jaguares de Cordoba vs Atl. Nacional",
-      "team_home": "Jaguares de Cordoba",
-      "team_away": "Atl. Nacional",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785703500
-    },
-    {
-      "date": "2026-08-02",
       "time_utc": "21:00",
       "time_utc1": "23:00",
       "league": null,
@@ -520,50 +498,6 @@
         ]
       },
       "startTimestamp": 1785704400
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. De Chile vs Huachipato",
-      "team_home": "U. De Chile",
-      "team_away": "Huachipato",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785706200
-    },
-    {
-      "date": "2026-08-02",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Nacional vs Progreso",
-      "team_home": "Nacional",
-      "team_away": "Progreso",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785706200
     },
     {
       "date": "2026-08-02",
