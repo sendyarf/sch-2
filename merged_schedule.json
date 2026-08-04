@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T21:33:41.133611",
+  "generated_at": "2026-08-04T22:42:49.559528",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 65,
+  "total_events": 64,
   "events": [
     {
       "date": "2026-08-04",
@@ -383,21 +383,15 @@
       "date": "2026-08-04",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Ipswich (Eng) vs Le Havre (Fra)",
-      "team_home": "Ipswich (Eng)",
-      "team_away": "Le Havre (Fra)",
+      "league": null,
+      "title": "Ipswich Town vs Le Havre",
+      "team_home": "Ipswich Town",
+      "team_away": "Le Havre",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -406,28 +400,6 @@
         ]
       },
       "startTimestamp": 1785869100
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Europa",
-      "title": "Larne (Nir) vs Iberia 1999 (Geo)",
-      "team_home": "Larne (Nir)",
-      "team_away": "Iberia 1999 (Geo)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785870000
     },
     {
       "date": "2026-08-04",
