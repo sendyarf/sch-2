@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T12:23:56.462830",
+  "generated_at": "2026-08-04T14:57:57.272708",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 72,
+  "total_events": 73,
   "events": [
     {
       "date": "2026-08-04",
@@ -46,21 +46,15 @@
       "date": "2026-08-04",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Amical Club",
-      "title": "Jeju SK (Kor) vs Bayern Munich (Ger)",
-      "team_home": "Jeju SK (Kor)",
-      "team_away": "Bayern Munich (Ger)",
+      "league": null,
+      "title": "Jeju United vs Bayern Munich",
+      "team_home": "Jeju United",
+      "team_away": "Bayern Munich",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -258,6 +252,28 @@
       "date": "2026-08-04",
       "time_utc": "17:00",
       "time_utc1": "19:00",
+      "league": "Amical Club",
+      "title": "Huesca (Esp) vs UD Logrones (Esp)",
+      "team_home": "Huesca (Esp)",
+      "team_away": "UD Logrones (Esp)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1785862800
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
       "league": null,
       "title": "Maccabi Haifa vs Ironi Tiberias",
       "team_home": "Maccabi Haifa",
@@ -376,6 +392,34 @@
       "date": "2026-08-04",
       "time_utc": "18:00",
       "time_utc1": "20:00",
+      "league": "Amical Club",
+      "title": "Newport (Wal) vs AS Roma (Ita)",
+      "team_home": "Newport (Wal)",
+      "team_away": "AS Roma (Ita)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "IT FEED",
+            "url": "https://multi.govoet.cc/?envivo=140",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785866400
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
       "league": "Ligue Des Champions",
       "title": "Din. Zagreb (Cro) vs Kauno Zalgiris (Ltu)",
       "team_home": "Din. Zagreb (Cro)",
@@ -463,28 +507,6 @@
             "channel": "canal+",
             "url": "https://multi.govoet.cc/?envivo=11",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785866400
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Newport County vs Roma",
-      "team_home": "Newport County",
-      "team_away": "Roma",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ]
       },
