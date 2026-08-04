@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T16:50:51.698305",
+  "generated_at": "2026-08-04T20:07:08.943657",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 73,
+  "total_events": 69,
   "events": [
     {
       "date": "2026-08-04",
@@ -156,66 +156,14 @@
       "date": "2026-08-04",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Strasbourg (Fra) vs Elversberg (Ger)",
-      "team_home": "Strasbourg (Fra)",
-      "team_away": "Elversberg (Ger)",
+      "league": null,
+      "title": "Ararat-Armenia vs Celje",
+      "team_home": "Ararat-Armenia",
+      "team_away": "Celje",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785859200
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Auda (Lat) vs Dinamo City (Alb)",
-      "team_home": "Auda (Lat)",
-      "team_away": "Dinamo City (Alb)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785859200
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions",
-      "title": "Ararat-Armenia (Arm) vs Celje (Slo)",
-      "team_home": "Ararat-Armenia (Arm)",
-      "team_away": "Celje (Slo)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD11",
@@ -225,50 +173,6 @@
         ]
       },
       "startTimestamp": 1785859200
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions",
-      "title": "Mjallby (Swe) vs Slovan Bratislava (Svk)",
-      "team_home": "Mjallby (Swe)",
-      "team_away": "Slovan Bratislava (Svk)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785859200
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Huesca (Esp) vs UD Logrones (Esp)",
-      "team_home": "Huesca (Esp)",
-      "team_away": "UD Logrones (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785862800
     },
     {
       "date": "2026-08-04",
