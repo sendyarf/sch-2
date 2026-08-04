@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T20:07:08.943657",
+  "generated_at": "2026-08-04T21:33:41.133611",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 69,
+  "total_events": 65,
   "events": [
     {
       "date": "2026-08-04",
@@ -200,44 +200,14 @@
       "date": "2026-08-04",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Ligue Des Champions",
-      "title": "H. Beer Sheva (Isr) vs Crvena zvezda (Srb)",
-      "team_home": "H. Beer Sheva (Isr)",
-      "team_away": "Crvena zvezda (Srb)",
+      "league": null,
+      "title": "Levski Sofia vs Kairat",
+      "team_home": "Levski Sofia",
+      "team_away": "Kairat",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785864600
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Ligue Des Champions",
-      "title": "Levski Sofia (Bul) vs Kairat Almaty (Kaz)",
-      "team_home": "Levski Sofia (Bul)",
-      "team_away": "Kairat Almaty (Kaz)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ],
         "bg": [
           {
             "channel": "HD9",
@@ -296,121 +266,19 @@
       "date": "2026-08-04",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Newport (Wal) vs AS Roma (Ita)",
-      "team_home": "Newport (Wal)",
-      "team_away": "AS Roma (Ita)",
+      "league": null,
+      "title": "Newport County vs Roma",
+      "team_home": "Newport County",
+      "team_away": "Roma",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785866400
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Din. Zagreb (Cro) vs Kauno Zalgiris (Ltu)",
-      "team_home": "Din. Zagreb (Cro)",
-      "team_away": "Kauno Zalgiris (Ltu)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785866400
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Olympiacos Piraeus (Gre) vs Nijmegen (Ned)",
-      "team_home": "Olympiacos Piraeus (Gre)",
-      "team_away": "Nijmegen (Ned)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785866400
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Royale Union SG (Bel) vs Bodo/Glimt (Nor)",
-      "team_home": "Royale Union SG (Bel)",
-      "team_away": "Bodo/Glimt (Nor)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785866400
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Sparta Prague (Cze) vs Lyon (Fra)",
-      "team_home": "Sparta Prague (Cze)",
-      "team_away": "Lyon (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
           }
         ]
       },
@@ -432,6 +300,28 @@
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785866400
+    },
+    {
+      "date": "2026-08-04",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Dinamo Zagreb vs Kauno Žalgiris",
+      "team_home": "Dinamo Zagreb",
+      "team_away": "Kauno Žalgiris",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ]
