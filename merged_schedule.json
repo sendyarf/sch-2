@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T17:26:32.455632",
+  "generated_at": "2026-08-05T18:59:52.527361",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 71,
+  "total_events": 70,
   "events": [
     {
       "date": "2026-08-04",
@@ -201,28 +201,6 @@
         ]
       },
       "startTimestamp": 1785942000
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Amical Club",
-      "title": "Marseille (Fra) vs Al-Shahaniya (Qat)",
-      "team_home": "Marseille (Fra)",
-      "team_away": "Al-Shahaniya (Qat)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785943800
     },
     {
       "date": "2026-08-05",
