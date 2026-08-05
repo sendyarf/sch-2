@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T13:50:30.142198",
+  "generated_at": "2026-08-05T15:56:57.099857",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 72,
+  "total_events": 71,
   "events": [
     {
       "date": "2026-08-04",
@@ -68,77 +68,6 @@
       "date": "2026-08-05",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Amical Club",
-      "title": "AC Milan (Ita) vs Inter (Ita)",
-      "team_home": "AC Milan (Ita)",
-      "team_away": "Inter (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785927600
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Amical Club",
-      "title": "K-League Stars (Kor) vs Manchester City (Eng)",
-      "team_home": "K-League Stars (Kor)",
-      "team_away": "Manchester City (Eng)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785927600
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
       "league": null,
       "title": "Milan vs Internazionale",
       "team_home": "Milan",
@@ -166,52 +95,63 @@
     },
     {
       "date": "2026-08-05",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Amical Club",
-      "title": "Chelsea (Eng) vs Juventus (Ita)",
-      "team_home": "Chelsea (Eng)",
-      "team_away": "Juventus (Ita)",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": null,
+      "title": "K-league Stars vs Manchester City",
+      "team_home": "K-league Stars",
+      "team_away": "Manchester City",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "en": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1785927600
+    },
+    {
+      "date": "2026-08-05",
+      "time_utc": "11:30",
+      "time_utc1": "13:30",
+      "league": null,
+      "title": "Chelsea vs Juventus",
+      "team_home": "Chelsea",
+      "team_away": "Juventus",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ]
