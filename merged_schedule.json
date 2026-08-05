@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T20:34:45.488758",
+  "generated_at": "2026-08-05T21:54:09.132546",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 68,
+  "total_events": 64,
   "events": [
     {
       "date": "2026-08-04",
@@ -250,43 +250,15 @@
       "date": "2026-08-05",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Amical Club",
-      "title": "Sassuolo (Ita) vs Celta Vigo (Esp)",
-      "team_home": "Sassuolo (Ita)",
-      "team_away": "Celta Vigo (Esp)",
+      "league": null,
+      "title": "Fenerbahçe vs Sturm Graz",
+      "team_home": "Fenerbahçe",
+      "team_away": "Sturm Graz",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785952800
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Fenerbahce (Tur) vs Sturm Graz (Aut)",
-      "team_home": "Fenerbahce (Tur)",
-      "team_away": "Sturm Graz (Aut)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -305,46 +277,16 @@
     },
     {
       "date": "2026-08-05",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Toronto Blue Jays",
-      "team_home": "Houston Astros",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785953400
-    },
-    {
-      "date": "2026-08-05",
       "time_utc": "18:15",
       "time_utc1": "20:15",
-      "league": "Ligue Europa",
-      "title": "Ferencvaros (Hun) vs Gornik Zabrze (Pol)",
-      "team_home": "Ferencvaros (Hun)",
-      "team_away": "Gornik Zabrze (Pol)",
+      "league": null,
+      "title": "Ferencváros vs Górnik Zabrze",
+      "team_home": "Ferencváros",
+      "team_away": "Górnik Zabrze",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ],
         "it": [
           {
             "channel": "HD8",
@@ -357,92 +299,17 @@
     },
     {
       "date": "2026-08-05",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Los Angeles Dodgers",
-      "team_home": "Chicago Cubs",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785954000
-    },
-    {
-      "date": "2026-08-05",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Arsenal (Eng) vs Betis (Esp)",
-      "team_home": "Arsenal (Eng)",
-      "team_away": "Betis (Esp)",
+      "league": null,
+      "title": "Panathinaikos vs CSKA 1948",
+      "team_home": "Panathinaikos",
+      "team_away": "CSKA 1948",
       "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1785954600
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Panathinaikos (Gre) vs CSKA 1948 Sofia (Bul)",
-      "team_home": "Panathinaikos (Gre)",
-      "team_away": "CSKA 1948 Sofia (Bul)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -454,25 +321,39 @@
     },
     {
       "date": "2026-08-05",
-      "time_utc": "18:35",
-      "time_utc1": "20:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs San Francisco Giants",
-      "team_home": "Texas Rangers",
-      "team_away": "San Francisco Giants",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Arsenal vs Real Betis",
+      "team_home": "Arsenal",
+      "team_away": "Real Betis",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1785954900
+      "startTimestamp": 1785954600
     },
     {
       "date": "2026-08-05",
