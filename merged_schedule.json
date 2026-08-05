@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T18:59:52.527361",
+  "generated_at": "2026-08-05T20:34:45.488758",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 70,
+  "total_events": 68,
   "events": [
     {
       "date": "2026-08-04",
@@ -204,78 +204,21 @@
     },
     {
       "date": "2026-08-05",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Lazio (Ita) vs Ostiamare (Ita)",
-      "team_home": "Lazio (Ita)",
-      "team_away": "Ostiamare (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785945600
-    },
-    {
-      "date": "2026-08-05",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Amical Club",
-      "title": "Napoli (Ita) vs Osasuna (Esp)",
-      "team_home": "Napoli (Ita)",
-      "team_away": "Osasuna (Esp)",
+      "league": null,
+      "title": "Napoli vs Osasuna",
+      "team_home": "Napoli",
+      "team_away": "Osasuna",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785947400
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Ligue Des Champions",
-      "title": "Aarhus (Den) vs Sabah Baku (Aze)",
-      "team_home": "Aarhus (Den)",
-      "team_away": "Sabah Baku (Aze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
           }
         ]
       },
@@ -305,25 +248,25 @@
     },
     {
       "date": "2026-08-05",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Brann (Nor) vs Apollon (Cyp)",
-      "team_home": "Brann (Nor)",
-      "team_away": "Apollon (Cyp)",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": "Amical Club",
+      "title": "Sassuolo (Ita) vs Celta Vigo (Esp)",
+      "team_home": "Sassuolo (Ita)",
+      "team_away": "Celta Vigo (Esp)",
       "sources": [
         "cartelive"
       ],
       "streams_by_language": {
-        "en": [
+        "es": [
           {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
+            "channel": "ES m.laliga",
+            "url": "https://multi.govoet.cc/?envivo=49",
             "source": "cartelive"
           }
         ]
       },
-      "startTimestamp": 1785949200
+      "startTimestamp": 1785952800
     },
     {
       "date": "2026-08-05",
