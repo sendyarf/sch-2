@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T21:54:09.132546",
+  "generated_at": "2026-08-05T22:51:10.054323",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-08-04",
@@ -359,40 +359,6 @@
       "date": "2026-08-05",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Amical Club",
-      "title": "Mallorca (Esp) vs PSG (Fra)",
-      "team_home": "Mallorca (Esp)",
-      "team_away": "PSG (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785956400
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
       "league": null,
       "title": "Mallorca vs Paris Saint-Germain",
       "team_home": "Mallorca",
@@ -410,28 +376,6 @@
         ]
       },
       "startTimestamp": 1785956400
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Tampa Bay Rays",
-      "team_home": "Colorado Rockies",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785957000
     },
     {
       "date": "2026-08-05",
@@ -775,8 +719,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
+            "channel": "EXTRA SPORT7 uefa events only",
+            "url": "https://multi.govoet.cc/?envivo=161",
             "source": "cartelive"
           }
         ]
@@ -928,8 +872,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
+            "channel": "EXTRA SPORT8",
+            "url": "https://multi.govoet.cc/?envivo=162",
             "source": "cartelive"
           }
         ]
@@ -950,8 +894,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
             "source": "cartelive"
           }
         ]
@@ -1090,13 +1034,42 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
+            "channel": "EXTRA SPORT10",
+            "url": "https://multi.govoet.cc/?envivo=164",
             "source": "cartelive"
           }
         ]
       },
       "startTimestamp": 1785983400
+    },
+    {
+      "date": "2026-08-06",
+      "time_utc": "10:45",
+      "time_utc1": "12:45",
+      "league": "MotoGP",
+      "title": "MotoGP: Grand Prix de Grande-Bretagne Essais libres 1",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786013100
     },
     {
       "date": "2026-08-06",
