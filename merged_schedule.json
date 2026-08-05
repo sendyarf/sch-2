@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T23:42:32.053560",
+  "generated_at": "2026-08-05T01:04:37.381881",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-08-04",
@@ -400,33 +400,6 @@
         ]
       },
       "startTimestamp": 1785869100
-    },
-    {
-      "date": "2026-08-04",
-      "time_utc": "21:10",
-      "time_utc1": "23:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Llaneros vs Fortaleza",
-      "team_home": "Llaneros",
-      "team_away": "Fortaleza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785877800
     },
     {
       "date": "2026-08-04",
