@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T23:53:23.237864",
+  "generated_at": "2026-08-06T01:55:19.960923",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-08-04",
@@ -381,22 +381,14 @@
       "date": "2026-08-05",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Boca Juniors vs Estudiantes L.P.",
+      "league": null,
+      "title": "Boca Juniors vs Estudiantes",
       "team_home": "Boca Juniors",
-      "team_away": "Estudiantes L.P.",
+      "team_away": "Estudiantes",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD10",
@@ -479,94 +471,6 @@
         ]
       },
       "startTimestamp": 1785969000
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "22:35",
-      "time_utc1": "00:35",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Los Angeles Angels",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785969300
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs Athletics",
-      "team_home": "Cincinnati Reds",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785969600
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs New York Mets",
-      "team_home": "Cleveland Guardians",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785969600
-    },
-    {
-      "date": "2026-08-05",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Washington Nationals",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1785969600
     },
     {
       "date": "2026-08-05",
