@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:53:11.363643",
+  "generated_at": "2026-08-07T22:27:11.599757",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 158,
+  "total_events": 157,
   "events": [
     {
       "date": "2026-08-06",
@@ -359,33 +359,15 @@
       "date": "2026-08-07",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Efl Cup",
+      "league": null,
       "title": "Middlesbrough vs Wrexham",
       "team_home": "Middlesbrough",
       "team_away": "Wrexham",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -408,42 +390,6 @@
         ]
       },
       "startTimestamp": 1786129200
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "Liga Portugal",
-      "title": "Estoril vs Famalicao",
-      "team_home": "Estoril",
-      "team_away": "Famalicao",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786130100
     },
     {
       "date": "2026-08-07",
