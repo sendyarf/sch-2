@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T22:27:11.599757",
+  "generated_at": "2026-08-07T23:05:15.431482",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 157,
+  "total_events": 156,
   "events": [
     {
       "date": "2026-08-06",
@@ -412,28 +412,6 @@
         ]
       },
       "startTimestamp": 1786130100
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "20:15",
-      "time_utc1": "22:15",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Comerciantes Unidos vs Cusco",
-      "team_home": "Comerciantes Unidos",
-      "team_away": "Cusco",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786133700
     },
     {
       "date": "2026-08-07",
@@ -1043,8 +1021,8 @@
       "streams_by_language": {
         "es": [
           {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
+            "channel": "LAS latin america sports",
+            "url": "https://multi.govoet.cc/?envivo=74",
             "source": "cartelive"
           }
         ]
