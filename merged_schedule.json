@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T20:20:28.245121",
+  "generated_at": "2026-08-07T21:07:02.025203",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 171,
+  "total_events": 170,
   "events": [
     {
       "date": "2026-08-06",
@@ -235,47 +235,19 @@
       "date": "2026-08-07",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Cambuur vs Excelsior",
       "team_home": "Cambuur",
       "team_away": "Excelsior",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
           {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786125600
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Huancayo vs Los Chankas",
-      "team_home": "Sport Huancayo",
-      "team_away": "Los Chankas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
           }
         ]
       },
