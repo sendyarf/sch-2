@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:07:02.025203",
+  "generated_at": "2026-08-07T21:53:11.363643",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 170,
+  "total_events": 158,
   "events": [
     {
       "date": "2026-08-06",
@@ -257,55 +257,6 @@
       "date": "2026-08-07",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Bochum vs Hertha Berlin",
-      "team_home": "Bochum",
-      "team_away": "Hertha Berlin",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786127400
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
       "league": null,
       "title": "Wisła Kraków vs Wisła Płock",
       "team_home": "Wisła Kraków",
@@ -348,301 +299,25 @@
     },
     {
       "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Monza (Ita) vs Padova (Ita)",
-      "team_home": "Monza (Ita)",
-      "team_away": "Padova (Ita)",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Bochum vs Hertha BSC",
+      "team_home": "Bochum",
+      "team_away": "Hertha BSC",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "de": [
           {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Wolves vs Port Vale",
-      "team_home": "Wolves",
-      "team_away": "Port Vale",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "National: Multiplex Ligue 3",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Aubagne vs Thionville",
-      "team_home": "Aubagne",
-      "team_away": "Thionville",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 11",
-            "url": "https://multi.govoet.cc/?envivo=41",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Bastia vs Le Puy-en-Velay",
-      "team_home": "Bastia",
-      "team_away": "Le Puy-en-Velay",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 12",
-            "url": "https://multi.govoet.cc/?envivo=42",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Bourg en Bresse vs Villefranche",
-      "team_home": "Bourg en Bresse",
-      "team_away": "Villefranche",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 13",
-            "url": "https://multi.govoet.cc/?envivo=43",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Caen vs Valenciennes",
-      "team_home": "Caen",
-      "team_away": "Valenciennes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 14",
-            "url": "https://multi.govoet.cc/?envivo=44",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Concarneau vs Orleans",
-      "team_home": "Concarneau",
-      "team_away": "Orleans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Fleury-Merogis vs Amiens",
-      "team_home": "Fleury-Merogis",
-      "team_away": "Amiens",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "La Roche vs Versailles",
-      "team_home": "La Roche",
-      "team_away": "Versailles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 17",
-            "url": "https://multi.govoet.cc/?envivo=47",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Paris 13 Atl. vs Quevilly Rouen",
-      "team_home": "Paris 13 Atl.",
-      "team_away": "Quevilly Rouen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 18",
-            "url": "https://multi.govoet.cc/?envivo=48",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Rouen vs Cannes",
-      "team_home": "Rouen",
-      "team_away": "Cannes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Club Brugge KV vs Kortrijk",
-      "team_home": "Club Brugge KV",
-      "team_away": "Kortrijk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786128300
+      "startTimestamp": 1786127400
     },
     {
       "date": "2026-08-07",
@@ -3094,6 +2769,28 @@
         ]
       },
       "startTimestamp": 1786213800
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": "Ligue 2",
+      "title": "Ligue 2: multiplex Ligue 2",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 2",
+            "url": "https://multi.govoet.cc/?envivo=2",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786214700
     },
     {
       "date": "2026-08-08",
