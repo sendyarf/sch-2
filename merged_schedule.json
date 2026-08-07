@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T00:21:42.197808",
+  "generated_at": "2026-08-07T03:24:39.735105",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 49,
   "events": [
     {
       "date": "2026-08-06",
@@ -383,44 +383,14 @@
       "date": "2026-08-06",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tlaxcala vs Alebrijes Oaxaca",
-      "team_home": "Tlaxcala",
-      "team_away": "Alebrijes Oaxaca",
+      "league": null,
+      "title": "Unión Santa Fe vs Lanús",
+      "team_home": "Unión Santa Fe",
+      "team_away": "Lanús",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786053600
-    },
-    {
-      "date": "2026-08-06",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Union de Santa Fe vs Lanus",
-      "team_home": "Union de Santa Fe",
-      "team_away": "Lanus",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "pl": [
           {
             "channel": "HD11",
@@ -430,58 +400,6 @@
         ]
       },
       "startTimestamp": 1786053600
-    },
-    {
-      "date": "2026-08-06",
-      "time_utc": "22:05",
-      "time_utc1": "00:05",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Washington Nationals",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786053900
-    },
-    {
-      "date": "2026-08-06",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Coupe Du Bresil",
-      "title": "Corinthians vs Internacional",
-      "team_home": "Corinthians",
-      "team_away": "Internacional",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786057200
     },
     {
       "date": "2026-08-06",
@@ -499,6 +417,28 @@
           {
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786057200
+    },
+    {
+      "date": "2026-08-06",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": null,
+      "title": "Corinthians vs Internacional",
+      "team_home": "Corinthians",
+      "team_away": "Internacional",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
           }
         ]
@@ -550,112 +490,18 @@
       "startTimestamp": 1786057500
     },
     {
-      "date": "2026-08-06",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Chicago White Sox",
-      "team_home": "Boston Red Sox",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786057800
-    },
-    {
-      "date": "2026-08-06",
-      "time_utc": "23:15",
-      "time_utc1": "01:15",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Miami Marlins",
-      "team_home": "Atlanta Braves",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786058100
-    },
-    {
-      "date": "2026-08-06",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Leagues Cup",
-      "title": "New York City vs Santos Laguna",
-      "team_home": "New York City",
-      "team_away": "Santos Laguna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786059000
-    },
-    {
-      "date": "2026-08-06",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Minnesota Twins",
-      "team_home": "Kansas City Royals",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786059600
-    },
-    {
       "date": "2026-08-07",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Leagues Cup",
+      "league": null,
       "title": "Cruz Azul vs Philadelphia Union",
       "team_home": "Cruz Azul",
       "team_away": "Philadelphia Union",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
