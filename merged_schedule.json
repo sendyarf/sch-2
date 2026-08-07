@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T18:29:01.599766",
+  "generated_at": "2026-08-07T19:30:14.731174",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 104,
+  "total_events": 103,
   "events": [
     {
       "date": "2026-08-06",
@@ -191,60 +191,6 @@
       "date": "2026-08-07",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Amical Club",
-      "title": "Girona (Esp) vs Sabadell (Esp)",
-      "team_home": "Girona (Esp)",
-      "team_away": "Sabadell (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786120200
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Amical Club",
-      "title": "Huesca (Esp) vs Andorra (And)",
-      "team_home": "Huesca (Esp)",
-      "team_away": "Andorra (And)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786120200
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
       "league": "Tennis",
       "title": "ATP World Tour 1000: Montreal 2026",
       "team_home": null,
@@ -262,6 +208,33 @@
         ]
       },
       "startTimestamp": 1786120200
+    },
+    {
+      "date": "2026-08-07",
+      "time_utc": "17:00",
+      "time_utc1": "19:00",
+      "league": "Amical Club",
+      "title": "Albacete (Esp) vs Eldense (Esp)",
+      "team_home": "Albacete (Esp)",
+      "team_away": "Eldense (Esp)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT8",
+            "url": "https://multi.govoet.cc/?envivo=162",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786122000
     },
     {
       "date": "2026-08-07",
