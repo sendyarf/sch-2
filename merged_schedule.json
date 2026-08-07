@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T12:26:34.614829",
+  "generated_at": "2026-08-07T13:47:57.053441",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 105,
+  "total_events": 104,
   "events": [
     {
       "date": "2026-08-06",
@@ -77,35 +77,6 @@
         ]
       },
       "startTimestamp": 1786093200
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "10:45",
-      "time_utc1": "12:45",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de Grande-Bretagne Essais libres 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786099500
     },
     {
       "date": "2026-08-07",
