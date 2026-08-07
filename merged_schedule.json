@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T14:46:59.754644",
+  "generated_at": "2026-08-07T15:48:40.866280",
   "sources": [
     {
       "name": "cartelive",
@@ -82,36 +82,25 @@
       "date": "2026-08-07",
       "time_utc": "12:00",
       "time_utc1": "14:00",
-      "league": "Amical Club",
-      "title": "Bayern Munich (Ger) vs Aston Villa (Eng)",
-      "team_home": "Bayern Munich (Ger)",
-      "team_away": "Aston Villa (Eng)",
+      "league": null,
+      "title": "Bayern Munich vs Aston Villa",
+      "team_home": "Bayern Munich",
+      "team_away": "Aston Villa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
