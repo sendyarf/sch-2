@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T16:24:11.764810",
+  "generated_at": "2026-08-08T17:01:01.886453",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 147,
+  "total_events": 140,
   "events": [
     {
       "date": "2026-08-06",
@@ -162,22 +162,14 @@
       "date": "2026-08-08",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Bayer Leverkusen (Ger) vs Sevilla (Esp)",
-      "team_home": "Bayer Leverkusen (Ger)",
-      "team_away": "Sevilla (Esp)",
+      "league": null,
+      "title": "Bayer Leverkusen vs Sevilla",
+      "team_home": "Bayer Leverkusen",
+      "team_away": "Sevilla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "C+Live 17",
-            "url": "https://multi.govoet.cc/?envivo=47",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -190,50 +182,17 @@
     },
     {
       "date": "2026-08-08",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "Amical Club",
-      "title": "Freiburg (Ger) vs Strasbourg (Fra)",
-      "team_home": "Freiburg (Ger)",
-      "team_away": "Strasbourg (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786195800
-    },
-    {
-      "date": "2026-08-08",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Brighton (Eng) vs AS Roma (Ita)",
-      "team_home": "Brighton (Eng)",
-      "team_away": "AS Roma (Ita)",
+      "league": null,
+      "title": "Brighton & Hove Albion vs Roma",
+      "team_home": "Brighton & Hove Albion",
+      "team_away": "Roma",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -254,224 +213,15 @@
       "date": "2026-08-08",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Lens (Fra) vs Sunderland (Eng)",
-      "team_home": "Lens (Fra)",
-      "team_away": "Sunderland (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Burnley vs Notts Co",
-      "team_home": "Burnley",
-      "team_away": "Notts Co",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Derby vs Lincoln",
-      "team_home": "Derby",
-      "team_away": "Lincoln",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Leicester vs Northampton",
-      "team_home": "Leicester",
-      "team_away": "Northampton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Norwich vs MK Dons",
-      "team_home": "Norwich",
-      "team_away": "MK Dons",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Sheffield Wed vs Bolton",
-      "team_home": "Sheffield Wed",
-      "team_away": "Bolton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Swansea vs Birmingham",
-      "team_home": "Swansea",
-      "team_away": "Birmingham",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "Watford vs Crawley",
-      "team_home": "Watford",
-      "team_away": "Crawley",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Efl Cup",
-      "title": "West Ham vs Portsmouth",
-      "team_home": "West Ham",
+      "league": null,
+      "title": "West Ham United vs Portsmouth",
+      "team_home": "West Ham United",
       "team_away": "Portsmouth",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -485,19 +235,19 @@
       "date": "2026-08-08",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Progreso",
-      "team_home": "Central Esp.",
-      "team_away": "Progreso",
+      "league": null,
+      "title": "Swansea City vs Birmingham City",
+      "team_home": "Swansea City",
+      "team_away": "Birmingham City",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "pt": [
           {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -546,6 +296,62 @@
         ]
       },
       "startTimestamp": 1786199400
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Amical Club",
+      "title": "Mainz (Ger) vs Paris FC (Fra)",
+      "team_home": "Mainz (Ger)",
+      "team_away": "Paris FC (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786201200
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Amical Club",
+      "title": "PSG (Fra) vs Manchester Utd (Eng)",
+      "team_home": "PSG (Fra)",
+      "team_away": "Manchester Utd (Eng)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "beIN SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=1",
+            "source": "cartelive"
+          },
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786201200
     },
     {
       "date": "2026-08-08",
