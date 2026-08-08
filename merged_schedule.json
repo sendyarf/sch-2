@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:25:40.579034",
+  "generated_at": "2026-08-08T19:51:36.443747",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 182,
+  "total_events": 177,
   "events": [
     {
       "date": "2026-08-06",
@@ -371,169 +371,6 @@
     },
     {
       "date": "2026-08-08",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Amical Club",
-      "title": "Brest (Fra) vs Venezia (Ita)",
-      "team_home": "Brest (Fra)",
-      "team_away": "Venezia (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786206600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Amical Club",
-      "title": "Coventry (Eng) vs Espanyol (Esp)",
-      "team_home": "Coventry (Eng)",
-      "team_away": "Espanyol (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786206600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Efl Cup",
-      "title": "Cheltenham vs Charlton",
-      "team_home": "Cheltenham",
-      "team_away": "Charlton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786206600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Efl Cup",
-      "title": "Colchester vs Southampton",
-      "team_home": "Colchester",
-      "team_away": "Southampton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786206600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Efl Cup",
-      "title": "Rotherham vs West Brom",
-      "team_home": "Rotherham",
-      "team_away": "West Brom",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786206600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Eredivisie",
-      "title": "G.A. Eagles vs Willem II",
-      "team_home": "G.A. Eagles",
-      "team_away": "Willem II",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786207500
-    },
-    {
-      "date": "2026-08-08",
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": "Amical Club",
@@ -852,6 +689,68 @@
       "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": "Amical Club",
+      "title": "Betis (Esp) vs Bournemouth (Eng)",
+      "team_home": "Betis (Esp)",
+      "team_away": "Bournemouth (Eng)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "dazn baloncesto 1",
+            "url": "https://multi.govoet.cc/?envivo=155",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES DAZN liga",
+            "url": "https://multi.govoet.cc/?envivo=51",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786213800
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": "Amical Club",
+      "title": "Cagliari (Ita) vs Nice (Fra)",
+      "team_home": "Cagliari (Ita)",
+      "team_away": "Nice (Fra)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          }
+        ],
+        "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786213800
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": "Amical Club",
       "title": "Gimnastic (Esp) vs Girona (Esp)",
       "team_home": "Gimnastic (Esp)",
       "team_away": "Girona (Esp)",
@@ -921,28 +820,6 @@
             "channel": "C+Live 18",
             "url": "https://multi.govoet.cc/?envivo=48",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786213800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "Cagliari vs Nice",
-      "team_home": "Cagliari",
-      "team_away": "Nice",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
           }
         ]
       },
@@ -1238,41 +1115,6 @@
       "date": "2026-08-08",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Amical Club",
-      "title": "Barcelona (Esp) vs Nottingham (Eng)",
-      "team_home": "Barcelona (Esp)",
-      "team_away": "Nottingham (Eng)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786215600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
       "league": "Campeonato Itaú Chile",
       "title": "Huachipato vs Everton",
       "team_home": "Huachipato",
@@ -1401,6 +1243,35 @@
             "channel": "ES M+ Deportes",
             "url": "https://multi.govoet.cc/?envivo=62",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786215600
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Barcelona vs Nottingham Forest",
+      "team_home": "Barcelona",
+      "team_away": "Nottingham Forest",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
           }
         ]
       },
