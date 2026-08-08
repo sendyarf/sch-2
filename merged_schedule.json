@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T01:04:58.306562",
+  "generated_at": "2026-08-08T02:59:22.932990",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 155,
+  "total_events": 149,
   "events": [
     {
       "date": "2026-08-06",
@@ -417,28 +417,6 @@
       "date": "2026-08-07",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": "Torneo LPF",
-      "title": "Rosario Central vs Aldosivi",
-      "team_home": "Rosario Central",
-      "team_away": "Aldosivi",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786141800
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "22:30",
-      "time_utc1": "00:30",
       "league": null,
       "title": "Operário-PR vs São Bernardo FC",
       "team_home": "Operário-PR",
@@ -456,87 +434,6 @@
         ]
       },
       "startTimestamp": 1786141800
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Toronto Blue Jays",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786142400
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs New York Mets",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786142400
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Washington Nationals vs Cincinnati Reds",
-      "team_home": "Washington Nationals",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786142700
     },
     {
       "date": "2026-08-07",
@@ -586,172 +483,6 @@
         ]
       },
       "startTimestamp": 1786143600
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "New York Yankees vs Atlanta Braves",
-      "team_home": "New York Yankees",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786143900
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Athletics",
-      "team_home": "Boston Red Sox",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786144200
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:10",
-      "time_utc1": "01:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs Los Angeles Angels",
-      "team_home": "Miami Marlins",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786144200
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Leagues Cup",
-      "title": "Charlotte vs Atlas",
-      "team_home": "Charlotte",
-      "team_away": "Atlas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786145400
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Leagues Cup",
-      "title": "Columbus Crew vs Pachuca",
-      "team_home": "Columbus Crew",
-      "team_away": "Pachuca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786145400
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Cleveland Guardians",
-      "team_home": "Chicago White Sox",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786146000
-    },
-    {
-      "date": "2026-08-07",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Minnesota Twins",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786146000
     },
     {
       "date": "2026-08-08",
@@ -3544,6 +3275,28 @@
     },
     {
       "date": "2026-08-08",
+      "time_utc": "22:05",
+      "time_utc1": "00:05",
+      "league": "MLB",
+      "title": "Philadelphia Phillies vs Toronto Blue Jays",
+      "team_home": "Philadelphia Phillies",
+      "team_away": "Toronto Blue Jays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786226700
+    },
+    {
+      "date": "2026-08-08",
       "time_utc": "22:15",
       "time_utc1": "00:15",
       "league": "Torneo LPF",
@@ -3574,6 +3327,50 @@
     },
     {
       "date": "2026-08-08",
+      "time_utc": "22:40",
+      "time_utc1": "00:40",
+      "league": "MLB",
+      "title": "Pittsburgh Pirates vs New York Mets",
+      "team_home": "Pittsburgh Pirates",
+      "team_away": "New York Mets",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786228800
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "22:45",
+      "time_utc1": "00:45",
+      "league": "MLB",
+      "title": "Washington Nationals vs Cincinnati Reds",
+      "team_home": "Washington Nationals",
+      "team_away": "Cincinnati Reds",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786229100
+    },
+    {
+      "date": "2026-08-08",
       "time_utc": "23:00",
       "time_utc1": "01:00",
       "league": "Liga de Expansión MX",
@@ -3593,6 +3390,50 @@
         ]
       },
       "startTimestamp": 1786230000
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
+      "title": "Milwaukee Brewers vs Minnesota Twins",
+      "team_home": "Milwaukee Brewers",
+      "team_away": "Minnesota Twins",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786230600
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Chicago White Sox vs Cleveland Guardians",
+      "team_home": "Chicago White Sox",
+      "team_away": "Cleveland Guardians",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT35",
+            "url": "https://multi.govoet.cc/?envivo=188",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786230900
     },
     {
       "date": "2026-08-08",
