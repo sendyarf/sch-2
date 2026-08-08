@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T23:20:45.393324",
+  "generated_at": "2026-08-08T23:52:23.601656",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 151,
+  "total_events": 149,
   "events": [
     {
       "date": "2026-08-06",
@@ -806,50 +806,6 @@
         ]
       },
       "startTimestamp": 1786219200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Juan Pablo II vs Grau",
-      "team_home": "Juan Pablo II",
-      "team_away": "Grau",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786221000
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "MLS",
-      "title": "New England Revolution vs Houston Dynamo",
-      "team_home": "New England Revolution",
-      "team_away": "Houston Dynamo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786221000
     },
     {
       "date": "2026-08-08",
