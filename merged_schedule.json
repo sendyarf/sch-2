@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T19:51:36.443747",
+  "generated_at": "2026-08-08T20:20:12.756062",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 177,
+  "total_events": 176,
   "events": [
     {
       "date": "2026-08-06",
@@ -373,70 +373,25 @@
       "date": "2026-08-08",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "APOEL (Cyp) vs Kifisia (Gre)",
-      "team_home": "APOEL (Cyp)",
-      "team_away": "Kifisia (Gre)",
+      "league": null,
+      "title": "Ferencváros vs Real Madrid",
+      "team_home": "Ferencváros",
+      "team_away": "Real Madrid",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786208400
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Ferencvaros (Hun) vs Real Madrid (Esp)",
-      "team_home": "Ferencvaros (Hun)",
-      "team_away": "Real Madrid (Esp)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
