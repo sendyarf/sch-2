@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T18:56:27.345281",
+  "generated_at": "2026-08-08T19:25:40.579034",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 184,
+  "total_events": 182,
   "events": [
     {
       "date": "2026-08-06",
@@ -368,50 +368,6 @@
         ]
       },
       "startTimestamp": 1786201200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Auxerre (Fra) vs Troyes (Fra)",
-      "team_home": "Auxerre (Fra)",
-      "team_away": "Troyes (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786204800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Pro League",
-      "title": "St. Liege vs Cercle Brugge KSV",
-      "team_home": "St. Liege",
-      "team_away": "Cercle Brugge KSV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786205700
     },
     {
       "date": "2026-08-08",
