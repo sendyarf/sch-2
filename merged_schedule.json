@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T04:12:53.794426",
+  "generated_at": "2026-08-08T05:09:07.222805",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 144,
+  "total_events": 142,
   "events": [
     {
       "date": "2026-08-06",
@@ -532,104 +532,6 @@
         ]
       },
       "startTimestamp": 1786149000
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "U. de Deportes vs Sporting Cristal",
-      "team_home": "U. de Deportes",
-      "team_away": "Sporting Cristal",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786152600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786153200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "San Diego Padres vs Houston Astros",
-      "team_home": "San Diego Padres",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786153200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Tampa Bay Rays",
-      "team_home": "Seattle Mariners",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786153500
     },
     {
       "date": "2026-08-08",
@@ -3495,6 +3397,28 @@
     },
     {
       "date": "2026-08-09",
+      "time_utc": "00:10",
+      "time_utc1": "02:10",
+      "league": "MLB",
+      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
+      "team_home": "Arizona Diamondbacks",
+      "team_away": "Los Angeles Dodgers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT40",
+            "url": "https://multi.govoet.cc/?envivo=193",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786234200
+    },
+    {
+      "date": "2026-08-09",
       "time_utc": "00:30",
       "time_utc1": "02:30",
       "league": "Torneo LPF",
@@ -3678,6 +3602,28 @@
         ]
       },
       "startTimestamp": 1786239000
+    },
+    {
+      "date": "2026-08-09",
+      "time_utc": "01:50",
+      "time_utc1": "03:50",
+      "league": "MLB",
+      "title": "Seattle Mariners vs Tampa Bay Rays",
+      "team_home": "Seattle Mariners",
+      "team_away": "Tampa Bay Rays",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786240200
     },
     {
       "date": "2026-08-09",
