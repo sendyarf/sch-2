@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T17:01:01.886453",
+  "generated_at": "2026-08-08T17:44:14.995570",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 140,
+  "total_events": 139,
   "events": [
     {
       "date": "2026-08-06",
@@ -252,28 +252,6 @@
         ]
       },
       "startTimestamp": 1786197600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Eredivisie",
-      "title": "Nijmegen vs Telstar",
-      "team_home": "Nijmegen",
-      "team_away": "Telstar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786199400
     },
     {
       "date": "2026-08-08",
