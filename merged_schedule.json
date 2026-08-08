@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:09:07.222805",
+  "generated_at": "2026-08-08T05:54:57.788754",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 142,
+  "total_events": 141,
   "events": [
     {
       "date": "2026-08-06",
@@ -535,46 +535,16 @@
     },
     {
       "date": "2026-08-08",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Detroit Tigers",
-      "team_home": "San Francisco Giants",
-      "team_away": "Detroit Tigers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786155300
-    },
-    {
-      "date": "2026-08-08",
       "time_utc": "02:30",
       "time_utc1": "04:30",
-      "league": "Leagues Cup",
-      "title": "Vancouver Whitecaps vs Juarez",
+      "league": null,
+      "title": "Vancouver Whitecaps vs Juárez",
       "team_home": "Vancouver Whitecaps",
-      "team_away": "Juarez",
+      "team_away": "Juárez",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
