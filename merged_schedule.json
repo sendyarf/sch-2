@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T12:00:02.052198",
+  "generated_at": "2026-08-08T13:01:08.342977",
   "sources": [
     {
       "name": "cartelive",
@@ -46,29 +46,36 @@
       "date": "2026-08-08",
       "time_utc": "10:00",
       "time_utc1": "12:00",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de Grande-Bretagne Essais libres 2",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Chaves vs Académica",
+      "team_home": "Chaves",
+      "team_away": "Académica",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ],
+        ]
+      },
+      "startTimestamp": 1786183200
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
+      "league": "MotoGP",
+      "title": "Great Britain Qualifying",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "pt": [
           {
             "channel": "SPORTTV4",
@@ -82,26 +89,11 @@
             "url": "https://multi.govoet.cc/?ss=br6",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1786183200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Chaves vs Académica",
-      "team_home": "Chaves",
-      "team_away": "Académica",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
+        ],
+        "en": [
           {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
@@ -136,6 +128,35 @@
         ]
       },
       "startTimestamp": 1786183500
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "10:45",
+      "time_utc1": "12:45",
+      "league": "MotoGP",
+      "title": "MotoGP: Grand Prix de Grande-Bretagne Essais qualificatifs 1 et 2",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport360",
+            "url": "https://multi.govoet.cc/?envivo=14",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES M+ Deportes6",
+            "url": "https://multi.govoet.cc/?envivo=67",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786185900
     },
     {
       "date": "2026-08-08",
@@ -3173,42 +3194,6 @@
     },
     {
       "date": "2026-08-09",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Moto2",
-      "title": "GP of Great Britain",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786266000
-    },
-    {
-      "date": "2026-08-09",
       "time_utc": "10:00",
       "time_utc1": "12:00",
       "league": null,
@@ -3293,42 +3278,6 @@
         ]
       },
       "startTimestamp": 1786273200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "11:15",
-      "time_utc1": "13:15",
-      "league": "MotoGP",
-      "title": "GP of Great Britain",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786274100
     },
     {
       "date": "2026-08-09",
@@ -3490,6 +3439,42 @@
         ]
       },
       "startTimestamp": 1786280400
+    },
+    {
+      "date": "2026-08-09",
+      "time_utc": "13:15",
+      "time_utc1": "15:15",
+      "league": "Moto3",
+      "title": "GP of Great Britain",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786281300
     },
     {
       "date": "2026-08-09",
