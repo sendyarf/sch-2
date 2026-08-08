@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T15:54:39.415542",
+  "generated_at": "2026-08-08T16:24:11.764810",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 149,
+  "total_events": 147,
   "events": [
     {
       "date": "2026-08-06",
@@ -160,89 +160,6 @@
     },
     {
       "date": "2026-08-08",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Eintracht Frankfurt (Ger) vs Hull (Eng)",
-      "team_home": "Eintracht Frankfurt (Ger)",
-      "team_away": "Hull (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786194000
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Hamburger SV (Ger) vs Lille (Fra)",
-      "team_home": "Hamburger SV (Ger)",
-      "team_away": "Lille (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786194000
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Efl Cup",
-      "title": "QPR vs Millwall",
-      "team_home": "QPR",
-      "team_away": "Millwall",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786194000
-    },
-    {
-      "date": "2026-08-08",
       "time_utc": "13:30",
       "time_utc1": "15:30",
       "league": "Amical Club",
@@ -266,6 +183,33 @@
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786195800
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "13:30",
+      "time_utc1": "15:30",
+      "league": "Amical Club",
+      "title": "Freiburg (Ger) vs Strasbourg (Fra)",
+      "team_home": "Freiburg (Ger)",
+      "team_away": "Strasbourg (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "EXTRA SPORT7 uefa events only",
+            "url": "https://multi.govoet.cc/?envivo=161",
+            "source": "cartelive"
+          },
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
           }
         ]
       },
