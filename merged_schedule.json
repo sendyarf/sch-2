@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T20:20:12.756062",
+  "generated_at": "2026-08-08T20:55:52.141098",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 176,
+  "total_events": 174,
   "events": [
     {
       "date": "2026-08-06",
@@ -470,50 +470,6 @@
         ]
       },
       "startTimestamp": 1786210200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "Torneo LPF",
-      "title": "Atl. Tucuman vs Sarmiento Junin",
-      "team_home": "Atl. Tucuman",
-      "team_away": "Sarmiento Junin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786211100
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "Torneo LPF",
-      "title": "Dep. Riestra vs Estudiantes L.P.",
-      "team_home": "Dep. Riestra",
-      "team_away": "Estudiantes L.P.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786211100
     },
     {
       "date": "2026-08-08",
