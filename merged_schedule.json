@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T22:55:03.334816",
+  "generated_at": "2026-08-08T23:20:45.393324",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 151,
   "events": [
     {
       "date": "2026-08-06",
@@ -753,21 +753,15 @@
       "date": "2026-08-08",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Amical Club",
-      "title": "Udinese (Ita) vs Barcelona (Esp)",
-      "team_home": "Udinese (Ita)",
-      "team_away": "Barcelona (Esp)",
+      "league": null,
+      "title": "Udinese vs Barcelona",
+      "team_home": "Udinese",
+      "team_away": "Barcelona",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -788,21 +782,15 @@
       "date": "2026-08-08",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "Tigre vs River Plate",
       "team_home": "Tigre",
       "team_away": "River Plate",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -818,50 +806,6 @@
         ]
       },
       "startTimestamp": 1786219200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Athletics",
-      "team_home": "Boston Red Sox",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786219800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Miami Marlins vs Los Angeles Angels",
-      "team_home": "Miami Marlins",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786219800
     },
     {
       "date": "2026-08-08",
