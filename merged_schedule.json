@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T21:24:15.388443",
+  "generated_at": "2026-08-08T21:53:50.491875",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 172,
+  "total_events": 157,
   "events": [
     {
       "date": "2026-08-06",
@@ -541,55 +541,15 @@
       "date": "2026-08-08",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Betis (Esp) vs Bournemouth (Eng)",
-      "team_home": "Betis (Esp)",
-      "team_away": "Bournemouth (Eng)",
+      "league": null,
+      "title": "Cagliari vs Nice",
+      "team_home": "Cagliari",
+      "team_away": "Nice",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786213800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Cagliari (Ita) vs Nice (Fra)",
-      "team_home": "Cagliari (Ita)",
-      "team_away": "Nice (Fra)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -603,344 +563,23 @@
       "date": "2026-08-08",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Amical Club",
-      "title": "Gimnastic (Esp) vs Girona (Esp)",
-      "team_home": "Gimnastic (Esp)",
-      "team_away": "Girona (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786213800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Bundesliga 2",
+      "league": null,
       "title": "Wolfsburg vs Kaiserslautern",
       "team_home": "Wolfsburg",
       "team_away": "Kaiserslautern",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1786213800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super League Suisse",
-      "title": "Servette vs Grasshoppers",
-      "team_home": "Servette",
-      "team_away": "Grasshoppers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 18",
-            "url": "https://multi.govoet.cc/?envivo=48",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786213800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Ligue 2: multiplex Ligue 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Boulogne vs Nancy",
-      "team_home": "Boulogne",
-      "team_away": "Nancy",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Clermont vs Reims",
-      "team_home": "Clermont",
-      "team_away": "Reims",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Dunkerque vs Grenoble",
-      "team_home": "Dunkerque",
-      "team_away": "Grenoble",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Metz vs Guingamp",
-      "team_home": "Metz",
-      "team_away": "Guingamp",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Montpellier vs Dijon",
-      "team_home": "Montpellier",
-      "team_away": "Dijon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Nantes vs Red Star",
-      "team_home": "Nantes",
-      "team_away": "Red Star",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Pau FC vs Annecy",
-      "team_home": "Pau FC",
-      "team_away": "Annecy",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Rodez vs Laval",
-      "team_home": "Rodez",
-      "team_away": "Laval",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Sochaux vs St Etienne",
-      "team_home": "Sochaux",
-      "team_away": "St Etienne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "St. Truiden vs Lommel SK",
-      "team_home": "St. Truiden",
-      "team_away": "Lommel SK",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Westerlo vs Royale Union SG",
-      "team_home": "Westerlo",
-      "team_away": "Royale Union SG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786214700
     },
     {
       "date": "2026-08-08",
@@ -963,6 +602,41 @@
         ]
       },
       "startTimestamp": 1786214700
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": "Amical Club",
+      "title": "Barcelona (Esp) vs Nottingham (Eng)",
+      "team_home": "Barcelona (Esp)",
+      "team_away": "Nottingham (Eng)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES DAZN liga",
+            "url": "https://multi.govoet.cc/?envivo=51",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786215600
     },
     {
       "date": "2026-08-08",
@@ -1096,35 +770,6 @@
             "channel": "ES M+ Deportes",
             "url": "https://multi.govoet.cc/?envivo=62",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786215600
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Barcelona vs Nottingham Forest",
-      "team_home": "Barcelona",
-      "team_away": "Nottingham Forest",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
           }
         ]
       },
