@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:01:08.342977",
+  "generated_at": "2026-08-08T13:54:54.536676",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 157,
+  "total_events": 155,
   "events": [
     {
       "date": "2026-08-06",
@@ -99,64 +99,6 @@
         ]
       },
       "startTimestamp": 1786183200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "10:05",
-      "time_utc1": "12:05",
-      "league": "Tournée Automne",
-      "title": "Japan vs Australia",
-      "team_home": "Japan",
-      "team_away": "Australia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786183500
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "10:45",
-      "time_utc1": "12:45",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de Grande-Bretagne Essais qualificatifs 1 et 2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786185900
     },
     {
       "date": "2026-08-08",
