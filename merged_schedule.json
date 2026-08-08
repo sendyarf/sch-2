@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T02:59:22.932990",
+  "generated_at": "2026-08-08T04:12:53.794426",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 149,
+  "total_events": 144,
   "events": [
     {
       "date": "2026-08-06",
@@ -488,44 +488,14 @@
       "date": "2026-08-08",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "LDU Quito vs Ind. del Valle",
-      "team_home": "LDU Quito",
-      "team_away": "Ind. del Valle",
+      "league": null,
+      "title": "Cincinnati vs Pumas UNAM",
+      "team_home": "Cincinnati",
+      "team_away": "Pumas UNAM",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786147200
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Leagues Cup",
-      "title": "FC Cincinnati vs UNAM Pumas",
-      "team_home": "FC Cincinnati",
-      "team_away": "UNAM Pumas",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -543,104 +513,17 @@
     },
     {
       "date": "2026-08-08",
-      "time_utc": "00:10",
-      "time_utc1": "02:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Chicago Cubs",
-      "team_home": "Kansas City Royals",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786147800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Colorado Rockies",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786148100
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "MLB",
-      "title": "Texas Rangers vs Baltimore Orioles",
-      "team_home": "Texas Rangers",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786148100
-    },
-    {
-      "date": "2026-08-08",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. Catolica vs Cobresal",
-      "team_home": "U. Catolica",
+      "league": null,
+      "title": "Universidad Católica vs Cobresal",
+      "team_home": "Universidad Católica",
       "team_away": "Cobresal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -649,94 +532,6 @@
         ]
       },
       "startTimestamp": 1786149000
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "00:45",
-      "time_utc1": "02:45",
-      "league": "Torneo LPF",
-      "title": "Ind. Rivadavia vs Estudiantes Rio Cuarto",
-      "team_home": "Ind. Rivadavia",
-      "team_away": "Estudiantes Rio Cuarto",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786149900
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Leagues Cup",
-      "title": "Tigres UANL vs Minnesota United",
-      "team_home": "Tigres UANL",
-      "team_away": "Minnesota United",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786150800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Alacranes de Durango vs Piratas",
-      "team_home": "Alacranes de Durango",
-      "team_away": "Piratas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786150800
-    },
-    {
-      "date": "2026-08-08",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tepatitlan de Morelos vs Atletico La Paz",
-      "team_home": "Tepatitlan de Morelos",
-      "team_away": "Atletico La Paz",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "LAS latin america sports",
-            "url": "https://multi.govoet.cc/?envivo=74",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786150800
     },
     {
       "date": "2026-08-08",
@@ -3396,6 +3191,28 @@
       "time_utc": "23:10",
       "time_utc1": "01:10",
       "league": "MLB",
+      "title": "Kansas City Royals vs Chicago Cubs",
+      "team_home": "Kansas City Royals",
+      "team_away": "Chicago Cubs",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT33",
+            "url": "https://multi.govoet.cc/?envivo=186",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786230600
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "23:10",
+      "time_utc1": "01:10",
+      "league": "MLB",
       "title": "Milwaukee Brewers vs Minnesota Twins",
       "team_home": "Milwaukee Brewers",
       "team_away": "Minnesota Twins",
@@ -3473,6 +3290,50 @@
           {
             "channel": "EXTRA SPORT37",
             "url": "https://multi.govoet.cc/?envivo=190",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786230900
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "St.Louis Cardinals vs Colorado Rockies",
+      "team_home": "St.Louis Cardinals",
+      "team_away": "Colorado Rockies",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT38",
+            "url": "https://multi.govoet.cc/?envivo=191",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786230900
+    },
+    {
+      "date": "2026-08-08",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Texas Rangers vs Baltimore Orioles",
+      "team_home": "Texas Rangers",
+      "team_away": "Baltimore Orioles",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
             "source": "cartelive"
           }
         ]
