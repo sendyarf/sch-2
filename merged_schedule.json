@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T11:00:44.878988",
+  "generated_at": "2026-08-09T11:42:47.470143",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 87,
+  "total_events": 86,
   "events": [
     {
       "date": "2026-08-06",
@@ -41,35 +41,6 @@
         ]
       },
       "startTimestamp": 1786020900
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "08:40",
-      "time_utc1": "10:40",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix de Grande-Bretagne Warm up",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786264800
     },
     {
       "date": "2026-08-09",
