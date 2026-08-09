@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T22:22:02.484068",
+  "generated_at": "2026-08-09T22:57:32.793317",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 84,
+  "total_events": 82,
   "events": [
     {
       "date": "2026-08-06",
@@ -710,78 +710,15 @@
       "date": "2026-08-09",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Leagues Cup",
-      "title": "Seattle Sounders vs Queretaro",
-      "team_home": "Seattle Sounders",
-      "team_away": "Queretaro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786303800
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Benfica vs Academico Viseu",
-      "team_home": "Benfica",
-      "team_away": "Academico Viseu",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          },
-          {
-            "channel": "BTV",
-            "url": "https://multi.govoet.cc/?ss=btv",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786303800
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Gil Vicente vs Rio Ave",
       "team_home": "Gil Vicente",
       "team_away": "Rio Ave",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -795,26 +732,19 @@
       "date": "2026-08-09",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Moreirense vs Braga",
-      "team_home": "Moreirense",
-      "team_away": "Braga",
+      "league": null,
+      "title": "Benfica vs Academico Viseu",
+      "team_home": "Benfica",
+      "team_away": "Academico Viseu",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
+            "channel": "BTV",
+            "url": "https://multi.govoet.cc/?ss=btv",
+            "source": "sportsonline"
           }
         ]
       },
