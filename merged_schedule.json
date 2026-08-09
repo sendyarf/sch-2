@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T17:56:20.139257",
+  "generated_at": "2026-08-09T18:34:33.385433",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 78,
+  "total_events": 77,
   "events": [
     {
       "date": "2026-08-06",
@@ -483,49 +483,15 @@
       "date": "2026-08-09",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Efl Cup",
-      "title": "Mansfield vs Sheffield Utd",
-      "team_home": "Mansfield",
-      "team_away": "Sheffield Utd",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786287600
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Rangers vs Hibernian",
       "team_home": "Rangers",
       "team_away": "Hibernian",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SPFL Rangers",
-            "url": "https://multi.govoet.cc/?envivo=136",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -537,25 +503,25 @@
     },
     {
       "date": "2026-08-09",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Amical Club",
-      "title": "Marseille (Fra) vs Ath Bilbao (Esp)",
-      "team_home": "Marseille (Fra)",
-      "team_away": "Ath Bilbao (Esp)",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
+      "title": "Mansfield Town vs Sheffield United",
+      "team_home": "Mansfield Town",
+      "team_away": "Sheffield United",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1786289400
+      "startTimestamp": 1786287600
     },
     {
       "date": "2026-08-09",
