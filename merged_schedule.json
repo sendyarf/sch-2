@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T16:53:05.485977",
+  "generated_at": "2026-08-09T17:23:57.472173",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 81,
+  "total_events": 78,
   "events": [
     {
       "date": "2026-08-06",
@@ -390,72 +390,6 @@
         ]
       },
       "startTimestamp": 1786282200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs CA Cerro",
-      "team_home": "Danubio",
-      "team_away": "CA Cerro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786284000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Charleroi vs Leuven",
-      "team_home": "Charleroi",
-      "team_away": "Leuven",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786284000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Waregem vs Genk",
-      "team_home": "Waregem",
-      "team_away": "Genk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786284000
     },
     {
       "date": "2026-08-09",
