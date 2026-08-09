@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T13:58:52.616301",
+  "generated_at": "2026-08-09T14:36:56.711589",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 86,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-08-06",
@@ -133,26 +133,15 @@
       "date": "2026-08-09",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Amical Club",
-      "title": "Manchester City (Eng) vs Atl. Madrid (Esp)",
-      "team_home": "Manchester City (Eng)",
-      "team_away": "Atl. Madrid (Esp)",
+      "league": null,
+      "title": "Manchester City vs Atlético Madrid",
+      "team_home": "Manchester City",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -216,117 +205,14 @@
       "date": "2026-08-09",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786275000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Cottbus vs Hannover",
-      "team_home": "Cottbus",
-      "team_away": "Hannover",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786275000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Nurnberg vs SG Dynamo Dresden",
-      "team_home": "Nurnberg",
-      "team_away": "SG Dynamo Dresden",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN3",
-            "url": "https://multi.govoet.cc/?ss=eleven3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786275000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "St. Pauli vs Greuther Furth",
+      "league": null,
+      "title": "St. Pauli vs Greuther Fürth",
       "team_home": "St. Pauli",
-      "team_away": "Greuther Furth",
+      "team_away": "Greuther Fürth",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN2",
@@ -341,19 +227,19 @@
       "date": "2026-08-09",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Gent vs KV Mechelen",
-      "team_home": "Gent",
-      "team_away": "KV Mechelen",
+      "league": null,
+      "title": "Nürnberg vs Dynamo Dresden",
+      "team_home": "Nürnberg",
+      "team_away": "Dynamo Dresden",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "pt": [
           {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
           }
         ]
       },
