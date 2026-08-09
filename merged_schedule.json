@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T15:05:17.838232",
+  "generated_at": "2026-08-09T15:44:28.348239",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 82,
+  "total_events": 81,
   "events": [
     {
       "date": "2026-08-06",
@@ -293,55 +293,20 @@
       "date": "2026-08-09",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Groningen vs Utrecht",
-      "team_home": "Groningen",
-      "team_away": "Utrecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786278600
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Zwolle vs Ajax",
-      "team_home": "Zwolle",
+      "league": null,
+      "title": "PEC Zwolle vs Ajax",
+      "team_home": "PEC Zwolle",
       "team_away": "Ajax",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1786278600
@@ -350,21 +315,15 @@
       "date": "2026-08-09",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Premiership",
+      "league": null,
       "title": "Kilmarnock vs Celtic",
       "team_home": "Kilmarnock",
       "team_away": "Celtic",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
