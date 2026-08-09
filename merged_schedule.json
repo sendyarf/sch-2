@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T03:06:43.689826",
+  "generated_at": "2026-08-09T04:34:27.265959",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 133,
+  "total_events": 128,
   "events": [
     {
       "date": "2026-08-06",
@@ -997,45 +997,17 @@
     },
     {
       "date": "2026-08-09",
-      "time_utc": "00:10",
-      "time_utc1": "02:10",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Los Angeles Dodgers",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786234200
-    },
-    {
-      "date": "2026-08-09",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "Independiente vs Platense",
       "team_home": "Independiente",
       "team_away": "Platense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -1049,22 +1021,14 @@
       "date": "2026-08-09",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "Instituto vs Gimnasia Mendoza",
       "team_home": "Instituto",
       "team_away": "Gimnasia Mendoza",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ],
         "it": [
           {
             "channel": "HD8",
@@ -1079,32 +1043,14 @@
       "date": "2026-08-09",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Leagues Cup",
-      "title": "Guadalajara Chivas vs FC Dallas",
-      "team_home": "Guadalajara Chivas",
-      "team_away": "FC Dallas",
+      "league": null,
+      "title": "Guadalajara vs Dallas",
+      "team_home": "Guadalajara",
+      "team_away": "Dallas",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -1114,94 +1060,6 @@
         ]
       },
       "startTimestamp": 1786237200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Boys vs Alianza Lima",
-      "team_home": "Sport Boys",
-      "team_away": "Alianza Lima",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786237200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Atl. Morelia vs Cancun",
-      "team_home": "Atl. Morelia",
-      "team_away": "Cancun",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "LAS latin america sports",
-            "url": "https://multi.govoet.cc/?envivo=74",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786237200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Jaiba Brava vs Cruz Azul Hidalgo",
-      "team_home": "Jaiba Brava",
-      "team_away": "Cruz Azul Hidalgo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786237200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "01:30",
-      "time_utc1": "03:30",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Dep. Pasto vs Dep. Cali",
-      "team_home": "Dep. Pasto",
-      "team_away": "Dep. Cali",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786239000
     },
     {
       "date": "2026-08-09",
