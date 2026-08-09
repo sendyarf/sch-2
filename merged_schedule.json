@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T04:34:27.265959",
+  "generated_at": "2026-08-09T05:33:19.783945",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 128,
+  "total_events": 126,
   "events": [
     {
       "date": "2026-08-06",
@@ -1060,50 +1060,6 @@
         ]
       },
       "startTimestamp": 1786237200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "01:50",
-      "time_utc1": "03:50",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Tampa Bay Rays",
-      "team_home": "Seattle Mariners",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786240200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Leagues Cup",
-      "title": "Real Salt Lake vs Atlante",
-      "team_home": "Real Salt Lake",
-      "team_away": "Atlante",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786240800
     },
     {
       "date": "2026-08-09",
