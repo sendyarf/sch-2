@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T21:00:47.295051",
+  "generated_at": "2026-08-09T21:45:38.337416",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 90,
+  "total_events": 85,
   "events": [
     {
       "date": "2026-08-06",
@@ -620,133 +620,17 @@
     },
     {
       "date": "2026-08-09",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Cleveland Guardians",
-      "team_home": "Chicago White Sox",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786299000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Chicago Cubs",
-      "team_home": "Kansas City Royals",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786299000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Minnesota Twins",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786299000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Colorado Rockies",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT36",
-            "url": "https://multi.govoet.cc/?envivo=189",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786299300
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "18:35",
-      "time_utc1": "20:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs Baltimore Orioles",
-      "team_home": "Texas Rangers",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786300500
-    },
-    {
-      "date": "2026-08-09",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Amical Club",
-      "title": "Frosinone (Ita) vs Lazio (Ita)",
-      "team_home": "Frosinone (Ita)",
-      "team_away": "Lazio (Ita)",
+      "league": null,
+      "title": "Frosinone vs Lazio",
+      "team_home": "Frosinone",
+      "team_away": "Lazio",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
