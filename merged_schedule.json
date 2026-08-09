@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T19:18:36.326606",
+  "generated_at": "2026-08-09T19:54:12.264537",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 76,
+  "total_events": 74,
   "events": [
     {
       "date": "2026-08-06",
@@ -544,50 +544,6 @@
         ]
       },
       "startTimestamp": 1786291200
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "D. Concepcion vs U. De Concepcion",
-      "team_home": "D. Concepcion",
-      "team_away": "U. De Concepcion",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786293000
-    },
-    {
-      "date": "2026-08-09",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Anderlecht vs RAAL La Louviere",
-      "team_home": "Anderlecht",
-      "team_away": "RAAL La Louviere",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786293000
     },
     {
       "date": "2026-08-09",
