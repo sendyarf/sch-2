@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T16:29:35.911041",
+  "generated_at": "2026-08-10T17:27:22.378471",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 32,
+  "total_events": 44,
   "events": [
     {
       "date": "2026-08-06",
@@ -51,8 +51,7 @@
       "team_home": "Panionios (Gre)",
       "team_away": "Olympiacos Piraeus B (Gre)",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "el": [
@@ -60,81 +59,10 @@
             "channel": "GR SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=149",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
           }
         ]
       },
       "startTimestamp": 1786375800
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": null,
-      "title": "Botoşani vs Corvinul Hunedoara",
-      "team_home": "Botoşani",
-      "team_away": "Corvinul Hunedoara",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786375800
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
-      "title": "Botev Vratsa vs Slavia Sofia",
-      "team_home": "Botev Vratsa",
-      "team_away": "Slavia Sofia",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "bg": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786377600
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": null,
-      "title": "Benfica B vs Leixões",
-      "team_home": "Benfica B",
-      "team_away": "Leixões",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "BTV",
-            "url": "https://multi.govoet.cc/?ss=btv",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786381200
     },
     {
       "date": "2026-08-10",
@@ -366,7 +294,8 @@
       "team_home": "Banfield",
       "team_away": "Belgrano",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -374,6 +303,13 @@
             "channel": "TNT sport arg",
             "url": "https://multi.govoet.cc/?envivo=75",
             "source": "cartelive"
+          }
+        ],
+        "da": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -395,6 +331,11 @@
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
@@ -777,6 +718,420 @@
         ]
       },
       "startTimestamp": 1786414200
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
+      "league": null,
+      "title": "Juventus vs Palermo",
+      "team_home": "Juventus",
+      "team_away": "Palermo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786442400
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": null,
+      "title": "Kairat vs Levski Sofia",
+      "team_home": "Kairat",
+      "team_away": "Levski Sofia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "bg": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786460400
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Bodø / Glimt vs Union Saint-Gilloise",
+      "team_home": "Bodø / Glimt",
+      "team_away": "Union Saint-Gilloise",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786464000
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Sabah vs AGF",
+      "team_home": "Sabah",
+      "team_away": "AGF",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "da": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786464000
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": null,
+      "title": "NEC vs Olympiakos Piraeus",
+      "team_home": "NEC",
+      "team_away": "Olympiakos Piraeus",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "nl": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786469400
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": null,
+      "title": "CSKA 1948 vs Panathinaikos",
+      "team_home": "CSKA 1948",
+      "team_away": "Panathinaikos",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "bg": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786469400
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Crvena Zvezda vs Hapoel Be'er Sheva",
+      "team_home": "Crvena Zvezda",
+      "team_away": "Hapoel Be'er Sheva",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786471200
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Sturm Graz vs Fenerbahçe",
+      "team_home": "Sturm Graz",
+      "team_away": "Fenerbahçe",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786473000
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Olympique Lyonnais vs Sparta Praha",
+      "team_home": "Olympique Lyonnais",
+      "team_away": "Sparta Praha",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786474800
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Fluminense vs Independiente Rivadavia",
+      "team_home": "Fluminense",
+      "team_away": "Independiente Rivadavia",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786485600
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Boca Juniors vs Deportivo Recoleta",
+      "team_home": "Boca Juniors",
+      "team_away": "Deportivo Recoleta",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "nl": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786485600
+    },
+    {
+      "date": "2026-08-12",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "Cincinnati vs Atlas",
+      "team_home": "Cincinnati",
+      "team_away": "Atlas",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786492800
+    },
+    {
+      "date": "2026-08-12",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Deportes Tolima vs Independiente del Valle",
+      "team_home": "Deportes Tolima",
+      "team_away": "Independiente del Valle",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "nl": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786494600
+    },
+    {
+      "date": "2026-08-12",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Estudiantes vs Universidad Católica",
+      "team_home": "Estudiantes",
+      "team_away": "Universidad Católica",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786494600
+    },
+    {
+      "date": "2026-08-12",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Bolívar vs São Paulo",
+      "team_home": "Bolívar",
+      "team_away": "São Paulo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786494600
     }
   ]
 }
