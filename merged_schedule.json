@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:16:55.267748",
+  "generated_at": "2026-08-10T05:52:27.815310",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 34,
+  "total_events": 32,
   "events": [
     {
       "date": "2026-08-06",
@@ -41,50 +41,6 @@
         ]
       },
       "startTimestamp": 1786020900
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Leagues Cup",
-      "title": "San Diego FC vs Club Tijuana",
-      "team_home": "San Diego FC",
-      "team_away": "Club Tijuana",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786327200
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "Leagues Cup",
-      "title": "Club America vs Portland Timbers",
-      "team_home": "Club America",
-      "team_away": "Portland Timbers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786328100
     },
     {
       "date": "2026-08-10",
