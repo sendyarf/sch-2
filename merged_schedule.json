@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:47:36.635556",
+  "generated_at": "2026-08-10T22:29:06.832680",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 43,
+  "total_events": 42,
   "events": [
     {
       "date": "2026-08-06",
@@ -112,43 +112,15 @@
       "date": "2026-08-10",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Tecnico U. vs Mushuc Runa",
-      "team_home": "Tecnico U.",
-      "team_away": "Mushuc Runa",
+      "league": null,
+      "title": "Plymouth Argyle vs Exeter City",
+      "team_home": "Plymouth Argyle",
+      "team_away": "Exeter City",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786388400
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Efl Cup",
-      "title": "Plymouth vs Exeter",
-      "team_home": "Plymouth",
-      "team_away": "Exeter",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -162,21 +134,15 @@
       "date": "2026-08-10",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Santa Clara vs Nacional",
       "team_home": "Santa Clara",
       "team_away": "Nacional",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
