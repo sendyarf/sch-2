@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:53:20.880027",
+  "generated_at": "2026-08-11T14:51:35.553703",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 59,
+  "total_events": 50,
   "events": [
     {
       "date": "2026-08-06",
@@ -41,231 +41,6 @@
         ]
       },
       "startTimestamp": 1786020900
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Volos NFC vs Kalamata",
-      "team_home": "Volos NFC",
-      "team_away": "Kalamata",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786384800
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": null,
-      "title": "Botev Plovdiv vs Spartak Varna",
-      "team_home": "Botev Plovdiv",
-      "team_away": "Spartak Varna",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "bg": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786385700
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "CFR Cluj vs Universitatea Cluj",
-      "team_home": "CFR Cluj",
-      "team_away": "Universitatea Cluj",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786386600
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Plymouth Argyle vs Exeter City",
-      "team_home": "Plymouth Argyle",
-      "team_away": "Exeter City",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786388400
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Santa Clara vs Nacional",
-      "team_home": "Santa Clara",
-      "team_away": "Nacional",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786389300
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Tennis",
-      "title": "ATP World Tour 1000: Montreal 2026",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786399200
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": null,
-      "title": "Goiás vs Londrina",
-      "team_home": "Goiás",
-      "team_away": "Londrina",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786399200
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": null,
-      "title": "Medellín vs Millonarios",
-      "team_home": "Medellín",
-      "team_away": "Millonarios",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786402800
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": null,
-      "title": "Audax Italiano vs Ñublense",
-      "team_home": "Audax Italiano",
-      "team_away": "Ñublense",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786406400
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "01:05",
-      "time_utc1": "03:05",
-      "league": null,
-      "title": "Junior vs Deportivo Pereira",
-      "team_home": "Junior",
-      "team_away": "Deportivo Pereira",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786410300
     },
     {
       "date": "2026-08-11",
@@ -899,6 +674,28 @@
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786485600
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": "Tennis",
+      "title": "ATP World Tour 1000: Montreal 2026",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
           }
         ]
