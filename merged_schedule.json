@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T19:56:30.263298",
+  "generated_at": "2026-08-11T20:38:47.159956",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 61,
+  "total_events": 57,
   "events": [
     {
       "date": "2026-08-06",
@@ -95,124 +95,6 @@
     },
     {
       "date": "2026-08-11",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Apollon (Cyp) vs Brann (Nor)",
-      "team_home": "Apollon (Cyp)",
-      "team_away": "Brann (Nor)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786467600
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Des Champions",
-      "title": "Kauno Zalgiris (Ltu) vs Din. Zagreb (Cro)",
-      "team_home": "Kauno Zalgiris (Ltu)",
-      "team_away": "Din. Zagreb (Cro)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786467600
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Tournée Automne",
-      "title": "Sharks vs New Zealand",
-      "team_home": "Sharks",
-      "team_away": "New Zealand",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786467600
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Conference League",
-      "title": "CSKA 1948 Sofia (Bul) vs Panathinaikos (Gre)",
-      "team_home": "CSKA 1948 Sofia (Bul)",
-      "team_away": "Panathinaikos (Gre)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ],
-        "bg": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786469400
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Ligue Des Champions",
-      "title": "Nijmegen (Ned) vs Olympiacos Piraeus (Gre)",
-      "team_home": "Nijmegen (Ned)",
-      "team_away": "Olympiacos Piraeus (Gre)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786469400
-    },
-    {
-      "date": "2026-08-11",
       "time_utc": "17:30",
       "time_utc1": "19:30",
       "league": null,
@@ -241,6 +123,28 @@
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786469400
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "17:30",
+      "time_utc1": "19:30",
+      "league": null,
+      "title": "CSKA 1948 vs Panathinaikos",
+      "team_home": "CSKA 1948",
+      "team_away": "Panathinaikos",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "bg": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
