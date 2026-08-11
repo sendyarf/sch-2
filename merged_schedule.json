@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T03:10:10.626412",
+  "generated_at": "2026-08-11T04:37:44.534771",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 60,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-08-06",
@@ -247,45 +247,17 @@
     },
     {
       "date": "2026-08-11",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "Torneo LPF",
-      "title": "Union de Santa Fe vs Central Cordoba",
-      "team_home": "Union de Santa Fe",
-      "team_away": "Central Cordoba",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786407300
-    },
-    {
-      "date": "2026-08-11",
       "time_utc": "01:05",
       "time_utc1": "03:05",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Junior vs Pereira",
+      "league": null,
+      "title": "Junior vs Deportivo Pereira",
       "team_home": "Junior",
-      "team_away": "Pereira",
+      "team_away": "Deportivo Pereira",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
