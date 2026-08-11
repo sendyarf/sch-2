@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:38:47.159956",
+  "generated_at": "2026-08-11T21:27:20.864387",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 57,
+  "total_events": 54,
   "events": [
     {
       "date": "2026-08-06",
@@ -155,28 +155,6 @@
       "date": "2026-08-11",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Ligue Des Champions",
-      "title": "Crvena zvezda (Srb) vs H. Beer Sheva (Isr)",
-      "team_home": "Crvena zvezda (Srb)",
-      "team_away": "H. Beer Sheva (Isr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786471200
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
       "league": null,
       "title": "Crvena Zvezda vs Hapoel Be'er Sheva",
       "team_home": "Crvena Zvezda",
@@ -194,50 +172,6 @@
         ]
       },
       "startTimestamp": 1786471200
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Ligue Des Champions",
-      "title": "Celje (Slo) vs Ararat-Armenia (Arm)",
-      "team_home": "Celje (Slo)",
-      "team_away": "Ararat-Armenia (Arm)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786472100
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Ligue Des Champions",
-      "title": "Slovan Bratislava (Svk) vs Mjallby (Swe)",
-      "team_home": "Slovan Bratislava (Svk)",
-      "team_away": "Mjallby (Swe)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786472100
     },
     {
       "date": "2026-08-11",
