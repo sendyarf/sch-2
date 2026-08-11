@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:09:55.670589",
+  "generated_at": "2026-08-11T03:10:10.626412",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 61,
+  "total_events": 60,
   "events": [
     {
       "date": "2026-08-06",
@@ -205,21 +205,15 @@
       "date": "2026-08-10",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Ind. Medellin vs Millonarios",
-      "team_home": "Ind. Medellin",
+      "league": null,
+      "title": "Medellín vs Millonarios",
+      "team_home": "Medellín",
       "team_away": "Millonarios",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -230,158 +224,22 @@
       "startTimestamp": 1786402800
     },
     {
-      "date": "2026-08-10",
-      "time_utc": "23:07",
-      "time_utc1": "01:07",
-      "league": "MLB",
-      "title": "Toronto Blue Jays vs Boston Red Sox",
-      "team_home": "Toronto Blue Jays",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786403220
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "23:15",
-      "time_utc1": "01:15",
-      "league": "MLB",
-      "title": "Atlanta Braves vs New York Mets",
-      "team_home": "Atlanta Braves",
-      "team_away": "New York Mets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786403700
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Baltimore Orioles",
-      "team_home": "Minnesota Twins",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786405200
-    },
-    {
-      "date": "2026-08-10",
-      "time_utc": "23:45",
-      "time_utc1": "01:45",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Philadelphia Phillies",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786405500
-    },
-    {
       "date": "2026-08-11",
       "time_utc": "00:00",
       "time_utc1": "02:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "A. Italiano vs Nublense",
-      "team_home": "A. Italiano",
-      "team_away": "Nublense",
+      "league": null,
+      "title": "Audax Italiano vs Ñublense",
+      "team_home": "Audax Italiano",
+      "team_away": "Ñublense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786406400
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "Dep. Cuenca vs Manta",
-      "team_home": "Dep. Cuenca",
-      "team_away": "Manta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
           }
         ]
       },
@@ -1359,6 +1217,50 @@
     },
     {
       "date": "2026-08-11",
+      "time_utc": "23:07",
+      "time_utc1": "01:07",
+      "league": "MLB",
+      "title": "Toronto Blue Jays vs Boston Red Sox",
+      "team_home": "Toronto Blue Jays",
+      "team_away": "Boston Red Sox",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786489620
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Atlanta Braves vs New York Mets",
+      "team_home": "Atlanta Braves",
+      "team_away": "New York Mets",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT32",
+            "url": "https://multi.govoet.cc/?envivo=185",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786490100
+    },
+    {
+      "date": "2026-08-11",
       "time_utc": "23:30",
       "time_utc1": "01:30",
       "league": "Leagues Cup",
@@ -1422,6 +1324,50 @@
         ]
       },
       "startTimestamp": 1786491600
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "23:40",
+      "time_utc1": "01:40",
+      "league": "MLB",
+      "title": "Minnesota Twins vs Baltimore Orioles",
+      "team_home": "Minnesota Twins",
+      "team_away": "Baltimore Orioles",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT34",
+            "url": "https://multi.govoet.cc/?envivo=187",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786491600
+    },
+    {
+      "date": "2026-08-11",
+      "time_utc": "23:45",
+      "time_utc1": "01:45",
+      "league": "MLB",
+      "title": "St.Louis Cardinals vs Philadelphia Phillies",
+      "team_home": "St.Louis Cardinals",
+      "team_away": "Philadelphia Phillies",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT35",
+            "url": "https://multi.govoet.cc/?envivo=188",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786491900
     },
     {
       "date": "2026-08-12",
