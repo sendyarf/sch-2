@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T18:52:34.276481",
+  "generated_at": "2026-08-11T19:56:30.263298",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 61,
   "events": [
     {
       "date": "2026-08-06",
@@ -41,79 +41,6 @@
         ]
       },
       "startTimestamp": 1786020900
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions",
-      "title": "Bodo/Glimt (Nor) vs Royale Union SG (Bel)",
-      "team_home": "Bodo/Glimt (Nor)",
-      "team_away": "Royale Union SG (Bel)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786464000
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Des Champions",
-      "title": "Sabah Baku (Aze) vs Aarhus (Den)",
-      "team_home": "Sabah Baku (Aze)",
-      "team_away": "Aarhus (Den)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786464000
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Europa",
-      "title": "Iberia 1999 (Geo) vs Larne (Nir)",
-      "team_home": "Iberia 1999 (Geo)",
-      "team_away": "Larne (Nir)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786464000
     },
     {
       "date": "2026-08-11",
