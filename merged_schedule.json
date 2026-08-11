@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:27:20.864387",
+  "generated_at": "2026-08-11T22:11:21.940020",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-08-06",
@@ -177,22 +177,14 @@
       "date": "2026-08-11",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Ligue Des Champions",
-      "title": "Sturm Graz (Aut) vs Fenerbahce (Tur)",
-      "team_home": "Sturm Graz (Aut)",
-      "team_away": "Fenerbahce (Tur)",
+      "league": null,
+      "title": "Sturm Graz vs Fenerbahçe",
+      "team_home": "Sturm Graz",
+      "team_away": "Fenerbahçe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "tr": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD3",
@@ -209,35 +201,6 @@
         ]
       },
       "startTimestamp": 1786473000
-    },
-    {
-      "date": "2026-08-11",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Lyon (Fra) vs Sparta Prague (Cze)",
-      "team_home": "Lyon (Fra)",
-      "team_away": "Sparta Prague (Cze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786474800
     },
     {
       "date": "2026-08-11",
