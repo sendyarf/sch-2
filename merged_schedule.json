@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:27:40.545490",
+  "generated_at": "2026-08-11T13:53:20.880027",
   "sources": [
     {
       "name": "cartelive",
@@ -271,45 +271,25 @@
       "date": "2026-08-11",
       "time_utc": "10:00",
       "time_utc1": "12:00",
-      "league": "Amical Club",
-      "title": "Juventus (Ita) vs Palermo (Ita)",
-      "team_home": "Juventus (Ita)",
-      "team_away": "Palermo (Ita)",
+      "league": null,
+      "title": "Juventus vs Palermo",
+      "team_home": "Juventus",
+      "team_away": "Palermo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ]
