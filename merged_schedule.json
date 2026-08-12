@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:35:28.880950",
+  "generated_at": "2026-08-12T21:26:35.920586",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 114,
+  "total_events": 112,
   "events": [
     {
       "date": "2026-08-06",
@@ -129,57 +129,6 @@
         ]
       },
       "startTimestamp": 1786550400
-    },
-    {
-      "date": "2026-08-12",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Baltimore Orioles",
-      "team_home": "Minnesota Twins",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786556400
-    },
-    {
-      "date": "2026-08-12",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Philadelphia Phillies",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786558500
     },
     {
       "date": "2026-08-12",
