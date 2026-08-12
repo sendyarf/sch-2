@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T10:41:09.662420",
+  "generated_at": "2026-08-12T11:28:40.719851",
   "sources": [
     {
       "name": "cartelive",
@@ -538,40 +538,80 @@
       "date": "2026-08-12",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": null,
+      "league": "UEFA Super Cup",
       "title": "Paris Saint-Germain vs Aston Villa",
       "team_home": "Paris Saint-Germain",
       "team_away": "Aston Villa",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
         "fr": [
+          {
+            "channel": "canal+",
+            "url": "https://multi.govoet.cc/?envivo=11",
+            "source": "cartelive"
+          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ],
+        "en": [
+          {
+            "channel": "UK TNT SPORT",
+            "url": "https://multi.govoet.cc/?envivo=126",
+            "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
         "es": [
+          {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ESPN1",
+            "url": "https://multi.govoet.cc/?envivo=87",
+            "source": "cartelive"
+          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
+        "de": [
+          {
+            "channel": "DE dazn 1",
+            "url": "https://multi.govoet.cc/?envivo=123",
+            "source": "cartelive"
+          }
+        ],
         "it": [
+          {
+            "channel": "IT SKY CALCIO",
+            "url": "https://multi.govoet.cc/?envivo=138",
+            "source": "cartelive"
+          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "GR SPORT 1",
+            "url": "https://multi.govoet.cc/?envivo=148",
+            "source": "cartelive"
           }
         ],
         "ar": [
