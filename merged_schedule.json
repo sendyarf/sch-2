@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:59:51.915390",
+  "generated_at": "2026-08-13T23:48:54.846424",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 97,
+  "total_events": 101,
   "events": [
     {
       "date": "2026-08-06",
@@ -373,28 +373,6 @@
     },
     {
       "date": "2026-08-13",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Washington Nationals vs Chicago Cubs",
-      "team_home": "Washington Nationals",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786651500
-    },
-    {
-      "date": "2026-08-13",
       "time_utc": "22:00",
       "time_utc1": "00:00",
       "league": null,
@@ -477,6 +455,28 @@
       "date": "2026-08-13",
       "time_utc": "23:00",
       "time_utc1": "01:00",
+      "league": "Leagues Cup",
+      "title": "Philadelphia Union vs Santos Laguna",
+      "team_home": "Philadelphia Union",
+      "team_away": "Santos Laguna",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT6",
+            "url": "https://multi.govoet.cc/?envivo=160",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786662000
+    },
+    {
+      "date": "2026-08-13",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
       "league": "NFL",
       "title": "Cincinnati Bengals vs Detroit Lions",
       "team_home": "Cincinnati Bengals",
@@ -516,6 +516,28 @@
         ]
       },
       "startTimestamp": 1786662000
+    },
+    {
+      "date": "2026-08-13",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "Leagues Cup",
+      "title": "New York City vs Necaxa",
+      "team_home": "New York City",
+      "team_away": "Necaxa",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT7 uefa events only",
+            "url": "https://multi.govoet.cc/?envivo=161",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786663800
     },
     {
       "date": "2026-08-13",
@@ -609,14 +631,37 @@
       "date": "2026-08-14",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": null,
-      "title": "Rosario Central vs Corinthians",
-      "team_home": "Rosario Central",
-      "team_away": "Corinthians",
+      "league": "Copa Libertadores",
+      "title": "Rosario Central (Arg) vs Corinthians (Bra)",
+      "team_home": "Rosario Central (Arg)",
+      "team_away": "Corinthians (Bra)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
+            "channel": "FOXsport1 arg",
+            "url": "https://multi.govoet.cc/?envivo=78",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ESPN2",
+            "url": "https://multi.govoet.cc/?envivo=88",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ESPN3MX",
+            "url": "https://multi.govoet.cc/?envivo=99",
+            "source": "cartelive"
+          }
+        ],
         "pt": [
           {
             "channel": "SPORTTV1",
@@ -638,14 +683,22 @@
       "date": "2026-08-14",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": null,
-      "title": "Cienciano vs Botafogo",
-      "team_home": "Cienciano",
-      "team_away": "Botafogo",
+      "league": "Copa Sudamericana",
+      "title": "Cienciano (Per) vs Botafogo RJ (Bra)",
+      "team_home": "Cienciano (Per)",
+      "team_away": "Botafogo RJ (Bra)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "es": [
+          {
+            "channel": "directv",
+            "url": "https://multi.govoet.cc/?envivo=94",
+            "source": "cartelive"
+          }
+        ],
         "pt": [
           {
             "channel": "SPORTTV2",
@@ -662,6 +715,50 @@
         ]
       },
       "startTimestamp": 1786667400
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": "Leagues Cup",
+      "title": "Club America vs Austin FC",
+      "team_home": "Club America",
+      "team_away": "Austin FC",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT8",
+            "url": "https://multi.govoet.cc/?envivo=162",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786667400
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": "Leagues Cup",
+      "title": "Cruz Azul vs Chicago Fire",
+      "team_home": "Cruz Azul",
+      "team_away": "Chicago Fire",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "EXTRA SPORT9",
+            "url": "https://multi.govoet.cc/?envivo=163",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786669200
     },
     {
       "date": "2026-08-14",
@@ -733,6 +830,28 @@
         ]
       },
       "startTimestamp": 1786673400
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "02:30",
+      "time_utc1": "04:30",
+      "league": "Leagues Cup",
+      "title": "Portland Timbers vs Club Tijuana",
+      "team_home": "Portland Timbers",
+      "team_away": "Club Tijuana",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TUDN USA",
+            "url": "https://multi.govoet.cc/?envivo=68",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786674600
     },
     {
       "date": "2026-08-14",
