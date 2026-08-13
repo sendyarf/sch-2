@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T03:14:27.714424",
+  "generated_at": "2026-08-13T05:07:02.275101",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 95,
+  "total_events": 94,
   "events": [
     {
       "date": "2026-08-06",
@@ -431,40 +431,15 @@
       "date": "2026-08-13",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Cruzeiro (Bra) vs Flamengo RJ (Bra)",
-      "team_home": "Cruzeiro (Bra)",
-      "team_away": "Flamengo RJ (Bra)",
+      "league": null,
+      "title": "Cruzeiro vs Flamengo",
+      "team_home": "Cruzeiro",
+      "team_away": "Flamengo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ],
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -509,28 +484,6 @@
         ]
       },
       "startTimestamp": 1786581000
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "Leagues Cup",
-      "title": "Toluca vs FC Dallas",
-      "team_home": "Toluca",
-      "team_away": "FC Dallas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786586400
     },
     {
       "date": "2026-08-13",
