@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:07:02.275101",
+  "generated_at": "2026-08-13T06:43:03.918163",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 94,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-08-06",
@@ -487,73 +487,16 @@
     },
     {
       "date": "2026-08-13",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Texas Rangers",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Texas Rangers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786587000
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Kansas City Royals",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Kansas City Royals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786587000
-    },
-    {
-      "date": "2026-08-13",
       "time_utc": "02:15",
       "time_utc1": "04:15",
-      "league": "Leagues Cup",
-      "title": "San Diego FC vs Puebla",
-      "team_home": "San Diego FC",
+      "league": null,
+      "title": "San Diego vs Puebla",
+      "team_home": "San Diego",
       "team_away": "Puebla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -563,50 +506,6 @@
         ]
       },
       "startTimestamp": 1786587300
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "Leagues Cup",
-      "title": "Los Angeles FC vs Queretaro",
-      "team_home": "Los Angeles FC",
-      "team_away": "Queretaro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786588200
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "Leagues Cup",
-      "title": "Seattle Sounders vs Guadalajara Chivas",
-      "team_home": "Seattle Sounders",
-      "team_away": "Guadalajara Chivas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786588200
     },
     {
       "date": "2026-08-13",
@@ -2327,6 +2226,28 @@
         ]
       },
       "startTimestamp": 1786669200
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "02:07",
+      "time_utc1": "04:07",
+      "league": "MLB",
+      "title": "Los Angeles Angels vs Texas Rangers",
+      "team_home": "Los Angeles Angels",
+      "team_away": "Texas Rangers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT30",
+            "url": "https://multi.govoet.cc/?envivo=183",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786673220
     },
     {
       "date": "2026-08-14",
