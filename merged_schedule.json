@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T17:40:10.119149",
+  "generated_at": "2026-08-13T18:35:27.543204",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 74,
+  "total_events": 73,
   "events": [
     {
       "date": "2026-08-06",
@@ -41,28 +41,6 @@
         ]
       },
       "startTimestamp": 1786020900
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Conference League",
-      "title": "Tobol (Kaz) vs Partizan (Srb)",
-      "team_home": "Tobol (Kaz)",
-      "team_away": "Partizan (Srb)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786633200
     },
     {
       "date": "2026-08-13",
