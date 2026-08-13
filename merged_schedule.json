@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T06:43:03.918163",
+  "generated_at": "2026-08-13T08:04:46.071763",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 91,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-08-06",
@@ -1302,50 +1302,6 @@
       "date": "2026-08-13",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Diriyah vs Al Ahli SC",
-      "team_home": "Al Diriyah",
-      "team_away": "Al Ahli SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786644000
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Shabab vs Al Qadsiah",
-      "team_home": "Al Shabab",
-      "team_away": "Al Qadsiah",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786644000
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
       "league": null,
       "title": "Al-Diriyah vs Al Ahli",
       "team_home": "Al-Diriyah",
@@ -1767,88 +1723,6 @@
       "date": "2026-08-13",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Copa Libertadores",
-      "title": "Mirassol (Bra) vs LDU Quito (Ecu)",
-      "team_home": "Mirassol (Bra)",
-      "team_away": "LDU Quito (Ecu)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786658400
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Copa Sudamericana",
-      "title": "Vasco (Bra) vs Olimpia Asuncion (Par)",
-      "team_home": "Vasco (Bra)",
-      "team_away": "Olimpia Asuncion (Par)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786658400
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
       "league": null,
       "title": "Santos vs Macará",
       "team_home": "Santos",
@@ -1876,25 +1750,54 @@
     },
     {
       "date": "2026-08-13",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Leagues Cup",
-      "title": "Philadelphia Union vs Santos Laguna",
-      "team_home": "Philadelphia Union",
-      "team_away": "Santos Laguna",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Vasco da Gama vs Olimpia",
+      "team_home": "Vasco da Gama",
+      "team_away": "Olimpia",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "pt": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1786662000
+      "startTimestamp": 1786658400
+    },
+    {
+      "date": "2026-08-13",
+      "time_utc": "22:00",
+      "time_utc1": "00:00",
+      "league": null,
+      "title": "Mirassol vs LDU Quito",
+      "team_home": "Mirassol",
+      "team_away": "LDU Quito",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786658400
     },
     {
       "date": "2026-08-13",
@@ -1939,28 +1842,6 @@
         ]
       },
       "startTimestamp": 1786662000
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Leagues Cup",
-      "title": "New York City vs Necaxa",
-      "team_home": "New York City",
-      "team_away": "Necaxa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786663800
     },
     {
       "date": "2026-08-13",
@@ -2054,37 +1935,14 @@
       "date": "2026-08-14",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Rosario Central (Arg) vs Corinthians (Bra)",
-      "team_home": "Rosario Central (Arg)",
-      "team_away": "Corinthians (Bra)",
+      "league": null,
+      "title": "Rosario Central vs Corinthians",
+      "team_home": "Rosario Central",
+      "team_away": "Corinthians",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV1",
@@ -2106,22 +1964,14 @@
       "date": "2026-08-14",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Cienciano (Per) vs Botafogo RJ (Bra)",
-      "team_home": "Cienciano (Per)",
-      "team_away": "Botafogo RJ (Bra)",
+      "league": null,
+      "title": "Cienciano vs Botafogo",
+      "team_home": "Cienciano",
+      "team_away": "Botafogo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV2",
@@ -2138,72 +1988,6 @@
         ]
       },
       "startTimestamp": 1786667400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Leagues Cup",
-      "title": "Club America vs Austin FC",
-      "team_home": "Club America",
-      "team_away": "Austin FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786667400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Leagues Cup",
-      "title": "Cruz Azul vs Chicago Fire",
-      "team_home": "Cruz Azul",
-      "team_away": "Chicago Fire",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786669200
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Alebrijes Oaxaca vs Tepatitlan de Morelos",
-      "team_home": "Alebrijes Oaxaca",
-      "team_away": "Tepatitlan de Morelos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786669200
     },
     {
       "date": "2026-08-14",
@@ -2270,28 +2054,6 @@
         ]
       },
       "startTimestamp": 1786673400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "Leagues Cup",
-      "title": "Portland Timbers vs Club Tijuana",
-      "team_home": "Portland Timbers",
-      "team_away": "Club Tijuana",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786674600
     }
   ]
 }
