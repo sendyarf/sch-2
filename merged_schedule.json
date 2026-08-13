@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T12:09:16.385337",
+  "generated_at": "2026-08-13T13:44:02.354428",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 66,
+  "total_events": 74,
   "events": [
     {
       "date": "2026-08-06",
@@ -41,28 +41,6 @@
         ]
       },
       "startTimestamp": 1786020900
-    },
-    {
-      "date": "2026-08-13",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Golf",
-      "title": "DP World Tour: Danish Golf Championship - D1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786618800
     },
     {
       "date": "2026-08-13",
@@ -1589,6 +1567,204 @@
         ]
       },
       "startTimestamp": 1786673400
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": "Golf",
+      "title": "DP World Tour: Danish Golf Championship - D1",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786705200
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Parma vs Catania",
+      "team_home": "Parma",
+      "team_away": "Catania",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786723200
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "16:30",
+      "time_utc1": "18:30",
+      "league": null,
+      "title": "Holstein Kiel vs St. Pauli",
+      "team_home": "Holstein Kiel",
+      "team_away": "St. Pauli",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786725000
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Al Hilal vs Al Faisaly",
+      "team_home": "Al Hilal",
+      "team_away": "Al Faisaly",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786730400
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Galatasaray vs Çorum Belediyespor",
+      "team_home": "Galatasaray",
+      "team_away": "Çorum Belediyespor",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786732200
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Wolverhampton Wanderers vs Blackburn Rovers",
+      "team_home": "Wolverhampton Wanderers",
+      "team_away": "Blackburn Rovers",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786734000
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "19:15",
+      "time_utc1": "21:15",
+      "league": null,
+      "title": "Sporting CP vs Vitória Guimarães",
+      "team_home": "Sporting CP",
+      "team_away": "Vitória Guimarães",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786734900
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "19:15",
+      "time_utc1": "21:15",
+      "league": null,
+      "title": "Fiorentina vs Benevento",
+      "team_home": "Fiorentina",
+      "team_away": "Benevento",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786734900
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "01:00",
+      "time_utc1": "03:00",
+      "league": null,
+      "title": "One Fight Night",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786755600
     }
   ]
 }
