@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:14:57.307139",
+  "generated_at": "2026-08-14T22:41:45.805563",
   "sources": [
     {
       "name": "cartelive",
@@ -425,51 +425,26 @@
       "date": "2026-08-14",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Coppa Italia",
-      "title": "Fiorentina vs Benevento",
-      "team_home": "Fiorentina",
-      "team_away": "Benevento",
+      "league": null,
+      "title": "Sporting CP vs Vitória Guimarães",
+      "team_home": "Sporting CP",
+      "team_away": "Vitória Guimarães",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
         ],
-        "el": [
+        "pt-BR": [
           {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -479,38 +454,25 @@
       "date": "2026-08-14",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Liga Portugal",
-      "title": "Sporting CP vs Vitoria Guimaraes",
-      "team_home": "Sporting CP",
-      "team_away": "Vitoria Guimaraes",
+      "league": null,
+      "title": "Fiorentina vs Benevento",
+      "team_home": "Fiorentina",
+      "team_away": "Benevento",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
+        "it": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "el": [
+        "pt": [
           {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ]
