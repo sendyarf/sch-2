@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T19:14:14.488305",
+  "generated_at": "2026-08-14T19:56:25.075222",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 151,
+  "total_events": 150,
   "events": [
     {
       "date": "2026-08-06",
@@ -119,46 +119,18 @@
       "date": "2026-08-14",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Cagliari vs Arezzo",
+      "team_home": "Cagliari",
+      "team_away": "Arezzo",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786725000
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Braunschweig vs Bochum",
-      "team_home": "Braunschweig",
-      "team_away": "Bochum",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
+        "it": [
           {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ]
@@ -169,35 +141,15 @@
       "date": "2026-08-14",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
+      "league": null,
       "title": "Holstein Kiel vs St. Pauli",
       "team_home": "Holstein Kiel",
       "team_away": "St. Pauli",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -218,32 +170,19 @@
       "date": "2026-08-14",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Coppa Italia",
-      "title": "Cagliari vs Arezzo",
-      "team_home": "Cagliari",
-      "team_away": "Arezzo",
+      "league": null,
+      "title": "Eintracht Braunschweig vs Bochum",
+      "team_home": "Eintracht Braunschweig",
+      "team_away": "Bochum",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
+        "de": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
           }
         ]
       },
