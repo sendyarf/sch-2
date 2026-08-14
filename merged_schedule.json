@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T18:13:31.598025",
+  "generated_at": "2026-08-14T19:14:14.488305",
   "sources": [
     {
       "name": "cartelive",
@@ -68,22 +68,14 @@
       "date": "2026-08-14",
       "time_utc": "15:30",
       "time_utc1": "17:30",
-      "league": "Amical Club",
-      "title": "Marseille (Fra) vs Atl. Madrid (Esp)",
-      "team_home": "Marseille (Fra)",
-      "team_away": "Atl. Madrid (Esp)",
+      "league": null,
+      "title": "Olympique Marseille vs Atlético Madrid",
+      "team_home": "Olympique Marseille",
+      "team_away": "Atlético Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 2",
-            "url": "https://multi.govoet.cc/?envivo=32",
-            "source": "cartelive"
-          }
-        ],
         "es": [
           {
             "channel": "HD6",
@@ -98,40 +90,22 @@
       "date": "2026-08-14",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Parma vs Catania",
       "team_home": "Parma",
       "team_away": "Catania",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
             "source": "sportsonline"
           }
         ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
