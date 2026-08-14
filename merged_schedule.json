@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T20:55:10.073298",
+  "generated_at": "2026-08-14T21:18:17.048376",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 141,
+  "total_events": 140,
   "events": [
     {
       "date": "2026-08-06",
@@ -192,61 +192,6 @@
       "date": "2026-08-14",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Eredivisie",
-      "title": "Telstar vs Sparta Rotterdam",
-      "team_home": "Telstar",
-      "team_away": "Sparta Rotterdam",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786730400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Hilal vs Al-Faisaly",
-      "team_home": "Al Hilal",
-      "team_away": "Al-Faisaly",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786730400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
       "league": null,
       "title": "Al Hilal vs Al Faisaly",
       "team_home": "Al Hilal",
@@ -273,6 +218,28 @@
           {
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786730400
+    },
+    {
+      "date": "2026-08-14",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Telstar vs Sparta Rotterdam",
+      "team_home": "Telstar",
+      "team_away": "Sparta Rotterdam",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "nl": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
