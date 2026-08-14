@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:47:23.277752",
+  "generated_at": "2026-08-14T22:14:57.307139",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 126,
+  "total_events": 125,
   "events": [
     {
       "date": "2026-08-06",
@@ -384,47 +384,6 @@
         ]
       },
       "startTimestamp": 1786733100
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Wolves vs Blackburn",
-      "team_home": "Wolves",
-      "team_away": "Blackburn",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786734000
     },
     {
       "date": "2026-08-14",
