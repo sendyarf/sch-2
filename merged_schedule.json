@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T03:34:53.996431",
+  "generated_at": "2026-08-14T05:18:38.456234",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 92,
+  "total_events": 89,
   "events": [
     {
       "date": "2026-08-06",
@@ -508,99 +508,6 @@
         ]
       },
       "startTimestamp": 1786667400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Leagues Cup",
-      "title": "Cruz Azul vs Chicago Fire",
-      "team_home": "Cruz Azul",
-      "team_away": "Chicago Fire",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786669200
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NFL",
-      "title": "San Francisco 49ers vs Tennessee Titans",
-      "team_home": "San Francisco 49ers",
-      "team_away": "Tennessee Titans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786669200
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "02:07",
-      "time_utc1": "04:07",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Texas Rangers",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Texas Rangers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786673220
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786673400
     },
     {
       "date": "2026-08-14",
@@ -2169,6 +2076,28 @@
         ]
       },
       "startTimestamp": 1786758000
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "02:10",
+      "time_utc1": "04:10",
+      "league": "MLB",
+      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
+      "team_home": "Los Angeles Dodgers",
+      "team_away": "Milwaukee Brewers",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT39",
+            "url": "https://multi.govoet.cc/?envivo=192",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786759800
     },
     {
       "date": "2026-08-15",
