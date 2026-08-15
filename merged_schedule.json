@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:45:05.782685",
+  "generated_at": "2026-08-15T21:00:14.935505",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 130,
+  "total_events": 128,
   "events": [
     {
       "date": "2026-08-15",
@@ -528,121 +528,15 @@
       "date": "2026-08-15",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Eredivisie",
-      "title": "Excelsior vs PSV",
-      "team_home": "Excelsior",
-      "team_away": "PSV",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786816800
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "AD Tarma vs Alianza Atl.",
-      "team_home": "AD Tarma",
-      "team_away": "Alianza Atl.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786816800
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga de Expansión MX",
-      "title": "Cruz Azul Hidalgo vs Atl. Morelia",
-      "team_home": "Cruz Azul Hidalgo",
-      "team_away": "Atl. Morelia",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786816800
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Nassr vs Al Fateh",
       "team_home": "Al Nassr",
       "team_away": "Al Fateh",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV3",
             "url": "https://multi.govoet.cc/?ss=sporttv3",
@@ -653,6 +547,35 @@
           {
             "channel": "BR1",
             "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786816800
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Excelsior vs PSV",
+      "team_home": "Excelsior",
+      "team_away": "PSV",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "nl": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
           }
         ]
