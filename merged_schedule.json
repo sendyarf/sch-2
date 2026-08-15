@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:58:55.478086",
+  "generated_at": "2026-08-15T08:32:22.077479",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 188,
+  "total_events": 187,
   "events": [
     {
       "date": "2026-08-06",
@@ -610,40 +610,6 @@
         ]
       },
       "startTimestamp": 1786759200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "05:00",
-      "time_utc1": "07:00",
-      "league": "Tournée Automne",
-      "title": "Australia vs Japan",
-      "team_home": "Australia",
-      "team_away": "Japan",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786770000
     },
     {
       "date": "2026-08-15",
