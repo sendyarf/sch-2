@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:55:45.011629",
+  "generated_at": "2026-08-15T20:15:33.395556",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 140,
+  "total_events": 133,
   "events": [
     {
       "date": "2026-08-15",
@@ -453,67 +453,17 @@
     },
     {
       "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Cadiz CF vs Celta Vigo B",
-      "team_home": "Cadiz CF",
-      "team_away": "Celta Vigo B",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Oviedo vs Granada CF",
-      "team_home": "Oviedo",
-      "team_away": "Granada CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
-      "title": "Academico Viseu vs Santa Clara",
-      "team_home": "Academico Viseu",
+      "time_utc": "16:50",
+      "time_utc1": "18:50",
+      "league": null,
+      "title": "Académico vs Santa Clara",
+      "team_home": "Académico",
       "team_away": "Santa Clara",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
@@ -521,117 +471,7 @@
           }
         ]
       },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "NFL",
-      "title": "Buffalo Bills vs Carolina Panthers",
-      "team_home": "Buffalo Bills",
-      "team_away": "Carolina Panthers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "NFL",
-      "title": "Chicago Bears vs Cleveland Browns",
-      "team_home": "Chicago Bears",
-      "team_away": "Cleveland Browns",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "NFL",
-      "title": "New York Giants vs Minnesota Vikings",
-      "team_home": "New York Giants",
-      "team_away": "Minnesota Vikings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Tournée Automne",
-      "title": "Bulls vs New Zealand",
-      "team_home": "Bulls",
-      "team_away": "New Zealand",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Chicago White Sox",
-      "team_home": "Detroit Tigers",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786813800
+      "startTimestamp": 1786812600
     },
     {
       "date": "2026-08-15",
