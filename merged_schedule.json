@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:33:21.201559",
+  "generated_at": "2026-08-15T21:54:45.790302",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 125,
+  "total_events": 123,
   "events": [
     {
       "date": "2026-08-15",
@@ -637,78 +637,19 @@
       "date": "2026-08-15",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Venezia vs Modena",
       "team_home": "Venezia",
       "team_away": "Modena",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786819500
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Genk vs Westerlo",
-      "team_home": "Genk",
-      "team_away": "Westerlo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786819500
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "Leuven vs Club Brugge KV",
-      "team_home": "Leuven",
-      "team_away": "Club Brugge KV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
