@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:54:20.938457",
+  "generated_at": "2026-08-15T12:22:47.818100",
   "sources": [
     {
       "name": "cartelive",
@@ -18,30 +18,8 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 165,
+  "total_events": 164,
   "events": [
-    {
-      "date": "2026-08-06",
-      "time_utc": "12:55",
-      "time_utc1": "14:55",
-      "league": "Indonesia - President'S Cup",
-      "title": "Persib vs Persebaya",
-      "team_home": "Persib",
-      "team_away": "Persebaya",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "CH-VN",
-            "url": "https://multi.govoet.cc/?hls=aHR0cHM6Ly9saXZlMDUubWV1bmcuYXBwL2xpdmUvNzU5MTUwODcubTN1OA==",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1786020900
-    },
     {
       "date": "2026-08-15",
       "time_utc": "11:00",
@@ -213,49 +191,25 @@
     },
     {
       "date": "2026-08-15",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Amical Club",
-      "title": "Freiburg (Ger) vs Crystal Palace (Eng)",
-      "team_home": "Freiburg (Ger)",
-      "team_away": "Crystal Palace (Eng)",
+      "time_utc": "12:25",
+      "time_utc1": "14:25",
+      "league": "Club Friendly",
+      "title": "Sabah vs Persib",
+      "team_home": "Sabah",
+      "team_away": "Persib",
       "sources": [
-        "cartelive"
+        "manual"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          },
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
+            "channel": "CH-ID",
+            "url": "https://multi.govoet.cc/?iframe=https://content-player.pages.dev/play?replay=uYi27Ono5UE",
+            "source": "manual"
           }
         ]
       },
-      "startTimestamp": 1786795200
+      "startTimestamp": 1786796700
     },
     {
       "date": "2026-08-15",
@@ -355,10 +309,34 @@
             "source": "cartelive"
           }
         ],
+        "en": [
+          {
+            "channel": "DE bundliga6",
+            "url": "https://multi.govoet.cc/?envivo=116",
+            "source": "cartelive"
+          }
+        ],
         "pt": [
+          {
+            "channel": "DE bundliga5",
+            "url": "https://multi.govoet.cc/?envivo=115",
+            "source": "cartelive"
+          },
           {
             "channel": "PT SPORT 3",
             "url": "https://multi.govoet.cc/?envivo=146",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ESPN1MX",
+            "url": "https://multi.govoet.cc/?envivo=97",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ESPN2MX",
+            "url": "https://multi.govoet.cc/?envivo=98",
             "source": "cartelive"
           }
         ]
