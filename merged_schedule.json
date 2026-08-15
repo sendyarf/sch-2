@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:55:42.895945",
+  "generated_at": "2026-08-15T18:19:55.367269",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 147,
+  "total_events": 146,
   "events": [
     {
       "date": "2026-08-15",
@@ -287,47 +287,19 @@
       "date": "2026-08-15",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Fulham (Eng) vs Stuttgart (Ger)",
-      "team_home": "Fulham (Eng)",
-      "team_away": "Stuttgart (Ger)",
+      "league": null,
+      "title": "Fulham vs Stuttgart",
+      "team_home": "Fulham",
+      "team_away": "Stuttgart",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV3",
             "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786806000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Laliga 2",
-      "title": "Andorra vs Ceuta",
-      "team_home": "Andorra",
-      "team_away": "Ceuta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
           }
         ]
       },
