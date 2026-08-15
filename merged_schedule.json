@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:17:47.470860",
+  "generated_at": "2026-08-15T23:41:38.446313",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 82,
+  "total_events": 81,
   "events": [
     {
       "date": "2026-08-14",
@@ -106,28 +106,6 @@
         ]
       },
       "startTimestamp": 1786796700
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Los Chankas vs FBC Melgar",
-      "team_home": "Los Chankas",
-      "team_away": "FBC Melgar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786825800
     },
     {
       "date": "2026-08-15",
