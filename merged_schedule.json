@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:53:34.786080",
+  "generated_at": "2026-08-15T19:16:16.186696",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 146,
+  "total_events": 141,
   "events": [
     {
       "date": "2026-08-15",
@@ -331,143 +331,6 @@
       "date": "2026-08-15",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Amical Club",
-      "title": "Le Mans (Fra) vs Le Havre (Fra)",
-      "team_home": "Le Mans (Fra)",
-      "team_away": "Le Havre (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786809600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Coppa Italia",
-      "title": "Catanzaro vs Sudtirol",
-      "team_home": "Catanzaro",
-      "team_away": "Sudtirol",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786809600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Juventud vs Montevideo City",
-      "team_home": "Juventud",
-      "team_away": "Montevideo City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786809600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Super Lig",
-      "title": "Kasimpasa vs Trabzonspor",
-      "team_home": "Kasimpasa",
-      "team_away": "Trabzonspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786809600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Super Lig",
-      "title": "Konyaspor vs Rizespor",
-      "team_home": "Konyaspor",
-      "team_away": "Rizespor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786809600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
       "league": null,
       "title": "Kasımpaşa vs Trabzonspor",
       "team_home": "Kasımpaşa",
@@ -488,25 +351,25 @@
     },
     {
       "date": "2026-08-15",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Pro League",
-      "title": "Kortrijk vs Antwerp",
-      "team_home": "Kortrijk",
-      "team_away": "Antwerp",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Catanzaro vs Südtirol",
+      "team_home": "Catanzaro",
+      "team_away": "Südtirol",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "de": [
           {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1786810500
+      "startTimestamp": 1786809600
     },
     {
       "date": "2026-08-15",
