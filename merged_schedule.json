@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:54:27.821689",
+  "generated_at": "2026-08-15T05:18:03.974103",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 191,
+  "total_events": 189,
   "events": [
     {
       "date": "2026-08-06",
@@ -610,50 +610,6 @@
         ]
       },
       "startTimestamp": 1786759200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Milwaukee Brewers",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786759800
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Colorado Rockies",
-      "team_home": "San Francisco Giants",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786760100
     },
     {
       "date": "2026-08-15",
