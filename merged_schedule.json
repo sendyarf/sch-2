@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:16:16.186696",
+  "generated_at": "2026-08-15T19:42:26.758541",
   "sources": [
     {
       "name": "cartelive",
@@ -375,28 +375,15 @@
       "date": "2026-08-15",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Championship",
-      "title": "Sheffield Utd vs Birmingham",
-      "team_home": "Sheffield Utd",
-      "team_away": "Birmingham",
+      "league": null,
+      "title": "Sheffield United vs Birmingham City",
+      "team_home": "Sheffield United",
+      "team_away": "Birmingham City",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -417,32 +404,19 @@
       "date": "2026-08-15",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Coppa Italia",
-      "title": "Udinese vs Padova",
+      "league": null,
+      "title": "Udinese vs Calcio Padova",
       "team_home": "Udinese",
-      "team_away": "Padova",
+      "team_away": "Calcio Padova",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
           }
         ],
         "pt": [
