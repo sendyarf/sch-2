@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:42:26.758541",
+  "generated_at": "2026-08-15T19:55:45.011629",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 141,
+  "total_events": 140,
   "events": [
     {
       "date": "2026-08-15",
@@ -428,35 +428,6 @@
         ]
       },
       "startTimestamp": 1786811400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Eredivisie",
-      "title": "Utrecht vs AZ Alkmaar",
-      "team_home": "Utrecht",
-      "team_away": "AZ Alkmaar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786812300
     },
     {
       "date": "2026-08-15",
