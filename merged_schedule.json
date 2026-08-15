@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:35:16.032698",
+  "generated_at": "2026-08-15T17:55:42.895945",
   "sources": [
     {
       "name": "cartelive",
@@ -251,40 +251,22 @@
       "date": "2026-08-15",
       "time_utc": "14:45",
       "time_utc1": "16:45",
-      "league": "Amical Club",
-      "title": "Manchester Utd (Eng) vs AC Milan (Ita)",
-      "team_home": "Manchester Utd (Eng)",
-      "team_away": "AC Milan (Ita)",
+      "league": null,
+      "title": "Manchester United vs Milan",
+      "team_home": "Manchester United",
+      "team_away": "Milan",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
           }
         ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -293,21 +275,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
           }
         ]
       },
