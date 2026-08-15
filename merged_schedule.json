@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T17:14:05.248681",
+  "generated_at": "2026-08-15T17:35:16.032698",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 148,
+  "total_events": 147,
   "events": [
     {
       "date": "2026-08-15",
@@ -229,43 +229,15 @@
       "date": "2026-08-15",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Eredivisie",
-      "title": "Willem II vs Nijmegen",
-      "team_home": "Willem II",
-      "team_away": "Nijmegen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786804200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Alverca vs Estrela",
       "team_home": "Alverca",
       "team_away": "Estrela",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
