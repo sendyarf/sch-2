@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:00:14.935505",
+  "generated_at": "2026-08-15T21:33:21.201559",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 128,
+  "total_events": 125,
   "events": [
     {
       "date": "2026-08-15",
@@ -584,121 +584,6 @@
     },
     {
       "date": "2026-08-15",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs St.Louis Cardinals",
-      "team_home": "Chicago Cubs",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786818000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "Kaiserslautern vs Karlsruher SC",
-      "team_home": "Kaiserslautern",
-      "team_away": "Karlsruher SC",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786818600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Gaziantep vs Alanyaspor",
-      "team_home": "Gaziantep",
-      "team_away": "Alanyaspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786818600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Genclerbirligi vs Fenerbahce",
-      "team_home": "Genclerbirligi",
-      "team_away": "Fenerbahce",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786818600
-    },
-    {
-      "date": "2026-08-15",
       "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": null,
@@ -720,6 +605,28 @@
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786818600
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Kaiserslautern vs Karlsruher SC",
+      "team_home": "Kaiserslautern",
+      "team_away": "Karlsruher SC",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ]
