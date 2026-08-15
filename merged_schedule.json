@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:56:55.176507",
+  "generated_at": "2026-08-15T23:17:47.470860",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 86,
+  "total_events": 82,
   "events": [
     {
       "date": "2026-08-14",
@@ -106,101 +106,6 @@
         ]
       },
       "startTimestamp": 1786796700
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "NFL",
-      "title": "Kansas City Chiefs vs Los Angeles Rams",
-      "team_home": "Kansas City Chiefs",
-      "team_away": "Los Angeles Rams",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786824000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "NFL",
-      "title": "New Orleans Saints vs Jacksonville Jaguars",
-      "team_home": "New Orleans Saints",
-      "team_away": "Jacksonville Jaguars",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786824000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Colorado Rockies",
-      "team_home": "San Francisco Giants",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786824300
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "New York Mets vs Washington Nationals",
-      "team_home": "New York Mets",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT33",
-            "url": "https://multi.govoet.cc/?envivo=186",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786824600
     },
     {
       "date": "2026-08-15",
