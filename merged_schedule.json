@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T20:15:33.395556",
+  "generated_at": "2026-08-15T20:45:05.782685",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 133,
+  "total_events": 130,
   "events": [
     {
       "date": "2026-08-15",
@@ -477,67 +477,15 @@
       "date": "2026-08-15",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Amical Club",
-      "title": "Inter (Ita) vs Betis (Esp)",
-      "team_home": "Inter (Ita)",
-      "team_away": "Betis (Esp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TyC Sports",
-            "url": "https://multi.govoet.cc/?envivo=77",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786815000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Laliga",
-      "title": "Alaves vs Getafe",
-      "team_home": "Alaves",
+      "league": null,
+      "title": "Deportivo Alavés vs Getafe",
+      "team_home": "Deportivo Alavés",
       "team_away": "Getafe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -549,50 +497,6 @@
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786815000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Torneo LPF",
-      "title": "Aldosivi vs Tigre",
-      "team_home": "Aldosivi",
-      "team_away": "Tigre",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786815000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Torneo LPF",
-      "title": "San Lorenzo vs Union de Santa Fe",
-      "team_home": "San Lorenzo",
-      "team_away": "Union de Santa Fe",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
           }
         ]
       },
