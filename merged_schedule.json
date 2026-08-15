@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T00:50:35.305996",
+  "generated_at": "2026-08-15T02:09:30.161070",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 203,
+  "total_events": 196,
   "events": [
     {
       "date": "2026-08-06",
@@ -481,55 +481,6 @@
     },
     {
       "date": "2026-08-14",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Boston River vs Danubio",
-      "team_home": "Boston River",
-      "team_away": "Danubio",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786744800
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "22:10",
-      "time_utc1": "00:10",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs Miami Marlins",
-      "team_home": "Cincinnati Reds",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786745400
-    },
-    {
-      "date": "2026-08-14",
       "time_utc": "22:30",
       "time_utc1": "00:30",
       "league": null,
@@ -574,191 +525,21 @@
     },
     {
       "date": "2026-08-14",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Chicago White Sox",
-      "team_home": "Detroit Tigers",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786747200
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Boston Red Sox",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786747200
-    },
-    {
-      "date": "2026-08-14",
       "time_utc": "23:00",
       "time_utc1": "01:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. De Concepcion vs La Serena",
-      "team_home": "U. De Concepcion",
-      "team_away": "La Serena",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786748400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cusco vs Juan Pablo II",
-      "team_home": "Cusco",
-      "team_away": "Juan Pablo II",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786748400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga BetPlay Dimayor",
+      "league": null,
       "title": "Llaneros vs Deportes Tolima",
       "team_home": "Llaneros",
       "team_away": "Deportes Tolima",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786748400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NFL",
-      "title": "Atlanta Falcons vs Denver Broncos",
-      "team_home": "Atlanta Falcons",
-      "team_away": "Denver Broncos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786748400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NFL",
-      "title": "New York Jets vs Tampa Bay Buccaneers",
-      "team_home": "New York Jets",
-      "team_away": "Tampa Bay Buccaneers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786748400
-    },
-    {
-      "date": "2026-08-14",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NFL",
-      "title": "Washington Commanders vs Miami Dolphins",
-      "team_home": "Washington Commanders",
-      "team_away": "Miami Dolphins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
           }
         ]
       },
@@ -3678,6 +3459,28 @@
     },
     {
       "date": "2026-08-15",
+      "time_utc": "22:40",
+      "time_utc1": "00:40",
+      "league": "MLB",
+      "title": "Cincinnati Reds vs Miami Marlins",
+      "team_home": "Cincinnati Reds",
+      "team_away": "Miami Marlins",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT35",
+            "url": "https://multi.govoet.cc/?envivo=188",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786833600
+    },
+    {
+      "date": "2026-08-15",
       "time_utc": "23:00",
       "time_utc1": "01:00",
       "league": "Liga Mx",
@@ -3836,6 +3639,28 @@
           {
             "channel": "EXTRA SPORT40",
             "url": "https://multi.govoet.cc/?envivo=193",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786835700
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "23:15",
+      "time_utc1": "01:15",
+      "league": "MLB",
+      "title": "Pittsburgh Pirates vs Boston Red Sox",
+      "team_home": "Pittsburgh Pirates",
+      "team_away": "Boston Red Sox",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
             "source": "cartelive"
           }
         ]
