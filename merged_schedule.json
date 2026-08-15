@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T14:23:49.901195",
+  "generated_at": "2026-08-15T14:45:29.712932",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 161,
+  "total_events": 160,
   "events": [
     {
       "date": "2026-08-15",
@@ -63,28 +63,6 @@
         ]
       },
       "startTimestamp": 1786791600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Championship",
-      "title": "Bolton vs Preston",
-      "team_home": "Bolton",
-      "team_away": "Preston",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786793400
     },
     {
       "date": "2026-08-15",
