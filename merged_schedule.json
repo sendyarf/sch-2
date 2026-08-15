@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T16:47:54.305473",
+  "generated_at": "2026-08-15T17:14:05.248681",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 157,
+  "total_events": 148,
   "events": [
     {
       "date": "2026-08-15",
@@ -178,151 +178,14 @@
       "date": "2026-08-15",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Brentford (Eng) vs Eintracht Frankfurt (Ger)",
-      "team_home": "Brentford (Eng)",
-      "team_away": "Eintracht Frankfurt (Ger)",
+      "league": null,
+      "title": "Newcastle United vs Bayer Leverkusen",
+      "team_home": "Newcastle United",
+      "team_away": "Bayer Leverkusen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
-          {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Brighton (Eng) vs Bologna (Ita)",
-      "team_home": "Brighton (Eng)",
-      "team_away": "Bologna (Ita)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Everton (Eng) vs Lille (Fra)",
-      "team_home": "Everton (Eng)",
-      "team_away": "Lille (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          },
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Amical Club",
-      "title": "Newcastle (Eng) vs Bayer Leverkusen (Ger)",
-      "team_home": "Newcastle (Eng)",
-      "team_away": "Bayer Leverkusen (Ger)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -344,165 +207,19 @@
       "date": "2026-08-15",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Bristol City vs Millwall",
-      "team_home": "Bristol City",
-      "team_away": "Millwall",
+      "league": null,
+      "title": "Brentford vs Eintracht Frankfurt",
+      "team_home": "Brentford",
+      "team_away": "Eintracht Frankfurt",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "pt-BR": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Charlton vs Derby",
-      "team_home": "Charlton",
-      "team_away": "Derby",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Middlesbrough vs Lincoln",
-      "team_home": "Middlesbrough",
-      "team_away": "Lincoln",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Norwich vs West Brom",
-      "team_home": "Norwich",
-      "team_away": "West Brom",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Portsmouth vs QPR",
-      "team_home": "Portsmouth",
-      "team_away": "QPR",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Stoke vs Swansea",
-      "team_home": "Stoke",
-      "team_away": "Swansea",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786802400
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Royale Union SG vs Waregem",
-      "team_home": "Royale Union SG",
-      "team_away": "Waregem",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -562,22 +279,40 @@
       "date": "2026-08-15",
       "time_utc": "14:45",
       "time_utc1": "16:45",
-      "league": null,
-      "title": "Manchester United vs Milan",
-      "team_home": "Manchester United",
-      "team_away": "Milan",
+      "league": "Amical Club",
+      "title": "Manchester Utd (Eng) vs AC Milan (Ita)",
+      "team_home": "Manchester Utd (Eng)",
+      "team_away": "AC Milan (Ita)",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=130",
+            "source": "cartelive"
+          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
           }
         ],
+        "de": [
+          {
+            "channel": "DE Sportdigital Fussball",
+            "url": "https://multi.govoet.cc/?envivo=125",
+            "source": "cartelive"
+          }
+        ],
         "it": [
+          {
+            "channel": "IT Zona DAZN",
+            "url": "https://multi.govoet.cc/?envivo=137",
+            "source": "cartelive"
+          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
@@ -586,13 +321,53 @@
         ],
         "pt": [
           {
+            "channel": "PT SPORT 2",
+            "url": "https://multi.govoet.cc/?envivo=145",
+            "source": "cartelive"
+          },
+          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
+        ],
+        "es": [
+          {
+            "channel": "beIN En español",
+            "url": "https://multi.govoet.cc/?envivo=69",
+            "source": "cartelive"
+          }
         ]
       },
       "startTimestamp": 1786805100
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Amical Club",
+      "title": "Fulham (Eng) vs Stuttgart (Ger)",
+      "team_home": "Fulham (Eng)",
+      "team_away": "Stuttgart (Ger)",
+      "sources": [
+        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "PT SPORT 3",
+            "url": "https://multi.govoet.cc/?envivo=146",
+            "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786806000
     },
     {
       "date": "2026-08-15",
@@ -611,28 +386,6 @@
             "channel": "ES LALIGA HYPERMOTION",
             "url": "https://multi.govoet.cc/?envivo=53",
             "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786806000
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": null,
-      "title": "Fulham vs Stuttgart",
-      "team_home": "Fulham",
-      "team_away": "Stuttgart",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
           }
         ]
       },
