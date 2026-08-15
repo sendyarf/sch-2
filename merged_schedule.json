@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:51:27.078406",
+  "generated_at": "2026-08-15T04:22:06.417190",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 193,
+  "total_events": 191,
   "events": [
     {
       "date": "2026-08-06",
@@ -566,50 +566,6 @@
         ]
       },
       "startTimestamp": 1786750200
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Correcaminos vs Tapatio",
-      "team_home": "Correcaminos",
-      "team_away": "Tapatio",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786755600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Zacatecas Mineros vs Venados",
-      "team_home": "Zacatecas Mineros",
-      "team_away": "Venados",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "LAS latin america sports",
-            "url": "https://multi.govoet.cc/?envivo=74",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786755600
     },
     {
       "date": "2026-08-15",
