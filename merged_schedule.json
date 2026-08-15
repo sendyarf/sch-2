@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T13:58:24.706287",
+  "generated_at": "2026-08-15T14:23:49.901195",
   "sources": [
     {
       "name": "cartelive",
@@ -18,106 +18,25 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 164,
+  "total_events": 161,
   "events": [
     {
       "date": "2026-08-15",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786791600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Greuther Furth vs Nurnberg",
-      "team_home": "Greuther Furth",
-      "team_away": "Nurnberg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786791600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "Hertha Berlin vs Heidenheim",
-      "team_home": "Hertha Berlin",
+      "league": null,
+      "title": "Hertha BSC vs Heidenheim",
+      "team_home": "Hertha BSC",
       "team_away": "Heidenheim",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786791600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Bundesliga 2",
-      "title": "VfL Osnabruck vs Magdeburg",
-      "team_home": "VfL Osnabruck",
-      "team_away": "Magdeburg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
           }
         ]
       },
