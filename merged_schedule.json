@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T15:13:02.076558",
+  "generated_at": "2026-08-15T15:34:30.203650",
   "sources": [
     {
       "name": "cartelive",
@@ -107,33 +107,6 @@
         ]
       },
       "startTimestamp": 1786796700
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Amical Club",
-      "title": "Werder Bremen (Ger) vs Auxerre (Fra)",
-      "team_home": "Werder Bremen (Ger)",
-      "team_away": "Auxerre (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 2",
-            "url": "https://multi.govoet.cc/?envivo=32",
-            "source": "cartelive"
-          },
-          {
-            "channel": "C+Live 7",
-            "url": "https://multi.govoet.cc/?envivo=37",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786797000
     },
     {
       "date": "2026-08-15",
@@ -256,6 +229,28 @@
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786800600
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "13:30",
+      "time_utc1": "15:30",
+      "league": "Amical Club",
+      "title": "Elversberg (Ger) vs Lorient (Fra)",
+      "team_home": "Elversberg (Ger)",
+      "team_away": "Lorient (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "C+Live 7",
+            "url": "https://multi.govoet.cc/?envivo=37",
+            "source": "cartelive"
           }
         ]
       },
