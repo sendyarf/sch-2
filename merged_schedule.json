@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T18:19:55.367269",
+  "generated_at": "2026-08-15T18:53:34.786080",
   "sources": [
     {
       "name": "cartelive",
@@ -309,60 +309,15 @@
       "date": "2026-08-15",
       "time_utc": "15:30",
       "time_utc1": "17:30",
-      "league": "Amical Club",
-      "title": "Angers (Fra) vs Paris FC (Fra)",
-      "team_home": "Angers (Fra)",
-      "team_away": "Paris FC (Fra)",
+      "league": null,
+      "title": "Borussia Dortmund vs Roma",
+      "team_home": "Borussia Dortmund",
+      "team_away": "Roma",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 5",
-            "url": "https://multi.govoet.cc/?envivo=35",
-            "source": "cartelive"
-          },
-          {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786807800
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "15:30",
-      "time_utc1": "17:30",
-      "league": "Amical Club",
-      "title": "Dortmund (Ger) vs AS Roma (Ita)",
-      "team_home": "Dortmund (Ger)",
-      "team_away": "AS Roma (Ita)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -371,6 +326,28 @@
         ]
       },
       "startTimestamp": 1786807800
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": "Amical Club",
+      "title": "Le Mans (Fra) vs Le Havre (Fra)",
+      "team_home": "Le Mans (Fra)",
+      "team_away": "Le Havre (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "C+Live 6",
+            "url": "https://multi.govoet.cc/?envivo=36",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786809600
     },
     {
       "date": "2026-08-15",
