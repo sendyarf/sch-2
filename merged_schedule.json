@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T04:58:14.041724",
+  "generated_at": "2026-08-16T05:54:01.462186",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 47,
+  "total_events": 45,
   "events": [
     {
       "date": "2026-08-14",
@@ -235,50 +235,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Los Angeles FC vs San Diego FC",
-      "team_home": "Los Angeles FC",
-      "team_away": "San Diego FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786847400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "San Jose Earthquakes vs St. Louis City",
-      "team_home": "San Jose Earthquakes",
-      "team_away": "St. Louis City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786847400
     },
     {
       "date": "2026-08-16",
