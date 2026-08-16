@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:41:40.779095",
+  "generated_at": "2026-08-16T21:55:34.215736",
   "sources": [
     {
       "name": "cartelive",
@@ -579,67 +579,19 @@
       "date": "2026-08-16",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Coppa Italia",
-      "title": "Verona vs Entella",
-      "team_home": "Verona",
-      "team_away": "Entella",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786905900
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Trophée Des Champions",
+      "league": null,
       "title": "Lens vs Paris Saint-Germain",
       "team_home": "Lens",
       "team_away": "Paris Saint-Germain",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
           }
         ],
         "nl": [
@@ -653,6 +605,28 @@
           {
             "channel": "SPORTTV3",
             "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786905900
+    },
+    {
+      "date": "2026-08-16",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Verona vs Virtus Entella",
+      "team_home": "Verona",
+      "team_away": "Virtus Entella",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
