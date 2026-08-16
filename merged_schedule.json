@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:14:15.841573",
+  "generated_at": "2026-08-16T15:36:22.922304",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 92,
+  "total_events": 91,
   "events": [
     {
       "date": "2026-08-16",
@@ -112,28 +112,15 @@
       "date": "2026-08-16",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Championship",
+      "league": null,
       "title": "Watford vs Southampton",
       "team_home": "Watford",
       "team_away": "Southampton",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -147,75 +134,19 @@
       "date": "2026-08-16",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Feyenoord vs G.A. Eagles",
+      "league": null,
+      "title": "Feyenoord vs Go Ahead Eagles",
       "team_home": "Feyenoord",
-      "team_away": "G.A. Eagles",
+      "team_away": "Go Ahead Eagles",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786883400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Twente vs Zwolle",
-      "team_home": "Twente",
-      "team_away": "Zwolle",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
           }
         ]
       },
