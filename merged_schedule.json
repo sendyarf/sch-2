@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:53:58.717561",
+  "generated_at": "2026-08-16T18:18:09.820496",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 88,
+  "total_events": 86,
   "events": [
     {
       "date": "2026-08-16",
@@ -309,115 +309,19 @@
       "date": "2026-08-16",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Newcastle (Eng) vs Strasbourg (Fra)",
-      "team_home": "Newcastle (Eng)",
-      "team_away": "Strasbourg (Fra)",
+      "league": null,
+      "title": "Rangers vs St. Mirren",
+      "team_home": "Rangers",
+      "team_away": "St. Mirren",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786892400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Amical Club",
-      "title": "Schalke (Ger) vs Real Madrid (Esp)",
-      "team_home": "Schalke (Ger)",
-      "team_away": "Real Madrid (Esp)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 18",
-            "url": "https://multi.govoet.cc/?envivo=48",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga2",
-            "url": "https://multi.govoet.cc/?envivo=50",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786892400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "15:00",
-      "time_utc1": "17:00",
-      "league": "Championship",
-      "title": "Burnley vs West Ham",
-      "team_home": "Burnley",
-      "team_away": "West Ham",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
           }
         ]
       },
@@ -427,54 +331,19 @@
       "date": "2026-08-16",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Racing Santander vs Villarreal",
       "team_home": "Racing Santander",
       "team_away": "Villarreal",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -491,19 +360,19 @@
       "date": "2026-08-16",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Laliga 2",
-      "title": "Eibar vs Tenerife",
-      "team_home": "Eibar",
-      "team_away": "Tenerife",
+      "league": null,
+      "title": "Schalke 04 vs Real Madrid",
+      "team_home": "Schalke 04",
+      "team_away": "Real Madrid",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -514,17 +383,17 @@
       "time_utc": "15:00",
       "time_utc1": "17:00",
       "league": null,
-      "title": "Rangers vs St. Mirren",
-      "team_home": "Rangers",
-      "team_away": "St. Mirren",
+      "title": "Burnley vs West Ham United",
+      "team_home": "Burnley",
+      "team_away": "West Ham United",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
