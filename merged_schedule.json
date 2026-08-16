@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:13:30.227580",
+  "generated_at": "2026-08-16T20:38:14.882694",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 78,
+  "total_events": 75,
   "events": [
     {
       "date": "2026-08-16",
@@ -530,72 +530,6 @@
         ]
       },
       "startTimestamp": 1786899600
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "17:15",
-      "time_utc1": "19:15",
-      "league": "Pro League",
-      "title": "Lommel SK vs Charleroi",
-      "team_home": "Lommel SK",
-      "team_away": "Charleroi",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786900500
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Arizona Diamondbacks",
-      "team_home": "Atlanta Braves",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786901700
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "17:35",
-      "time_utc1": "19:35",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs Boston Red Sox",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786901700
     },
     {
       "date": "2026-08-16",
