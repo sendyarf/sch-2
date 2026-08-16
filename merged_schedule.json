@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T15:56:03.643440",
+  "generated_at": "2026-08-16T16:18:25.803261",
   "sources": [
     {
       "name": "cartelive",
@@ -151,40 +151,6 @@
         ]
       },
       "startTimestamp": 1786883400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Amical Club",
-      "title": "Nottingham (Eng) vs Brest (Fra)",
-      "team_home": "Nottingham (Eng)",
-      "team_away": "Brest (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 2",
-            "url": "https://multi.govoet.cc/?envivo=32",
-            "source": "cartelive"
-          },
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786885200
     },
     {
       "date": "2026-08-16",
@@ -461,6 +427,35 @@
         ]
       },
       "startTimestamp": 1786891500
+    },
+    {
+      "date": "2026-08-16",
+      "time_utc": "15:00",
+      "time_utc1": "17:00",
+      "league": "Amical Club",
+      "title": "Newcastle (Eng) vs Strasbourg (Fra)",
+      "team_home": "Newcastle (Eng)",
+      "team_away": "Strasbourg (Fra)",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "LIGUE 1 FR 1",
+            "url": "https://multi.govoet.cc/?envivo=20",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ESPN5",
+            "url": "https://multi.govoet.cc/?envivo=91",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1786892400
     },
     {
       "date": "2026-08-16",
