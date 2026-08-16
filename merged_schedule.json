@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:13:31.389118",
+  "generated_at": "2026-08-16T17:33:34.320480",
   "sources": [
     {
       "name": "cartelive",
@@ -214,21 +214,15 @@
       "date": "2026-08-16",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Amical Club",
-      "title": "Basel (Sui) vs Barcelona (Esp)",
-      "team_home": "Basel (Sui)",
-      "team_away": "Barcelona (Esp)",
+      "league": null,
+      "title": "Basel vs Barcelona",
+      "team_home": "Basel",
+      "team_away": "Barcelona",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES DAZN liga2",
-            "url": "https://multi.govoet.cc/?envivo=52",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -242,21 +236,15 @@
       "date": "2026-08-16",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Nacional vs Estoril",
       "team_home": "Nacional",
       "team_away": "Estoril",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
