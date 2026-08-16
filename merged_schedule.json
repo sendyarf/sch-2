@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:15:52.266239",
+  "generated_at": "2026-08-16T19:41:28.913468",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 83,
+  "total_events": 81,
   "events": [
     {
       "date": "2026-08-16",
@@ -426,54 +426,19 @@
       "date": "2026-08-16",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Nublense vs Union La Calera",
-      "team_home": "Nublense",
-      "team_away": "Union La Calera",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786897800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Genoa vs Ascoli",
       "team_home": "Genoa",
       "team_away": "Ascoli",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -481,28 +446,6 @@
             "channel": "SPORTTV3",
             "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786897800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "KV Mechelen vs St. Liege",
-      "team_home": "KV Mechelen",
-      "team_away": "St. Liege",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
