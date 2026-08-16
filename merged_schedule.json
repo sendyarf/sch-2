@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:17:13.278146",
+  "generated_at": "2026-08-16T21:41:40.779095",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 65,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-08-16",
@@ -552,69 +552,6 @@
         ]
       },
       "startTimestamp": 1786903200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Amedspor vs Erzurumspor",
-      "team_home": "Amedspor",
-      "team_away": "Erzurumspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786905000
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Besiktas vs Eyupspor",
-      "team_home": "Besiktas",
-      "team_away": "Eyupspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786905000
     },
     {
       "date": "2026-08-16",
