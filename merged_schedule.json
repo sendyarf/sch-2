@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T21:55:34.215736",
+  "generated_at": "2026-08-16T22:13:59.606216",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 60,
   "events": [
     {
       "date": "2026-08-16",
@@ -637,88 +637,14 @@
       "date": "2026-08-16",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Cobresal vs D. Concepcion",
-      "team_home": "Cobresal",
-      "team_away": "D. Concepcion",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786906800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Orense vs Dep. Cuenca",
-      "team_home": "Orense",
-      "team_away": "Dep. Cuenca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786906800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Serie A Bresil",
-      "title": "Atletico-MG vs Gremio",
-      "team_home": "Atletico-MG",
-      "team_away": "Gremio",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786906800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Serie A Bresil",
-      "title": "Vasco vs Santos",
-      "team_home": "Vasco",
+      "league": null,
+      "title": "Vasco da Gama vs Santos",
+      "team_home": "Vasco da Gama",
       "team_away": "Santos",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR4",
