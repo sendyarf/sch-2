@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T03:30:53.032221",
+  "generated_at": "2026-08-16T04:19:41.303938",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 51,
   "events": [
     {
       "date": "2026-08-14",
@@ -193,121 +193,17 @@
       "startTimestamp": 1786755600
     },
     {
-      "date": "2026-08-16",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Cancun vs Alacranes de Durango",
-      "team_home": "Cancun",
-      "team_away": "Alacranes de Durango",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786842000
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Dorados de Sinaloa vs Tlaxcala",
-      "team_home": "Dorados de Sinaloa",
-      "team_away": "Tlaxcala",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786842000
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "UFC",
-      "title": "Makhachev vs Machado Garry",
-      "team_home": "Makhachev",
-      "team_away": "Machado Garry",
-      "sources": [
-        "cartelive",
-        "manual"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "rmc sport1",
-            "url": "https://multi.govoet.cc/?envivo=17",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "CH-EN",
-            "url": "https://multi.govoet.cc/?iframe=https://cdx-08192.website/embed/ufc330-en",
-            "source": "manual"
-          },
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "UK F1",
-            "url": "https://multi.govoet.cc/?envivo=134",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786842000
-    },
-    {
-      "date": "2026-08-16",
+      "date": "2026-08-15",
       "time_utc": "01:10",
       "time_utc1": "03:10",
-      "league": "Liga Mx",
-      "title": "Monterrey vs Juarez",
+      "league": null,
+      "title": "Monterrey vs Juárez",
       "team_home": "Monterrey",
-      "team_away": "Juarez",
+      "team_away": "Juárez",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD11",
@@ -316,7 +212,29 @@
           }
         ]
       },
-      "startTimestamp": 1786842600
+      "startTimestamp": 1786756200
+    },
+    {
+      "date": "2026-08-16",
+      "time_utc": "00:55",
+      "time_utc1": "02:55",
+      "league": "USA - UFC",
+      "title": "Makhachev vs Machado Garry",
+      "team_home": "Makhachev",
+      "team_away": "Machado Garry",
+      "sources": [
+        "manual"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?iframe=https://cdx-08192.website/embed/ufc330-en",
+            "source": "manual"
+          }
+        ]
+      },
+      "startTimestamp": 1786841700
     },
     {
       "date": "2026-08-16",
