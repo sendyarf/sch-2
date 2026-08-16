@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T17:33:34.320480",
+  "generated_at": "2026-08-16T17:53:58.717561",
   "sources": [
     {
       "name": "cartelive",
@@ -280,39 +280,19 @@
       "date": "2026-08-16",
       "time_utc": "14:45",
       "time_utc1": "16:45",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Ajax vs Heerenveen",
       "team_home": "Ajax",
       "team_away": "Heerenveen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
           {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
           }
         ],
         "pt": [
