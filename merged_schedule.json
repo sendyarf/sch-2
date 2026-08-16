@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T20:56:59.617785",
+  "generated_at": "2026-08-16T21:17:13.278146",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 70,
+  "total_events": 65,
   "events": [
     {
       "date": "2026-08-16",
@@ -535,87 +535,15 @@
       "date": "2026-08-16",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Defensor Sp. vs Liverpool M.",
-      "team_home": "Defensor Sp.",
-      "team_away": "Liverpool M.",
+      "league": null,
+      "title": "Sarmiento vs Huracán",
+      "team_home": "Sarmiento",
+      "team_away": "Huracán",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786903200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga de Expansión MX",
-      "title": "Leones Negros vs Jaiba Brava",
-      "team_home": "Leones Negros",
-      "team_away": "Jaiba Brava",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786903200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Liga Mx",
-      "title": "UNAM Pumas vs Queretaro",
-      "team_home": "UNAM Pumas",
-      "team_away": "Queretaro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786903200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Torneo LPF",
-      "title": "Sarmiento Junin vs Huracan",
-      "team_home": "Sarmiento Junin",
-      "team_away": "Huracan",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -624,50 +552,6 @@
         ]
       },
       "startTimestamp": 1786903200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Minnesota Twins vs Philadelphia Phillies",
-      "team_home": "Minnesota Twins",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786903800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Moquegua vs Sport Boys",
-      "team_home": "Moquegua",
-      "team_away": "Sport Boys",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786904100
     },
     {
       "date": "2026-08-16",
