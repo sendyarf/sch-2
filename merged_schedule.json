@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:33:35.982014",
+  "generated_at": "2026-08-16T03:30:53.032221",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 59,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-08-14",
@@ -73,6 +73,91 @@
     },
     {
       "date": "2026-08-15",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "São Paulo vs Coritiba",
+      "team_home": "São Paulo",
+      "team_away": "Coritiba",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          },
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786752000
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": null,
+      "title": "Platense vs Boca Juniors",
+      "team_home": "Platense",
+      "team_away": "Boca Juniors",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786752900
+    },
+    {
+      "date": "2026-08-15",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Nashville SC vs Inter Miami",
+      "team_home": "Nashville SC",
+      "team_away": "Inter Miami",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1786753800
+    },
+    {
+      "date": "2026-08-15",
       "time_utc": "01:00",
       "time_utc1": "03:00",
       "league": "UFC 330",
@@ -106,254 +191,6 @@
         ]
       },
       "startTimestamp": 1786755600
-    },
-    {
-      "date": "2026-08-15",
-      "time_utc": "12:25",
-      "time_utc1": "14:25",
-      "league": "Club Friendly",
-      "title": "Sabah vs Persib",
-      "team_home": "Sabah",
-      "team_away": "Persib",
-      "sources": [
-        "manual"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "CH-ID",
-            "url": "https://content-player.pages.dev/play?replay=uYi27Ono5UE",
-            "source": "manual"
-          }
-        ]
-      },
-      "startTimestamp": 1786796700
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "Everton vs A. Italiano",
-      "team_home": "Everton",
-      "team_away": "A. Italiano",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786838400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "Mushuc Runa vs Barcelona SC",
-      "team_home": "Mushuc Runa",
-      "team_away": "Barcelona SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786838400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NFL",
-      "title": "Seattle Seahawks vs Dallas Cowboys",
-      "team_home": "Seattle Seahawks",
-      "team_away": "Dallas Cowboys",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786838400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Serie A Bresil",
-      "title": "Sao Paulo vs Coritiba",
-      "team_home": "Sao Paulo",
-      "team_away": "Coritiba",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "BR4",
-            "url": "https://multi.govoet.cc/?ss=br4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786838400
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "Torneo LPF",
-      "title": "Platense vs Boca Juniors",
-      "team_home": "Platense",
-      "team_away": "Boca Juniors",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786839300
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Alianza Lima vs Cajamarca",
-      "team_home": "Alianza Lima",
-      "team_away": "Cajamarca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786840200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "MLS",
-      "title": "Houston Dynamo vs Los Angeles Galaxy",
-      "team_home": "Houston Dynamo",
-      "team_away": "Los Angeles Galaxy",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786840200
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "MLS",
-      "title": "Nashville SC vs Inter Miami",
-      "team_home": "Nashville SC",
-      "team_away": "Inter Miami",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786840200
     },
     {
       "date": "2026-08-16",
@@ -408,7 +245,8 @@
       "team_home": "Makhachev",
       "team_away": "Machado Garry",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "manual"
       ],
       "streams_by_language": {
         "fr": [
@@ -419,6 +257,11 @@
           }
         ],
         "en": [
+          {
+            "channel": "CH-EN",
+            "url": "https://multi.govoet.cc/?iframe=https://cdx-08192.website/embed/ufc330-en",
+            "source": "manual"
+          },
           {
             "channel": "UK TNT SPORT",
             "url": "https://multi.govoet.cc/?envivo=126",
