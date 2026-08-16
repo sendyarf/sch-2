@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:53:50.285836",
+  "generated_at": "2026-08-16T20:13:30.227580",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 81,
+  "total_events": 78,
   "events": [
     {
       "date": "2026-08-16",
@@ -455,68 +455,19 @@
       "date": "2026-08-16",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Anorthosis (Cyp) vs APOEL (Cyp)",
-      "team_home": "Anorthosis (Cyp)",
-      "team_away": "APOEL (Cyp)",
+      "league": null,
+      "title": "Liverpool vs Como",
+      "team_home": "Liverpool",
+      "team_away": "Como",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786899600
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Amical Club",
-      "title": "Liverpool (Eng) vs Como (Ita)",
-      "team_home": "Liverpool (Eng)",
-      "team_away": "Como (Ita)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 18",
-            "url": "https://multi.govoet.cc/?envivo=48",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
           }
         ],
         "it": [
@@ -533,38 +484,15 @@
       "date": "2026-08-16",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Espanyol vs Levante",
       "team_home": "Espanyol",
       "team_away": "Levante",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -585,76 +513,19 @@
       "date": "2026-08-16",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Burgos CF vs Cordoba",
-      "team_home": "Burgos CF",
-      "team_away": "Cordoba",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION2",
-            "url": "https://multi.govoet.cc/?envivo=54",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786899600
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Girona vs Leganes",
-      "team_home": "Girona",
-      "team_away": "Leganes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786899600
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Arouca vs Moreirense",
       "team_home": "Arouca",
       "team_away": "Moreirense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
           {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV2",
             "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ]
       },
