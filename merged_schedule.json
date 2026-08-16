@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:53:31.243122",
+  "generated_at": "2026-08-16T19:15:52.266239",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 86,
+  "total_events": 83,
   "events": [
     {
       "date": "2026-08-16",
@@ -404,102 +404,23 @@
       "date": "2026-08-16",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Frosinone vs Juve Stabia",
       "team_home": "Frosinone",
       "team_away": "Juve Stabia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "directv+",
-            "url": "https://multi.govoet.cc/?envivo=96",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1786896000
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sporting Cristal vs Sport Huancayo",
-      "team_home": "Sporting Cristal",
-      "team_away": "Sport Huancayo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786896000
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Super Lig",
-      "title": "Basaksehir vs Kocaelispor",
-      "team_home": "Basaksehir",
-      "team_away": "Kocaelispor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786896000
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Baltimore Orioles",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786896900
     },
     {
       "date": "2026-08-16",
