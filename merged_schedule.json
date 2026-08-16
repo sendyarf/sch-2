@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T14:27:44.755548",
+  "generated_at": "2026-08-16T14:48:39.726856",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 96,
+  "total_events": 92,
   "events": [
     {
       "date": "2026-08-16",
@@ -90,129 +90,19 @@
       "date": "2026-08-16",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786879800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Arminia Bielefeld vs Cottbus",
-      "team_home": "Arminia Bielefeld",
-      "team_away": "Cottbus",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786879800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Hannover vs Wolfsburg",
-      "team_home": "Hannover",
+      "league": null,
+      "title": "Hannover 96 vs Wolfsburg",
+      "team_home": "Hannover 96",
       "team_away": "Wolfsburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN2",
             "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786879800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "SG Dynamo Dresden vs Darmstadt",
-      "team_home": "SG Dynamo Dresden",
-      "team_away": "Darmstadt",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786879800
-    },
-    {
-      "date": "2026-08-16",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Beveren vs Anderlecht",
-      "team_home": "Beveren",
-      "team_away": "Anderlecht",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
           }
         ]
       },
