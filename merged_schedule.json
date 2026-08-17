@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T18:27:49.613143",
+  "generated_at": "2026-08-17T19:07:07.164362",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 56,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-08-16",
@@ -68,54 +68,26 @@
       "date": "2026-08-17",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Pisa vs Empoli",
       "team_home": "Pisa",
       "team_away": "Empoli",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1786982400
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Saudi King Cup",
-      "title": "Al Anwar vs Al Ahli SC",
-      "team_home": "Al Anwar",
-      "team_away": "Al Ahli SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "ar": [
+        ],
+        "it": [
           {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
