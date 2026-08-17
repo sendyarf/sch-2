@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:29:18.160809",
+  "generated_at": "2026-08-17T06:00:45.385487",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 27,
+  "total_events": 25,
   "events": [
     {
       "date": "2026-08-16",
@@ -41,50 +41,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Seattle Sounders vs Vancouver Whitecaps",
-      "team_home": "Seattle Sounders",
-      "team_away": "Vancouver Whitecaps",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786933800
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Club Tijuana vs Cruz Azul",
-      "team_home": "Club Tijuana",
-      "team_away": "Cruz Azul",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786935600
     },
     {
       "date": "2026-08-17",
