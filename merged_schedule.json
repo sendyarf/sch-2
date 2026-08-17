@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T19:07:07.164362",
+  "generated_at": "2026-08-17T20:26:31.161749",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 54,
   "events": [
     {
       "date": "2026-08-16",
@@ -117,56 +117,21 @@
     },
     {
       "date": "2026-08-17",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Saudi King Cup",
-      "title": "Al Taee vs Al Qadsiah",
-      "team_home": "Al Taee",
-      "team_away": "Al Qadsiah",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786983300
-    },
-    {
-      "date": "2026-08-17",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Sassuolo vs Cesena",
       "team_home": "Sassuolo",
       "team_away": "Cesena",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -183,22 +148,14 @@
       "date": "2026-08-17",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Gijon vs Sabadell",
-      "team_home": "Gijon",
+      "league": null,
+      "title": "Sporting Gijón vs Sabadell",
+      "team_home": "Sporting Gijón",
       "team_away": "Sabadell",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN1",
