@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:26:31.161749",
+  "generated_at": "2026-08-17T20:52:24.887500",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 54,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-08-16",
@@ -168,45 +168,17 @@
     },
     {
       "date": "2026-08-17",
-      "time_utc": "17:40",
-      "time_utc1": "19:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs St.Louis Cardinals",
-      "team_home": "Cincinnati Reds",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786988400
-    },
-    {
-      "date": "2026-08-17",
       "time_utc": "17:45",
       "time_utc1": "19:45",
-      "league": "Torneo LPF",
-      "title": "Estudiantes Rio Cuarto vs Atl. Tucuman",
-      "team_home": "Estudiantes Rio Cuarto",
-      "team_away": "Atl. Tucuman",
+      "league": null,
+      "title": "Estudiantes Río Cuarto vs Atlético Tucumán",
+      "team_home": "Estudiantes Río Cuarto",
+      "team_away": "Atlético Tucumán",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
