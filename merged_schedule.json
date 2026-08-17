@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:52:24.887500",
+  "generated_at": "2026-08-17T21:47:50.382974",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 52,
   "events": [
     {
       "date": "2026-08-16",
@@ -192,47 +192,19 @@
       "date": "2026-08-17",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Coupe De Grèce",
-      "title": "Iraklis 1908 vs Volos",
-      "team_home": "Iraklis 1908",
-      "team_away": "Volos",
+      "league": null,
+      "title": "Iraklis Saloniki vs Volos NFC",
+      "team_home": "Iraklis Saloniki",
+      "team_away": "Volos NFC",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
           {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786989600
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi King Cup",
-      "title": "Al Raed vs Al Hilal",
-      "team_home": "Al Raed",
-      "team_away": "Al Hilal",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "ar": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
           }
         ]
       },
@@ -264,22 +236,14 @@
       "date": "2026-08-17",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Samsunspor vs Goztepe",
+      "league": null,
+      "title": "Samsunspor vs Göztepe",
       "team_home": "Samsunspor",
-      "team_away": "Goztepe",
+      "team_away": "Göztepe",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD3",
@@ -294,32 +258,19 @@
       "date": "2026-08-17",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Cremonese vs Sampdoria",
       "team_home": "Cremonese",
       "team_away": "Sampdoria",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
           {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
           }
         ]
       },
