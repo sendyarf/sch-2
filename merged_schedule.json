@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:25:44.891204",
+  "generated_at": "2026-08-17T05:29:18.160809",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 29,
+  "total_events": 27,
   "events": [
     {
       "date": "2026-08-16",
@@ -41,65 +41,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "MLS",
-      "title": "Austin FC vs FC Dallas",
-      "team_home": "Austin FC",
-      "team_away": "FC Dallas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786926600
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "01:10",
-      "time_utc1": "03:10",
-      "league": "Liga Mx",
-      "title": "Santos Laguna vs Guadalajara Chivas",
-      "team_home": "Santos Laguna",
-      "team_away": "Guadalajara Chivas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1786929000
     },
     {
       "date": "2026-08-17",
