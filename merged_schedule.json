@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:47:50.382974",
+  "generated_at": "2026-08-17T23:16:01.782423",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 52,
+  "total_events": 51,
   "events": [
     {
       "date": "2026-08-16",
@@ -280,48 +280,50 @@
       "date": "2026-08-17",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Cardiff vs Wrexham",
-      "team_home": "Cardiff",
-      "team_away": "Wrexham",
+      "league": null,
+      "title": "Deportivo La Coruña vs Elche",
+      "team_home": "Deportivo La Coruña",
+      "team_away": "Elche",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "es": [
           {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
-        "de": [
+        "pt": [
           {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
           }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          }
-        ],
+        ]
+      },
+      "startTimestamp": 1786993200
+    },
+    {
+      "date": "2026-08-17",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Cardiff City vs Wrexham",
+      "team_home": "Cardiff City",
+      "team_away": "Wrexham",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "unknown": [
           {
             "channel": "HD1",
@@ -348,154 +350,21 @@
     },
     {
       "date": "2026-08-17",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Dep. A Coruna vs Elche",
-      "team_home": "Dep. A Coruna",
-      "team_away": "Elche",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786993200
-    },
-    {
-      "date": "2026-08-17",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Coppa Italia",
-      "title": "Palermo vs Lecce",
-      "team_home": "Palermo",
-      "team_away": "Lecce",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv+",
-            "url": "https://multi.govoet.cc/?envivo=96",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1786994100
-    },
-    {
-      "date": "2026-08-17",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Casa Pia vs Benfica",
       "team_home": "Casa Pia",
       "team_away": "Benfica",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
           }
         ],
         "pt-BR": [
@@ -510,25 +379,32 @@
     },
     {
       "date": "2026-08-17",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Laliga 2",
-      "title": "Almeria vs Eldense",
-      "team_home": "Almeria",
-      "team_away": "Eldense",
+      "time_utc": "19:15",
+      "time_utc1": "21:15",
+      "league": null,
+      "title": "Palermo vs Lecce",
+      "team_home": "Palermo",
+      "team_away": "Lecce",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "it": [
           {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1786995000
+      "startTimestamp": 1786994100
     },
     {
       "date": "2026-08-17",
@@ -556,21 +432,15 @@
       "date": "2026-08-17",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Torneo LPF",
-      "title": "Lanus vs Independiente",
-      "team_home": "Lanus",
+      "league": null,
+      "title": "Lanús vs Independiente",
+      "team_home": "Lanús",
       "team_away": "Independiente",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
