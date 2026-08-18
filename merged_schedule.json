@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:45:01.909749",
+  "generated_at": "2026-08-18T22:27:03.272980",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 53,
   "events": [
     {
       "date": "2026-08-16",
@@ -156,137 +156,25 @@
       "date": "2026-08-18",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Din. Zagreb (Cro) vs Viking (Nor)",
-      "team_home": "Din. Zagreb (Cro)",
-      "team_away": "Viking (Nor)",
+      "league": null,
+      "title": "Levski Sofia vs AEK Athens",
+      "team_home": "Levski Sofia",
+      "team_away": "AEK Athens",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787079600
-    },
-    {
-      "date": "2026-08-18",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Fenerbahce (Tur) vs Lyon (Fra)",
-      "team_home": "Fenerbahce (Tur)",
-      "team_away": "Lyon (Fra)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787079600
-    },
-    {
-      "date": "2026-08-18",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Des Champions",
-      "title": "Levski Sofia (Bul) vs AEK Athens (Gre)",
-      "team_home": "Levski Sofia (Bul)",
-      "team_away": "AEK Athens (Gre)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "el": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
           }
         ]
