@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T03:25:53.010571",
+  "generated_at": "2026-08-18T04:05:29.522535",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 41,
+  "total_events": 39,
   "events": [
     {
       "date": "2026-08-16",
@@ -520,51 +520,15 @@
       "date": "2026-08-18",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Palestino vs Huachipato",
-      "team_home": "Palestino",
-      "team_away": "Huachipato",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787013000
-    },
-    {
-      "date": "2026-08-18",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Torneo LPF",
-      "title": "Gimnasia Mendoza vs Talleres Cordoba",
+      "league": null,
+      "title": "Gimnasia Mendoza vs Talleres Córdoba",
       "team_home": "Gimnasia Mendoza",
-      "team_away": "Talleres Cordoba",
+      "team_away": "Talleres Córdoba",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -583,47 +547,25 @@
     },
     {
       "date": "2026-08-18",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
-      "team_home": "Colorado Rockies",
-      "team_away": "Los Angeles Dodgers",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Palestino vs Huachipato",
+      "team_home": "Palestino",
+      "team_away": "Huachipato",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "it": [
           {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1787013600
-    },
-    {
-      "date": "2026-08-18",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Necaxa vs Club Leon",
-      "team_home": "Necaxa",
-      "team_away": "Club Leon",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787014800
+      "startTimestamp": 1787013000
     },
     {
       "date": "2026-08-18",
