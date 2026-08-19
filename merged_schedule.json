@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:18:27.164121",
+  "generated_at": "2026-08-19T21:48:07.588728",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 53,
+  "total_events": 52,
   "events": [
     {
       "date": "2026-08-16",
@@ -151,28 +151,6 @@
         ]
       },
       "startTimestamp": 1787162400
-    },
-    {
-      "date": "2026-08-19",
-      "time_utc": "18:20",
-      "time_utc1": "20:20",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Chicago White Sox",
-      "team_home": "Chicago Cubs",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787163600
     },
     {
       "date": "2026-08-19",
