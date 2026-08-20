@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:54:01.437436",
+  "generated_at": "2026-08-20T21:20:31.588357",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 63,
+  "total_events": 52,
   "events": [
     {
       "date": "2026-08-16",
@@ -156,186 +156,19 @@
       "date": "2026-08-20",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Drita (Kos) vs Inter Escaldes (And)",
-      "team_home": "Drita (Kos)",
-      "team_away": "Inter Escaldes (And)",
+      "league": null,
+      "title": "Górnik Zabrze vs Monaco",
+      "team_home": "Górnik Zabrze",
+      "team_away": "Monaco",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT5",
-            "url": "https://multi.govoet.cc/?envivo=159",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Gornik Zabrze (Pol) vs Monaco (Fra)",
-      "team_home": "Gornik Zabrze (Pol)",
-      "team_away": "Monaco (Fra)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 2",
-            "url": "https://multi.govoet.cc/?envivo=32",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Twente (Ned) vs Qarabag (Aze)",
-      "team_home": "Twente (Ned)",
-      "team_away": "Qarabag (Aze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Conference League",
-      "title": "Vikingur Reykjavik (Ice) vs Borac Banja Luka (Bih)",
-      "team_home": "Vikingur Reykjavik (Ice)",
-      "team_away": "Borac Banja Luka (Bih)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Europa",
-      "title": "Crvena zvezda (Srb) vs Plzen (Cze)",
-      "team_home": "Crvena zvezda (Srb)",
-      "team_away": "Plzen (Cze)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Europa",
-      "title": "OFI Crete (Gre) vs CSKA Sofia (Bul)",
-      "team_home": "OFI Crete (Gre)",
-      "team_away": "CSKA Sofia (Bul)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Ligue Europa",
-      "title": "St. Truiden (Bel) vs Omonia (Cyp)",
-      "team_home": "St. Truiden (Bel)",
-      "team_away": "Omonia (Cyp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Fayha vs Al Hilal",
-      "team_home": "Al Fayha",
-      "team_away": "Al Hilal",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
           }
         ]
       },
@@ -406,94 +239,6 @@
         ]
       },
       "startTimestamp": 1787248800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Atlanta Braves",
-      "team_home": "Chicago White Sox",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787249400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Athletics",
-      "team_home": "Kansas City Royals",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787249400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Seattle Mariners",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787249400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:15",
-      "time_utc1": "20:15",
-      "league": "Conference League",
-      "title": "Sion (Sui) vs Ajax (Ned)",
-      "team_home": "Sion (Sui)",
-      "team_away": "Ajax (Ned)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787249700
     },
     {
       "date": "2026-08-20",
