@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T02:41:41.171937",
+  "generated_at": "2026-08-20T04:07:25.754104",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 45,
+  "total_events": 38,
   "events": [
     {
       "date": "2026-08-16",
@@ -44,6 +44,28 @@
     },
     {
       "date": "2026-08-19",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "Sporting KC vs St. Louis City",
+      "team_home": "Sporting KC",
+      "team_away": "St. Louis City",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787097600
+    },
+    {
+      "date": "2026-08-19",
       "time_utc": "00:30",
       "time_utc1": "02:30",
       "league": null,
@@ -58,6 +80,42 @@
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787099400
+    },
+    {
+      "date": "2026-08-19",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Santa Fe vs River Plate",
+      "team_home": "Santa Fe",
+      "team_away": "River Plate",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ]
@@ -88,174 +146,16 @@
     },
     {
       "date": "2026-08-19",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Athletics",
-      "team_home": "Kansas City Royals",
-      "team_away": "Athletics",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
+      "league": null,
+      "title": "Flamengo vs Cruzeiro",
+      "team_home": "Flamengo",
+      "team_away": "Cruzeiro",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT37",
-            "url": "https://multi.govoet.cc/?envivo=190",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787182800
-    },
-    {
-      "date": "2026-08-19",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Milwaukee Brewers vs Seattle Mariners",
-      "team_home": "Milwaukee Brewers",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787182800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "MLS",
-      "title": "Sporting Kansas City vs St. Louis City",
-      "team_home": "Sporting Kansas City",
-      "team_away": "St. Louis City",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787184000
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:05",
-      "time_utc1": "02:05",
-      "league": "MLB",
-      "title": "Texas Rangers vs Washington Nationals",
-      "team_home": "Texas Rangers",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787184300
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:10",
-      "time_utc1": "02:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Los Angeles Angels",
-      "team_home": "Houston Astros",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787184600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Colombia",
-      "title": "Once Caldas vs Alianza",
-      "team_home": "Once Caldas",
-      "team_away": "Alianza",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787185800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Flamengo RJ (Bra) vs Cruzeiro (Bra)",
-      "team_home": "Flamengo RJ (Bra)",
-      "team_away": "Cruzeiro (Bra)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV1",
@@ -271,125 +171,20 @@
           }
         ]
       },
-      "startTimestamp": 1787185800
+      "startTimestamp": 1787099400
     },
     {
       "date": "2026-08-20",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Montevideo City (Uru) vs Tigre (Arg)",
-      "team_home": "Montevideo City (Uru)",
-      "team_away": "Tigre (Arg)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787185800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Copa Sudamericana",
-      "title": "Santa Fe (Col) vs River Plate (Arg)",
-      "team_home": "Santa Fe (Col)",
-      "team_away": "River Plate (Arg)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787185800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
+      "time_utc": "01:30",
+      "time_utc1": "03:30",
       "league": "MLS",
-      "title": "Minnesota United vs Atlanta Utd",
-      "team_home": "Minnesota United",
-      "team_away": "Atlanta Utd",
+      "title": "Colorado Rapids vs Los Angeles FC",
+      "team_home": "Colorado Rapids",
+      "team_away": "Los Angeles FC",
       "sources": [
         "cartelive"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787185800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Los Angeles Dodgers",
-      "team_home": "Colorado Rockies",
-      "team_away": "Los Angeles Dodgers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ],
         "es": [
           {
             "channel": "EXTRA SPORT15",
@@ -398,7 +193,7 @@
           }
         ]
       },
-      "startTimestamp": 1787186400
+      "startTimestamp": 1787189400
     },
     {
       "date": "2026-08-20",
