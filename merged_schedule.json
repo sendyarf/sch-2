@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T20:20:53.853823",
+  "generated_at": "2026-08-20T20:54:01.437436",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 65,
+  "total_events": 63,
   "events": [
     {
       "date": "2026-08-16",
@@ -151,50 +151,6 @@
         ]
       },
       "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:30",
-      "time_utc1": "19:30",
-      "league": "Conference League",
-      "title": "Klaksvik (Fai) vs Riga FC (Lat)",
-      "team_home": "Klaksvik (Fai)",
-      "team_away": "Riga FC (Lat)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "dazn baloncesto 3",
-            "url": "https://multi.govoet.cc/?envivo=157",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787247000
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:45",
-      "time_utc1": "19:45",
-      "league": "Conference League",
-      "title": "PAOK (Gre) vs Brann (Nor)",
-      "team_home": "PAOK (Gre)",
-      "team_away": "Brann (Nor)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "EXTRA SPORT4",
-            "url": "https://multi.govoet.cc/?envivo=158",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787247900
     },
     {
       "date": "2026-08-20",
