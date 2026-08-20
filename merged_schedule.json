@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T18:56:49.372573",
+  "generated_at": "2026-08-20T20:20:53.853823",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 78,
+  "total_events": 65,
   "events": [
     {
       "date": "2026-08-16",
@@ -90,87 +90,15 @@
       "date": "2026-08-20",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Inter Turku (Fin) vs FC Copenhagen (Den)",
-      "team_home": "Inter Turku (Fin)",
-      "team_away": "FC Copenhagen (Den)",
+      "league": null,
+      "title": "Mjällby vs Salzburg",
+      "team_home": "Mjällby",
+      "team_away": "Salzburg",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787241600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Conference League",
-      "title": "Lincoln Red Imps (Gib) vs Larne (Nir)",
-      "team_home": "Lincoln Red Imps (Gib)",
-      "team_away": "Larne (Nir)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787241600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Europa",
-      "title": "Jagiellonia (Pol) vs Iberia 1999 (Geo)",
-      "team_home": "Jagiellonia (Pol)",
-      "team_away": "Iberia 1999 (Geo)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787241600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Ligue Europa",
-      "title": "Mjallby (Swe) vs Salzburg (Aut)",
-      "team_home": "Mjallby (Swe)",
-      "team_away": "Salzburg (Aut)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -182,205 +110,21 @@
     },
     {
       "date": "2026-08-20",
-      "time_utc": "16:40",
-      "time_utc1": "18:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs St.Louis Cardinals",
-      "team_home": "Cincinnati Reds",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787244000
-    },
-    {
-      "date": "2026-08-20",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Midtjylland (Den) vs Rijeka (Cro)",
-      "team_home": "Midtjylland (Den)",
-      "team_away": "Rijeka (Cro)",
+      "league": null,
+      "title": "Trabzonspor vs Ferencváros",
+      "team_home": "Trabzonspor",
+      "team_away": "Ferencváros",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Nordsjaelland (Den) vs St. Gallen (Sui)",
-      "team_home": "Nordsjaelland (Den)",
-      "team_away": "St. Gallen (Sui)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Conference League",
-      "title": "Tromso (Nor) vs Brighton (Eng)",
-      "team_home": "Tromso (Nor)",
-      "team_away": "Brighton (Eng)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Besiktas (Tur) vs Kauno Zalgiris (Ltu)",
-      "team_home": "Besiktas (Tur)",
-      "team_away": "Kauno Zalgiris (Ltu)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Egnatia (Alb) vs Lillestrom (Nor)",
-      "team_home": "Egnatia (Alb)",
-      "team_away": "Lillestrom (Nor)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Lech Poznan (Pol) vs Thun (Sui)",
-      "team_home": "Lech Poznan (Pol)",
-      "team_away": "Thun (Sui)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Trabzonspor (Tur) vs Ferencvaros (Hun)",
-      "team_home": "Trabzonspor (Tur)",
-      "team_away": "Ferencvaros (Hun)",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
-          {
-            "channel": "PT SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=146",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Ligue Europa",
-      "title": "Univ. Craiova (Rou) vs Ararat-Armenia (Arm)",
-      "team_home": "Univ. Craiova (Rou)",
-      "team_away": "Ararat-Armenia (Arm)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "PT BTV",
-            "url": "https://multi.govoet.cc/?envivo=147",
-            "source": "cartelive"
           }
         ]
       },
@@ -407,50 +151,6 @@
         ]
       },
       "startTimestamp": 1787245200
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs San Francisco Giants",
-      "team_home": "Cleveland Guardians",
-      "team_away": "San Francisco Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245800
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Tampa Bay Rays vs Toronto Blue Jays",
-      "team_home": "Tampa Bay Rays",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787245800
     },
     {
       "date": "2026-08-20",
