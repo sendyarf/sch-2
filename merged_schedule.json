@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:20:31.588357",
+  "generated_at": "2026-08-20T21:51:32.645742",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 52,
+  "total_events": 40,
   "events": [
     {
       "date": "2026-08-16",
@@ -244,94 +244,14 @@
       "date": "2026-08-20",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Atalanta (Ita) vs Hapoel Tel Aviv (Isr)",
-      "team_home": "Atalanta (Ita)",
-      "team_away": "Hapoel Tel Aviv (Isr)",
+      "league": null,
+      "title": "Motherwell vs Freiburg",
+      "team_home": "Motherwell",
+      "team_away": "Freiburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787250600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Gent (Bel) vs Hibernian (Sco)",
-      "team_home": "Gent (Bel)",
-      "team_away": "Hibernian (Sco)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787250600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Lugano (Sui) vs Maccabi Tel Aviv (Isr)",
-      "team_home": "Lugano (Sui)",
-      "team_away": "Maccabi Tel Aviv (Isr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787250600
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Motherwell (Sco) vs Freiburg (Ger)",
-      "team_home": "Motherwell (Sco)",
-      "team_away": "Freiburg (Ger)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD3",
@@ -346,21 +266,37 @@
       "date": "2026-08-20",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Conference League",
-      "title": "Panathinaikos (Gre) vs Hradec Kralove (Cze)",
-      "team_home": "Panathinaikos (Gre)",
-      "team_away": "Hradec Kralove (Cze)",
+      "league": null,
+      "title": "Atalanta vs Hapoel Tel Aviv",
+      "team_home": "Atalanta",
+      "team_away": "Hapoel Tel Aviv",
       "sources": [
-        "cartelive",
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787250600
+    },
+    {
+      "date": "2026-08-20",
+      "time_utc": "18:30",
+      "time_utc1": "20:30",
+      "league": null,
+      "title": "Panathinaikos vs Hradec Králové",
+      "team_home": "Panathinaikos",
+      "team_away": "Hradec Králové",
+      "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -374,51 +310,15 @@
       "date": "2026-08-20",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Conference League",
-      "title": "Hearts (Sco) vs SK Rapid (Aut)",
-      "team_home": "Hearts (Sco)",
-      "team_away": "SK Rapid (Aut)",
+      "league": null,
+      "title": "Rangers vs Jablonec",
+      "team_home": "Rangers",
+      "team_away": "Jablonec",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Conference League",
-      "title": "Rangers (Sco) vs Jablonec (Cze)",
-      "team_home": "Rangers (Sco)",
-      "team_away": "Jablonec (Cze)",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -432,217 +332,19 @@
       "date": "2026-08-20",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "National",
-      "title": "National: multiplex Ligue 3",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Hearts vs Rapid Wien",
+      "team_home": "Hearts",
+      "team_away": "Rapid Wien",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "de": [
           {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Bastia vs Versailles",
-      "team_home": "Bastia",
-      "team_away": "Versailles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Bourg en Bresse vs Thionville",
-      "team_home": "Bourg en Bresse",
-      "team_away": "Thionville",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Caen vs Aubagne",
-      "team_home": "Caen",
-      "team_away": "Aubagne",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 5",
-            "url": "https://multi.govoet.cc/?envivo=35",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Concarneau vs Villefranche",
-      "team_home": "Concarneau",
-      "team_away": "Villefranche",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 10",
-            "url": "https://multi.govoet.cc/?envivo=40",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Fleury-Merogis vs Orleans",
-      "team_home": "Fleury-Merogis",
-      "team_away": "Orleans",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 9",
-            "url": "https://multi.govoet.cc/?envivo=39",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "La Roche vs Cannes",
-      "team_home": "La Roche",
-      "team_away": "Cannes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 6",
-            "url": "https://multi.govoet.cc/?envivo=36",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Le Puy-en-Velay vs Amiens",
-      "team_home": "Le Puy-en-Velay",
-      "team_away": "Amiens",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 8",
-            "url": "https://multi.govoet.cc/?envivo=38",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Paris 13 Atl. vs Valenciennes",
-      "team_home": "Paris 13 Atl.",
-      "team_away": "Valenciennes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 7",
-            "url": "https://multi.govoet.cc/?envivo=37",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787251500
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "National",
-      "title": "Rouen vs Quevilly Rouen",
-      "team_home": "Rouen",
-      "team_away": "Quevilly Rouen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ]
       },
