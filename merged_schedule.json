@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T05:23:28.909686",
+  "generated_at": "2026-08-20T05:53:58.142734",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 35,
+  "total_events": 34,
   "events": [
     {
       "date": "2026-08-16",
@@ -174,25 +174,17 @@
       "startTimestamp": 1787099400
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "time_utc": "02:30",
       "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Los Angeles Galaxy vs San Jose Earthquakes",
-      "team_home": "Los Angeles Galaxy",
-      "team_away": "San Jose Earthquakes",
+      "league": null,
+      "title": "LA Galaxy vs SJ Earthquakes",
+      "team_home": "LA Galaxy",
+      "team_away": "SJ Earthquakes",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD11",
@@ -201,50 +193,20 @@
           }
         ]
       },
-      "startTimestamp": 1787193000
+      "startTimestamp": 1787106600
     },
     {
-      "date": "2026-08-20",
+      "date": "2026-08-19",
       "time_utc": "02:30",
       "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Portland Timbers vs San Diego FC",
-      "team_home": "Portland Timbers",
-      "team_away": "San Diego FC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787193000
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
+      "league": null,
       "title": "Vancouver Whitecaps vs Houston Dynamo",
       "team_home": "Vancouver Whitecaps",
       "team_away": "Houston Dynamo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD10",
@@ -253,7 +215,7 @@
           }
         ]
       },
-      "startTimestamp": 1787193000
+      "startTimestamp": 1787106600
     },
     {
       "date": "2026-08-20",
