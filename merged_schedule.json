@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:51:32.645742",
+  "generated_at": "2026-08-20T22:19:05.822864",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 40,
+  "total_events": 37,
   "events": [
     {
       "date": "2026-08-16",
@@ -354,21 +354,15 @@
       "date": "2026-08-20",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Braga (Por) vs Austria Vienna (Aut)",
-      "team_home": "Braga (Por)",
-      "team_away": "Austria Vienna (Aut)",
+      "league": null,
+      "title": "Sporting Braga vs Austria Wien",
+      "team_home": "Sporting Braga",
+      "team_away": "Austria Wien",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV5",
             "url": "https://multi.govoet.cc/?ss=sporttv5",
@@ -382,130 +376,19 @@
       "date": "2026-08-20",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Dinamo City (Alb) vs Pafos (Cyp)",
-      "team_home": "Dinamo City (Alb)",
-      "team_away": "Pafos (Cyp)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787252400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Getafe (Esp) vs Partizan (Srb)",
-      "team_home": "Getafe (Esp)",
-      "team_away": "Partizan (Srb)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787252400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Hajduk Split (Cro) vs Rakow (Pol)",
-      "team_home": "Hajduk Split (Cro)",
-      "team_away": "Rakow (Pol)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787252400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Conference League",
-      "title": "Shamrock Rovers (Irl) vs KuPS (Fin)",
-      "team_home": "Shamrock Rovers (Irl)",
-      "team_away": "KuPS (Fin)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787252400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Rayo Vallecano vs Alaves",
+      "league": null,
+      "title": "Rayo Vallecano vs Deportivo Alavés",
       "team_home": "Rayo Vallecano",
-      "team_away": "Alaves",
+      "team_away": "Deportivo Alavés",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -513,28 +396,6 @@
             "channel": "ELEVEN1",
             "url": "https://multi.govoet.cc/?ss=eleven1",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787252400
-    },
-    {
-      "date": "2026-08-20",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ligue Europa",
-      "title": "Benfica (Por) vs Aarhus (Den)",
-      "team_home": "Benfica (Por)",
-      "team_away": "Aarhus (Den)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
           }
         ]
       },
@@ -1025,6 +886,64 @@
         ]
       },
       "startTimestamp": 1787281200
+    },
+    {
+      "date": "2026-08-21",
+      "time_utc": "10:15",
+      "time_utc1": "12:15",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix des Pays-Bas Essais libres 1",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787307300
+    },
+    {
+      "date": "2026-08-21",
+      "time_utc": "14:30",
+      "time_utc1": "16:30",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix des Pays-Bas Qualifications Sprint",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+ sport",
+            "url": "https://multi.govoet.cc/?envivo=13",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787322600
     }
   ]
 }
