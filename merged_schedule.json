@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T18:53:04.458773",
+  "generated_at": "2026-08-21T19:20:10.881390",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 153,
+  "total_events": 151,
   "events": [
     {
       "date": "2026-08-16",
@@ -119,160 +119,6 @@
       "date": "2026-08-21",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "DFB Pokal: multiplex DFB Pokal",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "Mannheim vs Kaiserslautern",
-      "team_home": "Mannheim",
-      "team_away": "Kaiserslautern",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "Preussen Munster vs Karlsruher SC",
-      "team_home": "Preussen Munster",
-      "team_away": "Karlsruher SC",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "SC St.Tonis vs Eintracht Frankfurt",
-      "team_home": "SC St.Tonis",
-      "team_away": "Eintracht Frankfurt",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Saudi Pro League",
-      "title": "Al Riyadh vs Al Nassr",
-      "team_home": "Al Riyadh",
-      "team_away": "Al Nassr",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
       "league": null,
       "title": "SC St. Tönis vs Eintracht Frankfurt",
       "team_home": "SC St. Tönis",
@@ -292,6 +138,86 @@
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787328000
+    },
+    {
+      "date": "2026-08-21",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Waldhof Mannheim vs Kaiserslautern",
+      "team_home": "Waldhof Mannheim",
+      "team_away": "Kaiserslautern",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787328000
+    },
+    {
+      "date": "2026-08-21",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Preußen Münster vs Karlsruher SC",
+      "team_home": "Preußen Münster",
+      "team_away": "Karlsruher SC",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787328000
+    },
+    {
+      "date": "2026-08-21",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Al Riyadh vs Al Nassr",
+      "team_home": "Al Riyadh",
+      "team_away": "Al Nassr",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
             "source": "sportsonline"
           }
         ]
