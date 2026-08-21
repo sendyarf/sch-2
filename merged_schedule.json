@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:16:14.651006",
+  "generated_at": "2026-08-21T23:45:40.813924",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 289,
+  "total_events": 290,
   "events": [
     {
       "date": "2026-08-16",
@@ -8228,6 +8228,28 @@
         ]
       },
       "startTimestamp": 1787608800
+    },
+    {
+      "date": "2026-08-24",
+      "time_utc": "23:30",
+      "time_utc1": "01:30",
+      "league": "Campeonato Itaú Chile",
+      "title": "Everton vs U. De Concepcion",
+      "team_home": "Everton",
+      "team_away": "U. De Concepcion",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNTCHILE Premium",
+            "url": "https://multi.govoet.cc/?envivo=83",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787614200
     }
   ]
 }
