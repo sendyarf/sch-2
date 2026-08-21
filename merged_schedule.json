@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T15:46:10.405978",
+  "generated_at": "2026-08-21T17:32:06.220762",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 154,
+  "total_events": 153,
   "events": [
     {
       "date": "2026-08-16",
@@ -114,35 +114,6 @@
         ]
       },
       "startTimestamp": 1787320800
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Formula 1",
-      "title": "Formula 1: Grand Prix des Pays-Bas Qualifications Sprint",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787322600
     },
     {
       "date": "2026-08-21",
