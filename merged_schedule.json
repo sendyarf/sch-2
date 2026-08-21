@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T19:45:21.119208",
+  "generated_at": "2026-08-21T20:17:16.044605",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 151,
+  "total_events": 150,
   "events": [
     {
       "date": "2026-08-16",
@@ -223,28 +223,6 @@
         ]
       },
       "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "FC Cajamarca vs Grau",
-      "team_home": "FC Cajamarca",
-      "team_away": "Grau",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787331600
     },
     {
       "date": "2026-08-21",
