@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T03:53:48.099134",
+  "generated_at": "2026-08-22T05:26:49.409088",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 285,
+  "total_events": 282,
   "events": [
     {
       "date": "2026-08-16",
@@ -526,61 +526,15 @@
       "date": "2026-08-22",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "Club Leon vs Monterrey",
-      "team_home": "Club Leon",
-      "team_away": "Monterrey",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ],
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787360400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
+      "league": null,
       "title": "Tigres UANL vs Atlante",
       "team_home": "Tigres UANL",
       "team_away": "Atlante",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -594,123 +548,23 @@
       "date": "2026-08-22",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "NFL",
-      "title": "Denver Broncos vs Green Bay Packers",
-      "team_home": "Denver Broncos",
-      "team_away": "Green Bay Packers",
+      "league": null,
+      "title": "León vs Monterrey",
+      "team_home": "León",
+      "team_away": "Monterrey",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "unknown": [
           {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2MX",
-            "url": "https://multi.govoet.cc/?envivo=102",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
       "startTimestamp": 1787360400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Cincinnati Reds",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787362800
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "San Diego Padres vs Minnesota Twins",
-      "team_home": "San Diego Padres",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787362800
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT43",
-            "url": "https://multi.govoet.cc/?envivo=196",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787364600
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Chicago Cubs",
-      "team_home": "Seattle Mariners",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787364600
     },
     {
       "date": "2026-08-22",
@@ -4456,6 +4310,28 @@
       "time_utc": "00:10",
       "time_utc1": "02:10",
       "league": "MLB",
+      "title": "Arizona Diamondbacks vs Cincinnati Reds",
+      "team_home": "Arizona Diamondbacks",
+      "team_away": "Cincinnati Reds",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT40",
+            "url": "https://multi.govoet.cc/?envivo=193",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787443800
+    },
+    {
+      "date": "2026-08-23",
+      "time_utc": "00:10",
+      "time_utc1": "02:10",
+      "league": "MLB",
       "title": "Colorado Rockies vs Cleveland Guardians",
       "team_home": "Colorado Rockies",
       "team_away": "Cleveland Guardians",
@@ -4516,6 +4392,28 @@
         ]
       },
       "startTimestamp": 1787445000
+    },
+    {
+      "date": "2026-08-23",
+      "time_utc": "00:40",
+      "time_utc1": "02:40",
+      "league": "MLB",
+      "title": "San Diego Padres vs Minnesota Twins",
+      "team_home": "San Diego Padres",
+      "team_away": "Minnesota Twins",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT42",
+            "url": "https://multi.govoet.cc/?envivo=195",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787445600
     },
     {
       "date": "2026-08-23",
