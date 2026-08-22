@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T00:50:20.425265",
+  "generated_at": "2026-08-22T02:11:36.740041",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 293,
+  "total_events": 289,
   "events": [
     {
       "date": "2026-08-16",
@@ -477,140 +477,6 @@
         ]
       },
       "startTimestamp": 1787346300
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Liverpool M. vs CA Cerro",
-      "team_home": "Liverpool M.",
-      "team_away": "CA Cerro",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787349600
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs St.Louis Cardinals",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787352000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NFL",
-      "title": "Pittsburgh Steelers vs New York Jets",
-      "team_home": "Pittsburgh Steelers",
-      "team_away": "New York Jets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1MX",
-            "url": "https://multi.govoet.cc/?envivo=101",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX SPORTS PREMIUM",
-            "url": "https://multi.govoet.cc/?envivo=104",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787353200
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Torneo LPF",
-      "title": "Estudiantes Rio Cuarto vs San Lorenzo",
-      "team_home": "Estudiantes Rio Cuarto",
-      "team_away": "San Lorenzo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787353200
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "New York Yankees vs Toronto Blue Jays",
-      "team_home": "New York Yankees",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787353500
     },
     {
       "date": "2026-08-21",
@@ -4257,6 +4123,28 @@
         ]
       },
       "startTimestamp": 1787436000
+    },
+    {
+      "date": "2026-08-22",
+      "time_utc": "22:05",
+      "time_utc1": "00:05",
+      "league": "MLB",
+      "title": "Philadelphia Phillies vs St.Louis Cardinals",
+      "team_home": "Philadelphia Phillies",
+      "team_away": "St.Louis Cardinals",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT31",
+            "url": "https://multi.govoet.cc/?envivo=184",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787436300
     },
     {
       "date": "2026-08-22",
