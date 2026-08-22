@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T18:55:43.798453",
+  "generated_at": "2026-08-22T19:18:12.653854",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 271,
+  "total_events": 264,
   "events": [
     {
       "date": "2026-08-16",
@@ -279,28 +279,15 @@
       "date": "2026-08-22",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "DFB Pokal",
+      "league": null,
       "title": "Eintracht Trier vs RB Leipzig",
       "team_home": "Eintracht Trier",
       "team_away": "RB Leipzig",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -328,138 +315,6 @@
       "date": "2026-08-22",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "Grossaspach vs Arminia Bielefeld",
-      "team_home": "Grossaspach",
-      "team_away": "Arminia Bielefeld",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "Munich 1860 vs Holstein Kiel",
-      "team_home": "Munich 1860",
-      "team_away": "Holstein Kiel",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga10",
-            "url": "https://multi.govoet.cc/?envivo=110",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Huancayo vs Moquegua",
-      "team_home": "Sport Huancayo",
-      "team_away": "Moquegua",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "NFL",
-      "title": "Detroit Lions vs Washington Commanders",
-      "team_home": "Detroit Lions",
-      "team_away": "Washington Commanders",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Super Lig",
-      "title": "Corum vs Kasimpasa",
-      "team_home": "Corum",
-      "team_away": "Kasimpasa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": "Super Lig",
-      "title": "Rizespor vs Samsunspor",
-      "team_home": "Rizespor",
-      "team_away": "Samsunspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
       "league": null,
       "title": "Sonnenhof Großaspach vs Arminia Bielefeld",
       "team_home": "Sonnenhof Großaspach",
@@ -477,28 +332,6 @@
         ]
       },
       "startTimestamp": 1787414400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:15",
-      "time_utc1": "18:15",
-      "league": "Pro League",
-      "title": "Charleroi vs KV Mechelen",
-      "team_home": "Charleroi",
-      "team_away": "KV Mechelen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787415300
     },
     {
       "date": "2026-08-22",
