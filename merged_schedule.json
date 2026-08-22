@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T19:43:41.892562",
+  "generated_at": "2026-08-22T19:56:52.913399",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 263,
+  "total_events": 262,
   "events": [
     {
       "date": "2026-08-16",
@@ -424,43 +424,15 @@
       "date": "2026-08-22",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Eredivisie",
-      "title": "Sparta Rotterdam vs Utrecht",
-      "team_home": "Sparta Rotterdam",
-      "team_away": "Utrecht",
+      "league": null,
+      "title": "Dundee United vs Dundee",
+      "team_home": "Dundee United",
+      "team_away": "Dundee",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787417100
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Premiership",
-      "title": "Dundee Utd vs Dundee FC",
-      "team_home": "Dundee Utd",
-      "team_away": "Dundee FC",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
