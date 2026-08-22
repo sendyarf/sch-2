@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:13:47.037230",
+  "generated_at": "2026-08-22T17:56:26.136711",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 273,
+  "total_events": 272,
   "events": [
     {
       "date": "2026-08-16",
@@ -162,50 +162,15 @@
       "date": "2026-08-22",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Eredivisie",
-      "title": "Sittard vs AZ Alkmaar",
-      "team_home": "Sittard",
-      "team_away": "AZ Alkmaar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787409000
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:30",
-      "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "Maritimo vs Academico Viseu",
-      "team_home": "Maritimo",
+      "league": null,
+      "title": "Marítimo vs Academico Viseu",
+      "team_home": "Marítimo",
       "team_away": "Academico Viseu",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
