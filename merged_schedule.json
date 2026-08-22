@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T17:56:26.136711",
+  "generated_at": "2026-08-22T18:23:57.509971",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 272,
+  "total_events": 271,
   "events": [
     {
       "date": "2026-08-16",
@@ -206,36 +206,15 @@
       "date": "2026-08-22",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Laliga",
+      "league": null,
       "title": "Ath Bilbao vs Sevilla",
       "team_home": "Ath Bilbao",
       "team_away": "Sevilla",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -256,51 +235,14 @@
       "date": "2026-08-22",
       "time_utc": "15:00",
       "time_utc1": "17:00",
-      "league": "Laliga 2",
-      "title": "Oviedo vs Leganes",
-      "team_home": "Oviedo",
-      "team_away": "Leganes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787410800
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "15:10",
-      "time_utc1": "17:10",
-      "league": "Tournée Automne",
+      "league": "Rugby",
       "title": "South Africa vs New Zealand",
       "team_home": "South Africa",
       "team_away": "New Zealand",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport360",
-            "url": "https://multi.govoet.cc/?envivo=14",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes",
-            "url": "https://multi.govoet.cc/?envivo=62",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV4",
@@ -309,27 +251,21 @@
           }
         ]
       },
-      "startTimestamp": 1787411400
+      "startTimestamp": 1787410800
     },
     {
       "date": "2026-08-22",
       "time_utc": "15:15",
       "time_utc1": "17:15",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Lens vs Auxerre",
       "team_home": "Lens",
       "team_away": "Auxerre",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
