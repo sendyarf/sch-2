@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T16:47:00.462767",
+  "generated_at": "2026-08-22T17:13:47.037230",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 284,
+  "total_events": 273,
   "events": [
     {
       "date": "2026-08-16",
@@ -46,308 +46,19 @@
       "date": "2026-08-22",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Blackburn vs Middlesbrough",
-      "team_home": "Blackburn",
-      "team_away": "Middlesbrough",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Derby vs Cardiff",
-      "team_home": "Derby",
-      "team_away": "Cardiff",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Preston vs Wolves",
-      "team_home": "Preston",
-      "team_away": "Wolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "QPR vs Bolton",
-      "team_home": "QPR",
-      "team_away": "Bolton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Southampton vs Stoke",
-      "team_home": "Southampton",
-      "team_away": "Stoke",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Swansea vs Sheffield Utd",
-      "team_home": "Swansea",
-      "team_away": "Sheffield Utd",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "West Ham vs Charlton",
-      "team_home": "West Ham",
-      "team_away": "Charlton",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Championship",
-      "title": "Wrexham vs Watford",
-      "team_home": "Wrexham",
-      "team_away": "Watford",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Central Esp. vs Juventud",
-      "team_home": "Central Esp.",
-      "team_away": "Juventud",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Premier League: multiplex Premier League",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
+      "league": null,
       "title": "Everton vs Crystal Palace",
       "team_home": "Everton",
       "team_away": "Crystal Palace",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -364,97 +75,14 @@
       "date": "2026-08-22",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Ipswich vs Sunderland",
-      "team_home": "Ipswich",
-      "team_away": "Sunderland",
+      "league": null,
+      "title": "Nottingham Forest vs Leeds United",
+      "team_home": "Nottingham Forest",
+      "team_away": "Leeds United",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 4",
-            "url": "https://multi.govoet.cc/?envivo=34",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Premier League",
-      "title": "Nottingham vs Leeds",
-      "team_home": "Nottingham",
-      "team_away": "Leeds",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=132",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN1",
@@ -468,27 +96,12 @@
             "url": "https://multi.govoet.cc/?ss=br2",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1787407200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Waregem vs Beveren",
-      "team_home": "Waregem",
-      "team_away": "Beveren",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
+        ],
+        "en": [
           {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -498,31 +111,48 @@
       "date": "2026-08-22",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Formula 1",
-      "title": "Formula 1: Grand Prix des Pays-Bas Essais qualificatifs",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Ipswich Town vs Sunderland",
+      "team_home": "Ipswich Town",
+      "team_away": "Sunderland",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          },
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787407200
+    },
+    {
+      "date": "2026-08-22",
+      "time_utc": "14:00",
+      "time_utc1": "16:00",
+      "league": null,
+      "title": "West Ham United vs Charlton Athletic",
+      "team_home": "West Ham United",
+      "team_away": "Charlton Athletic",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
           {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ],
-        "es": [
+        "pt-BR": [
           {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -3970,14 +3600,29 @@
       "date": "2026-08-23",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": null,
-      "title": "Dutch F1 Grand Prix",
+      "league": "Formula 1",
+      "title": "Formula 1: Grand Prix des Pays-Bas. La course",
       "team_home": null,
       "team_away": null,
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "canal+",
+            "url": "https://multi.govoet.cc/?envivo=11",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES DAZN F1",
+            "url": "https://multi.govoet.cc/?envivo=60",
+            "source": "cartelive"
+          }
+        ],
         "en": [
           {
             "channel": "HD2",
