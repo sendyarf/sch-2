@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:16:07.961734",
+  "generated_at": "2026-08-22T22:45:03.158195",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 251,
+  "total_events": 250,
   "events": [
     {
       "date": "2026-08-16",
@@ -715,48 +715,25 @@
       "date": "2026-08-22",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Laliga",
+      "league": null,
       "title": "Espanyol vs Real Madrid",
       "team_home": "Espanyol",
       "team_away": "Real Madrid",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN liga",
-            "url": "https://multi.govoet.cc/?envivo=51",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -781,57 +758,15 @@
       "date": "2026-08-22",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Laliga 2",
-      "title": "Eldense vs Cadiz CF",
-      "team_home": "Eldense",
-      "team_away": "Cadiz CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787427000
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Sporting CP vs Alverca",
       "team_home": "Sporting CP",
       "team_away": "Alverca",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
