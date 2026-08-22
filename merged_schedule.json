@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T23:45:40.813924",
+  "generated_at": "2026-08-22T00:50:20.425265",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 290,
+  "total_events": 293,
   "events": [
     {
       "date": "2026-08-16",
@@ -460,21 +460,15 @@
       "date": "2026-08-21",
       "time_utc": "21:05",
       "time_utc1": "23:05",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Jaguares de Cordoba vs Chico",
-      "team_home": "Jaguares de Cordoba",
-      "team_away": "Chico",
+      "league": null,
+      "title": "Jaguares de Córdoba vs Boyacá Chicó",
+      "team_home": "Jaguares de Córdoba",
+      "team_away": "Boyacá Chicó",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -8250,6 +8244,72 @@
         ]
       },
       "startTimestamp": 1787614200
+    },
+    {
+      "date": "2026-08-25",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "Ecuador Ligapro",
+      "title": "Libertad vs Macara",
+      "team_home": "Libertad",
+      "team_away": "Macara",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "Zapping sports",
+            "url": "https://multi.govoet.cc/?envivo=86",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787616000
+    },
+    {
+      "date": "2026-08-25",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": "Torneo LPF",
+      "title": "Lanus vs Argentinos Jrs",
+      "team_home": "Lanus",
+      "team_away": "Argentinos Jrs",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "TNT sport arg",
+            "url": "https://multi.govoet.cc/?envivo=75",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787616900
+    },
+    {
+      "date": "2026-08-25",
+      "time_utc": "00:15",
+      "time_utc1": "02:15",
+      "league": "Torneo LPF",
+      "title": "Talleres Cordoba vs Rosario Central",
+      "team_home": "Talleres Cordoba",
+      "team_away": "Rosario Central",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "ESPN Premium",
+            "url": "https://multi.govoet.cc/?envivo=76",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787616900
     }
   ]
 }
