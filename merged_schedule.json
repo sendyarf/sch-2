@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T05:26:49.409088",
+  "generated_at": "2026-08-22T06:27:05.371173",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 282,
+  "total_events": 279,
   "events": [
     {
       "date": "2026-08-16",
@@ -565,82 +565,6 @@
         ]
       },
       "startTimestamp": 1787360400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga de Expansión MX",
-      "title": "Atletico La Paz vs Cruz Azul Hidalgo",
-      "team_home": "Atletico La Paz",
-      "team_away": "Cruz Azul Hidalgo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787367600
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Juarez vs Club America",
-      "team_home": "Juarez",
-      "team_away": "Club America",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Azteca 7",
-            "url": "https://multi.govoet.cc/?envivo=108",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787368200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Queretaro vs Toluca",
-      "team_home": "Queretaro",
-      "team_away": "Toluca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787368200
     },
     {
       "date": "2026-08-22",
