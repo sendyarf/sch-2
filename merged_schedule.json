@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T12:36:21.513127",
+  "generated_at": "2026-08-22T13:17:23.081963",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 279,
+  "total_events": 257,
   "events": [
     {
       "date": "2026-08-16",
@@ -43,610 +43,6 @@
       "startTimestamp": 1786841700
     },
     {
-      "date": "2026-08-21",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Dutch F1 GP",
-      "title": "Practice 1",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787306400
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Golf",
-      "title": "DP World Tour - Nexo Championship - D2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787311800
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Dutch F1 GP",
-      "title": "Sprint Qualifying",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787320800
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
-      "title": "SC St. Tönis vs Eintracht Frankfurt",
-      "team_home": "SC St. Tönis",
-      "team_away": "Eintracht Frankfurt",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "de": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
-      "title": "Waldhof Mannheim vs Kaiserslautern",
-      "team_home": "Waldhof Mannheim",
-      "team_away": "Kaiserslautern",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
-      "title": "Preußen Münster vs Karlsruher SC",
-      "team_home": "Preußen Münster",
-      "team_away": "Karlsruher SC",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "16:00",
-      "time_utc1": "18:00",
-      "league": null,
-      "title": "Al Riyadh vs Al Nassr",
-      "team_home": "Al Riyadh",
-      "team_away": "Al Nassr",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR3",
-            "url": "https://multi.govoet.cc/?ss=br3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787328000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": null,
-      "title": "Al Quadisiya vs Al Ittihad",
-      "team_home": "Al Quadisiya",
-      "team_away": "Al Ittihad",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR1",
-            "url": "https://multi.govoet.cc/?ss=br1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787335200
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "Vicenza vs Catanzaro",
-      "team_home": "Vicenza",
-      "team_away": "Catanzaro",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787337000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": null,
-      "title": "BB Erzurumspor vs Galatasaray",
-      "team_home": "BB Erzurumspor",
-      "team_away": "Galatasaray",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787337000
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": null,
-      "title": "Olympique Marseille vs Strasbourg",
-      "team_home": "Olympique Marseille",
-      "team_away": "Strasbourg",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787337900
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": null,
-      "title": "Hansa Rostock vs Stuttgart",
-      "team_home": "Hansa Rostock",
-      "team_away": "Stuttgart",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787337900
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Arsenal vs Coventry City",
-      "team_home": "Arsenal",
-      "team_away": "Coventry City",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787338800
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": null,
-      "title": "Real Betis vs Real Sociedad",
-      "team_home": "Real Betis",
-      "team_away": "Real Sociedad",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787338800
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": null,
-      "title": "Tondela vs Académica",
-      "team_home": "Tondela",
-      "team_away": "Académica",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787339700
-    },
-    {
-      "date": "2026-08-21",
-      "time_utc": "21:05",
-      "time_utc1": "23:05",
-      "league": null,
-      "title": "Jaguares de Córdoba vs Boyacá Chicó",
-      "team_home": "Jaguares de Córdoba",
-      "team_away": "Boyacá Chicó",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787346300
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Alianza vs Deportivo Pereira",
-      "team_home": "Alianza",
-      "team_away": "Deportivo Pereira",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787358600
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": null,
-      "title": "Audax Italiano vs Unión La Calera",
-      "team_home": "Audax Italiano",
-      "team_away": "Unión La Calera",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787358600
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": null,
-      "title": "Tigres UANL vs Atlante",
-      "team_home": "Tigres UANL",
-      "team_away": "Atlante",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787360400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": null,
-      "title": "León vs Monterrey",
-      "team_home": "León",
-      "team_away": "Monterrey",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787360400
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "09:00",
-      "time_utc1": "11:00",
-      "league": "Dutch F1 GP",
-      "title": "Sprint",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "it": [
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787389200
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": "Formula 1",
-      "title": "Formula 1: Grand Prix des Pays-Bas Course Sprint",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787392800
-    },
-    {
-      "date": "2026-08-22",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Leixões vs União de Leiria",
-      "team_home": "Leixões",
-      "team_away": "União de Leiria",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787392800
-    },
-    {
       "date": "2026-08-22",
       "time_utc": "11:00",
       "time_utc1": "13:00",
@@ -655,8 +51,7 @@
       "team_home": "Cottbus",
       "team_away": "Augsburg",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "de": [
@@ -664,11 +59,6 @@
             "channel": "DE bundliga4",
             "url": "https://multi.govoet.cc/?envivo=114",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
           }
         ]
       },
@@ -683,8 +73,7 @@
       "team_home": "Wehen",
       "team_away": "Bayer Leverkusen",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -699,25 +88,6 @@
             "channel": "DE bundliga3",
             "url": "https://multi.govoet.cc/?envivo=113",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
           }
         ]
       },
@@ -822,8 +192,7 @@
       "team_home": "Hull",
       "team_away": "Manchester Utd",
       "sources": [
-        "cartelive",
-        "sportsonline"
+        "cartelive"
       ],
       "streams_by_language": {
         "fr": [
@@ -838,16 +207,6 @@
             "channel": "UK TNT SPORT",
             "url": "https://multi.govoet.cc/?envivo=126",
             "source": "cartelive"
-          },
-          {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
-            "source": "sportsonline"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
           }
         ],
         "es": [
@@ -879,20 +238,6 @@
             "channel": "IT SKY CALCIO",
             "url": "https://multi.govoet.cc/?envivo=138",
             "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN1",
-            "url": "https://multi.govoet.cc/?ss=eleven1",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
           }
         ]
       },
@@ -941,6 +286,35 @@
         ]
       },
       "startTimestamp": 1787400000
+    },
+    {
+      "date": "2026-08-22",
+      "time_utc": "13:15",
+      "time_utc1": "15:15",
+      "league": "Dutch F1 GP",
+      "title": "Qualifying",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787404500
     },
     {
       "date": "2026-08-22",
