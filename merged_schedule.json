@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:28:49.554850",
+  "generated_at": "2026-08-23T16:52:40.423095",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 164,
+  "total_events": 160,
   "events": [
     {
       "date": "2026-08-16",
@@ -321,87 +321,15 @@
       "date": "2026-08-23",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "DFB Pokal",
-      "title": "Bahlinger vs Magdeburg",
-      "team_home": "Bahlinger",
-      "team_away": "Magdeburg",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787491800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "DFB Pokal",
-      "title": "Braunschweig vs Union Berlin",
-      "team_home": "Braunschweig",
-      "team_away": "Union Berlin",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787491800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "DFB Pokal",
-      "title": "Jena vs Darmstadt",
-      "team_home": "Jena",
-      "team_away": "Darmstadt",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga6",
-            "url": "https://multi.govoet.cc/?envivo=116",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787491800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "DFB Pokal",
-      "title": "Krieschow vs Mainz",
+      "league": null,
+      "title": "Krieschow vs Mainz 05",
       "team_home": "Krieschow",
-      "team_away": "Mainz",
+      "team_away": "Mainz 05",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -415,43 +343,15 @@
       "date": "2026-08-23",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "DFB Pokal",
-      "title": "Schott Mainz vs B. Monchengladbach",
-      "team_home": "Schott Mainz",
-      "team_away": "B. Monchengladbach",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787491800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "13:30",
-      "time_utc1": "15:30",
-      "league": "DFB Pokal",
-      "title": "Westfalia Rhynern vs SG Dynamo Dresden",
+      "league": null,
+      "title": "Westfalia Rhynern vs Dynamo Dresden",
       "team_home": "Westfalia Rhynern",
-      "team_away": "SG Dynamo Dresden",
+      "team_away": "Dynamo Dresden",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga9",
-            "url": "https://multi.govoet.cc/?envivo=119",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
