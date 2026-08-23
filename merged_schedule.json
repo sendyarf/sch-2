@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:17:01.114703",
+  "generated_at": "2026-08-23T19:56:20.026264",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 152,
+  "total_events": 150,
   "events": [
     {
       "date": "2026-08-16",
@@ -610,88 +610,19 @@
       "date": "2026-08-23",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Betfred Super League",
-      "title": "OFI Crete vs Volos",
-      "team_home": "OFI Crete",
-      "team_away": "Volos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787502600
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Pro League",
-      "title": "Club Brugge KV vs Cercle Brugge KSV",
-      "team_home": "Club Brugge KV",
-      "team_away": "Cercle Brugge KSV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787502600
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Frosinone vs Juventus",
       "team_home": "Frosinone",
       "team_away": "Juventus",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -708,21 +639,15 @@
       "date": "2026-08-23",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Venezia vs Lecce",
       "team_home": "Venezia",
       "team_away": "Lecce",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
