@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T22:39:04.368185",
+  "generated_at": "2026-08-23T23:42:51.398834",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 128,
+  "total_events": 121,
   "events": [
     {
       "date": "2026-08-16",
@@ -995,21 +995,15 @@
       "date": "2026-08-23",
       "time_utc": "20:00",
       "time_utc1": "22:00",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "Belgrano vs Defensa y Justicia",
       "team_home": "Belgrano",
       "team_away": "Defensa y Justicia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -1018,160 +1012,6 @@
         ]
       },
       "startTimestamp": 1787515200
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Pittsburgh Pirates",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Pittsburgh Pirates",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787515800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "San Diego Padres vs Minnesota Twins",
-      "team_home": "San Diego Padres",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787515800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Chicago Cubs",
-      "team_home": "Seattle Mariners",
-      "team_away": "Chicago Cubs",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787515800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:15",
-      "time_utc1": "22:15",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Cincinnati Reds",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787516100
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Ecuador Ligapro",
-      "title": "Delfin vs Aucas",
-      "team_home": "Delfin",
-      "team_away": "Aucas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787517000
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "FBC Melgar vs Alianza Lima",
-      "team_home": "FBC Melgar",
-      "team_away": "Alianza Lima",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787517000
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "MLS",
-      "title": "New England Revolution vs New York City",
-      "team_home": "New England Revolution",
-      "team_away": "New York City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787517000
     },
     {
       "date": "2026-08-23",
