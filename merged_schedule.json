@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:36:26.396520",
+  "generated_at": "2026-08-23T22:14:27.808061",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 132,
+  "total_events": 130,
   "events": [
     {
       "date": "2026-08-16",
@@ -770,121 +770,19 @@
       "date": "2026-08-23",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue 1",
-      "title": "Rennes vs Paris Saint-Germain",
-      "team_home": "Rennes",
-      "team_away": "Paris Saint-Germain",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV4",
-            "url": "https://multi.govoet.cc/?ss=sporttv4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787510700
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "Atalanta vs Sassuolo",
-      "team_home": "Atalanta",
-      "team_away": "Sassuolo",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD8",
-            "url": "https://multi.govoet.cc/?ss=hd8",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787510700
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "Torino vs AC Milan",
+      "league": null,
+      "title": "Torino vs Milan",
       "team_home": "Torino",
-      "team_away": "AC Milan",
+      "team_away": "Milan",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -906,81 +804,67 @@
     },
     {
       "date": "2026-08-23",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "U. De Chile vs Colo Colo",
-      "team_home": "U. De Chile",
-      "team_away": "Colo Colo",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Paris Saint-Germain vs Rennes",
+      "team_home": "Paris Saint-Germain",
+      "team_away": "Rennes",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787511600
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Fortaleza vs Atl. Nacional",
-      "team_home": "Fortaleza",
-      "team_away": "Atl. Nacional",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
           }
         ],
-        "nl": [
+        "pt": [
           {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1787511600
+      "startTimestamp": 1787510700
+    },
+    {
+      "date": "2026-08-23",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Atalanta vs Sassuolo",
+      "team_home": "Atalanta",
+      "team_away": "Sassuolo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787510700
     },
     {
       "date": "2026-08-23",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Serie A Bresil",
-      "title": "Palmeiras vs Vasco",
+      "league": null,
+      "title": "Palmeiras vs Vasco da Gama",
       "team_home": "Palmeiras",
-      "team_away": "Vasco",
+      "team_away": "Vasco da Gama",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -1015,25 +899,25 @@
     },
     {
       "date": "2026-08-23",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Cleveland Guardians",
-      "team_home": "Colorado Rockies",
-      "team_away": "Cleveland Guardians",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Fortaleza CEIF vs Atlético Nacional",
+      "team_home": "Fortaleza CEIF",
+      "team_away": "Atlético Nacional",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "en": [
+        "nl": [
           {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1787512200
+      "startTimestamp": 1787511600
     },
     {
       "date": "2026-08-23",
