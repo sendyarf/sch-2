@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T17:14:33.179087",
+  "generated_at": "2026-08-23T17:55:15.020375",
   "sources": [
     {
       "name": "cartelive",
@@ -387,21 +387,15 @@
       "date": "2026-08-23",
       "time_utc": "14:30",
       "time_utc1": "16:30",
-      "league": "Liga Portugal",
-      "title": "Vitoria Guimaraes vs Nacional",
-      "team_home": "Vitoria Guimaraes",
+      "league": null,
+      "title": "Vitória Guimarães vs Nacional",
+      "team_home": "Vitória Guimarães",
       "team_away": "Nacional",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
@@ -415,22 +409,14 @@
       "date": "2026-08-23",
       "time_utc": "14:45",
       "time_utc1": "16:45",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Cambuur vs Feyenoord",
       "team_home": "Cambuur",
       "team_away": "Feyenoord",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN3",
