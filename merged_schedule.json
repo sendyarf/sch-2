@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:55:41.270474",
+  "generated_at": "2026-08-23T14:00:47.495085",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 165,
+  "total_events": 164,
   "events": [
     {
       "date": "2026-08-16",
@@ -66,52 +66,17 @@
     },
     {
       "date": "2026-08-23",
-      "time_utc": "10:15",
-      "time_utc1": "12:15",
-      "league": "Eredivisie",
-      "title": "G.A. Eagles vs Den Haag",
-      "team_home": "G.A. Eagles",
-      "team_away": "Den Haag",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787480100
-    },
-    {
-      "date": "2026-08-23",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Championship",
-      "title": "West Brom vs Burnley",
-      "team_home": "West Brom",
+      "league": null,
+      "title": "West Bromwich Albion vs Burnley",
+      "team_home": "West Bromwich Albion",
       "team_away": "Burnley",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -139,21 +104,15 @@
       "date": "2026-08-23",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "DFB Pokal",
-      "title": "Greuther Furth vs Bochum",
-      "team_home": "Greuther Furth",
+      "league": null,
+      "title": "Greuther Fürth vs Bochum",
+      "team_home": "Greuther Fürth",
       "team_away": "Bochum",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -174,21 +133,15 @@
       "date": "2026-08-23",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "DFB Pokal",
+      "league": null,
       "title": "Jeddeloh vs Heidenheim",
       "team_home": "Jeddeloh",
       "team_away": "Heidenheim",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
