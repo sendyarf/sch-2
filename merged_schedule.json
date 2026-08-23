@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:24:42.520504",
+  "generated_at": "2026-08-23T15:58:52.262943",
   "sources": [
     {
       "name": "cartelive",
@@ -155,37 +155,19 @@
       "date": "2026-08-23",
       "time_utc": "12:30",
       "time_utc1": "14:30",
-      "league": "Eredivisie",
+      "league": null,
       "title": "PSV vs Groningen",
       "team_home": "PSV",
       "team_away": "Groningen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
           {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
           }
         ],
         "pt": [
