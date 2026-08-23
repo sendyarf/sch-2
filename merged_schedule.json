@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T16:52:40.423095",
+  "generated_at": "2026-08-23T17:14:33.179087",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 160,
+  "total_events": 158,
   "events": [
     {
       "date": "2026-08-16",
@@ -382,50 +382,6 @@
         ]
       },
       "startTimestamp": 1787491800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs Racing Montevideo",
-      "team_home": "Danubio",
-      "team_away": "Racing Montevideo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787493600
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Lommel SK vs Westerlo",
-      "team_home": "Lommel SK",
-      "team_away": "Westerlo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787493600
     },
     {
       "date": "2026-08-23",
