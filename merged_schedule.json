@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T05:33:20.186009",
+  "generated_at": "2026-08-23T06:00:24.415528",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 166,
+  "total_events": 165,
   "events": [
     {
       "date": "2026-08-16",
@@ -41,38 +41,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Cruz Azul vs Atlas",
-      "team_home": "Cruz Azul",
-      "team_away": "Atlas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787454000
     },
     {
       "date": "2026-08-23",
