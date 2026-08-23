@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:14:03.006719",
+  "generated_at": "2026-08-23T21:36:26.396520",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 136,
+  "total_events": 132,
   "events": [
     {
       "date": "2026-08-16",
@@ -741,93 +741,6 @@
       "date": "2026-08-23",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Betfred Super League",
-      "title": "Panetolikos vs Asteras Tripolis",
-      "team_home": "Panetolikos",
-      "team_away": "Asteras Tripolis",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787509800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Alanyaspor vs Besiktas",
-      "team_home": "Alanyaspor",
-      "team_away": "Besiktas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          }
-        ],
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787509800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Goztepe vs Genclerbirligi",
-      "team_home": "Goztepe",
-      "team_away": "Genclerbirligi",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 2",
-            "url": "https://multi.govoet.cc/?envivo=152",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787509800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
       "league": null,
       "title": "Alanyaspor vs Beşiktaş",
       "team_home": "Alanyaspor",
@@ -852,28 +765,6 @@
         ]
       },
       "startTimestamp": 1787509800
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "18:35",
-      "time_utc1": "20:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs Los Angeles Angels",
-      "team_home": "Texas Rangers",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787510100
     },
     {
       "date": "2026-08-23",
