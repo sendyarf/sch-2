@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T15:58:52.262943",
+  "generated_at": "2026-08-23T16:28:49.554850",
   "sources": [
     {
       "name": "cartelive",
@@ -191,156 +191,19 @@
       "date": "2026-08-23",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Ligue 1",
-      "title": "Angers vs Lille",
-      "team_home": "Angers",
-      "team_away": "Lille",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787490000
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Brighton vs Aston Villa",
-      "team_home": "Brighton",
-      "team_away": "Aston Villa",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 1",
-            "url": "https://multi.govoet.cc/?envivo=31",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "ELEVEN2",
-            "url": "https://multi.govoet.cc/?ss=eleven2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787490000
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Manchester City vs Bournemouth",
+      "league": null,
+      "title": "Manchester City vs AFC Bournemouth",
       "team_home": "Manchester City",
-      "team_away": "Bournemouth",
+      "team_away": "AFC Bournemouth",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -364,29 +227,79 @@
       "date": "2026-08-23",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Formula 1",
-      "title": "Formula 1: Grand Prix des Pays-Bas. La course",
-      "team_home": null,
-      "team_away": null,
+      "league": null,
+      "title": "Brighton & Hove Albion vs Aston Villa",
+      "team_home": "Brighton & Hove Albion",
+      "team_away": "Aston Villa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "en": [
           {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
           }
         ],
-        "es": [
+        "pt": [
           {
-            "channel": "ES DAZN F1",
-            "url": "https://multi.govoet.cc/?envivo=60",
-            "source": "cartelive"
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
           }
         ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787490000
+    },
+    {
+      "date": "2026-08-23",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Angers SCO vs Lille",
+      "team_home": "Angers SCO",
+      "team_away": "Lille",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787490000
+    },
+    {
+      "date": "2026-08-23",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Dutch F1 Grand Prix",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "en": [
           {
             "channel": "HD2",
