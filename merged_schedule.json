@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:42:51.398834",
+  "generated_at": "2026-08-24T04:27:01.493655",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 121,
+  "total_events": 112,
   "events": [
     {
       "date": "2026-08-16",
@@ -1017,22 +1017,14 @@
       "date": "2026-08-23",
       "time_utc": "21:05",
       "time_utc1": "23:05",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Dep. Pasto vs Llaneros",
-      "team_home": "Dep. Pasto",
+      "league": null,
+      "title": "Deportivo Pasto vs Llaneros",
+      "team_home": "Deportivo Pasto",
       "team_away": "Llaneros",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD9",
@@ -1042,28 +1034,6 @@
         ]
       },
       "startTimestamp": 1787519100
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Nacional vs Progreso",
-      "team_home": "Nacional",
-      "team_away": "Progreso",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787520600
     },
     {
       "date": "2026-08-23",
@@ -1135,27 +1105,14 @@
       "date": "2026-08-23",
       "time_utc": "22:15",
       "time_utc1": "00:15",
-      "league": "Torneo LPF",
-      "title": "River Plate vs Velez Sarsfield",
+      "league": null,
+      "title": "River Plate vs Vélez Sarsfield",
       "team_home": "River Plate",
-      "team_away": "Velez Sarsfield",
+      "team_away": "Vélez Sarsfield",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD10",
@@ -1184,22 +1141,14 @@
       "date": "2026-08-23",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": "Serie A Bresil",
+      "league": null,
       "title": "Coritiba vs Corinthians",
       "team_home": "Coritiba",
       "team_away": "Corinthians",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -1212,95 +1161,16 @@
     },
     {
       "date": "2026-08-23",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Campeonato Itaú Chile",
-      "title": "O'Higgins vs Palestino",
-      "team_home": "O'Higgins",
-      "team_away": "Palestino",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787526000
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga Mx",
-      "title": "Atl. San Luis vs Pachuca",
-      "team_home": "Atl. San Luis",
-      "team_away": "Pachuca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787526000
-    },
-    {
-      "date": "2026-08-23",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "MLS",
-      "title": "Atlanta Utd vs Sporting Kansas City",
-      "team_home": "Atlanta Utd",
-      "team_away": "Sporting Kansas City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787526000
-    },
-    {
-      "date": "2026-08-23",
       "time_utc": "23:10",
       "time_utc1": "01:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Dep. Cali vs Inter Bogotá",
-      "team_home": "Dep. Cali",
+      "league": null,
+      "title": "Deportivo Cali vs Inter Bogotá",
+      "team_home": "Deportivo Cali",
       "team_away": "Inter Bogotá",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD9",
@@ -1312,102 +1182,18 @@
       "startTimestamp": 1787526600
     },
     {
-      "date": "2026-08-23",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "U. de Deportes vs Los Chankas",
-      "team_home": "U. de Deportes",
-      "team_away": "Los Chankas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787527800
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "LDU Quito vs Emelec",
-      "team_home": "LDU Quito",
-      "team_away": "Emelec",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787529600
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NFL",
-      "title": "Tennessee Titans vs Seattle Seahawks",
-      "team_home": "Tennessee Titans",
-      "team_away": "Seattle Seahawks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787529600
-    },
-    {
       "date": "2026-08-24",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Torneo LPF",
+      "league": null,
       "title": "Racing Club vs Boca Juniors",
       "team_home": "Racing Club",
       "team_away": "Boca Juniors",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -1433,83 +1219,16 @@
     },
     {
       "date": "2026-08-24",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tapatio vs Zacatecas Mineros",
-      "team_home": "Tapatio",
-      "team_away": "Zacatecas Mineros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787533200
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "Liga Mx",
-      "title": "UNAM Pumas vs Necaxa",
-      "team_home": "UNAM Pumas",
-      "team_away": "Necaxa",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787533200
-    },
-    {
-      "date": "2026-08-24",
       "time_utc": "01:15",
       "time_utc1": "03:15",
-      "league": "Liga BetPlay Dimayor",
+      "league": null,
       "title": "Junior vs Once Caldas",
       "team_home": "Junior",
       "team_away": "Once Caldas",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD9",
