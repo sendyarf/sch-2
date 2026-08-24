@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:32:14.705099",
+  "generated_at": "2026-08-24T22:18:05.898255",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 69,
+  "total_events": 66,
   "events": [
     {
       "date": "2026-08-16",
@@ -153,111 +153,27 @@
     },
     {
       "date": "2026-08-24",
-      "time_utc": "16:40",
-      "time_utc1": "18:40",
-      "league": "Saudi Pro League",
-      "title": "NEOM vs Al Quadisiya",
-      "team_home": "NEOM",
-      "team_away": "Al Quadisiya",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=133",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787589600
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Laliga 2",
-      "title": "Celta Vigo B vs Andorra",
-      "team_home": "Celta Vigo B",
-      "team_away": "Andorra",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787590800
-    },
-    {
-      "date": "2026-08-24",
       "time_utc": "17:30",
       "time_utc1": "19:30",
-      "league": "Laliga",
+      "league": null,
       "title": "Osasuna vs Levante",
       "team_home": "Osasuna",
       "team_away": "Levante",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
             "source": "sportsonline"
           }
         ],
@@ -275,32 +191,19 @@
       "date": "2026-08-24",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Ittihad vs Al Hazm",
       "team_home": "Al Ittihad",
       "team_away": "Al Hazm",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=132",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -312,28 +215,6 @@
         ]
       },
       "startTimestamp": 1787594400
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Super Lig",
-      "title": "Kocaelispor vs Amedspor",
-      "team_home": "Kocaelispor",
-      "team_away": "Amedspor",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "tr": [
-          {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787596200
     },
     {
       "date": "2026-08-24",
@@ -383,21 +264,66 @@
       "date": "2026-08-24",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "DFB Pokal",
+      "league": null,
+      "title": "Roma vs Fiorentina",
+      "team_home": "Roma",
+      "team_away": "Fiorentina",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787597100
+    },
+    {
+      "date": "2026-08-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Reims vs Annecy",
+      "team_home": "Reims",
+      "team_away": "Annecy",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "fr": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787597100
+    },
+    {
+      "date": "2026-08-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
       "title": "Hallescher FC vs Schalke 04",
       "team_home": "Hallescher FC",
       "team_away": "Schalke 04",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -416,140 +342,21 @@
     },
     {
       "date": "2026-08-24",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 2",
-      "title": "Reims vs Annecy",
-      "team_home": "Reims",
-      "team_away": "Annecy",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787597100
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "AS Roma vs Fiorentina",
-      "team_home": "AS Roma",
-      "team_away": "Fiorentina",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787597100
-    },
-    {
-      "date": "2026-08-24",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Premier League",
+      "league": null,
       "title": "Fulham vs Chelsea",
       "team_home": "Fulham",
       "team_away": "Chelsea",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE skyde PL",
-            "url": "https://multi.govoet.cc/?envivo=120",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -573,21 +380,15 @@
       "date": "2026-08-24",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Liga Portugal",
+      "league": null,
       "title": "Gil Vicente vs Casa Pia",
       "team_home": "Gil Vicente",
       "team_away": "Casa Pia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
           {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
