@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:51:03.612489",
+  "generated_at": "2026-08-24T13:35:17.516214",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 68,
+  "total_events": 69,
   "events": [
     {
       "date": "2026-08-16",
@@ -146,6 +146,13 @@
         "sportsonline"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "C+Live 16",
+            "url": "https://multi.govoet.cc/?envivo=46",
+            "source": "cartelive"
+          }
+        ],
         "it": [
           {
             "channel": "IT Zona DAZN",
@@ -194,6 +201,45 @@
     },
     {
       "date": "2026-08-24",
+      "time_utc": "16:40",
+      "time_utc1": "18:40",
+      "league": "Saudi Pro League",
+      "title": "NEOM vs Al Quadisiya",
+      "team_home": "NEOM",
+      "team_away": "Al Quadisiya",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=133",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "ES Feed",
+            "url": "https://multi.govoet.cc/?envivo=61",
+            "source": "cartelive"
+          },
+          {
+            "channel": "ES Vamos",
+            "url": "https://multi.govoet.cc/?envivo=55",
+            "source": "cartelive"
+          },
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1787589600
+    },
+    {
+      "date": "2026-08-24",
       "time_utc": "17:00",
       "time_utc1": "19:00",
       "league": "Laliga 2",
@@ -227,6 +273,13 @@
         "sportsonline"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "C+Live 15",
+            "url": "https://multi.govoet.cc/?envivo=45",
+            "source": "cartelive"
+          }
+        ],
         "es": [
           {
             "channel": "ES m.laliga",
@@ -270,19 +323,32 @@
       "date": "2026-08-24",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": null,
+      "league": "Saudi Pro League",
       "title": "Al Ittihad vs Al Hazm",
       "team_home": "Al Ittihad",
       "team_away": "Al Hazm",
       "sources": [
+        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
+            "channel": "UK EPL 3PM",
+            "url": "https://multi.govoet.cc/?envivo=132",
+            "source": "cartelive"
+          },
+          {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
+            "source": "cartelive"
           }
         ],
         "pt": [
@@ -614,6 +680,13 @@
         "sportsonline"
       ],
       "streams_by_language": {
+        "fr": [
+          {
+            "channel": "C+Live 15",
+            "url": "https://multi.govoet.cc/?envivo=45",
+            "source": "cartelive"
+          }
+        ],
         "es": [
           {
             "channel": "ES DAZN liga",
@@ -717,17 +790,17 @@
         "cartelive"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "EXTRA SPORT26",
             "url": "https://multi.govoet.cc/?envivo=180",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
             "source": "cartelive"
           }
         ]
@@ -971,6 +1044,13 @@
             "url": "https://multi.govoet.cc/?envivo=185",
             "source": "cartelive"
           }
+        ],
+        "es": [
+          {
+            "channel": "ESPN3",
+            "url": "https://multi.govoet.cc/?envivo=89",
+            "source": "cartelive"
+          }
         ]
       },
       "startTimestamp": 1787622000
@@ -1053,17 +1133,17 @@
         "cartelive"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "EXTRA SPORT36",
             "url": "https://multi.govoet.cc/?envivo=189",
+            "source": "cartelive"
+          }
+        ],
+        "es": [
+          {
+            "channel": "FOX Deportes",
+            "url": "https://multi.govoet.cc/?envivo=70",
             "source": "cartelive"
           }
         ]
