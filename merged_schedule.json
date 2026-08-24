@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:59:09.286925",
+  "generated_at": "2026-08-24T19:32:14.705099",
   "sources": [
     {
       "name": "cartelive",
@@ -46,24 +46,18 @@
       "date": "2026-08-24",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "Altglienicke vs Wolfsburg",
-      "team_home": "Altglienicke",
-      "team_away": "Wolfsburg",
+      "league": null,
+      "title": "Würzburger Kickers vs Köln",
+      "team_home": "Würzburger Kickers",
+      "team_away": "Köln",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ]
@@ -74,21 +68,15 @@
       "date": "2026-08-24",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "DFB Pokal",
+      "league": null,
       "title": "Verl vs Hamburger SV",
       "team_home": "Verl",
       "team_away": "Hamburger SV",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -109,24 +97,18 @@
       "date": "2026-08-24",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "DFB Pokal",
-      "title": "Würzburger Kickers vs Köln",
-      "team_home": "Würzburger Kickers",
-      "team_away": "Köln",
+      "league": null,
+      "title": "Altglienicke vs Wolfsburg",
+      "team_home": "Altglienicke",
+      "team_away": "Wolfsburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
@@ -137,49 +119,19 @@
       "date": "2026-08-24",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Serie A",
+      "league": null,
       "title": "Bologna vs Lazio",
       "team_home": "Bologna",
       "team_away": "Lazio",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT Zona DAZN",
-            "url": "https://multi.govoet.cc/?envivo=137",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
           }
         ],
         "pt": [
