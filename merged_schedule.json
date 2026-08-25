@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T21:41:59.253213",
+  "generated_at": "2026-08-25T21:59:08.860431",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 64,
+  "total_events": 54,
   "events": [
     {
       "date": "2026-08-16",
@@ -126,279 +126,25 @@
       "date": "2026-08-25",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Barnsley vs Crewe",
-      "team_home": "Barnsley",
-      "team_away": "Crewe",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Blackburn vs Sheffield Utd",
-      "team_home": "Blackburn",
-      "team_away": "Sheffield Utd",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Blackpool vs Lincoln",
-      "team_home": "Blackpool",
-      "team_away": "Lincoln",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Cambridge Utd vs Millwall",
-      "team_home": "Cambridge Utd",
-      "team_away": "Millwall",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 7",
-            "url": "https://multi.govoet.cc/?envivo=7",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Fleetwood vs Shrewsbury",
-      "team_home": "Fleetwood",
-      "team_away": "Shrewsbury",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Ipswich vs Leicester",
-      "team_home": "Ipswich",
-      "team_away": "Leicester",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=3",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Plymouth vs Coventry",
-      "team_home": "Plymouth",
-      "team_away": "Coventry",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Sheffield Wed vs Wolves",
-      "team_home": "Sheffield Wed",
-      "team_away": "Wolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 6",
-            "url": "https://multi.govoet.cc/?envivo=6",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Southampton vs West Ham",
+      "league": null,
+      "title": "Southampton vs West Ham United",
       "team_home": "Southampton",
-      "team_away": "West Ham",
+      "team_away": "West Ham United",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Stevenage vs Reading",
-      "team_home": "Stevenage",
-      "team_away": "Reading",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
+        ],
+        "pt": [
           {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Stoke vs Hull",
-      "team_home": "Stoke",
-      "team_away": "Hull",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ]
@@ -409,41 +155,19 @@
       "date": "2026-08-25",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Walsall vs Leyton Orient",
-      "team_home": "Walsall",
-      "team_away": "Leyton Orient",
+      "league": null,
+      "title": "Ipswich Town vs Leicester City",
+      "team_home": "Ipswich Town",
+      "team_away": "Leicester City",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787683500
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Efl Cup",
-      "title": "Watford vs Peterborough",
-      "team_home": "Watford",
-      "team_away": "Peterborough",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 8",
-            "url": "https://multi.govoet.cc/?envivo=8",
-            "source": "cartelive"
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -465,6 +189,28 @@
           {
             "channel": "HD8",
             "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1787683500
+    },
+    {
+      "date": "2026-08-25",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Stoke City vs Hull City",
+      "team_home": "Stoke City",
+      "team_away": "Hull City",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
