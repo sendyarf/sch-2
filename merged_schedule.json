@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T01:25:16.743063",
+  "generated_at": "2026-08-25T02:35:36.100225",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 65,
+  "total_events": 61,
   "events": [
     {
       "date": "2026-08-16",
@@ -480,79 +480,6 @@
     },
     {
       "date": "2026-08-24",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Tampa Bay Rays",
-      "team_home": "Detroit Tigers",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787611200
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Miami Marlins vs Boston Red Sox",
-      "team_home": "Miami Marlins",
-      "team_away": "Boston Red Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787611200
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Washington Nationals vs Colorado Rockies",
-      "team_home": "Washington Nationals",
-      "team_away": "Colorado Rockies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787611500
-    },
-    {
-      "date": "2026-08-24",
       "time_utc": "23:00",
       "time_utc1": "01:00",
       "league": null,
@@ -572,28 +499,6 @@
         ]
       },
       "startTimestamp": 1787612400
-    },
-    {
-      "date": "2026-08-24",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Everton vs U. De Concepcion",
-      "team_home": "Everton",
-      "team_away": "U. De Concepcion",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787614200
     },
     {
       "date": "2026-08-24",
