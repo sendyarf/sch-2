@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T19:43:59.335960",
+  "generated_at": "2026-08-25T20:01:58.441162",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 69,
+  "total_events": 67,
   "events": [
     {
       "date": "2026-08-16",
@@ -68,54 +68,6 @@
       "date": "2026-08-25",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Ligue Des Champions",
-      "title": "Sabah Baku (Aze) vs H. Beer Sheva (Isr)",
-      "team_home": "Sabah Baku (Aze)",
-      "team_away": "H. Beer Sheva (Isr)",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=140",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787676300
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
       "league": null,
       "title": "Sabah vs Hapoel Be'er Sheva",
       "team_home": "Sabah",
@@ -133,28 +85,6 @@
         ]
       },
       "startTimestamp": 1787676300
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "17:00",
-      "time_utc1": "19:00",
-      "league": "Tournée Automne",
-      "title": "Lions vs New Zealand",
-      "team_home": "Lions",
-      "team_away": "New Zealand",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787677200
     },
     {
       "date": "2026-08-25",
