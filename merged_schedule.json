@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T20:43:30.549530",
+  "generated_at": "2026-08-25T21:41:59.253213",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 67,
+  "total_events": 64,
   "events": [
     {
       "date": "2026-08-16",
@@ -90,62 +90,6 @@
       "date": "2026-08-25",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Efl Cup",
-      "title": "Cardiff vs Norwich",
-      "team_home": "Cardiff",
-      "team_away": "Norwich",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 9",
-            "url": "https://multi.govoet.cc/?envivo=9",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787680800
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Ettifaq vs Al Nassr",
-      "team_home": "Al Ettifaq",
-      "team_away": "Al Nassr",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787680800
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
       "league": null,
       "title": "Al Ittifaq vs Al Nassr",
       "team_home": "Al Ittifaq",
@@ -177,28 +121,6 @@
         ]
       },
       "startTimestamp": 1787680800
-    },
-    {
-      "date": "2026-08-25",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Efl Cup",
-      "title": "Doncaster vs Middlesbrough",
-      "team_home": "Doncaster",
-      "team_away": "Middlesbrough",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787682600
     },
     {
       "date": "2026-08-25",
