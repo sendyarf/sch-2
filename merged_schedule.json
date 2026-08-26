@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T02:43:25.048890",
+  "generated_at": "2026-08-26T04:22:30.532849",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 45,
+  "total_events": 41,
   "events": [
     {
       "date": "2026-08-16",
@@ -392,60 +392,6 @@
       "startTimestamp": 1787698800
     },
     {
-      "date": "2026-08-25",
-      "time_utc": "23:45",
-      "time_utc1": "01:45",
-      "league": "MLB",
-      "title": "St.Louis Cardinals vs Baltimore Orioles",
-      "team_home": "St.Louis Cardinals",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT35",
-            "url": "https://multi.govoet.cc/?envivo=188",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787701500
-    },
-    {
-      "date": "2026-08-26",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Coupe Du Bresil",
-      "title": "Cruzeiro vs Atletico-MG",
-      "team_home": "Cruzeiro",
-      "team_away": "Atletico-MG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787702400
-    },
-    {
       "date": "2026-08-26",
       "time_utc": "00:00",
       "time_utc1": "02:00",
@@ -471,32 +417,14 @@
       "date": "2026-08-26",
       "time_utc": "00:30",
       "time_utc1": "02:30",
-      "league": "Copa Libertadores",
-      "title": "Ind. del Valle (Ecu) vs Deportes Tolima (Col)",
-      "team_home": "Ind. del Valle (Ecu)",
-      "team_away": "Deportes Tolima (Col)",
+      "league": null,
+      "title": "Independiente del Valle vs Deportes Tolima",
+      "team_home": "Independiente del Valle",
+      "team_away": "Deportes Tolima",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD5",
@@ -509,51 +437,16 @@
     },
     {
       "date": "2026-08-26",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Leagues Cup",
-      "title": "Monterrey vs Chicago Fire",
-      "team_home": "Monterrey",
-      "team_away": "Chicago Fire",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787704200
-    },
-    {
-      "date": "2026-08-26",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Cucuta vs Alianza",
-      "team_home": "Cucuta",
+      "league": null,
+      "title": "Cúcuta Deportivo vs Alianza",
+      "team_home": "Cúcuta Deportivo",
       "team_away": "Alianza",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD9",
@@ -563,28 +456,6 @@
         ]
       },
       "startTimestamp": 1787706000
-    },
-    {
-      "date": "2026-08-26",
-      "time_utc": "01:05",
-      "time_utc1": "03:05",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Santa Fe vs Jaguares de Cordoba",
-      "team_home": "Santa Fe",
-      "team_away": "Jaguares de Cordoba",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787706300
     },
     {
       "date": "2026-08-26",
