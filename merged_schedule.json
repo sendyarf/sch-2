@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T04:18:39.862590",
+  "generated_at": "2026-08-29T11:15:53.594593",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 258,
+  "total_events": 260,
   "events": [
     {
       "date": "2026-08-16",
@@ -44,144 +44,10 @@
     },
     {
       "date": "2026-08-29",
-      "time_utc": "01:38",
-      "time_utc1": "03:38",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Philadelphia Phillies",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT44",
-            "url": "https://multi.govoet.cc/?envivo=197",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT42",
-            "url": "https://multi.govoet.cc/?envivo=195",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787967480
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Baltimore Orioles",
-      "team_home": "Athletics",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT45",
-            "url": "https://multi.govoet.cc/?envivo=198",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787967600
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "02:15",
-      "time_utc1": "04:15",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Arizona Diamondbacks",
-      "team_home": "San Francisco Giants",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT46",
-            "url": "https://multi.govoet.cc/?envivo=199",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787969700
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "03:10",
-      "time_utc1": "05:10",
-      "league": "Liga Mx",
-      "title": "Club Tijuana vs UNAM Pumas",
-      "team_home": "Club Tijuana",
-      "team_away": "UNAM Pumas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1787973000
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "06:30",
-      "time_utc1": "08:30",
-      "league": "Moto2/3",
-      "title": "Aragon FP2",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "unknown": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787985000
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "08:00",
-      "time_utc1": "10:00",
+      "time_utc": "08:50",
+      "time_utc1": "10:50",
       "league": "MotoGP",
-      "title": "MotoGP: Grand Prix d’Aragon Essais libres 2",
+      "title": "MotoGP: Grand Prix d’Aragon Essais qualificatifs",
       "team_home": null,
       "team_away": null,
       "sources": [
@@ -203,29 +69,7 @@
           }
         ]
       },
-      "startTimestamp": 1787990400
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "10:00",
-      "time_utc1": "12:00",
-      "league": null,
-      "title": "Portimonense vs Leixões",
-      "team_home": "Portimonense",
-      "team_away": "Leixões",
-      "sources": [
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "SPORTTV1",
-            "url": "https://multi.govoet.cc/?ss=sporttv1",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1787997600
+      "startTimestamp": 1787993400
     },
     {
       "date": "2026-08-29",
@@ -251,12 +95,24 @@
             "channel": "SPORTTV3",
             "url": "https://multi.govoet.cc/?ss=sporttv3",
             "source": "sportsonline"
+          },
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
           }
         ],
         "pt-BR": [
           {
             "channel": "BR6",
             "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
@@ -4211,6 +4067,50 @@
     },
     {
       "date": "2026-08-30",
+      "time_utc": "02:05",
+      "time_utc1": "04:05",
+      "league": "MLB",
+      "title": "Athletics vs Baltimore Orioles",
+      "team_home": "Athletics",
+      "team_away": "Baltimore Orioles",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT41",
+            "url": "https://multi.govoet.cc/?envivo=194",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1788055500
+    },
+    {
+      "date": "2026-08-30",
+      "time_utc": "02:07",
+      "time_utc1": "04:07",
+      "league": "MLB",
+      "title": "Los Angeles Angels vs Philadelphia Phillies",
+      "team_home": "Los Angeles Angels",
+      "team_away": "Philadelphia Phillies",
+      "sources": [
+        "cartelive"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "EXTRA SPORT42",
+            "url": "https://multi.govoet.cc/?envivo=195",
+            "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1788055620
+    },
+    {
+      "date": "2026-08-30",
       "time_utc": "02:30",
       "time_utc1": "04:30",
       "league": "MLS",
@@ -4317,6 +4217,64 @@
     },
     {
       "date": "2026-08-30",
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "Moto3",
+      "title": "Grand Prix of Aragon",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788076800
+    },
+    {
+      "date": "2026-08-30",
+      "time_utc": "10:00",
+      "time_utc1": "12:00",
+      "league": null,
+      "title": "Amarante vs Benfica B",
+      "team_home": "Amarante",
+      "team_away": "Benfica B",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788084000
+    },
+    {
+      "date": "2026-08-30",
       "time_utc": "10:15",
       "time_utc1": "12:15",
       "league": "Eredivisie",
@@ -4324,7 +4282,8 @@
       "team_home": "Utrecht",
       "team_away": "PSV",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
@@ -4332,6 +4291,11 @@
             "channel": "NL ESPN 2",
             "url": "https://multi.govoet.cc/?envivo=142",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4344,6 +4308,20 @@
             "channel": "ESPN4",
             "url": "https://multi.govoet.cc/?envivo=90",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4358,7 +4336,8 @@
       "team_home": "Aberdeen",
       "team_away": "Rangers",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
@@ -4366,6 +4345,18 @@
             "channel": "UK SPFL Rangers",
             "url": "https://multi.govoet.cc/?envivo=136",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4533,7 +4524,8 @@
       "team_home": "Paris FC",
       "team_away": "Nice",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4554,6 +4546,20 @@
             "url": "https://multi.govoet.cc/?envivo=90",
             "source": "cartelive"
           }
+        ],
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1788094800
@@ -4567,7 +4573,8 @@
       "team_home": "Chelsea",
       "team_away": "Brighton",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4582,6 +4589,11 @@
             "channel": "UK SKY MAIN",
             "url": "https://multi.govoet.cc/?envivo=127",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4602,6 +4614,20 @@
             "url": "https://multi.govoet.cc/?envivo=138",
             "source": "cartelive"
           }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1788094800
@@ -4615,7 +4641,8 @@
       "team_home": "Leeds",
       "team_away": "Brentford",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4630,6 +4657,11 @@
             "channel": "UK EPL 3PM",
             "url": "https://multi.govoet.cc/?envivo=130",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4642,6 +4674,13 @@
             "channel": "Telemundo",
             "url": "https://multi.govoet.cc/?envivo=73",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4656,7 +4695,8 @@
       "team_home": "Sunderland",
       "team_away": "Fulham",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4679,6 +4719,13 @@
             "url": "https://multi.govoet.cc/?envivo=57",
             "source": "cartelive"
           }
+        ],
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1788094800
@@ -4692,7 +4739,8 @@
       "team_home": "Freiburg",
       "team_away": "Werder Bremen",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4707,6 +4755,11 @@
             "channel": "DE dazn 1",
             "url": "https://multi.govoet.cc/?envivo=123",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4750,7 +4803,8 @@
       "team_home": "Athletico-PR",
       "team_away": "Fluminense",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -4758,6 +4812,13 @@
             "channel": "WINsport",
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4772,7 +4833,8 @@
       "team_home": "Nacional",
       "team_away": "Estrela",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
@@ -4780,6 +4842,11 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4794,7 +4861,8 @@
       "team_home": "Telstar",
       "team_away": "Ajax",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
@@ -4802,6 +4870,18 @@
             "channel": "NL ESPN 2",
             "url": "https://multi.govoet.cc/?envivo=142",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4816,7 +4896,8 @@
       "team_home": "Real Madrid",
       "team_away": "Malaga",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4841,6 +4922,32 @@
             "channel": "directv",
             "url": "https://multi.govoet.cc/?envivo=94",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4877,7 +4984,8 @@
       "team_home": "Rennes",
       "team_away": "Le Mans",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4893,6 +5001,13 @@
             "url": "https://multi.govoet.cc/?envivo=69",
             "source": "cartelive"
           }
+        ],
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1788102900
@@ -4906,7 +5021,8 @@
       "team_home": "Augsburg",
       "team_away": "Schalke",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4921,6 +5037,18 @@
             "channel": "DE dazn 2",
             "url": "https://multi.govoet.cc/?envivo=124",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN3",
+            "url": "https://multi.govoet.cc/?ss=eleven3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -4935,7 +5063,8 @@
       "team_home": "Manchester Utd",
       "team_away": "Ipswich",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -4950,6 +5079,11 @@
             "channel": "UK SKY MAIN",
             "url": "https://multi.govoet.cc/?envivo=127",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
           }
         ],
         "es": [
@@ -4981,6 +5115,20 @@
             "channel": "DE skyde PL",
             "url": "https://multi.govoet.cc/?envivo=120",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5017,7 +5165,8 @@
       "team_home": "Eyupspor",
       "team_away": "Alanyaspor",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "tr": [
@@ -5025,6 +5174,13 @@
             "channel": "TR BeIN sport 1",
             "url": "https://multi.govoet.cc/?envivo=151",
             "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5105,7 +5261,8 @@
       "team_home": "Napoli",
       "team_away": "Como",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5120,6 +5277,11 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
           }
         ],
         "en": [
@@ -5139,6 +5301,13 @@
             "channel": "NBC UNIVERSO",
             "url": "https://multi.govoet.cc/?envivo=72",
             "source": "cartelive"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5197,7 +5366,8 @@
       "team_home": "Casa Pia",
       "team_away": "Moreirense",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
@@ -5205,6 +5375,11 @@
             "channel": "PT SPORT 2",
             "url": "https://multi.govoet.cc/?envivo=145",
             "source": "cartelive"
+          },
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5263,7 +5438,8 @@
       "team_home": "Dep. A Coruna",
       "team_away": "Valencia",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -5281,6 +5457,18 @@
             "channel": "directv",
             "url": "https://multi.govoet.cc/?envivo=94",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN1",
+            "url": "https://multi.govoet.cc/?ss=eleven1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5471,7 +5659,8 @@
       "team_home": "Banfield",
       "team_away": "River Plate",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -5479,6 +5668,20 @@
             "channel": "ESPN Premium",
             "url": "https://multi.govoet.cc/?envivo=76",
             "source": "cartelive"
+          }
+        ],
+        "nl": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5581,7 +5784,8 @@
       "team_home": "Samsunspor",
       "team_away": "Fenerbahce",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5604,6 +5808,13 @@
             "url": "https://multi.govoet.cc/?envivo=80",
             "source": "cartelive"
           }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
         ]
       },
       "startTimestamp": 1788114600
@@ -5617,7 +5828,8 @@
       "team_home": "Monaco",
       "team_away": "Marseille",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5637,6 +5849,20 @@
             "channel": "EXTRA SPORT5",
             "url": "https://multi.govoet.cc/?envivo=159",
             "source": "cartelive"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5694,7 +5920,8 @@
       "team_home": "Lazio",
       "team_away": "Genoa",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
@@ -5709,6 +5936,54 @@
             "channel": "IT Zona DAZN",
             "url": "https://multi.govoet.cc/?envivo=137",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788115500
+    },
+    {
+      "date": "2026-08-30",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Cagliari vs Internazionale",
+      "team_home": "Cagliari",
+      "team_away": "Internazionale",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5745,7 +6020,8 @@
       "team_home": "Aguilas",
       "team_away": "Chico",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -5753,6 +6029,11 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5767,7 +6048,8 @@
       "team_home": "Corinthians",
       "team_away": "Santos",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -5775,6 +6057,13 @@
             "channel": "WINsport",
             "url": "https://multi.govoet.cc/?envivo=82",
             "source": "cartelive"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR4",
+            "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5789,7 +6078,8 @@
       "team_home": "Flamengo RJ",
       "team_away": "Botafogo RJ",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
@@ -5797,6 +6087,13 @@
             "channel": "DE bundliga7",
             "url": "https://multi.govoet.cc/?envivo=117",
             "source": "cartelive"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5811,7 +6108,8 @@
       "team_home": "Celta Vigo",
       "team_away": "Ath Bilbao",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -5829,6 +6127,18 @@
             "channel": "ESPN5",
             "url": "https://multi.govoet.cc/?envivo=91",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "ELEVEN2",
+            "url": "https://multi.govoet.cc/?ss=eleven2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -5873,6 +6183,28 @@
             "channel": "PT SPORT 1",
             "url": "https://multi.govoet.cc/?envivo=144",
             "source": "cartelive"
+          }
+        ]
+      },
+      "startTimestamp": 1788118200
+    },
+    {
+      "date": "2026-08-30",
+      "time_utc": "19:30",
+      "time_utc1": "21:30",
+      "league": null,
+      "title": "Famalicão vs Gil Vicente",
+      "team_home": "Famalicão",
+      "team_away": "Gil Vicente",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6019,7 +6351,8 @@
       "team_home": "Ind. Medellin",
       "team_away": "Llaneros",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6027,6 +6360,11 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6085,7 +6423,8 @@
       "team_home": "Mirassol",
       "team_away": "Palmeiras",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
@@ -6093,6 +6432,57 @@
             "channel": "DE bundliga8",
             "url": "https://multi.govoet.cc/?envivo=118",
             "source": "cartelive"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788125400
+    },
+    {
+      "date": "2026-08-30",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": null,
+      "title": "Grêmio vs Chapecoense",
+      "team_home": "Grêmio",
+      "team_away": "Chapecoense",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788125400
+    },
+    {
+      "date": "2026-08-30",
+      "time_utc": "21:30",
+      "time_utc1": "23:30",
+      "league": null,
+      "title": "Vila Nova vs Ceará",
+      "team_home": "Vila Nova",
+      "team_away": "Ceará",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6129,7 +6519,8 @@
       "team_home": "Independiente",
       "team_away": "Gimnasia Mendoza",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6137,6 +6528,20 @@
             "channel": "ESPN Premium",
             "url": "https://multi.govoet.cc/?envivo=76",
             "source": "cartelive"
+          }
+        ],
+        "nl": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6151,7 +6556,8 @@
       "team_home": "Bahia",
       "team_away": "Internacional",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "pt": [
@@ -6159,6 +6565,13 @@
             "channel": "DE bundliga9",
             "url": "https://multi.govoet.cc/?envivo=119",
             "source": "cartelive"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6239,7 +6652,8 @@
       "team_home": "Millonarios",
       "team_away": "Inter Bogotá",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6247,6 +6661,11 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6305,7 +6724,8 @@
       "team_home": "Toluca",
       "team_away": "Juarez",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6313,6 +6733,13 @@
             "channel": "TUDN USA",
             "url": "https://multi.govoet.cc/?envivo=68",
             "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6349,7 +6776,8 @@
       "team_home": "Dep. Cali",
       "team_away": "Bucaramanga",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6357,6 +6785,11 @@
             "channel": "WINsport+",
             "url": "https://multi.govoet.cc/?envivo=81",
             "source": "cartelive"
+          },
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
           }
         ]
       },
@@ -6371,7 +6804,8 @@
       "team_home": "Monterrey",
       "team_away": "Atl. San Luis",
       "sources": [
-        "cartelive"
+        "cartelive",
+        "sportsonline"
       ],
       "streams_by_language": {
         "es": [
@@ -6379,6 +6813,13 @@
             "channel": "TUDN USA",
             "url": "https://multi.govoet.cc/?envivo=68",
             "source": "cartelive"
+          }
+        ],
+        "unknown": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
