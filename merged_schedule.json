@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T23:29:45.164630",
+  "generated_at": "2026-08-30T01:32:34.084509",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 188,
+  "total_events": 181,
   "events": [
     {
       "date": "2026-08-16",
@@ -985,90 +985,16 @@
     },
     {
       "date": "2026-08-29",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Cajamarca vs U. de Deportes",
-      "team_home": "Cajamarca",
-      "team_away": "U. de Deportes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788035400
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "MLS",
-      "title": "Seattle Sounders vs Chicago Fire",
-      "team_home": "Seattle Sounders",
-      "team_away": "Chicago Fire",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788035400
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Ecuador Ligapro",
-      "title": "Guayaquil City vs LDU Quito",
-      "team_home": "Guayaquil City",
-      "team_away": "LDU Quito",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788037200
-    },
-    {
-      "date": "2026-08-29",
       "time_utc": "21:25",
       "time_utc1": "23:25",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Jaguares de Cordoba vs America De Cali",
-      "team_home": "Jaguares de Cordoba",
-      "team_away": "America De Cali",
+      "league": null,
+      "title": "Jaguares de Córdoba vs América de Cali",
+      "team_home": "Jaguares de Córdoba",
+      "team_away": "América de Cali",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD9",
@@ -1078,50 +1004,6 @@
         ]
       },
       "startTimestamp": 1788038700
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Limache vs Everton",
-      "team_home": "Limache",
-      "team_away": "Everton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788039000
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Serie A Bresil",
-      "title": "Atletico-MG vs Vitoria",
-      "team_home": "Atletico-MG",
-      "team_away": "Vitoria",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788039000
     },
     {
       "date": "2026-08-29",
@@ -1149,66 +1031,14 @@
       "date": "2026-08-29",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tlaxcala vs Venados",
-      "team_home": "Tlaxcala",
-      "team_away": "Venados",
+      "league": null,
+      "title": "Huracán vs Estudiantes Río Cuarto",
+      "team_home": "Huracán",
+      "team_away": "Estudiantes Río Cuarto",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788040800
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "NFL",
-      "title": "Tennessee Titans vs Chicago Bears",
-      "team_home": "Tennessee Titans",
-      "team_away": "Chicago Bears",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788040800
-    },
-    {
-      "date": "2026-08-29",
-      "time_utc": "22:00",
-      "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Huracan vs Estudiantes Rio Cuarto",
-      "team_home": "Huracan",
-      "team_away": "Estudiantes Rio Cuarto",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD11",
