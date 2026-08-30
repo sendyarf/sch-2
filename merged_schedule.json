@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T13:04:10.818644",
+  "generated_at": "2026-08-30T17:26:53.722998",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 112,
+  "total_events": 103,
   "events": [
     {
       "date": "2026-08-16",
@@ -104,37 +104,19 @@
       "date": "2026-08-30",
       "time_utc": "10:15",
       "time_utc1": "12:15",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Utrecht vs PSV",
       "team_home": "Utrecht",
       "team_away": "PSV",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
           {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -158,21 +140,15 @@
       "date": "2026-08-30",
       "time_utc": "11:00",
       "time_utc1": "13:00",
-      "league": "Premiership",
+      "league": null,
       "title": "Aberdeen vs Rangers",
       "team_home": "Aberdeen",
       "team_away": "Rangers",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SPFL Rangers",
-            "url": "https://multi.govoet.cc/?envivo=136",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -227,306 +203,21 @@
     },
     {
       "date": "2026-08-30",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788089400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Darmstadt vs Hannover",
-      "team_home": "Darmstadt",
-      "team_away": "Hannover",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788089400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Magdeburg vs Holstein Kiel",
-      "team_home": "Magdeburg",
-      "team_away": "Holstein Kiel",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788089400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "St. Pauli vs Kaiserslautern",
-      "team_home": "St. Pauli",
-      "team_away": "Kaiserslautern",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788089400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Gent vs Club Brugge KV",
-      "team_home": "Gent",
-      "team_away": "Club Brugge KV",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788089400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "MotoGP",
-      "title": "MotoGP: Grand Prix d’Aragon La course des Moto GP",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES M+ Deportes6",
-            "url": "https://multi.govoet.cc/?envivo=67",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788091200
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Feyenoord vs Den Haag",
-      "team_home": "Feyenoord",
-      "team_away": "Den Haag",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788093000
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Willem II vs Heerenveen",
-      "team_home": "Willem II",
-      "team_away": "Heerenveen",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788093000
-    },
-    {
-      "date": "2026-08-30",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Ligue 1",
-      "title": "Paris FC vs Nice",
-      "team_home": "Paris FC",
-      "team_away": "Nice",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "beIN En español",
-            "url": "https://multi.govoet.cc/?envivo=69",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV3",
-            "url": "https://multi.govoet.cc/?ss=sporttv3",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788094800
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "13:00",
-      "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Chelsea vs Brighton",
+      "league": null,
+      "title": "Chelsea vs Brighton & Hove Albion",
       "team_home": "Chelsea",
-      "team_away": "Brighton",
+      "team_away": "Brighton & Hove Albion",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 1",
-            "url": "https://multi.govoet.cc/?envivo=56",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -550,44 +241,19 @@
       "date": "2026-08-30",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Premier League",
-      "title": "Leeds vs Brentford",
-      "team_home": "Leeds",
+      "league": null,
+      "title": "Leeds United vs Brentford",
+      "team_home": "Leeds United",
       "team_away": "Brentford",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 1",
-            "url": "https://multi.govoet.cc/?envivo=31",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 3",
-            "url": "https://multi.govoet.cc/?envivo=58",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -604,36 +270,14 @@
       "date": "2026-08-30",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Premier League",
+      "league": null,
       "title": "Sunderland vs Fulham",
       "team_home": "Sunderland",
       "team_away": "Fulham",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES DAZN 2",
-            "url": "https://multi.govoet.cc/?envivo=57",
-            "source": "cartelive"
-          }
-        ],
         "it": [
           {
             "channel": "HD8",
@@ -646,41 +290,50 @@
     },
     {
       "date": "2026-08-30",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Paris vs Nice",
+      "team_home": "Paris",
+      "team_away": "Nice",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788094800
+    },
+    {
+      "date": "2026-08-30",
       "time_utc": "13:30",
       "time_utc1": "15:30",
-      "league": "Bundesliga",
+      "league": null,
       "title": "Freiburg vs Werder Bremen",
       "team_home": "Freiburg",
       "team_away": "Werder Bremen",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
           }
         ]
       },
@@ -690,44 +343,14 @@
       "date": "2026-08-30",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Pro League",
-      "title": "Antwerp vs St. Truiden",
-      "team_home": "Antwerp",
-      "team_away": "St. Truiden",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788098400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
-      "league": "Serie A Bresil",
+      "league": null,
       "title": "Athletico-PR vs Fluminense",
       "team_home": "Athletico-PR",
       "team_away": "Fluminense",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR1",
@@ -1791,8 +1414,8 @@
       "streams_by_language": {
         "tr": [
           {
-            "channel": "TR BeIN sport 1",
-            "url": "https://multi.govoet.cc/?envivo=151",
+            "channel": "TR BeIN sport 2",
+            "url": "https://multi.govoet.cc/?envivo=152",
             "source": "cartelive"
           }
         ]
