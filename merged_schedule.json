@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:23:15.225774",
+  "generated_at": "2026-08-31T00:42:17.643806",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 74,
+  "total_events": 64,
   "events": [
     {
       "date": "2026-08-16",
@@ -859,31 +859,15 @@
       "date": "2026-08-30",
       "time_utc": "19:30",
       "time_utc1": "21:30",
-      "league": "Laliga",
-      "title": "Celta Vigo vs Ath Bilbao",
-      "team_home": "Celta Vigo",
+      "league": null,
+      "title": "Celta de Vigo vs Ath Bilbao",
+      "team_home": "Celta de Vigo",
       "team_away": "Ath Bilbao",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -895,50 +879,6 @@
             "channel": "ELEVEN2",
             "url": "https://multi.govoet.cc/?ss=eleven2",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788118200
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Laliga 2",
-      "title": "Cordoba vs Granada CF",
-      "team_home": "Cordoba",
-      "team_away": "Granada CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788118200
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "19:30",
-      "time_utc1": "21:30",
-      "league": "Liga Portugal",
-      "title": "Famalicao vs Gil Vicente",
-      "team_home": "Famalicao",
-      "team_away": "Gil Vicente",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
           }
         ]
       },
@@ -968,155 +908,17 @@
     },
     {
       "date": "2026-08-30",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Torneo LPF",
-      "title": "Argentinos Jrs vs Aldosivi",
-      "team_home": "Argentinos Jrs",
-      "team_away": "Aldosivi",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788120000
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "20:05",
-      "time_utc1": "22:05",
-      "league": "MLB",
-      "title": "Athletics vs Baltimore Orioles",
-      "team_home": "Athletics",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT38",
-            "url": "https://multi.govoet.cc/?envivo=191",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788120300
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "20:07",
-      "time_utc1": "22:07",
-      "league": "MLB",
-      "title": "Los Angeles Angels vs Philadelphia Phillies",
-      "team_home": "Los Angeles Angels",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT39",
-            "url": "https://multi.govoet.cc/?envivo=192",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788120420
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Ecuador Ligapro",
-      "title": "Orense vs Macara",
-      "team_home": "Orense",
-      "team_away": "Macara",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788121800
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Sport Boys vs Sporting Cristal",
-      "team_home": "Sport Boys",
-      "team_away": "Sporting Cristal",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788121800
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "20:30",
-      "time_utc1": "22:30",
-      "league": "MLS",
-      "title": "Columbus Crew vs New England Revolution",
-      "team_home": "Columbus Crew",
-      "team_away": "New England Revolution",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788121800
-    },
-    {
-      "date": "2026-08-30",
       "time_utc": "21:10",
       "time_utc1": "23:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Ind. Medellin vs Llaneros",
-      "team_home": "Ind. Medellin",
+      "league": null,
+      "title": "Medellín vs Llaneros",
+      "team_home": "Medellín",
       "team_away": "Llaneros",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
@@ -1130,66 +932,14 @@
       "date": "2026-08-30",
       "time_utc": "21:30",
       "time_utc1": "23:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Colo Colo vs A. Italiano",
-      "team_home": "Colo Colo",
-      "team_away": "A. Italiano",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788125400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Serie A Bresil",
-      "title": "Gremio vs Chapecoense-SC",
-      "team_home": "Gremio",
-      "team_away": "Chapecoense-SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga7",
-            "url": "https://multi.govoet.cc/?envivo=117",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788125400
-    },
-    {
-      "date": "2026-08-30",
-      "time_utc": "21:30",
-      "time_utc1": "23:30",
-      "league": "Serie A Bresil",
+      "league": null,
       "title": "Mirassol vs Palmeiras",
       "team_home": "Mirassol",
       "team_away": "Palmeiras",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "pt": [
-          {
-            "channel": "DE bundliga8",
-            "url": "https://multi.govoet.cc/?envivo=118",
-            "source": "cartelive"
-          }
-        ],
         "pt-BR": [
           {
             "channel": "BR5",
