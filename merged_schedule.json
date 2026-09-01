@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T19:55:31.365455",
+  "generated_at": "2026-09-01T22:18:17.830207",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 56,
+  "total_events": 49,
   "events": [
     {
       "date": "2026-08-16",
@@ -126,45 +126,6 @@
       "date": "2026-09-01",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Hilal vs Al Ahli SC",
-      "team_home": "Al Hilal",
-      "team_away": "Al Ahli SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788285600
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
       "league": null,
       "title": "Al Hilal vs Al-Ahli",
       "team_home": "Al Hilal",
@@ -216,180 +177,6 @@
       "date": "2026-09-01",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Lincoln vs Blackburn",
-      "team_home": "Lincoln",
-      "team_away": "Blackburn",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Portsmouth vs Derby",
-      "team_home": "Portsmouth",
-      "team_away": "Derby",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Preston vs Bristol City",
-      "team_home": "Preston",
-      "team_away": "Bristol City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Sheffield Utd vs Bolton",
-      "team_home": "Sheffield Utd",
-      "team_away": "Bolton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Swansea vs Watford",
-      "team_home": "Swansea",
-      "team_away": "Watford",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "West Ham vs Wolves",
-      "team_home": "West Ham",
-      "team_away": "Wolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "DFB Pokal",
-      "title": "HEBC Hamburg vs Dortmund",
-      "team_home": "HEBC Hamburg",
-      "team_away": "Dortmund",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR2",
-            "url": "https://multi.govoet.cc/?ss=br2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788288300
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
       "league": null,
       "title": "West Ham United vs Wolverhampton Wanderers",
       "team_home": "West Ham United",
@@ -410,26 +197,63 @@
     },
     {
       "date": "2026-09-01",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "HEBC vs Borussia Dortmund",
+      "team_home": "HEBC",
+      "team_away": "Borussia Dortmund",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788288300
+    },
+    {
+      "date": "2026-09-01",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Birmingham vs Southampton",
-      "team_home": "Birmingham",
-      "team_away": "Southampton",
+      "league": null,
+      "title": "Torino vs Monza",
+      "team_home": "Torino",
+      "team_away": "Monza",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          },
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
           {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
             "source": "sportsonline"
           }
         ]
@@ -440,44 +264,19 @@
       "date": "2026-09-01",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Stoke vs Norwich",
-      "team_home": "Stoke",
-      "team_away": "Norwich",
+      "league": null,
+      "title": "Stoke City vs Norwich City",
+      "team_home": "Stoke City",
+      "team_away": "Norwich City",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -501,57 +300,18 @@
       "date": "2026-09-01",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Coppa Italia",
-      "title": "Torino vs Monza",
-      "team_home": "Torino",
-      "team_away": "Monza",
+      "league": null,
+      "title": "Birmingham City vs Southampton",
+      "team_home": "Birmingham City",
+      "team_away": "Southampton",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "PT SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=145",
-            "source": "cartelive"
-          },
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 3",
-            "url": "https://multi.govoet.cc/?envivo=150",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
           }
         ]
