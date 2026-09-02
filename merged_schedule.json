@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T22:18:17.830207",
+  "generated_at": "2026-09-02T00:22:09.046665",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 49,
+  "total_events": 48,
   "events": [
     {
       "date": "2026-08-16",
@@ -317,28 +317,6 @@
         ]
       },
       "startTimestamp": 1788289200
-    },
-    {
-      "date": "2026-09-01",
-      "time_utc": "20:00",
-      "time_utc1": "22:00",
-      "league": "Liga 1 Te Apuesto",
-      "title": "Grau vs FBC Melgar",
-      "team_home": "Grau",
-      "team_away": "FBC Melgar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788292800
     },
     {
       "date": "2026-09-01",
