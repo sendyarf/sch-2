@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:21:17.009491",
+  "generated_at": "2026-09-02T19:57:02.958623",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 56,
+  "total_events": 55,
   "events": [
     {
       "date": "2026-08-16",
@@ -97,21 +97,15 @@
       "date": "2026-09-02",
       "time_utc": "16:00",
       "time_utc1": "18:00",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Udinese vs Venezia",
       "team_home": "Udinese",
       "team_away": "Venezia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -120,47 +114,13 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
           }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          }
         ]
       },
       "startTimestamp": 1788364800
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "16:40",
-      "time_utc1": "18:40",
-      "league": "MLB",
-      "title": "Cincinnati Reds vs San Diego Padres",
-      "team_home": "Cincinnati Reds",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788367200
     },
     {
       "date": "2026-09-02",
