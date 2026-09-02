@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:41:00.555306",
+  "generated_at": "2026-09-02T17:21:17.009491",
   "sources": [
     {
       "name": "cartelive",
@@ -46,21 +46,15 @@
       "date": "2026-09-02",
       "time_utc": "13:00",
       "time_utc1": "15:00",
-      "league": "Coppa Italia",
+      "league": null,
       "title": "Sassuolo vs Frosinone",
       "team_home": "Sassuolo",
       "team_away": "Frosinone",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
@@ -69,21 +63,9 @@
         ],
         "pt": [
           {
-            "channel": "PT SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=144",
-            "source": "cartelive"
-          },
-          {
             "channel": "SPORTTV1",
             "url": "https://multi.govoet.cc/?ss=sporttv1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
           }
         ]
       },
@@ -93,21 +75,15 @@
       "date": "2026-09-02",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Coupe De Grèce",
-      "title": "Chrisoupolis vs AEK Athens",
-      "team_home": "Chrisoupolis",
+      "league": null,
+      "title": "Nestos Chrisoupolis vs AEK Athens",
+      "team_home": "Nestos Chrisoupolis",
       "team_away": "AEK Athens",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
