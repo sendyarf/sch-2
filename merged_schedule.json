@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T19:57:02.958623",
+  "generated_at": "2026-09-02T22:22:07.496558",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 55,
+  "total_events": 47,
   "events": [
     {
       "date": "2026-08-16",
@@ -126,21 +126,15 @@
       "date": "2026-09-02",
       "time_utc": "17:00",
       "time_utc1": "19:00",
-      "league": "Coupe De Grèce",
-      "title": "AEL Larissa vs Olympiacos Piraeus",
-      "team_home": "AEL Larissa",
-      "team_away": "Olympiacos Piraeus",
+      "league": null,
+      "title": "Larissa vs Olympiakos Piraeus",
+      "team_home": "Larissa",
+      "team_away": "Olympiakos Piraeus",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
@@ -152,175 +146,17 @@
     },
     {
       "date": "2026-09-02",
-      "time_utc": "17:05",
-      "time_utc1": "19:05",
-      "league": "MLB",
-      "title": "Washington Nationals vs Atlanta Braves",
-      "team_home": "Washington Nationals",
-      "team_away": "Atlanta Braves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=2",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788368700
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "St. Truiden vs Royale Union SG",
-      "team_home": "St. Truiden",
-      "team_away": "Royale Union SG",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788373800
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "18:35",
-      "time_utc1": "20:35",
-      "league": "MLB",
-      "title": "Texas Rangers vs Athletics",
-      "team_home": "Texas Rangers",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788374100
-    },
-    {
-      "date": "2026-09-02",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "Millwall vs Wrexham",
-      "team_home": "Millwall",
-      "team_away": "Wrexham",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT6",
-            "url": "https://multi.govoet.cc/?envivo=160",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788374700
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "QPR vs Cardiff",
-      "team_home": "QPR",
-      "team_away": "Cardiff",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788374700
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Championship",
-      "title": "West Brom vs Charlton",
-      "team_home": "West Brom",
-      "team_away": "Charlton",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788374700
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "DFB Pokal",
-      "title": "VfL Osnabruck vs Bayern Munich",
-      "team_home": "VfL Osnabruck",
+      "league": null,
+      "title": "Osnabrück vs Bayern Munich",
+      "team_home": "Osnabrück",
       "team_away": "Bayern Munich",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ],
         "de": [
-          {
-            "channel": "DE bundliga5",
-            "url": "https://multi.govoet.cc/?envivo=115",
-            "source": "cartelive"
-          },
           {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
@@ -348,19 +184,19 @@
       "date": "2026-09-02",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Premiership",
-      "title": "Celtic vs Aberdeen",
-      "team_home": "Celtic",
-      "team_away": "Aberdeen",
+      "league": null,
+      "title": "Millwall vs Wrexham",
+      "team_home": "Millwall",
+      "team_away": "Wrexham",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ]
       },
@@ -370,49 +206,48 @@
       "date": "2026-09-02",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Championship",
+      "league": null,
+      "title": "Falkirk vs Rangers",
+      "team_home": "Falkirk",
+      "team_away": "Rangers",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788375600
+    },
+    {
+      "date": "2026-09-02",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
       "title": "Burnley vs Middlesbrough",
       "team_home": "Burnley",
       "team_away": "Middlesbrough",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK SKY MAIN",
-            "url": "https://multi.govoet.cc/?envivo=127",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN4MX",
-            "url": "https://multi.govoet.cc/?envivo=100",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -434,102 +269,17 @@
     },
     {
       "date": "2026-09-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "Macara vs Manta",
-      "team_home": "Macara",
-      "team_away": "Manta",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788375600
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Premiership",
-      "title": "Falkirk vs Rangers",
-      "team_home": "Falkirk",
-      "team_away": "Rangers",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "UK SPFL Rangers",
-            "url": "https://multi.govoet.cc/?envivo=136",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD2",
-            "url": "https://multi.govoet.cc/?ss=hd2",
-            "source": "sportsonline"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788375600
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "19:10",
-      "time_utc1": "21:10",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Baltimore Orioles",
-      "team_home": "Colorado Rockies",
-      "team_away": "Baltimore Orioles",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788376200
-    },
-    {
-      "date": "2026-09-02",
       "time_utc": "19:15",
       "time_utc1": "21:15",
-      "league": "Coupe De Grèce",
-      "title": "PAOK vs OFI Crete",
+      "league": null,
+      "title": "PAOK vs OFI",
       "team_home": "PAOK",
-      "team_away": "OFI Crete",
+      "team_away": "OFI",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
