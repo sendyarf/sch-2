@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T19:59:31.987553",
+  "generated_at": "2026-09-03T22:26:22.130003",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 52,
+  "total_events": 43,
   "events": [
     {
       "date": "2026-08-16",
@@ -139,72 +139,6 @@
     },
     {
       "date": "2026-09-03",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Cleveland Guardians vs Toronto Blue Jays",
-      "team_home": "Cleveland Guardians",
-      "team_away": "Toronto Blue Jays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788455400
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Coupe De Grèce",
-      "title": "Panathinaikos vs Niki Volos",
-      "team_home": "Panathinaikos",
-      "team_away": "Niki Volos",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788458400
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Diriyah vs Al Qadsiah",
-      "team_home": "Al Diriyah",
-      "team_away": "Al Qadsiah",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE dazn 2",
-            "url": "https://multi.govoet.cc/?envivo=124",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788458400
-    },
-    {
-      "date": "2026-09-03",
       "time_utc": "18:00",
       "time_utc1": "20:00",
       "league": null,
@@ -241,79 +175,6 @@
     },
     {
       "date": "2026-09-03",
-      "time_utc": "18:10",
-      "time_utc1": "20:10",
-      "league": "MLB",
-      "title": "Houston Astros vs Chicago White Sox",
-      "team_home": "Houston Astros",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788459000
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "Anderlecht vs Kortrijk",
-      "team_home": "Anderlecht",
-      "team_away": "Kortrijk",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788460200
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "18:30",
-      "time_utc1": "20:30",
-      "league": "Pro League",
-      "title": "Gent vs Leuven",
-      "team_home": "Gent",
-      "team_away": "Leuven",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788460200
-    },
-    {
-      "date": "2026-09-03",
       "time_utc": "18:30",
       "time_utc1": "20:30",
       "league": null,
@@ -338,21 +199,15 @@
       "date": "2026-09-03",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue 1",
+      "league": null,
       "title": "Toulouse vs Lille",
       "team_home": "Toulouse",
       "team_away": "Lille",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "fr": [
-          {
-            "channel": "LIGUE 1 FR 1",
-            "url": "https://multi.govoet.cc/?envivo=20",
-            "source": "cartelive"
-          },
           {
             "channel": "HD4",
             "url": "https://multi.govoet.cc/?ss=hd4",
@@ -373,51 +228,14 @@
       "date": "2026-09-03",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "National",
-      "title": "Rouen vs Valenciennes",
-      "team_home": "Rouen",
-      "team_away": "Valenciennes",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 3",
-            "url": "https://multi.govoet.cc/?envivo=33",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788461100
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Premiership",
+      "league": null,
       "title": "Hibernian vs Hearts",
       "team_home": "Hibernian",
       "team_away": "Hearts",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE Sportdigital Fussball",
-            "url": "https://multi.govoet.cc/?envivo=125",
-            "source": "cartelive"
-          }
-        ],
-        "el": [
-          {
-            "channel": "GR SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=148",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -439,90 +257,15 @@
       "date": "2026-09-03",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Coppa Italia",
-      "title": "Cagliari vs Verona",
-      "team_home": "Cagliari",
-      "team_away": "Verona",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "it": [
-          {
-            "channel": "IT FEED",
-            "url": "https://multi.govoet.cc/?envivo=139",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD7",
-            "url": "https://multi.govoet.cc/?ss=hd7",
-            "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "directv2",
-            "url": "https://multi.govoet.cc/?envivo=95",
-            "source": "cartelive"
-          }
-        ],
-        "pt": [
-          {
-            "channel": "SPORTTV2",
-            "url": "https://multi.govoet.cc/?ss=sporttv2",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788462000
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Ecuador Ligapro",
-      "title": "U. Catolica vs Aucas",
-      "team_home": "U. Catolica",
-      "team_away": "Aucas",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788462000
-    },
-    {
-      "date": "2026-09-03",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Real Sociedad vs Celta Vigo",
+      "league": null,
+      "title": "Real Sociedad vs Celta de Vigo",
       "team_home": "Real Sociedad",
-      "team_away": "Celta Vigo",
+      "team_away": "Celta de Vigo",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -543,19 +286,26 @@
       "date": "2026-09-03",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Pro D2 (Rugby)",
-      "title": "Colomiers vs Provence Rugby",
-      "team_home": "Colomiers",
-      "team_away": "Provence Rugby",
+      "league": null,
+      "title": "Cagliari vs Verona",
+      "team_home": "Cagliari",
+      "team_away": "Verona",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
+        "it": [
           {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
           }
         ]
       },
