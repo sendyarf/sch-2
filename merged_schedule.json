@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T22:22:07.496558",
+  "generated_at": "2026-09-03T00:26:17.440575",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 47,
+  "total_events": 45,
   "events": [
     {
       "date": "2026-08-16",
@@ -288,57 +288,6 @@
         ]
       },
       "startTimestamp": 1788376500
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "19:40",
-      "time_utc1": "21:40",
-      "league": "MLB",
-      "title": "Arizona Diamondbacks vs Philadelphia Phillies",
-      "team_home": "Arizona Diamondbacks",
-      "team_away": "Philadelphia Phillies",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788378000
-    },
-    {
-      "date": "2026-09-02",
-      "time_utc": "20:10",
-      "time_utc1": "22:10",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Seattle Mariners",
-      "team_home": "Boston Red Sox",
-      "team_away": "Seattle Mariners",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788379800
     },
     {
       "date": "2026-09-02",
