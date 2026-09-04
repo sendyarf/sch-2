@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T17:04:31.336181",
+  "generated_at": "2026-09-04T19:32:50.929767",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 163,
+  "total_events": 162,
   "events": [
     {
       "date": "2026-08-16",
@@ -131,43 +131,15 @@
       "date": "2026-09-04",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788539400
-    },
-    {
-      "date": "2026-09-04",
-      "time_utc": "16:30",
-      "time_utc1": "18:30",
-      "league": "Bundesliga 2",
+      "league": null,
       "title": "Arminia Bielefeld vs St. Pauli",
       "team_home": "Arminia Bielefeld",
       "team_away": "St. Pauli",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -181,32 +153,19 @@
       "date": "2026-09-04",
       "time_utc": "16:30",
       "time_utc1": "18:30",
-      "league": "Bundesliga 2",
-      "title": "Hannover vs Karlsruher SC",
-      "team_home": "Hannover",
+      "league": null,
+      "title": "Hannover 96 vs Karlsruher SC",
+      "team_home": "Hannover 96",
       "team_away": "Karlsruher SC",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
           }
         ],
         "pt": [
