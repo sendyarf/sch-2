@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T22:26:22.130003",
+  "generated_at": "2026-09-04T00:14:41.119799",
   "sources": [
     {
       "name": "cartelive",
@@ -335,39 +335,6 @@
     },
     {
       "date": "2026-09-03",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "America De Cali vs Alianza",
-      "team_home": "America De Cali",
-      "team_away": "Alianza",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
-          {
-            "channel": "WINsport",
-            "url": "https://multi.govoet.cc/?envivo=82",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788469200
-    },
-    {
-      "date": "2026-09-03",
       "time_utc": "21:30",
       "time_utc1": "23:30",
       "league": "Ecuador Ligapro",
@@ -417,6 +384,28 @@
           {
             "channel": "BR4",
             "url": "https://multi.govoet.cc/?ss=br4",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1788476400
+    },
+    {
+      "date": "2026-09-03",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": null,
+      "title": "América de Cali vs Alianza",
+      "team_home": "América de Cali",
+      "team_away": "Alianza",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ]
