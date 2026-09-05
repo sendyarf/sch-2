@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T20:32:23.679243",
+  "generated_at": "2026-09-05T22:17:03.318388",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 148,
+  "total_events": 139,
   "events": [
     {
       "date": "2026-08-16",
@@ -846,64 +846,14 @@
       "date": "2026-09-05",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Betfred Super League",
-      "title": "AEK Athens vs Aris",
-      "team_home": "AEK Athens",
-      "team_away": "Aris",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "el": [
-          {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788631200
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Ajax vs PSV",
       "team_home": "Ajax",
       "team_away": "PSV",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN3",
-            "url": "https://multi.govoet.cc/?envivo=89",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ],
         "de": [
           {
             "channel": "HD10",
@@ -918,19 +868,19 @@
       "date": "2026-09-05",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Liga AUF Uruguaya",
-      "title": "Danubio vs Penarol",
-      "team_home": "Danubio",
-      "team_away": "Penarol",
+      "league": null,
+      "title": "AEK Athens vs Aris",
+      "team_home": "AEK Athens",
+      "team_away": "Aris",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
           }
         ]
       },
@@ -940,44 +890,14 @@
       "date": "2026-09-05",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Ligue 2",
-      "title": "St Etienne vs Montpellier",
-      "team_home": "St Etienne",
-      "team_away": "Montpellier",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT 1",
-            "url": "https://multi.govoet.cc/?envivo=1",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788631200
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Ittihad vs Al Nassr",
       "team_home": "Al Ittihad",
       "team_away": "Al Nassr",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
             "channel": "HD2",
@@ -992,32 +912,19 @@
       "date": "2026-09-05",
       "time_utc": "18:30",
       "time_utc1": "20:30",
-      "league": "Bundesliga 2",
-      "title": "SG Dynamo Dresden vs Bochum",
-      "team_home": "SG Dynamo Dresden",
+      "league": null,
+      "title": "Dynamo Dresden vs Bochum",
+      "team_home": "Dynamo Dresden",
       "team_away": "Bochum",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "de": [
           {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD3",
             "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport3 arg",
-            "url": "https://multi.govoet.cc/?envivo=80",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -1034,140 +941,19 @@
       "date": "2026-09-05",
       "time_utc": "18:45",
       "time_utc1": "20:45",
-      "league": "Ligue 1",
-      "title": "Le Havre vs Brest",
-      "team_home": "Le Havre",
-      "team_away": "Brest",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 4",
-            "url": "https://multi.govoet.cc/?envivo=21",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788633900
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Ligue 1",
-      "title": "Nice vs Le Mans",
-      "team_home": "Nice",
-      "team_away": "Le Mans",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "LIGUE 1 FR 5",
-            "url": "https://multi.govoet.cc/?envivo=22",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD4",
-            "url": "https://multi.govoet.cc/?ss=hd4",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788633900
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "St. Liege vs Antwerp",
-      "team_home": "St. Liege",
-      "team_away": "Antwerp",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788633900
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Pro League",
-      "title": "St. Truiden vs RAAL La Louviere",
-      "team_home": "St. Truiden",
-      "team_away": "RAAL La Louviere",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel2",
-            "url": "https://multi.govoet.cc/?envivo=154",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788633900
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "18:45",
-      "time_utc1": "20:45",
-      "league": "Serie A",
-      "title": "AS Roma vs Atalanta",
-      "team_home": "AS Roma",
+      "league": null,
+      "title": "Roma vs Atalanta",
+      "team_home": "Roma",
       "team_away": "Atalanta",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 16",
-            "url": "https://multi.govoet.cc/?envivo=46",
-            "source": "cartelive"
-          }
-        ],
         "it": [
-          {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
           {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "Telemundo",
-            "url": "https://multi.govoet.cc/?envivo=73",
-            "source": "cartelive"
           }
         ],
         "pt": [
@@ -1182,126 +968,39 @@
     },
     {
       "date": "2026-09-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Championship",
-      "title": "Swansea vs Wrexham",
-      "team_home": "Swansea",
-      "team_away": "Wrexham",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Nice vs Le Mans",
+      "team_home": "Nice",
+      "team_away": "Le Mans",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 10",
-            "url": "https://multi.govoet.cc/?envivo=10",
-            "source": "cartelive"
-          }
-        ],
         "en": [
           {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ],
-        "pt-BR": [
-          {
-            "channel": "BR6",
-            "url": "https://multi.govoet.cc/?ss=br6",
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1788634800
+      "startTimestamp": 1788633900
     },
     {
       "date": "2026-09-05",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "D1 Féminin",
-      "title": "Marseille W vs Le Havre W",
-      "team_home": "Marseille W",
-      "team_away": "Le Havre W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788634800
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Eredivisie",
-      "title": "Willem II vs Excelsior",
-      "team_home": "Willem II",
-      "team_away": "Excelsior",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788634800
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
-      "league": "Laliga",
-      "title": "Villarreal vs Dep. A Coruna",
+      "league": null,
+      "title": "Villarreal vs Deportivo La Coruña",
       "team_home": "Villarreal",
-      "team_away": "Dep. A Coruna",
+      "team_away": "Deportivo La Coruña",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
         "es": [
-          {
-            "channel": "ES m.laliga",
-            "url": "https://multi.govoet.cc/?envivo=49",
-            "source": "cartelive"
-          },
-          {
-            "channel": "directv",
-            "url": "https://multi.govoet.cc/?envivo=94",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          },
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
@@ -1322,19 +1021,26 @@
       "date": "2026-09-05",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Laliga 2",
-      "title": "Eldense vs Mallorca",
-      "team_home": "Eldense",
-      "team_away": "Mallorca",
+      "league": null,
+      "title": "Swansea City vs Wrexham",
+      "team_home": "Swansea City",
+      "team_away": "Wrexham",
       "sources": [
-        "cartelive"
+        "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
           }
         ]
       },
@@ -1344,21 +1050,15 @@
       "date": "2026-09-05",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Premiership",
+      "league": null,
       "title": "St. Mirren vs Celtic",
       "team_home": "St. Mirren",
       "team_away": "Celtic",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
-          {
-            "channel": "UK SPFL Celtic",
-            "url": "https://multi.govoet.cc/?envivo=135",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -1440,28 +1140,6 @@
         ]
       },
       "startTimestamp": 1788634800
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "19:15",
-      "time_utc1": "21:15",
-      "league": "Top 14",
-      "title": "Bordeaux Begles vs Racing 92",
-      "team_home": "Bordeaux Begles",
-      "team_away": "Racing 92",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+",
-            "url": "https://multi.govoet.cc/?envivo=11",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788635700
     },
     {
       "date": "2026-09-05",
