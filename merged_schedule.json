@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T05:59:40.889786",
+  "generated_at": "2026-09-05T10:20:18.321788",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 102,
+  "total_events": 99,
   "events": [
     {
       "date": "2026-08-16",
@@ -41,87 +41,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga de Expansión MX",
-      "title": "Atletico La Paz vs Zacatecas Mineros",
-      "team_home": "Atletico La Paz",
-      "team_away": "Zacatecas Mineros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "AYM",
-            "url": "https://multi.govoet.cc/?envivo=105",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788577200
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Juarez vs Pachuca",
-      "team_home": "Juarez",
-      "team_away": "Pachuca",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "NBC UNIVERSO",
-            "url": "https://multi.govoet.cc/?envivo=72",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788577200
-    },
-    {
-      "date": "2026-09-05",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga MX Femenil",
-      "title": "UNAM Pumas W vs Club America W",
-      "team_home": "UNAM Pumas W",
-      "team_away": "Club America W",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788577200
     },
     {
       "date": "2026-09-05",
