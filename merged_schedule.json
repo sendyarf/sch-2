@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T04:34:06.773685",
+  "generated_at": "2026-09-06T08:54:25.275772",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 47,
+  "total_events": 43,
   "events": [
     {
       "date": "2026-08-16",
@@ -41,104 +41,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Athletics",
-      "team_home": "Seattle Mariners",
-      "team_away": "Athletics",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788658800
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Portland Timbers vs Minnesota United",
-      "team_home": "Portland Timbers",
-      "team_away": "Minnesota United",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788661800
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "02:30",
-      "time_utc1": "04:30",
-      "league": "MLS",
-      "title": "Vancouver Whitecaps vs St. Louis City",
-      "team_home": "Vancouver Whitecaps",
-      "team_away": "St. Louis City",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788661800
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "03:00",
-      "time_utc1": "05:00",
-      "league": "Liga Mx",
-      "title": "Atlas vs Atlante",
-      "team_home": "Atlas",
-      "team_away": "Atlante",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788663600
     },
     {
       "date": "2026-09-06",
