@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:30:30.538321",
+  "generated_at": "2026-09-06T15:45:22.446236",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 117,
+  "total_events": 109,
   "events": [
     {
       "date": "2026-08-16",
@@ -68,21 +68,15 @@
       "date": "2026-09-06",
       "time_utc": "10:15",
       "time_utc1": "12:15",
-      "league": "Eredivisie",
+      "league": null,
       "title": "Groningen vs Twente",
       "team_home": "Groningen",
       "team_away": "Twente",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "nl": [
-          {
-            "channel": "NL ESPN 2",
-            "url": "https://multi.govoet.cc/?envivo=142",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -113,47 +107,6 @@
         ]
       },
       "startTimestamp": 1788690600
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "11:00",
-      "time_utc1": "13:00",
-      "league": "Championship",
-      "title": "Birmingham vs Wolves",
-      "team_home": "Birmingham",
-      "team_away": "Wolves",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "UK SKY FOOT",
-            "url": "https://multi.govoet.cc/?envivo=128",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN7",
-            "url": "https://multi.govoet.cc/?envivo=93",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788692400
     },
     {
       "date": "2026-09-06",
@@ -217,80 +170,14 @@
       "date": "2026-09-06",
       "time_utc": "11:30",
       "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Bundesliga 2: multiplex 2. Bundesliga",
-      "team_home": null,
-      "team_away": null,
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga1",
-            "url": "https://multi.govoet.cc/?envivo=111",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788694200
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Greuther Furth vs Heidenheim",
-      "team_home": "Greuther Furth",
-      "team_away": "Heidenheim",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788694200
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "Hertha Berlin vs Magdeburg",
-      "team_home": "Hertha Berlin",
+      "league": null,
+      "title": "Hertha BSC vs Magdeburg",
+      "team_home": "Hertha BSC",
       "team_away": "Magdeburg",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 5",
-            "url": "https://multi.govoet.cc/?envivo=5",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga2",
-            "url": "https://multi.govoet.cc/?envivo=112",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "FOXsport2 arg",
-            "url": "https://multi.govoet.cc/?envivo=79",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "ELEVEN2",
@@ -300,123 +187,6 @@
         ]
       },
       "startTimestamp": 1788694200
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Bundesliga 2",
-      "title": "VfL Osnabruck vs Braunschweig",
-      "team_home": "VfL Osnabruck",
-      "team_away": "Braunschweig",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "de": [
-          {
-            "channel": "DE bundliga3",
-            "url": "https://multi.govoet.cc/?envivo=113",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788694200
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "11:30",
-      "time_utc1": "13:30",
-      "league": "Pro League",
-      "title": "Cercle Brugge KSV vs Gent",
-      "team_home": "Cercle Brugge KSV",
-      "team_away": "Gent",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "belgium league channel1",
-            "url": "https://multi.govoet.cc/?envivo=153",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788694200
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "12:00",
-      "time_utc1": "14:00",
-      "league": "Laliga 2",
-      "title": "Eibar vs Granada CF",
-      "team_home": "Eibar",
-      "team_away": "Granada CF",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES LALIGA HYPERMOTION",
-            "url": "https://multi.govoet.cc/?envivo=53",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788696000
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Heerenveen vs AZ Alkmaar",
-      "team_home": "Heerenveen",
-      "team_away": "AZ Alkmaar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2MX",
-            "url": "https://multi.govoet.cc/?envivo=98",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788697800
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "12:30",
-      "time_utc1": "14:30",
-      "league": "Eredivisie",
-      "title": "Telstar vs Cambuur",
-      "team_home": "Telstar",
-      "team_away": "Cambuur",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 3",
-            "url": "https://multi.govoet.cc/?envivo=143",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788697800
     },
     {
       "date": "2026-09-06",
