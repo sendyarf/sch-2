@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T01:09:53.114567",
+  "generated_at": "2026-09-07T06:04:13.163340",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 69,
+  "total_events": 59,
   "events": [
     {
       "date": "2026-08-16",
@@ -1064,22 +1064,14 @@
       "date": "2026-09-06",
       "time_utc": "22:15",
       "time_utc1": "00:15",
-      "league": "Torneo LPF",
-      "title": "River Plate vs Ind. Rivadavia",
+      "league": null,
+      "title": "River Plate vs Independiente Rivadavia",
       "team_home": "River Plate",
-      "team_away": "Ind. Rivadavia",
+      "team_away": "Independiente Rivadavia",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNT sport arg",
-            "url": "https://multi.govoet.cc/?envivo=75",
-            "source": "cartelive"
-          }
-        ],
         "unknown": [
           {
             "channel": "HD9",
@@ -1099,80 +1091,21 @@
     },
     {
       "date": "2026-09-06",
-      "time_utc": "22:20",
-      "time_utc1": "00:20",
-      "league": "MLB",
-      "title": "Chicago White Sox vs Minnesota Twins",
-      "team_home": "Chicago White Sox",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "beIN SPORT max 4",
-            "url": "https://multi.govoet.cc/?envivo=4",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "EXTRA SPORT40",
-            "url": "https://multi.govoet.cc/?envivo=193",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788733200
-    },
-    {
-      "date": "2026-09-06",
       "time_utc": "22:30",
       "time_utc1": "00:30",
-      "league": "Campeonato Itaú Chile",
-      "title": "Palestino vs U. De Concepcion",
+      "league": null,
+      "title": "Palestino vs Univ. Concepción",
       "team_home": "Palestino",
-      "team_away": "U. De Concepcion",
+      "team_away": "Univ. Concepción",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
             "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1788733800
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "22:30",
-      "time_utc1": "00:30",
-      "league": "Liga AUF Uruguaya",
-      "title": "Liverpool M. vs Boston River",
-      "team_home": "Liverpool M.",
-      "team_away": "Boston River",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "VTV plus",
-            "url": "https://multi.govoet.cc/?envivo=109",
-            "source": "cartelive"
           }
         ]
       },
@@ -1202,78 +1135,16 @@
     },
     {
       "date": "2026-09-06",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga de Expansión MX",
-      "title": "Tapatio vs Leones Negros",
-      "team_home": "Tapatio",
-      "team_away": "Leones Negros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN3MX",
-            "url": "https://multi.govoet.cc/?envivo=99",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788735600
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga Mx",
-      "title": "Cruz Azul vs Santos Laguna",
-      "team_home": "Cruz Azul",
-      "team_away": "Santos Laguna",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          },
-          {
-            "channel": "CANAL5",
-            "url": "https://multi.govoet.cc/?envivo=107",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788735600
-    },
-    {
-      "date": "2026-09-06",
       "time_utc": "23:10",
       "time_utc1": "01:10",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Pereira vs Millonarios",
-      "team_home": "Pereira",
+      "league": null,
+      "title": "Deportivo Pereira vs Millonarios",
+      "team_home": "Deportivo Pereira",
       "team_away": "Millonarios",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          }
-        ],
         "nl": [
           {
             "channel": "HD10",
@@ -1283,143 +1154,6 @@
         ]
       },
       "startTimestamp": 1788736200
-    },
-    {
-      "date": "2026-09-06",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Liga 1 Te Apuesto",
-      "title": "FBC Melgar vs AD Tarma",
-      "team_home": "FBC Melgar",
-      "team_away": "AD Tarma",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Liga1MAX",
-            "url": "https://multi.govoet.cc/?envivo=84",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788737400
-    },
-    {
-      "date": "2026-09-07",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "Aucas vs Barcelona SC",
-      "team_home": "Aucas",
-      "team_away": "Barcelona SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788739200
-    },
-    {
-      "date": "2026-09-07",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "Ecuador Ligapro",
-      "title": "Dep. Cuenca vs Libertad",
-      "team_home": "Dep. Cuenca",
-      "team_away": "Libertad",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788739200
-    },
-    {
-      "date": "2026-09-07",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Torneo LPF",
-      "title": "Racing Club vs Atl. Tucuman",
-      "team_home": "Racing Club",
-      "team_away": "Atl. Tucuman",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788741000
-    },
-    {
-      "date": "2026-09-07",
-      "time_utc": "01:15",
-      "time_utc1": "03:15",
-      "league": "Leagues Cup",
-      "title": "Toluca vs Monterrey",
-      "team_home": "Toluca",
-      "team_away": "Monterrey",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDNMX",
-            "url": "https://multi.govoet.cc/?envivo=106",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788743700
-    },
-    {
-      "date": "2026-09-07",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs Washington Nationals",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT41",
-            "url": "https://multi.govoet.cc/?envivo=194",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788747000
     },
     {
       "date": "2026-09-07",
