@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:07:48.174681",
+  "generated_at": "2026-09-08T21:24:20.526863",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 71,
+  "total_events": 67,
   "events": [
     {
       "date": "2026-08-16",
@@ -229,35 +229,6 @@
       "date": "2026-09-08",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Youth League",
-      "title": "Real Madrid U19 vs Inter U19",
-      "team_home": "Real Madrid U19",
-      "team_away": "Inter U19",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788876000
-    },
-    {
-      "date": "2026-09-08",
-      "time_utc": "14:00",
-      "time_utc1": "16:00",
       "league": null,
       "title": "Real Madrid U19 vs Internazionale U19",
       "team_home": "Real Madrid U19",
@@ -280,67 +251,15 @@
       "date": "2026-09-08",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Eredivisie",
-      "title": "Nijmegen vs Excelsior",
-      "team_home": "Nijmegen",
-      "team_away": "Excelsior",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788885900
-    },
-    {
-      "date": "2026-09-08",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Ligue Des Champions",
-      "title": "AEK Athens vs LASK",
+      "league": null,
+      "title": "AEK Athens vs LASK Linz",
       "team_home": "AEK Athens",
-      "team_away": "LASK",
+      "team_away": "LASK Linz",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD9",
-            "url": "https://multi.govoet.cc/?ss=hd9",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=130",
-            "source": "cartelive"
-          },
           {
             "channel": "HD2",
             "url": "https://multi.govoet.cc/?ss=hd2",
@@ -349,13 +268,15 @@
         ],
         "el": [
           {
-            "channel": "GR SPORT 2",
-            "url": "https://multi.govoet.cc/?envivo=149",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
             "source": "sportsonline"
           }
         ],
@@ -380,60 +301,15 @@
       "date": "2026-09-08",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Ligue Des Champions",
-      "title": "Club Brugge KV vs Aston Villa",
-      "team_home": "Club Brugge KV",
+      "league": null,
+      "title": "Club Brugge vs Aston Villa",
+      "team_home": "Club Brugge",
       "team_away": "Aston Villa",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOXsport1 arg",
-            "url": "https://multi.govoet.cc/?envivo=78",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -442,21 +318,16 @@
         ],
         "it": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
-          },
-          {
             "channel": "HD7",
             "url": "https://multi.govoet.cc/?ss=hd7",
             "source": "sportsonline"
           }
         ],
-        "de": [
+        "es": [
           {
-            "channel": "DE dazn 1",
-            "url": "https://multi.govoet.cc/?envivo=123",
-            "source": "cartelive"
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
           }
         ],
         "ar": [
@@ -482,55 +353,6 @@
         ]
       },
       "startTimestamp": 1788885900
-    },
-    {
-      "date": "2026-09-08",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Ittihad vs Al Fayha",
-      "team_home": "Al Ittihad",
-      "team_away": "Al Fayha",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "dazn baloncesto 2",
-            "url": "https://multi.govoet.cc/?envivo=156",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788890400
-    },
-    {
-      "date": "2026-09-08",
-      "time_utc": "18:00",
-      "time_utc1": "20:00",
-      "league": "Saudi Pro League",
-      "title": "Al Qadsiah vs Al Ahli SC",
-      "team_home": "Al Qadsiah",
-      "team_away": "Al Ahli SC",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788890400
     },
     {
       "date": "2026-09-08",
