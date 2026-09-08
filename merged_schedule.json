@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T23:18:02.665197",
+  "generated_at": "2026-09-08T01:15:55.311735",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 47,
+  "total_events": 46,
   "events": [
     {
       "date": "2026-08-16",
@@ -66,45 +66,17 @@
     },
     {
       "date": "2026-09-07",
-      "time_utc": "21:10",
-      "time_utc1": "23:10",
-      "league": "MLB",
-      "title": "San Diego Padres vs Washington Nationals",
-      "team_home": "San Diego Padres",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT34",
-            "url": "https://multi.govoet.cc/?envivo=187",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788815400
-    },
-    {
-      "date": "2026-09-07",
       "time_utc": "22:00",
       "time_utc1": "00:00",
-      "league": "Torneo LPF",
-      "title": "Barracas Central vs Argentinos Jrs",
+      "league": null,
+      "title": "Barracas Central vs Argentinos Juniors",
       "team_home": "Barracas Central",
-      "team_away": "Argentinos Jrs",
+      "team_away": "Argentinos Juniors",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          },
           {
             "channel": "HD9",
             "url": "https://multi.govoet.cc/?ss=hd9",
