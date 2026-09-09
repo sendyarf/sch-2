@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:16:27.709473",
+  "generated_at": "2026-09-09T21:13:46.934286",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 56,
+  "total_events": 54,
   "events": [
     {
       "date": "2026-08-16",
@@ -46,28 +46,15 @@
       "date": "2026-09-09",
       "time_utc": "14:00",
       "time_utc1": "16:00",
-      "league": "Youth League",
-      "title": "Liverpool U19 vs Atl. Madrid U19",
+      "league": null,
+      "title": "Liverpool U19 vs Atlético Madrid U19",
       "team_home": "Liverpool U19",
-      "team_away": "Atl. Madrid U19",
+      "team_away": "Atlético Madrid U19",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK TNT SPORT",
-            "url": "https://multi.govoet.cc/?envivo=126",
-            "source": "cartelive"
-          },
           {
             "channel": "HD1",
             "url": "https://multi.govoet.cc/?ss=hd1",
@@ -81,83 +68,26 @@
       "date": "2026-09-09",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Eredivisie",
-      "title": "Twente vs Telstar",
-      "team_home": "Twente",
-      "team_away": "Telstar",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "nl": [
-          {
-            "channel": "NL ESPN 1",
-            "url": "https://multi.govoet.cc/?envivo=141",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788972300
-    },
-    {
-      "date": "2026-09-09",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": "Ligue Des Champions",
+      "league": null,
       "title": "Barcelona vs Feyenoord",
       "team_home": "Barcelona",
       "team_away": "Feyenoord",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ foot",
-            "url": "https://multi.govoet.cc/?envivo=12",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ES Feed",
-            "url": "https://multi.govoet.cc/?envivo=61",
-            "source": "cartelive"
-          },
-          {
-            "channel": "TUDN USA",
-            "url": "https://multi.govoet.cc/?envivo=68",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD6",
-            "url": "https://multi.govoet.cc/?ss=hd6",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
-          {
-            "channel": "UK EPL 3PM",
-            "url": "https://multi.govoet.cc/?envivo=131",
-            "source": "cartelive"
-          },
           {
             "channel": "HD5",
             "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ],
-        "it": [
+        "es": [
           {
-            "channel": "IT SKY CALCIO",
-            "url": "https://multi.govoet.cc/?envivo=138",
-            "source": "cartelive"
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
           }
         ],
         "ar": [
@@ -188,55 +118,25 @@
       "date": "2026-09-09",
       "time_utc": "16:45",
       "time_utc1": "18:45",
-      "league": "Ligue Des Champions",
+      "league": null,
       "title": "Stuttgart vs Viking",
       "team_home": "Stuttgart",
       "team_away": "Viking",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "fr": [
-          {
-            "channel": "canal+ sport",
-            "url": "https://multi.govoet.cc/?envivo=13",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN5",
-            "url": "https://multi.govoet.cc/?envivo=91",
-            "source": "cartelive"
-          },
-          {
-            "channel": "dazn baloncesto 1",
-            "url": "https://multi.govoet.cc/?envivo=155",
-            "source": "cartelive"
-          }
-        ],
-        "de": [
-          {
-            "channel": "DE bundliga4",
-            "url": "https://multi.govoet.cc/?envivo=114",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD3",
-            "url": "https://multi.govoet.cc/?ss=hd3",
-            "source": "sportsonline"
-          }
-        ],
         "en": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
             "source": "sportsonline"
           }
         ],
@@ -266,51 +166,16 @@
     },
     {
       "date": "2026-09-09",
-      "time_utc": "17:10",
-      "time_utc1": "19:10",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Minnesota Twins",
-      "team_home": "Detroit Tigers",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1788973800
-    },
-    {
-      "date": "2026-09-09",
       "time_utc": "18:00",
       "time_utc1": "20:00",
-      "league": "Saudi Pro League",
+      "league": null,
       "title": "Al Nassr vs Abha",
       "team_home": "Al Nassr",
       "team_away": "Abha",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
-          {
-            "channel": "ES Vamos",
-            "url": "https://multi.govoet.cc/?envivo=55",
-            "source": "cartelive"
-          },
-          {
-            "channel": "FOX Deportes",
-            "url": "https://multi.govoet.cc/?envivo=70",
-            "source": "cartelive"
-          }
-        ],
         "pt": [
           {
             "channel": "SPORTTV1",
@@ -830,8 +695,8 @@
       "streams_by_language": {
         "en": [
           {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
+            "channel": "UK SPFL Celtic",
+            "url": "https://multi.govoet.cc/?envivo=135",
             "source": "cartelive"
           }
         ],
