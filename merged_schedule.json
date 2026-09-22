@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T01:52:28.441170",
+  "generated_at": "2026-09-22T12:35:11.459714",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 15,
+  "total_events": 11,
   "events": [
     {
       "date": "2026-08-16",
@@ -41,111 +41,6 @@
         ]
       },
       "startTimestamp": 1786841700
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "NFL",
-      "title": "Los Angeles Rams vs New York Giants",
-      "team_home": "Los Angeles Rams",
-      "team_away": "New York Giants",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN2",
-            "url": "https://multi.govoet.cc/?envivo=88",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN1MX",
-            "url": "https://multi.govoet.cc/?envivo=97",
-            "source": "cartelive"
-          },
-          {
-            "channel": "ESPN Deportes",
-            "url": "https://multi.govoet.cc/?envivo=71",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790036100
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "00:15",
-      "time_utc1": "02:15",
-      "league": "Torneo LPF",
-      "title": "Lanus vs Estudiantes L.P.",
-      "team_home": "Lanus",
-      "team_away": "Estudiantes L.P.",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "ESPN Premium",
-            "url": "https://multi.govoet.cc/?envivo=76",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790036100
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "00:30",
-      "time_utc1": "02:30",
-      "league": "Ecuador Ligapro",
-      "title": "Barcelona SC vs Ind. del Valle",
-      "team_home": "Barcelona SC",
-      "team_away": "Ind. del Valle",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "Zapping sports",
-            "url": "https://multi.govoet.cc/?envivo=86",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790037000
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Minnesota Twins",
-      "team_home": "San Francisco Giants",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790041500
     },
     {
       "date": "2026-09-22",
