@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T20:18:54.351280",
+  "generated_at": "2026-09-22T23:06:42.630589",
   "sources": [
     {
       "name": "cartelive",
@@ -119,43 +119,6 @@
       "date": "2026-09-22",
       "time_utc": "19:00",
       "time_utc1": "21:00",
-      "league": "Ligue Des Champions Femmes",
-      "title": "Real Madrid W vs PSG W",
-      "team_home": "Real Madrid W",
-      "team_away": "PSG W",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "fr": [
-          {
-            "channel": "C+Live 15",
-            "url": "https://multi.govoet.cc/?envivo=45",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN1",
-            "url": "https://multi.govoet.cc/?envivo=87",
-            "source": "cartelive"
-          }
-        ],
-        "en": [
-          {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1790103600
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
       "league": null,
       "title": "Arsenal W vs Køge Kvinder W",
       "team_home": "Arsenal W",
@@ -175,6 +138,28 @@
           {
             "channel": "HD6",
             "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790103600
+    },
+    {
+      "date": "2026-09-22",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Real Madrid W vs PSG W",
+      "team_home": "Real Madrid W",
+      "team_away": "PSG W",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ]
