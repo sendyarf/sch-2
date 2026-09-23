@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T23:06:42.630589",
+  "generated_at": "2026-09-23T06:28:06.736837",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 36,
+  "total_events": 11,
   "events": [
     {
       "date": "2026-08-16",
@@ -170,34 +170,6 @@
       "date": "2026-09-22",
       "time_utc": "21:00",
       "time_utc1": "23:00",
-      "league": "Copa Chili",
-      "title": "D. Puerto Montt vs Nublense",
-      "team_home": "D. Puerto Montt",
-      "team_away": "Nublense",
-      "sources": [
-        "cartelive",
-        "sportsonline"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
-          {
-            "channel": "HD10",
-            "url": "https://multi.govoet.cc/?ss=hd10",
-            "source": "sportsonline"
-          }
-        ]
-      },
-      "startTimestamp": 1790110800
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
       "league": null,
       "title": "Ind. Yumbo vs Internacional Palmira",
       "team_home": "Ind. Yumbo",
@@ -218,133 +190,39 @@
     },
     {
       "date": "2026-09-22",
-      "time_utc": "22:35",
-      "time_utc1": "00:35",
-      "league": "MLB",
-      "title": "Baltimore Orioles vs Toronto Blue Jays",
-      "team_home": "Baltimore Orioles",
-      "team_away": "Toronto Blue Jays",
+      "time_utc": "21:00",
+      "time_utc1": "23:00",
+      "league": null,
+      "title": "Puerto Montt vs Ñublense",
+      "team_home": "Puerto Montt",
+      "team_away": "Ñublense",
       "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT7 uefa events only",
-            "url": "https://multi.govoet.cc/?envivo=161",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790116500
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Detroit Tigers vs Washington Nationals",
-      "team_home": "Detroit Tigers",
-      "team_away": "Washington Nationals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT8",
-            "url": "https://multi.govoet.cc/?envivo=162",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790116800
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Philadelphia Phillies vs Milwaukee Brewers",
-      "team_home": "Philadelphia Phillies",
-      "team_away": "Milwaukee Brewers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT9",
-            "url": "https://multi.govoet.cc/?envivo=163",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790116800
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "22:40",
-      "time_utc1": "00:40",
-      "league": "MLB",
-      "title": "Pittsburgh Pirates vs St.Louis Cardinals",
-      "team_home": "Pittsburgh Pirates",
-      "team_away": "St.Louis Cardinals",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT10",
-            "url": "https://multi.govoet.cc/?envivo=164",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790116800
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "22:45",
-      "time_utc1": "00:45",
-      "league": "MLB",
-      "title": "Boston Red Sox vs Cleveland Guardians",
-      "team_home": "Boston Red Sox",
-      "team_away": "Cleveland Guardians",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT11",
-            "url": "https://multi.govoet.cc/?envivo=165",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790117100
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Ind. Medellin vs Jaguares de Cordoba",
-      "team_home": "Ind. Medellin",
-      "team_away": "Jaguares de Cordoba",
-      "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
           {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790110800
+    },
+    {
+      "date": "2026-09-22",
+      "time_utc": "23:00",
+      "time_utc1": "01:00",
+      "league": null,
+      "title": "Medellín vs Jaguares de Córdoba",
+      "team_home": "Medellín",
+      "team_away": "Jaguares de Córdoba",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -356,204 +234,17 @@
     },
     {
       "date": "2026-09-22",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "Boston Bruins vs Philadelphia Flyers",
-      "team_home": "Boston Bruins",
-      "team_away": "Philadelphia Flyers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT12",
-            "url": "https://multi.govoet.cc/?envivo=166",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118000
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "Buffalo Sabres vs Columbus Blue Jackets",
-      "team_home": "Buffalo Sabres",
-      "team_away": "Columbus Blue Jackets",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT13",
-            "url": "https://multi.govoet.cc/?envivo=167",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118000
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "Carolina Hurricanes vs Florida Panthers",
-      "team_home": "Carolina Hurricanes",
-      "team_away": "Florida Panthers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT14",
-            "url": "https://multi.govoet.cc/?envivo=168",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118000
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "New York Rangers vs New York Islanders",
-      "team_home": "New York Rangers",
-      "team_away": "New York Islanders",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT15",
-            "url": "https://multi.govoet.cc/?envivo=169",
-            "source": "cartelive"
-          },
-          {
-            "channel": "EXTRA SPORT23",
-            "url": "https://multi.govoet.cc/?envivo=177",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118000
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:00",
-      "time_utc1": "01:00",
-      "league": "NHL",
-      "title": "Pittsburgh Penguins vs Detroit Red Wings",
-      "team_home": "Pittsburgh Penguins",
-      "team_away": "Detroit Red Wings",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT16",
-            "url": "https://multi.govoet.cc/?envivo=170",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118000
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:05",
-      "time_utc1": "01:05",
-      "league": "MLB",
-      "title": "New York Yankees vs Tampa Bay Rays",
-      "team_home": "New York Yankees",
-      "team_away": "Tampa Bay Rays",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT17",
-            "url": "https://multi.govoet.cc/?envivo=171",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118300
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:15",
-      "time_utc1": "01:15",
-      "league": "MLB",
-      "title": "Atlanta Braves vs Cincinnati Reds",
-      "team_home": "Atlanta Braves",
-      "team_away": "Cincinnati Reds",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT18",
-            "url": "https://multi.govoet.cc/?envivo=172",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790118900
-    },
-    {
-      "date": "2026-09-22",
       "time_utc": "23:30",
       "time_utc1": "01:30",
-      "league": "Copa Chili",
-      "title": "A. Italiano vs Colo Colo",
-      "team_home": "A. Italiano",
-      "team_away": "Colo Colo",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "es": [
-          {
-            "channel": "GOLPERU",
-            "url": "https://multi.govoet.cc/?envivo=85",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790119800
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:30",
-      "time_utc1": "01:30",
-      "league": "Copa Chili",
-      "title": "Cobreloa vs Coquimbo",
+      "league": null,
+      "title": "Cobreloa vs Coquimbo Unido",
       "team_home": "Cobreloa",
-      "team_away": "Coquimbo",
+      "team_away": "Coquimbo Unido",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "TNTCHILE Premium",
-            "url": "https://multi.govoet.cc/?envivo=83",
-            "source": "cartelive"
-          },
           {
             "channel": "HD10",
             "url": "https://multi.govoet.cc/?ss=hd10",
@@ -564,134 +255,18 @@
       "startTimestamp": 1790119800
     },
     {
-      "date": "2026-09-22",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Chicago Cubs vs Miami Marlins",
-      "team_home": "Chicago Cubs",
-      "team_away": "Miami Marlins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT19",
-            "url": "https://multi.govoet.cc/?envivo=173",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790120400
-    },
-    {
-      "date": "2026-09-22",
-      "time_utc": "23:40",
-      "time_utc1": "01:40",
-      "league": "MLB",
-      "title": "Kansas City Royals vs Chicago White Sox",
-      "team_home": "Kansas City Royals",
-      "team_away": "Chicago White Sox",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT20",
-            "url": "https://multi.govoet.cc/?envivo=174",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790120400
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Nashville Predators vs Tampa Bay Lightning",
-      "team_home": "Nashville Predators",
-      "team_away": "Tampa Bay Lightning",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT21",
-            "url": "https://multi.govoet.cc/?envivo=175",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790121600
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "00:00",
-      "time_utc1": "02:00",
-      "league": "NHL",
-      "title": "Winnipeg Jets vs Edmonton Oilers",
-      "team_home": "Winnipeg Jets",
-      "team_away": "Edmonton Oilers",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT22",
-            "url": "https://multi.govoet.cc/?envivo=176",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790121600
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "00:40",
-      "time_utc1": "02:40",
-      "league": "MLB",
-      "title": "Colorado Rockies vs Arizona Diamondbacks",
-      "team_home": "Colorado Rockies",
-      "team_away": "Arizona Diamondbacks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT24",
-            "url": "https://multi.govoet.cc/?envivo=178",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790124000
-    },
-    {
       "date": "2026-09-23",
       "time_utc": "01:00",
       "time_utc1": "03:00",
-      "league": "Liga BetPlay Dimayor",
-      "title": "Santa Fe vs Dep. Cali",
+      "league": null,
+      "title": "Santa Fe vs Deportivo Cali",
       "team_home": "Santa Fe",
-      "team_away": "Dep. Cali",
+      "team_away": "Deportivo Cali",
       "sources": [
-        "cartelive",
         "sportsonline"
       ],
       "streams_by_language": {
         "es": [
-          {
-            "channel": "WINsport+",
-            "url": "https://multi.govoet.cc/?envivo=81",
-            "source": "cartelive"
-          },
           {
             "channel": "HD11",
             "url": "https://multi.govoet.cc/?ss=hd11",
@@ -700,167 +275,6 @@
         ]
       },
       "startTimestamp": 1790125200
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
-      "league": "NHL",
-      "title": "Calgary Flames vs Vancouver Canucks",
-      "team_home": "Calgary Flames",
-      "team_away": "Vancouver Canucks",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT25",
-            "url": "https://multi.govoet.cc/?envivo=179",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790125200
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Athletics vs Los Angeles Angels",
-      "team_home": "Athletics",
-      "team_away": "Los Angeles Angels",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT26",
-            "url": "https://multi.govoet.cc/?envivo=180",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790127600
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "01:40",
-      "time_utc1": "03:40",
-      "league": "MLB",
-      "title": "Seattle Mariners vs Houston Astros",
-      "team_home": "Seattle Mariners",
-      "team_away": "Houston Astros",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT27",
-            "url": "https://multi.govoet.cc/?envivo=181",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790127600
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "01:45",
-      "time_utc1": "03:45",
-      "league": "MLB",
-      "title": "San Francisco Giants vs Minnesota Twins",
-      "team_home": "San Francisco Giants",
-      "team_away": "Minnesota Twins",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT28",
-            "url": "https://multi.govoet.cc/?envivo=182",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790127900
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "Los Angeles Kings vs Utah Mammoth",
-      "team_home": "Los Angeles Kings",
-      "team_away": "Utah Mammoth",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT30",
-            "url": "https://multi.govoet.cc/?envivo=183",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790128800
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "02:00",
-      "time_utc1": "04:00",
-      "league": "NHL",
-      "title": "San Jose Sharks vs Vegas Golden Knights",
-      "team_home": "San Jose Sharks",
-      "team_away": "Vegas Golden Knights",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT31",
-            "url": "https://multi.govoet.cc/?envivo=184",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790128800
-    },
-    {
-      "date": "2026-09-23",
-      "time_utc": "02:10",
-      "time_utc1": "04:10",
-      "league": "MLB",
-      "title": "Los Angeles Dodgers vs San Diego Padres",
-      "team_home": "Los Angeles Dodgers",
-      "team_away": "San Diego Padres",
-      "sources": [
-        "cartelive"
-      ],
-      "streams_by_language": {
-        "en": [
-          {
-            "channel": "EXTRA SPORT32",
-            "url": "https://multi.govoet.cc/?envivo=185",
-            "source": "cartelive"
-          }
-        ],
-        "es": [
-          {
-            "channel": "ESPN4",
-            "url": "https://multi.govoet.cc/?envivo=90",
-            "source": "cartelive"
-          }
-        ]
-      },
-      "startTimestamp": 1790129400
     }
   ]
 }
