@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T06:28:06.736837",
+  "generated_at": "2026-09-23T11:57:50.506732",
   "sources": [
     {
       "name": "cartelive",
@@ -18,7 +18,7 @@
     }
   ],
   "timezone_output": "UTC+0",
-  "total_events": 11,
+  "total_events": 36,
   "events": [
     {
       "date": "2026-08-16",
@@ -43,24 +43,111 @@
       "startTimestamp": 1786841700
     },
     {
-      "date": "2026-09-22",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
-      "league": null,
-      "title": "Bayern W vs Manchester City W",
-      "team_home": "Bayern W",
-      "team_away": "Manchester City W",
+      "date": "2026-09-24",
+      "time_utc": "07:00",
+      "time_utc1": "09:00",
+      "league": "Tennis",
+      "title": "ATP World Tour 250: Chengdu",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790233200
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "08:00",
+      "time_utc1": "10:00",
+      "league": "Azerbaijan F1 GP",
+      "title": "Practice 1",
+      "team_home": null,
+      "team_away": null,
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD1",
-            "url": "https://multi.govoet.cc/?ss=hd1",
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
             "source": "sportsonline"
           }
         ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790236800
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "09:55",
+      "time_utc1": "11:55",
+      "league": "Azerbaijan F2",
+      "title": "Qualifying",
+      "team_home": null,
+      "team_away": null,
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD5",
+            "url": "https://multi.govoet.cc/?ss=hd5",
+            "source": "sportsonline"
+          }
+        ],
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790243700
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "11:00",
+      "time_utc1": "13:00",
+      "league": null,
+      "title": "South Korea vs Ecuador",
+      "team_home": "South Korea",
+      "team_away": "Ecuador",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "es": [
           {
             "channel": "HD6",
@@ -69,16 +156,226 @@
           }
         ]
       },
-      "startTimestamp": 1790095500
+      "startTimestamp": 1790247600
     },
     {
-      "date": "2026-09-22",
-      "time_utc": "16:45",
-      "time_utc1": "18:45",
+      "date": "2026-09-24",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
       "league": null,
-      "title": "Inter Milano W vs Häcken Damer W",
-      "team_home": "Inter Milano W",
-      "team_away": "Häcken Damer W",
+      "title": "Namibia vs Congo",
+      "team_home": "Namibia",
+      "team_away": "Congo",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790254800
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Congo DR vs Equatorial Guinea",
+      "team_home": "Congo DR",
+      "team_away": "Equatorial Guinea",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790265600
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Mauritania vs Central African Republic",
+      "team_home": "Mauritania",
+      "team_away": "Central African Republic",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790265600
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Andorra vs Malta",
+      "team_home": "Andorra",
+      "team_away": "Malta",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790265600
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Austria vs Israel",
+      "team_home": "Austria",
+      "team_away": "Israel",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ],
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR3",
+            "url": "https://multi.govoet.cc/?ss=br3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790275500
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Netherlands vs Germany",
+      "team_home": "Netherlands",
+      "team_away": "Germany",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD3",
+            "url": "https://multi.govoet.cc/?ss=hd3",
+            "source": "sportsonline"
+          }
+        ],
+        "nl": [
+          {
+            "channel": "HD4",
+            "url": "https://multi.govoet.cc/?ss=hd4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790275500
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Liechtenstein vs Lithuania",
+      "team_home": "Liechtenstein",
+      "team_away": "Lithuania",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD8",
+            "url": "https://multi.govoet.cc/?ss=hd8",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790275500
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Kosovo vs Ireland Republic",
+      "team_home": "Kosovo",
+      "team_away": "Ireland Republic",
       "sources": [
         "sportsonline"
       ],
@@ -91,16 +388,168 @@
           }
         ]
       },
-      "startTimestamp": 1790095500
+      "startTimestamp": 1790275500
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-24",
       "time_utc": "18:45",
       "time_utc1": "20:45",
       "league": null,
-      "title": "East Kilbride vs Celtic II",
-      "team_home": "East Kilbride",
-      "team_away": "Celtic II",
+      "title": "Norway vs Denmark",
+      "team_home": "Norway",
+      "team_away": "Denmark",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV3",
+            "url": "https://multi.govoet.cc/?ss=sporttv3",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790275500
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Portugal vs Wales",
+      "team_home": "Portugal",
+      "team_away": "Wales",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR1",
+            "url": "https://multi.govoet.cc/?ss=br1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790275500
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "18:45",
+      "time_utc1": "20:45",
+      "league": null,
+      "title": "Serbia vs Greece",
+      "team_home": "Serbia",
+      "team_away": "Greece",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "it": [
+          {
+            "channel": "HD7",
+            "url": "https://multi.govoet.cc/?ss=hd7",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV4",
+            "url": "https://multi.govoet.cc/?ss=sporttv4",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790275500
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Côte d'Ivoire vs Ghana",
+      "team_home": "Côte d'Ivoire",
+      "team_away": "Ghana",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD10",
+            "url": "https://multi.govoet.cc/?ss=hd10",
+            "source": "sportsonline"
+          }
+        ],
+        "pt": [
+          {
+            "channel": "SPORTTV5",
+            "url": "https://multi.govoet.cc/?ss=sporttv5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790276400
+    },
+    {
+      "date": "2026-09-24",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Cameroon vs Comoros",
+      "team_home": "Cameroon",
+      "team_away": "Comoros",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790276400
+    },
+    {
+      "date": "2026-09-25",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": null,
+      "title": "Dominican Republic vs Nicaragua",
+      "team_home": "Dominican Republic",
+      "team_away": "Nicaragua",
       "sources": [
         "sportsonline"
       ],
@@ -113,16 +562,177 @@
           }
         ]
       },
-      "startTimestamp": 1790102700
+      "startTimestamp": 1790294400
     },
     {
-      "date": "2026-09-22",
-      "time_utc": "19:00",
-      "time_utc1": "21:00",
+      "date": "2026-09-25",
+      "time_utc": "00:00",
+      "time_utc1": "02:00",
+      "league": "BJJ 11",
+      "title": "Musumeci vs Mitchell",
+      "team_home": "Musumeci",
+      "team_away": "Mitchell",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790294400
+    },
+    {
+      "date": "2026-09-25",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
       "league": null,
-      "title": "Arsenal W vs Køge Kvinder W",
-      "team_home": "Arsenal W",
-      "team_away": "Køge Kvinder W",
+      "title": "Atlético Nacional vs Millonarios",
+      "team_home": "Atlético Nacional",
+      "team_away": "Millonarios",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "de": [
+          {
+            "channel": "HD11",
+            "url": "https://multi.govoet.cc/?ss=hd11",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790296200
+    },
+    {
+      "date": "2026-09-25",
+      "time_utc": "02:00",
+      "time_utc1": "04:00",
+      "league": null,
+      "title": "Costa Rica vs Curaçao",
+      "team_home": "Costa Rica",
+      "team_away": "Curaçao",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790301600
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "13:00",
+      "time_utc1": "15:00",
+      "league": null,
+      "title": "Italy U20 vs Spain U20",
+      "team_home": "Italy U20",
+      "team_away": "Spain U20",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790686800
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Azerbaijan vs Tajikistan",
+      "team_home": "Azerbaijan",
+      "team_away": "Tajikistan",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "unknown": [
+          {
+            "channel": "HD9",
+            "url": "https://multi.govoet.cc/?ss=hd9",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790697600
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "16:00",
+      "time_utc1": "18:00",
+      "league": null,
+      "title": "Gibraltar vs Sao Tome e Principe",
+      "team_home": "Gibraltar",
+      "team_away": "Sao Tome e Principe",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV1",
+            "url": "https://multi.govoet.cc/?ss=sporttv1",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR5",
+            "url": "https://multi.govoet.cc/?ss=br5",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790697600
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "16:30",
+      "time_utc1": "18:30",
+      "league": null,
+      "title": "Korea DPR U20 vs Colombia U20",
+      "team_home": "Korea DPR U20",
+      "team_away": "Colombia U20",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "en": [
+          {
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790699400
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "16:45",
+      "time_utc1": "18:45",
+      "league": null,
+      "title": "Servette Chênois W vs OL Lyonnes W",
+      "team_home": "Servette Chênois W",
+      "team_away": "OL Lyonnes W",
       "sources": [
         "sportsonline"
       ],
@@ -134,6 +744,28 @@
             "source": "sportsonline"
           }
         ],
+        "pt-BR": [
+          {
+            "channel": "BR6",
+            "url": "https://multi.govoet.cc/?ss=br6",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790700300
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "16:45",
+      "time_utc1": "18:45",
+      "league": null,
+      "title": "OH Leuven W vs Roma W",
+      "team_home": "OH Leuven W",
+      "team_away": "Roma W",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
         "es": [
           {
             "channel": "HD6",
@@ -142,60 +774,111 @@
           }
         ]
       },
-      "startTimestamp": 1790103600
+      "startTimestamp": 1790700300
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-29",
+      "time_utc": "18:00",
+      "time_utc1": "20:00",
+      "league": null,
+      "title": "Saudi Arabia vs Kuwait",
+      "team_home": "Saudi Arabia",
+      "team_away": "Kuwait",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "pt": [
+          {
+            "channel": "SPORTTV2",
+            "url": "https://multi.govoet.cc/?ss=sporttv2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790704800
+    },
+    {
+      "date": "2026-09-29",
       "time_utc": "19:00",
       "time_utc1": "21:00",
       "league": null,
-      "title": "Real Madrid W vs PSG W",
-      "team_home": "Real Madrid W",
-      "team_away": "PSG W",
+      "title": "Barcelona W vs Paris FC W",
+      "team_home": "Barcelona W",
+      "team_away": "Paris FC W",
+      "sources": [
+        "sportsonline"
+      ],
+      "streams_by_language": {
+        "es": [
+          {
+            "channel": "HD6",
+            "url": "https://multi.govoet.cc/?ss=hd6",
+            "source": "sportsonline"
+          }
+        ],
+        "pt-BR": [
+          {
+            "channel": "BR2",
+            "url": "https://multi.govoet.cc/?ss=br2",
+            "source": "sportsonline"
+          }
+        ]
+      },
+      "startTimestamp": 1790708400
+    },
+    {
+      "date": "2026-09-29",
+      "time_utc": "19:00",
+      "time_utc1": "21:00",
+      "league": null,
+      "title": "Chelsea FC W vs Austria Wien W",
+      "team_home": "Chelsea FC W",
+      "team_away": "Austria Wien W",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
         "en": [
           {
-            "channel": "HD5",
-            "url": "https://multi.govoet.cc/?ss=hd5",
+            "channel": "HD1",
+            "url": "https://multi.govoet.cc/?ss=hd1",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1790103600
+      "startTimestamp": 1790708400
     },
     {
-      "date": "2026-09-22",
-      "time_utc": "21:00",
-      "time_utc1": "23:00",
+      "date": "2026-09-29",
+      "time_utc": "20:00",
+      "time_utc1": "22:00",
       "league": null,
-      "title": "Ind. Yumbo vs Internacional Palmira",
-      "team_home": "Ind. Yumbo",
-      "team_away": "Internacional Palmira",
+      "title": "Bahamas vs Saint Martin",
+      "team_home": "Bahamas",
+      "team_away": "Saint Martin",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1790110800
+      "startTimestamp": 1790712000
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-29",
       "time_utc": "21:00",
       "time_utc1": "23:00",
       "league": null,
-      "title": "Puerto Montt vs Ñublense",
-      "team_home": "Puerto Montt",
-      "team_away": "Ñublense",
+      "title": "Curicó Unido vs Deportes Concepción",
+      "team_home": "Curicó Unido",
+      "team_away": "Deportes Concepción",
       "sources": [
         "sportsonline"
       ],
@@ -208,38 +891,38 @@
           }
         ]
       },
-      "startTimestamp": 1790110800
+      "startTimestamp": 1790715600
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-29",
       "time_utc": "23:00",
       "time_utc1": "01:00",
       "league": null,
-      "title": "Medellín vs Jaguares de Córdoba",
-      "team_home": "Medellín",
-      "team_away": "Jaguares de Córdoba",
+      "title": "Aruba vs Antigua and Barbuda",
+      "team_home": "Aruba",
+      "team_away": "Antigua and Barbuda",
       "sources": [
         "sportsonline"
       ],
       "streams_by_language": {
-        "es": [
+        "en": [
           {
-            "channel": "HD11",
-            "url": "https://multi.govoet.cc/?ss=hd11",
+            "channel": "HD2",
+            "url": "https://multi.govoet.cc/?ss=hd2",
             "source": "sportsonline"
           }
         ]
       },
-      "startTimestamp": 1790118000
+      "startTimestamp": 1790722800
     },
     {
-      "date": "2026-09-22",
+      "date": "2026-09-29",
       "time_utc": "23:30",
       "time_utc1": "01:30",
       "league": null,
-      "title": "Cobreloa vs Coquimbo Unido",
-      "team_home": "Cobreloa",
-      "team_away": "Coquimbo Unido",
+      "title": "Deportes Iquique vs Antofagasta",
+      "team_home": "Deportes Iquique",
+      "team_away": "Antofagasta",
       "sources": [
         "sportsonline"
       ],
@@ -252,16 +935,16 @@
           }
         ]
       },
-      "startTimestamp": 1790119800
+      "startTimestamp": 1790724600
     },
     {
-      "date": "2026-09-23",
-      "time_utc": "01:00",
-      "time_utc1": "03:00",
+      "date": "2026-09-30",
+      "time_utc": "00:30",
+      "time_utc1": "02:30",
       "league": null,
-      "title": "Santa Fe vs Deportivo Cali",
-      "team_home": "Santa Fe",
-      "team_away": "Deportivo Cali",
+      "title": "América de Cali vs Rionegro Águilas",
+      "team_home": "América de Cali",
+      "team_away": "Rionegro Águilas",
       "sources": [
         "sportsonline"
       ],
@@ -274,7 +957,7 @@
           }
         ]
       },
-      "startTimestamp": 1790125200
+      "startTimestamp": 1790728200
     }
   ]
 }
